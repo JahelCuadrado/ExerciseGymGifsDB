@@ -40,6 +40,18 @@ async function bootstrap() {
 
 		fillSelect("#param-muscle", MUSCLES);
 		fillSelect("#gallery-muscle", MUSCLES);
+
+		// Precargar slugs del primer músculo para que el desplegable no aparezca vacío
+		if (MUSCLES.length) {
+			loadMuscle(MUSCLES[0]).then((data) => {
+				fillSelect(
+					"#param-slug",
+					data.exercises.map((e) => e.slug)
+				);
+				updateUrlPreview();
+			});
+		}
+
 		updateUrlPreview();
 		await loadGallery(MUSCLES[0]);
 	} catch (err) {
@@ -108,7 +120,7 @@ function onEndpointChange() {
 	toggle("#param-category-wrap", ep === "categoryDetail");
 	toggle("#param-slug-wrap", ep === "exerciseDetail");
 	if (ep === "exerciseDetail") {
-		onMuscleChangeForExerciseDetail();
+		onMuscleChangeForExerciseDetail().then(updateUrlPreview);
 	}
 	updateUrlPreview();
 }
@@ -122,10 +134,20 @@ function toggle(sel, show) {
 async function onMuscleChangeForExerciseDetail() {
 	const ep = $("#endpoint-select").value;
 	if (ep !== "exerciseDetail") return;
+	const slugSel = $("#param-slug");
 	const muscle = $("#param-muscle").value;
-	const data = await loadMuscle(muscle);
-	const slugs = data.exercises.map((e) => e.slug);
-	fillSelect("#param-slug", slugs);
+	if (!muscle) {
+		slugSel.innerHTML = "";
+		return;
+	}
+	slugSel.innerHTML = '<option value="">Cargando…</option>';
+	try {
+		const data = await loadMuscle(muscle);
+		const slugs = data.exercises.map((e) => e.slug);
+		fillSelect("#param-slug", slugs);
+	} catch (err) {
+		slugSel.innerHTML = `<option value="">Error: ${err.message}</option>`;
+	}
 }
 
 async function loadMuscle(muscle) {
