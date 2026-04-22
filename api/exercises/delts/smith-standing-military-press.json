@@ -2,7 +2,21 @@
   "id": "delts/smith-standing-military-press",
   "slug": "smith-standing-military-press",
   "name": "Smith Standing Military Press",
+  "nameEs": "Press militar en máquina Smith, de pie",
   "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Coloca la barra en la máquina Smith a la altura adecuada.",
+    "Activa el delts antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "delts/smith-standing-military-press.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/smith-standing-military-press.gif"
 }

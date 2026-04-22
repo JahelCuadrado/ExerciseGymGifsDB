@@ -2,7 +2,22 @@
   "id": "glutes/lever-horizontal-one-leg-press",
   "slug": "lever-horizontal-one-leg-press",
   "name": "Lever Horizontal One Leg Press",
+  "nameEs": "Press en máquina, a una pierna, horizontal",
   "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Ajusta la máquina a tu medida y selecciona la carga.",
+    "Activa el glutes antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "glutes/lever-horizontal-one-leg-press.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/lever-horizontal-one-leg-press.gif"
 }

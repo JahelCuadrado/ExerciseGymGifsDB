@@ -2,7 +2,22 @@
   "id": "glutes/resistance-band-hip-thrusts-on-knees-female",
   "slug": "resistance-band-hip-thrusts-on-knees-female",
   "name": "Resistance Band Hip Thrusts On Knees Female",
+  "nameEs": "Hip thrust con banda elástica, rodillas female",
   "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "abs"
+  ],
+  "instructions": [
+    "Fija la banda elástica y mantén la tensión inicial.",
+    "Activa el glutes antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "glutes/resistance-band-hip-thrusts-on-knees-female.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/resistance-band-hip-thrusts-on-knees-female.gif"
 }

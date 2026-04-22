@@ -2,7 +2,19 @@
   "id": "upper-back/elevator",
   "slug": "elevator",
   "name": "Elevator",
+  "nameEs": "Elevator, elevator",
   "muscle": "upper-back",
+  "bodyPart": "back",
+  "equipment": "other",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Activa el upper-back antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "upper-back/elevator.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/elevator.gif"
 }

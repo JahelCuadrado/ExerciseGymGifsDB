@@ -2,7 +2,19 @@
   "id": "triceps/smith-machine-incline-tricep-extension",
   "slug": "smith-machine-incline-tricep-extension",
   "name": "Smith Machine Incline Tricep Extension",
+  "nameEs": "Extensión inclinado en máquina Smith en máquina, tríceps",
   "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloca la barra en la máquina Smith a la altura adecuada.",
+    "Activa el triceps antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "triceps/smith-machine-incline-tricep-extension.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/smith-machine-incline-tricep-extension.gif"
 }

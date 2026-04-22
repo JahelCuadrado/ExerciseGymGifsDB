@@ -2,7 +2,23 @@
   "id": "lats/rocky-pull-up-pulldown",
   "slug": "rocky-pull-up-pulldown",
   "name": "Rocky Pull Up Pulldown",
+  "nameEs": "Dominada, rocky pulldown",
   "muscle": "lats",
+  "bodyPart": "back",
+  "equipment": "other",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "delts"
+  ],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Activa el lats antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "lats/rocky-pull-up-pulldown.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/rocky-pull-up-pulldown.gif"
 }

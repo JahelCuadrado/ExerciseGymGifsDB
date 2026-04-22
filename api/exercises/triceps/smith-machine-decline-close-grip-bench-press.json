@@ -2,7 +2,21 @@
   "id": "triceps/smith-machine-decline-close-grip-bench-press",
   "slug": "smith-machine-decline-close-grip-bench-press",
   "name": "Smith Machine Decline Close Grip Bench Press",
+  "nameEs": "Press de banca declinado en máquina Smith en máquina, con agarre cerrado",
   "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "Coloca la barra en la máquina Smith a la altura adecuada.",
+    "Activa el triceps antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "triceps/smith-machine-decline-close-grip-bench-press.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/smith-machine-decline-close-grip-bench-press.gif"
 }

@@ -2,7 +2,21 @@
   "id": "biceps/lever-preacher-curl-v-2",
   "slug": "lever-preacher-curl-v-2",
   "name": "Lever Preacher Curl v2",
+  "nameEs": "Curl predicador en máquina, v2",
   "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Ajusta la máquina a tu medida y selecciona la carga.",
+    "Activa el biceps antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "biceps/lever-preacher-curl-v-2.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/lever-preacher-curl-v-2.gif"
 }

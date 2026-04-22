@@ -2,7 +2,19 @@
   "id": "calves/single-leg-calf-raise-on-a-dumbbell",
   "slug": "single-leg-calf-raise-on-a-dumbbell",
   "name": "Single Leg Calf Raise On A Dumbbell",
+  "nameEs": "Elevación de talones con mancuerna, a una pierna",
   "muscle": "calves",
+  "bodyPart": "legs",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+    "Activa el calves antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "calves/single-leg-calf-raise-on-a-dumbbell.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/single-leg-calf-raise-on-a-dumbbell.gif"
 }

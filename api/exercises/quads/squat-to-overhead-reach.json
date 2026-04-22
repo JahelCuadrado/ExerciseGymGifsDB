@@ -2,7 +2,23 @@
   "id": "quads/squat-to-overhead-reach",
   "slug": "squat-to-overhead-reach",
   "name": "Squat To Overhead Reach",
+  "nameEs": "Sentadilla sobre la cabeza, reach",
   "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "other",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Activa el quads antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "quads/squat-to-overhead-reach.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/squat-to-overhead-reach.gif"
 }

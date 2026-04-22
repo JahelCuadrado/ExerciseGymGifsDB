@@ -2,7 +2,19 @@
   "id": "triceps/barbell-standing-overhead-triceps-extension",
   "slug": "barbell-standing-overhead-triceps-extension",
   "name": "Barbell Standing Overhead Triceps Extension",
+  "nameEs": "Extensión sobre la cabeza con barra, de pie, tríceps",
   "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Carga el peso adecuado en la barra y adopta la postura inicial.",
+    "Activa el triceps antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "triceps/barbell-standing-overhead-triceps-extension.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-standing-overhead-triceps-extension.gif"
 }

@@ -2,7 +2,22 @@
   "id": "biceps/biceps-narrow-pull-ups",
   "slug": "biceps-narrow-pull-ups",
   "name": "Biceps Narrow Pull Ups",
+  "nameEs": "Dominadas, estrecho, bíceps",
   "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "other",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms",
+    "delts"
+  ],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Activa el biceps antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "biceps/biceps-narrow-pull-ups.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/biceps-narrow-pull-ups.gif"
 }

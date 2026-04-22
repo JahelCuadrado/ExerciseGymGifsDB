@@ -2,7 +2,22 @@
   "id": "glutes/barbell-front-chest-squat",
   "slug": "barbell-front-chest-squat",
   "name": "Barbell Front Chest Squat",
+  "nameEs": "Sentadilla con barra, frontal, pecho",
   "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Carga el peso adecuado en la barra y adopta la postura inicial.",
+    "Activa el glutes antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "glutes/barbell-front-chest-squat.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/barbell-front-chest-squat.gif"
 }

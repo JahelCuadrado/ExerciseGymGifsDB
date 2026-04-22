@@ -2,7 +2,19 @@
   "id": "calves/one-leg-floor-calf-raise",
   "slug": "one-leg-floor-calf-raise",
   "name": "One Leg Floor Calf Raise",
+  "nameEs": "Elevación de talones, a una pierna, suelo",
   "muscle": "calves",
+  "bodyPart": "legs",
+  "equipment": "other",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Activa el calves antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "calves/one-leg-floor-calf-raise.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/one-leg-floor-calf-raise.gif"
 }

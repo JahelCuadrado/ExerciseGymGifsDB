@@ -2,7 +2,21 @@
   "id": "delts/lever-lateral-raise",
   "slug": "lever-lateral-raise",
   "name": "Lever Lateral Raise",
+  "nameEs": "Elevación lateral en máquina",
   "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Ajusta la máquina a tu medida y selecciona la carga.",
+    "Activa el delts antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "delts/lever-lateral-raise.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/lever-lateral-raise.gif"
 }

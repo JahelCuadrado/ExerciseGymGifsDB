@@ -2,7 +2,19 @@
   "id": "glutes/band-pull-through",
   "slug": "band-pull-through",
   "name": "Band Pull Through",
+  "nameEs": "Con banda, pull through",
   "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fija la banda elástica y mantén la tensión inicial.",
+    "Activa el glutes antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "glutes/band-pull-through.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/band-pull-through.gif"
 }

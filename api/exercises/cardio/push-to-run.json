@@ -2,7 +2,18 @@
   "id": "cardio/push-to-run",
   "slug": "push-to-run",
   "name": "Push To Run",
+  "nameEs": "Push correr, push correr",
   "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "other",
+  "category": "cardio",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Mantén un ritmo constante adaptado a tu nivel.",
+    "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+    "Continúa el tiempo o las repeticiones planificadas."
+  ],
   "file": "cardio/push-to-run.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/push-to-run.gif"
 }

@@ -2,7 +2,23 @@
   "id": "quads/dumbbell-goblet-squat",
   "slug": "dumbbell-goblet-squat",
   "name": "Dumbbell Goblet Squat",
+  "nameEs": "Sentadilla goblet con mancuerna",
   "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+    "Activa el quads antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "quads/dumbbell-goblet-squat.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/dumbbell-goblet-squat.gif"
 }

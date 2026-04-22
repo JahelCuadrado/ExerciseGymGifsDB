@@ -2,7 +2,21 @@
   "id": "pectorals/plyo-push-up",
   "slug": "plyo-push-up",
   "name": "Plyo Push Up",
+  "nameEs": "Flexión, plyo",
   "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "other",
+  "category": "plyometrics",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Realiza una breve flexión para acumular tensión.",
+    "Ejecuta el movimiento de forma explosiva y aterriza con control.",
+    "Aterriza suave amortiguando con piernas y core, y encadena la siguiente repetición."
+  ],
   "file": "pectorals/plyo-push-up.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/plyo-push-up.gif"
 }

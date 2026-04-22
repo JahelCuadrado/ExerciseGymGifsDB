@@ -6,7 +6,18 @@
       "id": "quads/all-fours-squad-stretch",
       "slug": "all-fours-squad-stretch",
       "name": "All Fours Squad Stretch",
+      "nameEs": "Estiramiento, all fours squad",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Lleva el cuerpo a la posición de estiramiento del quads.",
+        "Mantén entre 20 y 40 segundos respirando de forma profunda.",
+        "Vuelve a la posición inicial lentamente y repite si lo deseas."
+      ],
       "file": "quads/all-fours-squad-stretch.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/all-fours-squad-stretch.gif"
     },
@@ -14,7 +25,18 @@
       "id": "quads/assisted-prone-lying-quads-stretch",
       "slug": "assisted-prone-lying-quads-stretch",
       "name": "Assisted Prone Lying Quads Stretch",
+      "nameEs": "Estiramiento tumbado boca abajo, tumbado, assisted cuádriceps",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Lleva el cuerpo a la posición de estiramiento del quads.",
+        "Mantén entre 20 y 40 segundos respirando de forma profunda.",
+        "Vuelve a la posición inicial lentamente y repite si lo deseas."
+      ],
       "file": "quads/assisted-prone-lying-quads-stretch.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/assisted-prone-lying-quads-stretch.gif"
     },
@@ -22,7 +44,18 @@
       "id": "quads/backward-jump",
       "slug": "backward-jump",
       "name": "Backward Jump",
+      "nameEs": "Salto, backward",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "plyometrics",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Realiza una breve flexión para acumular tensión.",
+        "Ejecuta el movimiento de forma explosiva y aterriza con control.",
+        "Aterriza suave amortiguando con piernas y core, y encadena la siguiente repetición."
+      ],
       "file": "quads/backward-jump.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/backward-jump.gif"
     },
@@ -30,7 +63,19 @@
       "id": "quads/balance-board",
       "slug": "balance-board",
       "name": "Balance Board",
+      "nameEs": "Equilibrio board, equilibrio board",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/balance-board.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/balance-board.gif"
     },
@@ -38,7 +83,23 @@
       "id": "quads/band-one-arm-single-leg-split-squat",
       "slug": "band-one-arm-single-leg-split-squat",
       "name": "Band One Arm Single Leg Split Squat",
+      "nameEs": "Split squat con banda, a una mano a una pierna",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Fija la banda elástica y mantén la tensión inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/band-one-arm-single-leg-split-squat.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/band-one-arm-single-leg-split-squat.gif"
     },
@@ -46,7 +107,23 @@
       "id": "quads/band-single-leg-split-squat",
       "slug": "band-single-leg-split-squat",
       "name": "Band Single Leg Split Squat",
+      "nameEs": "Split squat con banda, a una pierna",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Fija la banda elástica y mantén la tensión inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/band-single-leg-split-squat.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/band-single-leg-split-squat.gif"
     },
@@ -54,7 +131,23 @@
       "id": "quads/barbell-bench-front-squat",
       "slug": "barbell-bench-front-squat",
       "name": "Barbell Bench Front Squat",
+      "nameEs": "Sentadilla frontal con barra, banco",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/barbell-bench-front-squat.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/barbell-bench-front-squat.gif"
     },
@@ -62,7 +155,23 @@
       "id": "quads/barbell-bench-squat",
       "slug": "barbell-bench-squat",
       "name": "Barbell Bench Squat",
+      "nameEs": "Sentadilla con barra, banco",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/barbell-bench-squat.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/barbell-bench-squat.gif"
     },
@@ -70,7 +179,27 @@
       "id": "quads/barbell-clean-and-press",
       "slug": "barbell-clean-and-press",
       "name": "Barbell Clean And Press",
+      "nameEs": "Cargada con barra, y press",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/barbell-clean-and-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/barbell-clean-and-press.gif"
     },
@@ -78,7 +207,23 @@
       "id": "quads/barbell-one-leg-squat",
       "slug": "barbell-one-leg-squat",
       "name": "Barbell One Leg Squat",
+      "nameEs": "Sentadilla con barra, a una pierna",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/barbell-one-leg-squat.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/barbell-one-leg-squat.gif"
     },
@@ -86,7 +231,23 @@
       "id": "quads/barbell-overhead-squat",
       "slug": "barbell-overhead-squat",
       "name": "Barbell Overhead Squat",
+      "nameEs": "Sentadilla sobre la cabeza con barra",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/barbell-overhead-squat.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/barbell-overhead-squat.gif"
     },
@@ -94,7 +255,23 @@
       "id": "quads/barbell-side-split-squat-v-2",
       "slug": "barbell-side-split-squat-v-2",
       "name": "Barbell Side Split Squat v2",
+      "nameEs": "Split squat con barra, lateral v2",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/barbell-side-split-squat-v-2.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/barbell-side-split-squat-v-2.gif"
     },
@@ -102,7 +279,23 @@
       "id": "quads/barbell-side-split-squat",
       "slug": "barbell-side-split-squat",
       "name": "Barbell Side Split Squat",
+      "nameEs": "Split squat con barra, lateral",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/barbell-side-split-squat.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/barbell-side-split-squat.gif"
     },
@@ -110,7 +303,23 @@
       "id": "quads/barbell-single-leg-split-squat",
       "slug": "barbell-single-leg-split-squat",
       "name": "Barbell Single Leg Split Squat",
+      "nameEs": "Split squat con barra, a una pierna",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/barbell-single-leg-split-squat.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/barbell-single-leg-split-squat.gif"
     },
@@ -118,7 +327,23 @@
       "id": "quads/barbell-split-squat-v-2",
       "slug": "barbell-split-squat-v-2",
       "name": "Barbell Split Squat v2",
+      "nameEs": "Split squat con barra, v2",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/barbell-split-squat-v-2.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/barbell-split-squat-v-2.gif"
     },
@@ -126,7 +351,22 @@
       "id": "quads/barbell-squat-jump-step-rear-lunge",
       "slug": "barbell-squat-jump-step-rear-lunge",
       "name": "Barbell Squat Jump Step Rear Lunge",
+      "nameEs": "Sentadilla con barra, posterior, jump step lunge",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Realiza una breve flexión para acumular tensión.",
+        "Ejecuta el movimiento de forma explosiva y aterriza con control.",
+        "Aterriza suave amortiguando con piernas y core, y encadena la siguiente repetición."
+      ],
       "file": "quads/barbell-squat-jump-step-rear-lunge.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/barbell-squat-jump-step-rear-lunge.gif"
     },
@@ -134,7 +374,23 @@
       "id": "quads/barbell-squat-on-knees",
       "slug": "barbell-squat-on-knees",
       "name": "Barbell Squat On Knees",
+      "nameEs": "Sentadilla con barra, rodillas",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/barbell-squat-on-knees.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/barbell-squat-on-knees.gif"
     },
@@ -142,7 +398,23 @@
       "id": "quads/barbell-wide-squat",
       "slug": "barbell-wide-squat",
       "name": "Barbell Wide Squat",
+      "nameEs": "Sentadilla con barra, ancho",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/barbell-wide-squat.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/barbell-wide-squat.gif"
     },
@@ -150,7 +422,18 @@
       "id": "quads/chair-leg-extended-stretch",
       "slug": "chair-leg-extended-stretch",
       "name": "Chair Leg Extended Stretch",
+      "nameEs": "Estiramiento, silla pierna extended",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Lleva el cuerpo a la posición de estiramiento del quads.",
+        "Mantén entre 20 y 40 segundos respirando de forma profunda.",
+        "Vuelve a la posición inicial lentamente y repite si lo deseas."
+      ],
       "file": "quads/chair-leg-extended-stretch.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/chair-leg-extended-stretch.gif"
     },
@@ -158,7 +441,23 @@
       "id": "quads/dumbbell-goblet-squat",
       "slug": "dumbbell-goblet-squat",
       "name": "Dumbbell Goblet Squat",
+      "nameEs": "Sentadilla goblet con mancuerna",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/dumbbell-goblet-squat.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/dumbbell-goblet-squat.gif"
     },
@@ -166,7 +465,23 @@
       "id": "quads/dumbbell-single-leg-split-squat",
       "slug": "dumbbell-single-leg-split-squat",
       "name": "Dumbbell Single Leg Split Squat",
+      "nameEs": "Split squat con mancuerna, a una pierna",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/dumbbell-single-leg-split-squat.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/dumbbell-single-leg-split-squat.gif"
     },
@@ -174,7 +489,23 @@
       "id": "quads/dumbbell-step-up-lunge",
       "slug": "dumbbell-step-up-lunge",
       "name": "Dumbbell Step Up Lunge",
+      "nameEs": "Zancada con mancuerna, step-up",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/dumbbell-step-up-lunge.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/dumbbell-step-up-lunge.gif"
     },
@@ -182,7 +513,23 @@
       "id": "quads/dumbbell-step-up-split-squat",
       "slug": "dumbbell-step-up-split-squat",
       "name": "Dumbbell Step Up Split Squat",
+      "nameEs": "Split squat con mancuerna, step-up",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/dumbbell-step-up-split-squat.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/dumbbell-step-up-split-squat.gif"
     },
@@ -190,7 +537,23 @@
       "id": "quads/dumbbell-supported-squat",
       "slug": "dumbbell-supported-squat",
       "name": "Dumbbell Supported Squat",
+      "nameEs": "Sentadilla con mancuerna, supported",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/dumbbell-supported-squat.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/dumbbell-supported-squat.gif"
     },
@@ -198,7 +561,19 @@
       "id": "quads/farmers-walk",
       "slug": "farmers-walk",
       "name": "Farmers Walk",
+      "nameEs": "Farmers caminar, farmers caminar",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/farmers-walk.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/farmers-walk.gif"
     },
@@ -206,7 +581,18 @@
       "id": "quads/forward-jump",
       "slug": "forward-jump",
       "name": "Forward Jump",
+      "nameEs": "Salto, forward",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "plyometrics",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Realiza una breve flexión para acumular tensión.",
+        "Ejecuta el movimiento de forma explosiva y aterriza con control.",
+        "Aterriza suave amortiguando con piernas y core, y encadena la siguiente repetición."
+      ],
       "file": "quads/forward-jump.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/forward-jump.gif"
     },
@@ -214,7 +600,18 @@
       "id": "quads/intermediate-hip-flexor-and-quad-stretch",
       "slug": "intermediate-hip-flexor-and-quad-stretch",
       "name": "Intermediate Hip Flexor And Quad Stretch",
+      "nameEs": "Estiramiento, intermediate cadera flexor cuádriceps",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Lleva el cuerpo a la posición de estiramiento del quads.",
+        "Mantén entre 20 y 40 segundos respirando de forma profunda.",
+        "Vuelve a la posición inicial lentamente y repite si lo deseas."
+      ],
       "file": "quads/intermediate-hip-flexor-and-quad-stretch.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/intermediate-hip-flexor-and-quad-stretch.gif"
     },
@@ -222,7 +619,22 @@
       "id": "quads/lever-alternate-leg-press",
       "slug": "lever-alternate-leg-press",
       "name": "Lever Alternate Leg Press",
+      "nameEs": "Prensa de piernas en máquina, alternado",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/lever-alternate-leg-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/lever-alternate-leg-press.gif"
     },
@@ -230,7 +642,19 @@
       "id": "quads/lever-leg-extension",
       "slug": "lever-leg-extension",
       "name": "Lever Leg Extension",
+      "nameEs": "Extensión de cuádriceps en máquina",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/lever-leg-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/lever-leg-extension.gif"
     },
@@ -238,7 +662,18 @@
       "id": "quads/lying-side-quads-stretch",
       "slug": "lying-side-quads-stretch",
       "name": "Lying Side Quads Stretch",
+      "nameEs": "Estiramiento, tumbado, lateral, cuádriceps",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Lleva el cuerpo a la posición de estiramiento del quads.",
+        "Mantén entre 20 y 40 segundos respirando de forma profunda.",
+        "Vuelve a la posición inicial lentamente y repite si lo deseas."
+      ],
       "file": "quads/lying-side-quads-stretch.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/lying-side-quads-stretch.gif"
     },
@@ -246,7 +681,19 @@
       "id": "quads/quads",
       "slug": "quads",
       "name": "Quads",
+      "nameEs": "Cuádriceps, cuádriceps",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/quads.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/quads.gif"
     },
@@ -254,7 +701,19 @@
       "id": "quads/quick-feet-v-2",
       "slug": "quick-feet-v-2",
       "name": "Quick Feet v2",
+      "nameEs": "Quick feet, v2, quick feet",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/quick-feet-v-2.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/quick-feet-v-2.gif"
     },
@@ -262,7 +721,19 @@
       "id": "quads/resistance-band-leg-extension",
       "slug": "resistance-band-leg-extension",
       "name": "Resistance Band Leg Extension",
+      "nameEs": "Extensión de cuádriceps con banda elástica",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fija la banda elástica y mantén la tensión inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/resistance-band-leg-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/resistance-band-leg-extension.gif"
     },
@@ -270,7 +741,23 @@
       "id": "quads/sissy-squat",
       "slug": "sissy-squat",
       "name": "Sissy Squat",
+      "nameEs": "Sentadilla, sissy",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/sissy-squat.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/sissy-squat.gif"
     },
@@ -278,7 +765,23 @@
       "id": "quads/smith-chair-squat",
       "slug": "smith-chair-squat",
       "name": "Smith Chair Squat",
+      "nameEs": "Sentadilla en máquina Smith, silla",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Coloca la barra en la máquina Smith a la altura adecuada.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/smith-chair-squat.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/smith-chair-squat.gif"
     },
@@ -286,7 +789,23 @@
       "id": "quads/smith-single-leg-split-squat",
       "slug": "smith-single-leg-split-squat",
       "name": "Smith Single Leg Split Squat",
+      "nameEs": "Split squat en máquina Smith, a una pierna",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Coloca la barra en la máquina Smith a la altura adecuada.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/smith-single-leg-split-squat.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/smith-single-leg-split-squat.gif"
     },
@@ -294,7 +813,26 @@
       "id": "quads/snatch-pull",
       "slug": "snatch-pull",
       "name": "Snatch Pull",
+      "nameEs": "Arrancada, pull",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/snatch-pull.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/snatch-pull.gif"
     },
@@ -302,7 +840,23 @@
       "id": "quads/split-squats",
       "slug": "split-squats",
       "name": "Split Squats",
+      "nameEs": "Sentadillas, split",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/split-squats.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/split-squats.gif"
     },
@@ -310,7 +864,27 @@
       "id": "quads/squat-jerk",
       "slug": "squat-jerk",
       "name": "Squat Jerk",
+      "nameEs": "Envión, squat",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/squat-jerk.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/squat-jerk.gif"
     },
@@ -318,7 +892,23 @@
       "id": "quads/squat-on-bosu-ball",
       "slug": "squat-on-bosu-ball",
       "name": "Squat On Bosu Ball",
+      "nameEs": "Sentadilla, en bosu",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/squat-on-bosu-ball.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/squat-on-bosu-ball.gif"
     },
@@ -326,7 +916,23 @@
       "id": "quads/squat-to-overhead-reach-with-twist",
       "slug": "squat-to-overhead-reach-with-twist",
       "name": "Squat To Overhead Reach With Twist",
+      "nameEs": "Sentadilla sobre la cabeza, reach twist",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/squat-to-overhead-reach-with-twist.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/squat-to-overhead-reach-with-twist.gif"
     },
@@ -334,7 +940,23 @@
       "id": "quads/squat-to-overhead-reach",
       "slug": "squat-to-overhead-reach",
       "name": "Squat To Overhead Reach",
+      "nameEs": "Sentadilla sobre la cabeza, reach",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/squat-to-overhead-reach.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/squat-to-overhead-reach.gif"
     },
@@ -342,7 +964,23 @@
       "id": "quads/suspended-split-squat",
       "slug": "suspended-split-squat",
       "name": "Suspended Split Squat",
+      "nameEs": "Split squat, suspended",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/suspended-split-squat.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/suspended-split-squat.gif"
     },
@@ -350,7 +988,23 @@
       "id": "quads/weighted-sissy-squat",
       "slug": "weighted-sissy-squat",
       "name": "Weighted Sissy Squat",
+      "nameEs": "Sentadilla, weighted sissy",
       "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa el quads antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "quads/weighted-sissy-squat.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/weighted-sissy-squat.gif"
     }

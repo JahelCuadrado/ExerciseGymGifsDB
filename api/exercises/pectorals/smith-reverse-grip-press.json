@@ -2,7 +2,22 @@
   "id": "pectorals/smith-reverse-grip-press",
   "slug": "smith-reverse-grip-press",
   "name": "Smith Reverse Grip Press",
+  "nameEs": "Press en máquina Smith, con agarre invertido",
   "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Coloca la barra en la máquina Smith a la altura adecuada.",
+    "Activa el pectorals antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "pectorals/smith-reverse-grip-press.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/smith-reverse-grip-press.gif"
 }

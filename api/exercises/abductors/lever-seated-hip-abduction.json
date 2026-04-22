@@ -2,7 +2,19 @@
   "id": "abductors/lever-seated-hip-abduction",
   "slug": "lever-seated-hip-abduction",
   "name": "Lever Seated Hip Abduction",
+  "nameEs": "En máquina, sentado, cadera abduction",
   "muscle": "abductors",
+  "bodyPart": "legs",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajusta la máquina a tu medida y selecciona la carga.",
+    "Activa el abductors antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "abductors/lever-seated-hip-abduction.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abductors/lever-seated-hip-abduction.gif"
 }

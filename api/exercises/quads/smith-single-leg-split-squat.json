@@ -2,7 +2,23 @@
   "id": "quads/smith-single-leg-split-squat",
   "slug": "smith-single-leg-split-squat",
   "name": "Smith Single Leg Split Squat",
+  "nameEs": "Split squat en máquina Smith, a una pierna",
   "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Coloca la barra en la máquina Smith a la altura adecuada.",
+    "Activa el quads antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "quads/smith-single-leg-split-squat.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/smith-single-leg-split-squat.gif"
 }

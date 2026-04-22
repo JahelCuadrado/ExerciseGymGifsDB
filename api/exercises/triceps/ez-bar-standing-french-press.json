@@ -2,7 +2,21 @@
   "id": "triceps/ez-bar-standing-french-press",
   "slug": "ez-bar-standing-french-press",
   "name": "Ez Bar Standing French Press",
+  "nameEs": "Press con barra Z, de pie, french",
   "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "ez-bar",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "Carga la barra Z con un peso adecuado y agárrala con firmeza.",
+    "Activa el triceps antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "triceps/ez-bar-standing-french-press.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/ez-bar-standing-french-press.gif"
 }

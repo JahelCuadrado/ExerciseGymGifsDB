@@ -2,7 +2,22 @@
   "id": "pectorals/dumbbell-one-arm-press-on-exercise-ball",
   "slug": "dumbbell-one-arm-press-on-exercise-ball",
   "name": "Dumbbell One Arm Press On Exercise Ball",
+  "nameEs": "Press con mancuerna, a una mano en fitball",
   "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+    "Activa el pectorals antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "pectorals/dumbbell-one-arm-press-on-exercise-ball.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/dumbbell-one-arm-press-on-exercise-ball.gif"
 }

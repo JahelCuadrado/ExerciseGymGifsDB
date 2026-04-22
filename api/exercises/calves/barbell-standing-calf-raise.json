@@ -2,7 +2,19 @@
   "id": "calves/barbell-standing-calf-raise",
   "slug": "barbell-standing-calf-raise",
   "name": "Barbell Standing Calf Raise",
+  "nameEs": "Elevación de talones con barra, de pie",
   "muscle": "calves",
+  "bodyPart": "legs",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Carga el peso adecuado en la barra y adopta la postura inicial.",
+    "Activa el calves antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "calves/barbell-standing-calf-raise.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/barbell-standing-calf-raise.gif"
 }

@@ -2,7 +2,22 @@
   "id": "lats/barbell-pullover-to-press",
   "slug": "barbell-pullover-to-press",
   "name": "Barbell Pullover To Press",
+  "nameEs": "Pullover con barra, y press",
   "muscle": "lats",
+  "bodyPart": "back",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Carga el peso adecuado en la barra y adopta la postura inicial.",
+    "Activa el lats antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "lats/barbell-pullover-to-press.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/barbell-pullover-to-press.gif"
 }

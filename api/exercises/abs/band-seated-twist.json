@@ -2,7 +2,19 @@
   "id": "abs/band-seated-twist",
   "slug": "band-seated-twist",
   "name": "Band Seated Twist",
+  "nameEs": "Giro con banda, sentado",
   "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fija la banda elástica y mantén la tensión inicial.",
+    "Activa el abs antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "abs/band-seated-twist.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/band-seated-twist.gif"
 }

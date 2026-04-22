@@ -2,7 +2,21 @@
   "id": "biceps/dumbbell-one-arm-prone-curl",
   "slug": "dumbbell-one-arm-prone-curl",
   "name": "Dumbbell One Arm Prone Curl",
+  "nameEs": "Curl tumbado boca abajo con mancuerna, a una mano",
   "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+    "Activa el biceps antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "biceps/dumbbell-one-arm-prone-curl.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-one-arm-prone-curl.gif"
 }

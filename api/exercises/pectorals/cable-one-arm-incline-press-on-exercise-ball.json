@@ -2,7 +2,22 @@
   "id": "pectorals/cable-one-arm-incline-press-on-exercise-ball",
   "slug": "cable-one-arm-incline-press-on-exercise-ball",
   "name": "Cable One Arm Incline Press On Exercise Ball",
+  "nameEs": "Press inclinado en polea, a una mano en fitball",
   "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Ajusta la polea a la altura indicada y selecciona el peso.",
+    "Activa el pectorals antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "pectorals/cable-one-arm-incline-press-on-exercise-ball.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/cable-one-arm-incline-press-on-exercise-ball.gif"
 }

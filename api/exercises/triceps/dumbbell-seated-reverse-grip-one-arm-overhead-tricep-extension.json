@@ -2,7 +2,19 @@
   "id": "triceps/dumbbell-seated-reverse-grip-one-arm-overhead-tricep-extension",
   "slug": "dumbbell-seated-reverse-grip-one-arm-overhead-tricep-extension",
   "name": "Dumbbell Seated Reverse Grip One Arm Overhead Tricep Extension",
+  "nameEs": "Extensión sobre la cabeza con mancuerna, sentado, con agarre invertido, a una mano, tríceps",
   "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+    "Activa el triceps antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "triceps/dumbbell-seated-reverse-grip-one-arm-overhead-tricep-extension.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-seated-reverse-grip-one-arm-overhead-tricep-extension.gif"
 }

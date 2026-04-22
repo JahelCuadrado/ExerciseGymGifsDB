@@ -2,7 +2,22 @@
   "id": "delts/barbell-rear-delt-row",
   "slug": "barbell-rear-delt-row",
   "name": "Barbell Rear Delt Row",
+  "nameEs": "Remo con barra, posterior, deltoides",
   "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms"
+  ],
+  "instructions": [
+    "Carga el peso adecuado en la barra y adopta la postura inicial.",
+    "Activa el delts antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "delts/barbell-rear-delt-row.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-rear-delt-row.gif"
 }

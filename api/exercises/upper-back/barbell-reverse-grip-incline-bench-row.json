@@ -2,7 +2,23 @@
   "id": "upper-back/barbell-reverse-grip-incline-bench-row",
   "slug": "barbell-reverse-grip-incline-bench-row",
   "name": "Barbell Reverse Grip Incline Bench Row",
+  "nameEs": "Remo inclinado con barra, con agarre invertido, banco",
   "muscle": "upper-back",
+  "bodyPart": "back",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "delts"
+  ],
+  "instructions": [
+    "Carga el peso adecuado en la barra y adopta la postura inicial.",
+    "Activa el upper-back antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "upper-back/barbell-reverse-grip-incline-bench-row.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/barbell-reverse-grip-incline-bench-row.gif"
 }

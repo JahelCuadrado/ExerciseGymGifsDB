@@ -6,7 +6,21 @@
       "id": "delts/band-front-lateral-raise",
       "slug": "band-front-lateral-raise",
       "name": "Band Front Lateral Raise",
+      "nameEs": "Elevación lateral con banda, frontal",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Fija la banda elástica y mantén la tensión inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/band-front-lateral-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/band-front-lateral-raise.gif"
     },
@@ -14,7 +28,21 @@
       "id": "delts/band-front-raise",
       "slug": "band-front-raise",
       "name": "Band Front Raise",
+      "nameEs": "Elevación frontal con banda",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Fija la banda elástica y mantén la tensión inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/band-front-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/band-front-raise.gif"
     },
@@ -22,7 +50,19 @@
       "id": "delts/band-reverse-fly",
       "slug": "band-reverse-fly",
       "name": "Band Reverse Fly",
+      "nameEs": "Apertura invertido con banda",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fija la banda elástica y mantén la tensión inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/band-reverse-fly.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/band-reverse-fly.gif"
     },
@@ -30,7 +70,21 @@
       "id": "delts/band-shoulder-press",
       "slug": "band-shoulder-press",
       "name": "Band Shoulder Press",
+      "nameEs": "Press de hombros con banda",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Fija la banda elástica y mantén la tensión inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/band-shoulder-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/band-shoulder-press.gif"
     },
@@ -38,7 +92,22 @@
       "id": "delts/band-standing-rear-delt-row",
       "slug": "band-standing-rear-delt-row",
       "name": "Band Standing Rear Delt Row",
+      "nameEs": "Remo con banda, de pie, posterior, deltoides",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "Fija la banda elástica y mantén la tensión inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/band-standing-rear-delt-row.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/band-standing-rear-delt-row.gif"
     },
@@ -46,7 +115,21 @@
       "id": "delts/band-twisting-overhead-press",
       "slug": "band-twisting-overhead-press",
       "name": "Band Twisting Overhead Press",
+      "nameEs": "Press sobre la cabeza con banda, twisting",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Fija la banda elástica y mantén la tensión inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/band-twisting-overhead-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/band-twisting-overhead-press.gif"
     },
@@ -54,7 +137,21 @@
       "id": "delts/band-y-raise",
       "slug": "band-y-raise",
       "name": "Band Y Raise",
+      "nameEs": "Elevación con banda, y",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Fija la banda elástica y mantén la tensión inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/band-y-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/band-y-raise.gif"
     },
@@ -62,7 +159,21 @@
       "id": "delts/barbell-front-raise",
       "slug": "barbell-front-raise",
       "name": "Barbell Front Raise",
+      "nameEs": "Elevación frontal con barra",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/barbell-front-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-front-raise.gif"
     },
@@ -70,7 +181,25 @@
       "id": "delts/barbell-one-arm-snatch",
       "slug": "barbell-one-arm-snatch",
       "name": "Barbell One Arm Snatch",
+      "nameEs": "Arrancada con barra, a una mano",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/barbell-one-arm-snatch.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-one-arm-snatch.gif"
     },
@@ -78,7 +207,21 @@
       "id": "delts/barbell-rear-delt-raise",
       "slug": "barbell-rear-delt-raise",
       "name": "Barbell Rear Delt Raise",
+      "nameEs": "Elevación posterior de deltoides con barra",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/barbell-rear-delt-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-rear-delt-raise.gif"
     },
@@ -86,7 +229,22 @@
       "id": "delts/barbell-rear-delt-row",
       "slug": "barbell-rear-delt-row",
       "name": "Barbell Rear Delt Row",
+      "nameEs": "Remo con barra, posterior, deltoides",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/barbell-rear-delt-row.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-rear-delt-row.gif"
     },
@@ -94,7 +252,21 @@
       "id": "delts/barbell-seated-behind-head-military-press",
       "slug": "barbell-seated-behind-head-military-press",
       "name": "Barbell Seated Behind Head Military Press",
+      "nameEs": "Press militar con barra, sentado, behind head",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/barbell-seated-behind-head-military-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-seated-behind-head-military-press.gif"
     },
@@ -102,7 +274,21 @@
       "id": "delts/barbell-seated-bradford-rocky-press",
       "slug": "barbell-seated-bradford-rocky-press",
       "name": "Barbell Seated Bradford Rocky Press",
+      "nameEs": "Press Bradford con barra, sentado, rocky",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/barbell-seated-bradford-rocky-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-seated-bradford-rocky-press.gif"
     },
@@ -110,7 +296,21 @@
       "id": "delts/barbell-seated-overhead-press",
       "slug": "barbell-seated-overhead-press",
       "name": "Barbell Seated Overhead Press",
+      "nameEs": "Press sobre la cabeza con barra, sentado",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/barbell-seated-overhead-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-seated-overhead-press.gif"
     },
@@ -118,7 +318,19 @@
       "id": "delts/barbell-skier",
       "slug": "barbell-skier",
       "name": "Barbell Skier",
+      "nameEs": "Con barra, skier",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/barbell-skier.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-skier.gif"
     },
@@ -126,7 +338,21 @@
       "id": "delts/barbell-standing-bradford-press",
       "slug": "barbell-standing-bradford-press",
       "name": "Barbell Standing Bradford Press",
+      "nameEs": "Press Bradford con barra, de pie",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/barbell-standing-bradford-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-standing-bradford-press.gif"
     },
@@ -134,7 +360,21 @@
       "id": "delts/barbell-standing-close-grip-military-press",
       "slug": "barbell-standing-close-grip-military-press",
       "name": "Barbell Standing Close Grip Military Press",
+      "nameEs": "Press militar con barra, de pie, con agarre cerrado",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/barbell-standing-close-grip-military-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-standing-close-grip-military-press.gif"
     },
@@ -142,7 +382,21 @@
       "id": "delts/barbell-standing-front-raise-over-head",
       "slug": "barbell-standing-front-raise-over-head",
       "name": "Barbell Standing Front Raise Over Head",
+      "nameEs": "Elevación frontal con barra, de pie, over head",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/barbell-standing-front-raise-over-head.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-standing-front-raise-over-head.gif"
     },
@@ -150,7 +404,21 @@
       "id": "delts/barbell-standing-wide-military-press",
       "slug": "barbell-standing-wide-military-press",
       "name": "Barbell Standing Wide Military Press",
+      "nameEs": "Press militar con barra, de pie, ancho",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/barbell-standing-wide-military-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-standing-wide-military-press.gif"
     },
@@ -158,7 +426,19 @@
       "id": "delts/barbell-thruster",
       "slug": "barbell-thruster",
       "name": "Barbell Thruster",
+      "nameEs": "Thruster con barra",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/barbell-thruster.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-thruster.gif"
     },
@@ -166,7 +446,22 @@
       "id": "delts/barbell-upright-row-v-2",
       "slug": "barbell-upright-row-v-2",
       "name": "Barbell Upright Row v2",
+      "nameEs": "Remo al mentón con barra, v2",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/barbell-upright-row-v-2.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-upright-row-v-2.gif"
     },
@@ -174,7 +469,22 @@
       "id": "delts/barbell-upright-row-v-3",
       "slug": "barbell-upright-row-v-3",
       "name": "Barbell Upright Row v3",
+      "nameEs": "Remo al mentón con barra, v3",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/barbell-upright-row-v-3.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-upright-row-v-3.gif"
     },
@@ -182,7 +492,22 @@
       "id": "delts/barbell-upright-row",
       "slug": "barbell-upright-row",
       "name": "Barbell Upright Row",
+      "nameEs": "Remo al mentón con barra",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/barbell-upright-row.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-upright-row.gif"
     },
@@ -190,7 +515,22 @@
       "id": "delts/barbell-wide-grip-upright-row",
       "slug": "barbell-wide-grip-upright-row",
       "name": "Barbell Wide Grip Upright Row",
+      "nameEs": "Remo al mentón con barra, con agarre ancho",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/barbell-wide-grip-upright-row.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-wide-grip-upright-row.gif"
     },
@@ -198,7 +538,19 @@
       "id": "delts/battling-ropes",
       "slug": "battling-ropes",
       "name": "Battling Ropes",
+      "nameEs": "Battling ropes, battling ropes",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/battling-ropes.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/battling-ropes.gif"
     },
@@ -206,7 +558,21 @@
       "id": "delts/cable-alternate-shoulder-press",
       "slug": "cable-alternate-shoulder-press",
       "name": "Cable Alternate Shoulder Press",
+      "nameEs": "Press de hombros en polea, alternado",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/cable-alternate-shoulder-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/cable-alternate-shoulder-press.gif"
     },
@@ -214,7 +580,19 @@
       "id": "delts/cable-cross-over-revers-fly",
       "slug": "cable-cross-over-revers-fly",
       "name": "Cable Cross Over Revers Fly",
+      "nameEs": "Apertura en polea, cross over revers",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/cable-cross-over-revers-fly.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/cable-cross-over-revers-fly.gif"
     },
@@ -222,7 +600,21 @@
       "id": "delts/cable-forward-raise",
       "slug": "cable-forward-raise",
       "name": "Cable Forward Raise",
+      "nameEs": "Elevación en polea, forward",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/cable-forward-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/cable-forward-raise.gif"
     },
@@ -230,7 +622,21 @@
       "id": "delts/cable-front-raise",
       "slug": "cable-front-raise",
       "name": "Cable Front Raise",
+      "nameEs": "Elevación frontal en polea",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/cable-front-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/cable-front-raise.gif"
     },
@@ -238,7 +644,21 @@
       "id": "delts/cable-front-shoulder-raise",
       "slug": "cable-front-shoulder-raise",
       "name": "Cable Front Shoulder Raise",
+      "nameEs": "Elevación en polea, frontal, hombro",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/cable-front-shoulder-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/cable-front-shoulder-raise.gif"
     },
@@ -246,7 +666,22 @@
       "id": "delts/cable-kneeling-rear-delt-row-with-rope-male",
       "slug": "cable-kneeling-rear-delt-row-with-rope-male",
       "name": "Cable Kneeling Rear Delt Row With Rope Male",
+      "nameEs": "Remo en polea, de rodillas, posterior con cuerda, deltoides male",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/cable-kneeling-rear-delt-row-with-rope-male.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/cable-kneeling-rear-delt-row-with-rope-male.gif"
     },
@@ -254,7 +689,21 @@
       "id": "delts/cable-lateral-raise",
       "slug": "cable-lateral-raise",
       "name": "Cable Lateral Raise",
+      "nameEs": "Elevación lateral en polea",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/cable-lateral-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/cable-lateral-raise.gif"
     },
@@ -262,7 +711,21 @@
       "id": "delts/cable-one-arm-lateral-raise",
       "slug": "cable-one-arm-lateral-raise",
       "name": "Cable One Arm Lateral Raise",
+      "nameEs": "Elevación lateral en polea, a una mano",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/cable-one-arm-lateral-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/cable-one-arm-lateral-raise.gif"
     },
@@ -270,7 +733,22 @@
       "id": "delts/cable-rear-delt-row-stirrups",
       "slug": "cable-rear-delt-row-stirrups",
       "name": "Cable Rear Delt Row Stirrups",
+      "nameEs": "Remo en polea, posterior, deltoides stirrups",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/cable-rear-delt-row-stirrups.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/cable-rear-delt-row-stirrups.gif"
     },
@@ -278,7 +756,22 @@
       "id": "delts/cable-rear-delt-row-with-rope",
       "slug": "cable-rear-delt-row-with-rope",
       "name": "Cable Rear Delt Row With Rope",
+      "nameEs": "Remo en polea, posterior con cuerda, deltoides",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/cable-rear-delt-row-with-rope.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/cable-rear-delt-row-with-rope.gif"
     },
@@ -286,7 +779,21 @@
       "id": "delts/cable-seated-rear-lateral-raise",
       "slug": "cable-seated-rear-lateral-raise",
       "name": "Cable Seated Rear Lateral Raise",
+      "nameEs": "Elevación lateral en polea, sentado, posterior",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/cable-seated-rear-lateral-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/cable-seated-rear-lateral-raise.gif"
     },
@@ -294,7 +801,19 @@
       "id": "delts/cable-seated-shoulder-internal-rotation",
       "slug": "cable-seated-shoulder-internal-rotation",
       "name": "Cable Seated Shoulder Internal Rotation",
+      "nameEs": "En polea, sentado, hombro internal rotation",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/cable-seated-shoulder-internal-rotation.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/cable-seated-shoulder-internal-rotation.gif"
     },
@@ -302,7 +821,21 @@
       "id": "delts/cable-shoulder-press",
       "slug": "cable-shoulder-press",
       "name": "Cable Shoulder Press",
+      "nameEs": "Press de hombros en polea",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/cable-shoulder-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/cable-shoulder-press.gif"
     },
@@ -310,7 +843,19 @@
       "id": "delts/cable-standing-cross-over-high-reverse-fly",
       "slug": "cable-standing-cross-over-high-reverse-fly",
       "name": "Cable Standing Cross Over High Reverse Fly",
+      "nameEs": "Apertura invertido en polea, de pie, alto, cross over",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/cable-standing-cross-over-high-reverse-fly.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/cable-standing-cross-over-high-reverse-fly.gif"
     },
@@ -318,7 +863,22 @@
       "id": "delts/cable-standing-rear-delt-row-with-rope",
       "slug": "cable-standing-rear-delt-row-with-rope",
       "name": "Cable Standing Rear Delt Row With Rope",
+      "nameEs": "Remo en polea, de pie, posterior con cuerda, deltoides",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/cable-standing-rear-delt-row-with-rope.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/cable-standing-rear-delt-row-with-rope.gif"
     },
@@ -326,7 +886,19 @@
       "id": "delts/cable-standing-shoulder-external-rotation",
       "slug": "cable-standing-shoulder-external-rotation",
       "name": "Cable Standing Shoulder External Rotation",
+      "nameEs": "En polea, de pie, hombro external rotation",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/cable-standing-shoulder-external-rotation.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/cable-standing-shoulder-external-rotation.gif"
     },
@@ -334,7 +906,19 @@
       "id": "delts/cable-supine-reverse-fly",
       "slug": "cable-supine-reverse-fly",
       "name": "Cable Supine Reverse Fly",
+      "nameEs": "Apertura tumbado boca arriba invertido en polea",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/cable-supine-reverse-fly.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/cable-supine-reverse-fly.gif"
     },
@@ -342,7 +926,22 @@
       "id": "delts/cable-upright-row",
       "slug": "cable-upright-row",
       "name": "Cable Upright Row",
+      "nameEs": "Remo al mentón en polea",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/cable-upright-row.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/cable-upright-row.gif"
     },
@@ -350,7 +949,21 @@
       "id": "delts/dumbbell-alternate-side-press",
       "slug": "dumbbell-alternate-side-press",
       "name": "Dumbbell Alternate Side Press",
+      "nameEs": "Press con mancuerna, alternado lateral",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-alternate-side-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-alternate-side-press.gif"
     },
@@ -358,7 +971,21 @@
       "id": "delts/dumbbell-arnold-press-v-2",
       "slug": "dumbbell-arnold-press-v-2",
       "name": "Dumbbell Arnold Press v2",
+      "nameEs": "Press Arnold con mancuerna, v2",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-arnold-press-v-2.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-arnold-press-v-2.gif"
     },
@@ -366,7 +993,21 @@
       "id": "delts/dumbbell-arnold-press",
       "slug": "dumbbell-arnold-press",
       "name": "Dumbbell Arnold Press",
+      "nameEs": "Press Arnold con mancuerna",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-arnold-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-arnold-press.gif"
     },
@@ -374,7 +1015,21 @@
       "id": "delts/dumbbell-bench-seated-press",
       "slug": "dumbbell-bench-seated-press",
       "name": "Dumbbell Bench Seated Press",
+      "nameEs": "Press con mancuerna, sentado, banco",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-bench-seated-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-bench-seated-press.gif"
     },
@@ -382,7 +1037,21 @@
       "id": "delts/dumbbell-cuban-press-v-2",
       "slug": "dumbbell-cuban-press-v-2",
       "name": "Dumbbell Cuban Press v2",
+      "nameEs": "Press con mancuerna, v2, cuban",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-cuban-press-v-2.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-cuban-press-v-2.gif"
     },
@@ -390,7 +1059,21 @@
       "id": "delts/dumbbell-cuban-press",
       "slug": "dumbbell-cuban-press",
       "name": "Dumbbell Cuban Press",
+      "nameEs": "Press con mancuerna, cuban",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-cuban-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-cuban-press.gif"
     },
@@ -398,7 +1081,21 @@
       "id": "delts/dumbbell-front-raise-v-2",
       "slug": "dumbbell-front-raise-v-2",
       "name": "Dumbbell Front Raise v2",
+      "nameEs": "Elevación frontal con mancuerna, v2",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-front-raise-v-2.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-front-raise-v-2.gif"
     },
@@ -406,7 +1103,21 @@
       "id": "delts/dumbbell-front-raise",
       "slug": "dumbbell-front-raise",
       "name": "Dumbbell Front Raise",
+      "nameEs": "Elevación frontal con mancuerna",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-front-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-front-raise.gif"
     },
@@ -414,7 +1125,21 @@
       "id": "delts/dumbbell-full-can-lateral-raise",
       "slug": "dumbbell-full-can-lateral-raise",
       "name": "Dumbbell Full Can Lateral Raise",
+      "nameEs": "Elevación lateral con mancuerna, completo can",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-full-can-lateral-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-full-can-lateral-raise.gif"
     },
@@ -422,7 +1147,21 @@
       "id": "delts/dumbbell-incline-one-arm-lateral-raise",
       "slug": "dumbbell-incline-one-arm-lateral-raise",
       "name": "Dumbbell Incline One Arm Lateral Raise",
+      "nameEs": "Elevación lateral inclinado con mancuerna, a una mano",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-incline-one-arm-lateral-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-incline-one-arm-lateral-raise.gif"
     },
@@ -430,7 +1169,21 @@
       "id": "delts/dumbbell-incline-raise",
       "slug": "dumbbell-incline-raise",
       "name": "Dumbbell Incline Raise",
+      "nameEs": "Elevación inclinado con mancuerna",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-incline-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-incline-raise.gif"
     },
@@ -438,7 +1191,21 @@
       "id": "delts/dumbbell-incline-rear-lateral-raise",
       "slug": "dumbbell-incline-rear-lateral-raise",
       "name": "Dumbbell Incline Rear Lateral Raise",
+      "nameEs": "Elevación lateral inclinado con mancuerna, posterior",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-incline-rear-lateral-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-incline-rear-lateral-raise.gif"
     },
@@ -446,7 +1213,21 @@
       "id": "delts/dumbbell-incline-t-raise",
       "slug": "dumbbell-incline-t-raise",
       "name": "Dumbbell Incline T Raise",
+      "nameEs": "Elevación inclinado con mancuerna, t",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-incline-t-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-incline-t-raise.gif"
     },
@@ -454,7 +1235,19 @@
       "id": "delts/dumbbell-iron-cross",
       "slug": "dumbbell-iron-cross",
       "name": "Dumbbell Iron Cross",
+      "nameEs": "Con mancuerna, iron cross",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-iron-cross.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-iron-cross.gif"
     },
@@ -462,7 +1255,21 @@
       "id": "delts/dumbbell-lateral-raise",
       "slug": "dumbbell-lateral-raise",
       "name": "Dumbbell Lateral Raise",
+      "nameEs": "Elevación lateral con mancuerna",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-lateral-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-lateral-raise.gif"
     },
@@ -470,7 +1277,21 @@
       "id": "delts/dumbbell-lateral-to-front-raise",
       "slug": "dumbbell-lateral-to-front-raise",
       "name": "Dumbbell Lateral To Front Raise",
+      "nameEs": "Elevación frontal con mancuerna, lateral",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-lateral-to-front-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-lateral-to-front-raise.gif"
     },
@@ -478,7 +1299,19 @@
       "id": "delts/dumbbell-lying-external-shoulder-rotation",
       "slug": "dumbbell-lying-external-shoulder-rotation",
       "name": "Dumbbell Lying External Shoulder Rotation",
+      "nameEs": "Con mancuerna, tumbado, external hombro rotation",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-lying-external-shoulder-rotation.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-lying-external-shoulder-rotation.gif"
     },
@@ -486,7 +1319,21 @@
       "id": "delts/dumbbell-lying-on-floor-rear-delt-raise",
       "slug": "dumbbell-lying-on-floor-rear-delt-raise",
       "name": "Dumbbell Lying On Floor Rear Delt Raise",
+      "nameEs": "Elevación posterior de deltoides con mancuerna, tumbado, suelo",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-lying-on-floor-rear-delt-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-lying-on-floor-rear-delt-raise.gif"
     },
@@ -494,7 +1341,19 @@
       "id": "delts/dumbbell-lying-one-arm-deltoid-rear",
       "slug": "dumbbell-lying-one-arm-deltoid-rear",
       "name": "Dumbbell Lying One Arm Deltoid Rear",
+      "nameEs": "Con mancuerna, tumbado, a una mano posterior, deltoid",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-lying-one-arm-deltoid-rear.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-lying-one-arm-deltoid-rear.gif"
     },
@@ -502,7 +1361,21 @@
       "id": "delts/dumbbell-lying-one-arm-rear-lateral-raise",
       "slug": "dumbbell-lying-one-arm-rear-lateral-raise",
       "name": "Dumbbell Lying One Arm Rear Lateral Raise",
+      "nameEs": "Elevación lateral con mancuerna, tumbado, a una mano posterior",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-lying-one-arm-rear-lateral-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-lying-one-arm-rear-lateral-raise.gif"
     },
@@ -510,7 +1383,21 @@
       "id": "delts/dumbbell-lying-rear-lateral-raise",
       "slug": "dumbbell-lying-rear-lateral-raise",
       "name": "Dumbbell Lying Rear Lateral Raise",
+      "nameEs": "Elevación lateral con mancuerna, tumbado, posterior",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-lying-rear-lateral-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-lying-rear-lateral-raise.gif"
     },
@@ -518,7 +1405,21 @@
       "id": "delts/dumbbell-one-arm-lateral-raise-with-support",
       "slug": "dumbbell-one-arm-lateral-raise-with-support",
       "name": "Dumbbell One Arm Lateral Raise With Support",
+      "nameEs": "Elevación lateral con mancuerna, a una mano, support",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-one-arm-lateral-raise-with-support.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-one-arm-lateral-raise-with-support.gif"
     },
@@ -526,7 +1427,21 @@
       "id": "delts/dumbbell-one-arm-lateral-raise",
       "slug": "dumbbell-one-arm-lateral-raise",
       "name": "Dumbbell One Arm Lateral Raise",
+      "nameEs": "Elevación lateral con mancuerna, a una mano",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-one-arm-lateral-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-one-arm-lateral-raise.gif"
     },
@@ -534,7 +1449,19 @@
       "id": "delts/dumbbell-one-arm-reverse-fly-with-support",
       "slug": "dumbbell-one-arm-reverse-fly-with-support",
       "name": "Dumbbell One Arm Reverse Fly With Support",
+      "nameEs": "Apertura invertido con mancuerna, a una mano, support",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-one-arm-reverse-fly-with-support.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-one-arm-reverse-fly-with-support.gif"
     },
@@ -542,7 +1469,21 @@
       "id": "delts/dumbbell-one-arm-shoulder-press-v-2",
       "slug": "dumbbell-one-arm-shoulder-press-v-2",
       "name": "Dumbbell One Arm Shoulder Press v2",
+      "nameEs": "Press de hombros con mancuerna, a una mano v2",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-one-arm-shoulder-press-v-2.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-one-arm-shoulder-press-v-2.gif"
     },
@@ -550,7 +1491,21 @@
       "id": "delts/dumbbell-one-arm-shoulder-press",
       "slug": "dumbbell-one-arm-shoulder-press",
       "name": "Dumbbell One Arm Shoulder Press",
+      "nameEs": "Press de hombros con mancuerna, a una mano",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-one-arm-shoulder-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-one-arm-shoulder-press.gif"
     },
@@ -558,7 +1513,22 @@
       "id": "delts/dumbbell-one-arm-upright-row",
       "slug": "dumbbell-one-arm-upright-row",
       "name": "Dumbbell One Arm Upright Row",
+      "nameEs": "Remo al mentón con mancuerna, a una mano",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-one-arm-upright-row.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-one-arm-upright-row.gif"
     },
@@ -566,7 +1536,21 @@
       "id": "delts/dumbbell-push-press",
       "slug": "dumbbell-push-press",
       "name": "Dumbbell Push Press",
+      "nameEs": "Push press con mancuerna",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-push-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-push-press.gif"
     },
@@ -574,7 +1558,21 @@
       "id": "delts/dumbbell-raise",
       "slug": "dumbbell-raise",
       "name": "Dumbbell Raise",
+      "nameEs": "Elevación con mancuerna",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-raise.gif"
     },
@@ -582,7 +1580,21 @@
       "id": "delts/dumbbell-rear-delt-raise",
       "slug": "dumbbell-rear-delt-raise",
       "name": "Dumbbell Rear Delt Raise",
+      "nameEs": "Elevación posterior de deltoides con mancuerna",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-rear-delt-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-rear-delt-raise.gif"
     },
@@ -590,7 +1602,22 @@
       "id": "delts/dumbbell-rear-delt-row-shoulder",
       "slug": "dumbbell-rear-delt-row-shoulder",
       "name": "Dumbbell Rear Delt Row Shoulder",
+      "nameEs": "Remo con mancuerna, posterior, deltoides hombro",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-rear-delt-row-shoulder.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-rear-delt-row-shoulder.gif"
     },
@@ -598,7 +1625,19 @@
       "id": "delts/dumbbell-rear-fly",
       "slug": "dumbbell-rear-fly",
       "name": "Dumbbell Rear Fly",
+      "nameEs": "Apertura con mancuerna, posterior",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-rear-fly.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-rear-fly.gif"
     },
@@ -606,7 +1645,21 @@
       "id": "delts/dumbbell-rear-lateral-raise-support-head",
       "slug": "dumbbell-rear-lateral-raise-support-head",
       "name": "Dumbbell Rear Lateral Raise Support Head",
+      "nameEs": "Elevación lateral con mancuerna, posterior, support head",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-rear-lateral-raise-support-head.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-rear-lateral-raise-support-head.gif"
     },
@@ -614,7 +1667,21 @@
       "id": "delts/dumbbell-rear-lateral-raise",
       "slug": "dumbbell-rear-lateral-raise",
       "name": "Dumbbell Rear Lateral Raise",
+      "nameEs": "Elevación lateral con mancuerna, posterior",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-rear-lateral-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-rear-lateral-raise.gif"
     },
@@ -622,7 +1689,19 @@
       "id": "delts/dumbbell-reverse-fly",
       "slug": "dumbbell-reverse-fly",
       "name": "Dumbbell Reverse Fly",
+      "nameEs": "Apertura invertido con mancuerna",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-reverse-fly.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-reverse-fly.gif"
     },
@@ -630,7 +1709,19 @@
       "id": "delts/dumbbell-rotation-reverse-fly",
       "slug": "dumbbell-rotation-reverse-fly",
       "name": "Dumbbell Rotation Reverse Fly",
+      "nameEs": "Apertura invertido con mancuerna, rotation",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-rotation-reverse-fly.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-rotation-reverse-fly.gif"
     },
@@ -638,7 +1729,21 @@
       "id": "delts/dumbbell-scott-press",
       "slug": "dumbbell-scott-press",
       "name": "Dumbbell Scott Press",
+      "nameEs": "Press Scott con mancuerna",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-scott-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-scott-press.gif"
     },
@@ -646,7 +1751,21 @@
       "id": "delts/dumbbell-seated-alternate-front-raise",
       "slug": "dumbbell-seated-alternate-front-raise",
       "name": "Dumbbell Seated Alternate Front Raise",
+      "nameEs": "Elevación frontal con mancuerna, sentado, alternado",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-seated-alternate-front-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-seated-alternate-front-raise.gif"
     },
@@ -654,7 +1773,21 @@
       "id": "delts/dumbbell-seated-alternate-press",
       "slug": "dumbbell-seated-alternate-press",
       "name": "Dumbbell Seated Alternate Press",
+      "nameEs": "Press con mancuerna, sentado, alternado",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-seated-alternate-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-seated-alternate-press.gif"
     },
@@ -662,7 +1795,19 @@
       "id": "delts/dumbbell-seated-alternate-shoulder",
       "slug": "dumbbell-seated-alternate-shoulder",
       "name": "Dumbbell Seated Alternate Shoulder",
+      "nameEs": "Con mancuerna, sentado, alternado, hombro",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-seated-alternate-shoulder.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-seated-alternate-shoulder.gif"
     },
@@ -670,7 +1815,21 @@
       "id": "delts/dumbbell-seated-bent-arm-lateral-raise",
       "slug": "dumbbell-seated-bent-arm-lateral-raise",
       "name": "Dumbbell Seated Bent Arm Lateral Raise",
+      "nameEs": "Elevación lateral con mancuerna, sentado, doblado brazo",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-seated-bent-arm-lateral-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-seated-bent-arm-lateral-raise.gif"
     },
@@ -678,7 +1837,21 @@
       "id": "delts/dumbbell-seated-front-raise",
       "slug": "dumbbell-seated-front-raise",
       "name": "Dumbbell Seated Front Raise",
+      "nameEs": "Elevación frontal con mancuerna, sentado",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-seated-front-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-seated-front-raise.gif"
     },
@@ -686,7 +1859,21 @@
       "id": "delts/dumbbell-seated-lateral-raise-v-2",
       "slug": "dumbbell-seated-lateral-raise-v-2",
       "name": "Dumbbell Seated Lateral Raise v2",
+      "nameEs": "Elevación lateral con mancuerna, sentado, v2",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-seated-lateral-raise-v-2.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-seated-lateral-raise-v-2.gif"
     },
@@ -694,7 +1881,21 @@
       "id": "delts/dumbbell-seated-lateral-raise",
       "slug": "dumbbell-seated-lateral-raise",
       "name": "Dumbbell Seated Lateral Raise",
+      "nameEs": "Elevación lateral con mancuerna, sentado",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-seated-lateral-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-seated-lateral-raise.gif"
     },
@@ -702,7 +1903,21 @@
       "id": "delts/dumbbell-seated-shoulder-press-parallel-grip",
       "slug": "dumbbell-seated-shoulder-press-parallel-grip",
       "name": "Dumbbell Seated Shoulder Press Parallel Grip",
+      "nameEs": "Press de hombros con mancuerna, sentado, parallel",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-seated-shoulder-press-parallel-grip.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-seated-shoulder-press-parallel-grip.gif"
     },
@@ -710,7 +1925,21 @@
       "id": "delts/dumbbell-seated-shoulder-press",
       "slug": "dumbbell-seated-shoulder-press",
       "name": "Dumbbell Seated Shoulder Press",
+      "nameEs": "Press de hombros con mancuerna, sentado",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-seated-shoulder-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-seated-shoulder-press.gif"
     },
@@ -718,7 +1947,21 @@
       "id": "delts/dumbbell-side-lying-one-hand-raise",
       "slug": "dumbbell-side-lying-one-hand-raise",
       "name": "Dumbbell Side Lying One Hand Raise",
+      "nameEs": "Elevación con mancuerna, tumbado, lateral, one hand",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-side-lying-one-hand-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-side-lying-one-hand-raise.gif"
     },
@@ -726,7 +1969,19 @@
       "id": "delts/dumbbell-single-arm-overhead-carry",
       "slug": "dumbbell-single-arm-overhead-carry",
       "name": "Dumbbell Single Arm Overhead Carry",
+      "nameEs": "Sobre la cabeza con mancuerna, a una mano, carry",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-single-arm-overhead-carry.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-single-arm-overhead-carry.gif"
     },
@@ -734,7 +1989,21 @@
       "id": "delts/dumbbell-standing-alternate-overhead-press",
       "slug": "dumbbell-standing-alternate-overhead-press",
       "name": "Dumbbell Standing Alternate Overhead Press",
+      "nameEs": "Press sobre la cabeza con mancuerna, de pie, alternado",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-standing-alternate-overhead-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-standing-alternate-overhead-press.gif"
     },
@@ -742,7 +2011,21 @@
       "id": "delts/dumbbell-standing-alternate-raise",
       "slug": "dumbbell-standing-alternate-raise",
       "name": "Dumbbell Standing Alternate Raise",
+      "nameEs": "Elevación con mancuerna, de pie, alternado",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-standing-alternate-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-standing-alternate-raise.gif"
     },
@@ -750,7 +2033,19 @@
       "id": "delts/dumbbell-standing-around-world",
       "slug": "dumbbell-standing-around-world",
       "name": "Dumbbell Standing Around World",
+      "nameEs": "Con mancuerna, de pie, around world",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-standing-around-world.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-standing-around-world.gif"
     },
@@ -758,7 +2053,21 @@
       "id": "delts/dumbbell-standing-front-raise-above-head",
       "slug": "dumbbell-standing-front-raise-above-head",
       "name": "Dumbbell Standing Front Raise Above Head",
+      "nameEs": "Elevación frontal con mancuerna, de pie, above head",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-standing-front-raise-above-head.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-standing-front-raise-above-head.gif"
     },
@@ -766,7 +2075,21 @@
       "id": "delts/dumbbell-standing-one-arm-palm-in-press",
       "slug": "dumbbell-standing-one-arm-palm-in-press",
       "name": "Dumbbell Standing One Arm Palm In Press",
+      "nameEs": "Press con mancuerna, de pie, a una mano, palm",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-standing-one-arm-palm-in-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-standing-one-arm-palm-in-press.gif"
     },
@@ -774,7 +2097,21 @@
       "id": "delts/dumbbell-standing-overhead-press",
       "slug": "dumbbell-standing-overhead-press",
       "name": "Dumbbell Standing Overhead Press",
+      "nameEs": "Press sobre la cabeza con mancuerna, de pie",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-standing-overhead-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-standing-overhead-press.gif"
     },
@@ -782,7 +2119,21 @@
       "id": "delts/dumbbell-standing-palms-in-press",
       "slug": "dumbbell-standing-palms-in-press",
       "name": "Dumbbell Standing Palms In Press",
+      "nameEs": "Press con mancuerna, de pie, palms",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-standing-palms-in-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-standing-palms-in-press.gif"
     },
@@ -790,7 +2141,22 @@
       "id": "delts/dumbbell-upright-row-back-pov",
       "slug": "dumbbell-upright-row-back-pov",
       "name": "Dumbbell Upright Row Back Pov",
+      "nameEs": "Remo al mentón con mancuerna, espalda pov",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-upright-row-back-pov.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-upright-row-back-pov.gif"
     },
@@ -798,7 +2164,22 @@
       "id": "delts/dumbbell-upright-row",
       "slug": "dumbbell-upright-row",
       "name": "Dumbbell Upright Row",
+      "nameEs": "Remo al mentón con mancuerna",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-upright-row.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-upright-row.gif"
     },
@@ -806,7 +2187,19 @@
       "id": "delts/dumbbell-upright-shoulder-external-rotation",
       "slug": "dumbbell-upright-shoulder-external-rotation",
       "name": "Dumbbell Upright Shoulder External Rotation",
+      "nameEs": "Con mancuerna, upright hombro external rotation",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-upright-shoulder-external-rotation.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-upright-shoulder-external-rotation.gif"
     },
@@ -814,7 +2207,21 @@
       "id": "delts/dumbbell-w-press",
       "slug": "dumbbell-w-press",
       "name": "Dumbbell W Press",
+      "nameEs": "Press con mancuerna, w",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/dumbbell-w-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-w-press.gif"
     },
@@ -822,7 +2229,21 @@
       "id": "delts/ez-barbell-anti-gravity-press",
       "slug": "ez-barbell-anti-gravity-press",
       "name": "Ez Barbell Anti Gravity Press",
+      "nameEs": "Press con barra Z, anti gravity",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Carga la barra Z con un peso adecuado y agárrala con firmeza.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/ez-barbell-anti-gravity-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/ez-barbell-anti-gravity-press.gif"
     },
@@ -830,7 +2251,21 @@
       "id": "delts/kettlebell-alternating-press",
       "slug": "kettlebell-alternating-press",
       "name": "Kettlebell Alternating Press",
+      "nameEs": "Press con kettlebell, alternado",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge la kettlebell con un peso adecuado y adopta la postura.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/kettlebell-alternating-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/kettlebell-alternating-press.gif"
     },
@@ -838,7 +2273,21 @@
       "id": "delts/kettlebell-arnold-press",
       "slug": "kettlebell-arnold-press",
       "name": "Kettlebell Arnold Press",
+      "nameEs": "Press Arnold con kettlebell",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge la kettlebell con un peso adecuado y adopta la postura.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/kettlebell-arnold-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/kettlebell-arnold-press.gif"
     },
@@ -846,7 +2295,25 @@
       "id": "delts/kettlebell-double-jerk",
       "slug": "kettlebell-double-jerk",
       "name": "Kettlebell Double Jerk",
+      "nameEs": "Envión con kettlebell, doble",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Coge la kettlebell con un peso adecuado y adopta la postura.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/kettlebell-double-jerk.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/kettlebell-double-jerk.gif"
     },
@@ -854,7 +2321,21 @@
       "id": "delts/kettlebell-double-push-press",
       "slug": "kettlebell-double-push-press",
       "name": "Kettlebell Double Push Press",
+      "nameEs": "Push press con kettlebell, doble",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge la kettlebell con un peso adecuado y adopta la postura.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/kettlebell-double-push-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/kettlebell-double-push-press.gif"
     },
@@ -862,7 +2343,25 @@
       "id": "delts/kettlebell-double-snatch",
       "slug": "kettlebell-double-snatch",
       "name": "Kettlebell Double Snatch",
+      "nameEs": "Arrancada con kettlebell, doble",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Coge la kettlebell con un peso adecuado y adopta la postura.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/kettlebell-double-snatch.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/kettlebell-double-snatch.gif"
     },
@@ -870,7 +2369,25 @@
       "id": "delts/kettlebell-one-arm-clean-and-jerk",
       "slug": "kettlebell-one-arm-clean-and-jerk",
       "name": "Kettlebell One Arm Clean And Jerk",
+      "nameEs": "Cargada y envión con kettlebell, a una mano",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Coge la kettlebell con un peso adecuado y adopta la postura.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/kettlebell-one-arm-clean-and-jerk.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/kettlebell-one-arm-clean-and-jerk.gif"
     },
@@ -878,7 +2395,25 @@
       "id": "delts/kettlebell-one-arm-jerk",
       "slug": "kettlebell-one-arm-jerk",
       "name": "Kettlebell One Arm Jerk",
+      "nameEs": "Envión con kettlebell, a una mano",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Coge la kettlebell con un peso adecuado y adopta la postura.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/kettlebell-one-arm-jerk.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/kettlebell-one-arm-jerk.gif"
     },
@@ -886,7 +2421,21 @@
       "id": "delts/kettlebell-one-arm-military-press-to-the-side",
       "slug": "kettlebell-one-arm-military-press-to-the-side",
       "name": "Kettlebell One Arm Military Press To The Side",
+      "nameEs": "Press militar con kettlebell, a una mano lateral",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge la kettlebell con un peso adecuado y adopta la postura.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/kettlebell-one-arm-military-press-to-the-side.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/kettlebell-one-arm-military-press-to-the-side.gif"
     },
@@ -894,7 +2443,21 @@
       "id": "delts/kettlebell-one-arm-push-press",
       "slug": "kettlebell-one-arm-push-press",
       "name": "Kettlebell One Arm Push Press",
+      "nameEs": "Push press con kettlebell, a una mano",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge la kettlebell con un peso adecuado y adopta la postura.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/kettlebell-one-arm-push-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/kettlebell-one-arm-push-press.gif"
     },
@@ -902,7 +2465,25 @@
       "id": "delts/kettlebell-one-arm-snatch",
       "slug": "kettlebell-one-arm-snatch",
       "name": "Kettlebell One Arm Snatch",
+      "nameEs": "Arrancada con kettlebell, a una mano",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Coge la kettlebell con un peso adecuado y adopta la postura.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/kettlebell-one-arm-snatch.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/kettlebell-one-arm-snatch.gif"
     },
@@ -910,7 +2491,19 @@
       "id": "delts/kettlebell-pirate-supper-legs",
       "slug": "kettlebell-pirate-supper-legs",
       "name": "Kettlebell Pirate Supper Legs",
+      "nameEs": "Con kettlebell, pirate supper piernas",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge la kettlebell con un peso adecuado y adopta la postura.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/kettlebell-pirate-supper-legs.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/kettlebell-pirate-supper-legs.gif"
     },
@@ -918,7 +2511,21 @@
       "id": "delts/kettlebell-seated-press",
       "slug": "kettlebell-seated-press",
       "name": "Kettlebell Seated Press",
+      "nameEs": "Press con kettlebell, sentado",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge la kettlebell con un peso adecuado y adopta la postura.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/kettlebell-seated-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/kettlebell-seated-press.gif"
     },
@@ -926,7 +2533,21 @@
       "id": "delts/kettlebell-seated-two-arm-military-press",
       "slug": "kettlebell-seated-two-arm-military-press",
       "name": "Kettlebell Seated Two Arm Military Press",
+      "nameEs": "Press militar con kettlebell, sentado, a dos manos",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge la kettlebell con un peso adecuado y adopta la postura.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/kettlebell-seated-two-arm-military-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/kettlebell-seated-two-arm-military-press.gif"
     },
@@ -934,7 +2555,21 @@
       "id": "delts/kettlebell-seesaw-press",
       "slug": "kettlebell-seesaw-press",
       "name": "Kettlebell Seesaw Press",
+      "nameEs": "Press con kettlebell, seesaw",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge la kettlebell con un peso adecuado y adopta la postura.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/kettlebell-seesaw-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/kettlebell-seesaw-press.gif"
     },
@@ -942,7 +2577,19 @@
       "id": "delts/kettlebell-thruster",
       "slug": "kettlebell-thruster",
       "name": "Kettlebell Thruster",
+      "nameEs": "Thruster con kettlebell",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge la kettlebell con un peso adecuado y adopta la postura.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/kettlebell-thruster.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/kettlebell-thruster.gif"
     },
@@ -950,7 +2597,25 @@
       "id": "delts/kettlebell-two-arm-clean",
       "slug": "kettlebell-two-arm-clean",
       "name": "Kettlebell Two Arm Clean",
+      "nameEs": "Cargada con kettlebell, a dos manos",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Coge la kettlebell con un peso adecuado y adopta la postura.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/kettlebell-two-arm-clean.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/kettlebell-two-arm-clean.gif"
     },
@@ -958,7 +2623,21 @@
       "id": "delts/kettlebell-two-arm-military-press",
       "slug": "kettlebell-two-arm-military-press",
       "name": "Kettlebell Two Arm Military Press",
+      "nameEs": "Press militar con kettlebell, a dos manos",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coge la kettlebell con un peso adecuado y adopta la postura.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/kettlebell-two-arm-military-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/kettlebell-two-arm-military-press.gif"
     },
@@ -966,7 +2645,21 @@
       "id": "delts/landmine-lateral-raise",
       "slug": "landmine-lateral-raise",
       "name": "Landmine Lateral Raise",
+      "nameEs": "Elevación lateral, landmine",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/landmine-lateral-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/landmine-lateral-raise.gif"
     },
@@ -974,7 +2667,19 @@
       "id": "delts/left-hook-boxing",
       "slug": "left-hook-boxing",
       "name": "Left Hook Boxing",
+      "nameEs": "Left hook boxing, left hook boxing",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/left-hook-boxing.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/left-hook-boxing.gif"
     },
@@ -982,7 +2687,21 @@
       "id": "delts/lever-lateral-raise",
       "slug": "lever-lateral-raise",
       "name": "Lever Lateral Raise",
+      "nameEs": "Elevación lateral en máquina",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/lever-lateral-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/lever-lateral-raise.gif"
     },
@@ -990,7 +2709,21 @@
       "id": "delts/lever-military-press",
       "slug": "lever-military-press",
       "name": "Lever Military Press",
+      "nameEs": "Press militar en máquina",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/lever-military-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/lever-military-press.gif"
     },
@@ -998,7 +2731,21 @@
       "id": "delts/lever-one-arm-shoulder-press",
       "slug": "lever-one-arm-shoulder-press",
       "name": "Lever One Arm Shoulder Press",
+      "nameEs": "Press de hombros en máquina, a una mano",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/lever-one-arm-shoulder-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/lever-one-arm-shoulder-press.gif"
     },
@@ -1006,7 +2753,19 @@
       "id": "delts/lever-seated-reverse-fly-parallel-grip",
       "slug": "lever-seated-reverse-fly-parallel-grip",
       "name": "Lever Seated Reverse Fly Parallel Grip",
+      "nameEs": "Apertura invertido en máquina, sentado, parallel",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/lever-seated-reverse-fly-parallel-grip.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/lever-seated-reverse-fly-parallel-grip.gif"
     },
@@ -1014,7 +2773,19 @@
       "id": "delts/lever-seated-reverse-fly",
       "slug": "lever-seated-reverse-fly",
       "name": "Lever Seated Reverse Fly",
+      "nameEs": "Apertura invertido en máquina, sentado",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/lever-seated-reverse-fly.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/lever-seated-reverse-fly.gif"
     },
@@ -1022,7 +2793,21 @@
       "id": "delts/lever-shoulder-press-v-2",
       "slug": "lever-shoulder-press-v-2",
       "name": "Lever Shoulder Press v2",
+      "nameEs": "Press de hombros en máquina, v2",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/lever-shoulder-press-v-2.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/lever-shoulder-press-v-2.gif"
     },
@@ -1030,7 +2815,21 @@
       "id": "delts/lever-shoulder-press-v-3",
       "slug": "lever-shoulder-press-v-3",
       "name": "Lever Shoulder Press v3",
+      "nameEs": "Press de hombros en máquina, v3",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/lever-shoulder-press-v-3.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/lever-shoulder-press-v-3.gif"
     },
@@ -1038,7 +2837,21 @@
       "id": "delts/lever-shoulder-press",
       "slug": "lever-shoulder-press",
       "name": "Lever Shoulder Press",
+      "nameEs": "Press de hombros en máquina",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/lever-shoulder-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/lever-shoulder-press.gif"
     },
@@ -1046,7 +2859,18 @@
       "id": "delts/rear-deltoid-stretch",
       "slug": "rear-deltoid-stretch",
       "name": "Rear Deltoid Stretch",
+      "nameEs": "Estiramiento, posterior, deltoid",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "other",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Lleva el cuerpo a la posición de estiramiento del delts.",
+        "Mantén entre 20 y 40 segundos respirando de forma profunda.",
+        "Vuelve a la posición inicial lentamente y repite si lo deseas."
+      ],
       "file": "delts/rear-deltoid-stretch.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/rear-deltoid-stretch.gif"
     },
@@ -1054,7 +2878,21 @@
       "id": "delts/resistance-band-seated-shoulder-press",
       "slug": "resistance-band-seated-shoulder-press",
       "name": "Resistance Band Seated Shoulder Press",
+      "nameEs": "Press de hombros con banda elástica, sentado",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Fija la banda elástica y mantén la tensión inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/resistance-band-seated-shoulder-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/resistance-band-seated-shoulder-press.gif"
     },
@@ -1062,7 +2900,21 @@
       "id": "delts/smith-behind-neck-press",
       "slug": "smith-behind-neck-press",
       "name": "Smith Behind Neck Press",
+      "nameEs": "Press en máquina Smith, behind neck",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coloca la barra en la máquina Smith a la altura adecuada.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/smith-behind-neck-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/smith-behind-neck-press.gif"
     },
@@ -1070,7 +2922,22 @@
       "id": "delts/smith-rear-delt-row",
       "slug": "smith-rear-delt-row",
       "name": "Smith Rear Delt Row",
+      "nameEs": "Remo en máquina Smith, posterior, deltoides",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "Coloca la barra en la máquina Smith a la altura adecuada.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/smith-rear-delt-row.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/smith-rear-delt-row.gif"
     },
@@ -1078,7 +2945,21 @@
       "id": "delts/smith-seated-shoulder-press",
       "slug": "smith-seated-shoulder-press",
       "name": "Smith Seated Shoulder Press",
+      "nameEs": "Press de hombros en máquina Smith, sentado",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coloca la barra en la máquina Smith a la altura adecuada.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/smith-seated-shoulder-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/smith-seated-shoulder-press.gif"
     },
@@ -1086,7 +2967,21 @@
       "id": "delts/smith-shoulder-press",
       "slug": "smith-shoulder-press",
       "name": "Smith Shoulder Press",
+      "nameEs": "Press de hombros en máquina Smith",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coloca la barra en la máquina Smith a la altura adecuada.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/smith-shoulder-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/smith-shoulder-press.gif"
     },
@@ -1094,7 +2989,21 @@
       "id": "delts/smith-standing-behind-head-military-press",
       "slug": "smith-standing-behind-head-military-press",
       "name": "Smith Standing Behind Head Military Press",
+      "nameEs": "Press militar en máquina Smith, de pie, behind head",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coloca la barra en la máquina Smith a la altura adecuada.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/smith-standing-behind-head-military-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/smith-standing-behind-head-military-press.gif"
     },
@@ -1102,7 +3011,21 @@
       "id": "delts/smith-standing-military-press",
       "slug": "smith-standing-military-press",
       "name": "Smith Standing Military Press",
+      "nameEs": "Press militar en máquina Smith, de pie",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Coloca la barra en la máquina Smith a la altura adecuada.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/smith-standing-military-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/smith-standing-military-press.gif"
     },
@@ -1110,7 +3033,22 @@
       "id": "delts/smith-upright-row",
       "slug": "smith-upright-row",
       "name": "Smith Upright Row",
+      "nameEs": "Remo al mentón en máquina Smith",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "Coloca la barra en la máquina Smith a la altura adecuada.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/smith-upright-row.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/smith-upright-row.gif"
     },
@@ -1118,7 +3056,21 @@
       "id": "delts/standing-behind-neck-press",
       "slug": "standing-behind-neck-press",
       "name": "Standing Behind Neck Press",
+      "nameEs": "Press, de pie, behind neck",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/standing-behind-neck-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/standing-behind-neck-press.gif"
     },
@@ -1126,7 +3078,21 @@
       "id": "delts/weighted-front-raise",
       "slug": "weighted-front-raise",
       "name": "Weighted Front Raise",
+      "nameEs": "Elevación frontal, weighted",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/weighted-front-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/weighted-front-raise.gif"
     },
@@ -1134,7 +3100,25 @@
       "id": "delts/weighted-kneeling-step-with-swing",
       "slug": "weighted-kneeling-step-with-swing",
       "name": "Weighted Kneeling Step With Swing",
+      "nameEs": "Swing, de rodillas, weighted step",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/weighted-kneeling-step-with-swing.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/weighted-kneeling-step-with-swing.gif"
     },
@@ -1142,7 +3126,19 @@
       "id": "delts/weighted-round-arm",
       "slug": "weighted-round-arm",
       "name": "Weighted Round Arm",
+      "nameEs": "Weighted round brazo, weighted round brazo",
       "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa el delts antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "delts/weighted-round-arm.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/weighted-round-arm.gif"
     }

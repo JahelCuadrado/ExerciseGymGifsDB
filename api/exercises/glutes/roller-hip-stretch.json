@@ -2,7 +2,18 @@
   "id": "glutes/roller-hip-stretch",
   "slug": "roller-hip-stretch",
   "name": "Roller Hip Stretch",
+  "nameEs": "Estiramiento, roller cadera",
   "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "other",
+  "category": "stretching",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Lleva el cuerpo a la posición de estiramiento del glutes.",
+    "Mantén entre 20 y 40 segundos respirando de forma profunda.",
+    "Vuelve a la posición inicial lentamente y repite si lo deseas."
+  ],
   "file": "glutes/roller-hip-stretch.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/roller-hip-stretch.gif"
 }

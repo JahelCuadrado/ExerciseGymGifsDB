@@ -2,7 +2,18 @@
   "id": "abs/assisted-prone-rectus-femoris-stretch",
   "slug": "assisted-prone-rectus-femoris-stretch",
   "name": "Assisted Prone Rectus Femoris Stretch",
+  "nameEs": "Estiramiento tumbado boca abajo, assisted rectus femoris",
   "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "other",
+  "category": "stretching",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Lleva el cuerpo a la posición de estiramiento del abs.",
+    "Mantén entre 20 y 40 segundos respirando de forma profunda.",
+    "Vuelve a la posición inicial lentamente y repite si lo deseas."
+  ],
   "file": "abs/assisted-prone-rectus-femoris-stretch.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/assisted-prone-rectus-femoris-stretch.gif"
 }

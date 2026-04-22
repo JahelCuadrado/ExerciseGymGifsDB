@@ -2,7 +2,22 @@
   "id": "quads/barbell-squat-jump-step-rear-lunge",
   "slug": "barbell-squat-jump-step-rear-lunge",
   "name": "Barbell Squat Jump Step Rear Lunge",
+  "nameEs": "Sentadilla con barra, posterior, jump step lunge",
   "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "barbell",
+  "category": "plyometrics",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Carga el peso adecuado en la barra y adopta la postura inicial.",
+    "Realiza una breve flexión para acumular tensión.",
+    "Ejecuta el movimiento de forma explosiva y aterriza con control.",
+    "Aterriza suave amortiguando con piernas y core, y encadena la siguiente repetición."
+  ],
   "file": "quads/barbell-squat-jump-step-rear-lunge.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/barbell-squat-jump-step-rear-lunge.gif"
 }

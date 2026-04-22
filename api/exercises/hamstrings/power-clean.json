@@ -2,7 +2,25 @@
   "id": "hamstrings/power-clean",
   "slug": "power-clean",
   "name": "Power Clean",
+  "nameEs": "Cargada, potencia",
   "muscle": "hamstrings",
+  "bodyPart": "legs",
+  "equipment": "other",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "spine",
+    "traps",
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Activa el hamstrings antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "hamstrings/power-clean.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/power-clean.gif"
 }

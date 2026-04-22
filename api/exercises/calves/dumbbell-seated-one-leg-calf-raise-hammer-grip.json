@@ -2,7 +2,19 @@
   "id": "calves/dumbbell-seated-one-leg-calf-raise-hammer-grip",
   "slug": "dumbbell-seated-one-leg-calf-raise-hammer-grip",
   "name": "Dumbbell Seated One Leg Calf Raise Hammer Grip",
+  "nameEs": "Elevación de talones con mancuerna, sentado, con agarre martillo, a una pierna",
   "muscle": "calves",
+  "bodyPart": "legs",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+    "Activa el calves antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "calves/dumbbell-seated-one-leg-calf-raise-hammer-grip.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/dumbbell-seated-one-leg-calf-raise-hammer-grip.gif"
 }

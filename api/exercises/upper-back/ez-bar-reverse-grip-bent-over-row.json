@@ -2,7 +2,23 @@
   "id": "upper-back/ez-bar-reverse-grip-bent-over-row",
   "slug": "ez-bar-reverse-grip-bent-over-row",
   "name": "Ez Bar Reverse Grip Bent Over Row",
+  "nameEs": "Remo inclinado con barra Z, con agarre invertido",
   "muscle": "upper-back",
+  "bodyPart": "back",
+  "equipment": "ez-bar",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "delts"
+  ],
+  "instructions": [
+    "Carga la barra Z con un peso adecuado y agárrala con firmeza.",
+    "Activa el upper-back antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "upper-back/ez-bar-reverse-grip-bent-over-row.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/ez-bar-reverse-grip-bent-over-row.gif"
 }

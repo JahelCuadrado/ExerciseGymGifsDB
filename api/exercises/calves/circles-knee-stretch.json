@@ -2,7 +2,18 @@
   "id": "calves/circles-knee-stretch",
   "slug": "circles-knee-stretch",
   "name": "Circles Knee Stretch",
+  "nameEs": "Estiramiento, circles rodilla",
   "muscle": "calves",
+  "bodyPart": "legs",
+  "equipment": "other",
+  "category": "stretching",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Lleva el cuerpo a la posición de estiramiento del calves.",
+    "Mantén entre 20 y 40 segundos respirando de forma profunda.",
+    "Vuelve a la posición inicial lentamente y repite si lo deseas."
+  ],
   "file": "calves/circles-knee-stretch.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/circles-knee-stretch.gif"
 }

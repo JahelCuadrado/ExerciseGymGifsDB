@@ -2,7 +2,18 @@
   "id": "cardio/half-knee-bends-male",
   "slug": "half-knee-bends-male",
   "name": "Half Knee Bends Male",
+  "nameEs": "Medio rodilla bends male, medio rodilla bends male",
   "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "other",
+  "category": "cardio",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Mantén un ritmo constante adaptado a tu nivel.",
+    "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+    "Continúa el tiempo o las repeticiones planificadas."
+  ],
   "file": "cardio/half-knee-bends-male.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/half-knee-bends-male.gif"
 }

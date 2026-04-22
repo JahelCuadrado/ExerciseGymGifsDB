@@ -2,7 +2,19 @@
   "id": "abs/kettlebell-double-windmill",
   "slug": "kettlebell-double-windmill",
   "name": "Kettlebell Double Windmill",
+  "nameEs": "Con kettlebell, doble windmill",
   "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "kettlebell",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coge la kettlebell con un peso adecuado y adopta la postura.",
+    "Activa el abs antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "abs/kettlebell-double-windmill.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/kettlebell-double-windmill.gif"
 }

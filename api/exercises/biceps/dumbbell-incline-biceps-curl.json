@@ -2,7 +2,21 @@
   "id": "biceps/dumbbell-incline-biceps-curl",
   "slug": "dumbbell-incline-biceps-curl",
   "name": "Dumbbell Incline Biceps Curl",
+  "nameEs": "Curl de bíceps inclinado con mancuerna",
   "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+    "Activa el biceps antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "biceps/dumbbell-incline-biceps-curl.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-incline-biceps-curl.gif"
 }

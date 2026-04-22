@@ -2,7 +2,26 @@
   "id": "biceps/kettlebell-bottoms-up-clean-from-the-hang-position",
   "slug": "kettlebell-bottoms-up-clean-from-the-hang-position",
   "name": "Kettlebell Bottoms Up Clean From The Hang Position",
+  "nameEs": "Cargada con kettlebell, fondo up colgado",
   "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "kettlebell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "spine",
+    "traps",
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "Coge la kettlebell con un peso adecuado y adopta la postura.",
+    "Activa el biceps antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "biceps/kettlebell-bottoms-up-clean-from-the-hang-position.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/kettlebell-bottoms-up-clean-from-the-hang-position.gif"
 }

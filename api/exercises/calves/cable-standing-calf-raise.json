@@ -2,7 +2,19 @@
   "id": "calves/cable-standing-calf-raise",
   "slug": "cable-standing-calf-raise",
   "name": "Cable Standing Calf Raise",
+  "nameEs": "Elevación de talones en polea, de pie",
   "muscle": "calves",
+  "bodyPart": "legs",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajusta la polea a la altura indicada y selecciona el peso.",
+    "Activa el calves antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "calves/cable-standing-calf-raise.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/cable-standing-calf-raise.gif"
 }

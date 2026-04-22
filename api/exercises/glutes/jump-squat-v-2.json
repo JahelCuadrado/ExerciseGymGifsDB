@@ -2,7 +2,21 @@
   "id": "glutes/jump-squat-v-2",
   "slug": "jump-squat-v-2",
   "name": "Jump Squat v2",
+  "nameEs": "Sentadilla con salto, v2",
   "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "other",
+  "category": "plyometrics",
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Realiza una breve flexión para acumular tensión.",
+    "Ejecuta el movimiento de forma explosiva y aterriza con control.",
+    "Aterriza suave amortiguando con piernas y core, y encadena la siguiente repetición."
+  ],
   "file": "glutes/jump-squat-v-2.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/jump-squat-v-2.gif"
 }

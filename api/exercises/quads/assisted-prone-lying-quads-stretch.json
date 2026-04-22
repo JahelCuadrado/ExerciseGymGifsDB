@@ -2,7 +2,18 @@
   "id": "quads/assisted-prone-lying-quads-stretch",
   "slug": "assisted-prone-lying-quads-stretch",
   "name": "Assisted Prone Lying Quads Stretch",
+  "nameEs": "Estiramiento tumbado boca abajo, tumbado, assisted cuádriceps",
   "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "other",
+  "category": "stretching",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Lleva el cuerpo a la posición de estiramiento del quads.",
+    "Mantén entre 20 y 40 segundos respirando de forma profunda.",
+    "Vuelve a la posición inicial lentamente y repite si lo deseas."
+  ],
   "file": "quads/assisted-prone-lying-quads-stretch.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/assisted-prone-lying-quads-stretch.gif"
 }

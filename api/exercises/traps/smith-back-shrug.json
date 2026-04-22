@@ -2,7 +2,19 @@
   "id": "traps/smith-back-shrug",
   "slug": "smith-back-shrug",
   "name": "Smith Back Shrug",
+  "nameEs": "Encogimiento en máquina Smith, espalda",
   "muscle": "traps",
+  "bodyPart": "back",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coloca la barra en la máquina Smith a la altura adecuada.",
+    "Activa el traps antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "traps/smith-back-shrug.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/traps/smith-back-shrug.gif"
 }

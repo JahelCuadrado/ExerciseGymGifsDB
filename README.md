@@ -12,30 +12,41 @@ app móvil o web sin necesidad de backend.
 
 | Endpoint | Descripción |
 |---|---|
-| `/api/index.json` | Metadata global + listado de grupos |
-| `/api/muscles.json` | Lista simple de grupos musculares |
-| `/api/exercises.json` | Todos los ejercicios en un solo array |
+| `/api/index.json` | Metadata global + listados |
+| `/api/muscles.json` | Lista de grupos musculares |
 | `/api/muscles/<muscle>.json` | Ejercicios de un grupo |
+| `/api/equipment.json` | Lista de equipamientos |
+| `/api/equipment/<equipment>.json` | Ejercicios por equipamiento |
+| `/api/bodyparts.json` | Lista de partes del cuerpo |
+| `/api/bodyparts/<bodyPart>.json` | Ejercicios por parte del cuerpo |
+| `/api/categories.json` | Lista de categorías |
+| `/api/categories/<category>.json` | Ejercicios por categoría |
+| `/api/exercises.json` | Todos los ejercicios en un solo array |
 | `/api/exercises/<muscle>/<slug>.json` | Detalle individual |
+
+Valores posibles:
+
+- **bodyPart**: `arms` · `legs` · `chest` · `back` · `core` · `shoulders` · `cardio`
+- **equipment**: `barbell` · `dumbbell` · `cable` · `machine` · `bodyweight` · `band` · `kettlebell` · `smith` · `ez-bar` · `lever` · `other`
+- **category**: `strength` · `stretching` · `cardio` · `plyometrics`
 
 Ejemplos en vivo:
 
 - https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/api/index.json
 - https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/api/muscles/biceps.json
+- https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/api/equipment/dumbbell.json
 - https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-curl.gif
 
 ## Estructura del repo
 
 ```
-<muscle>/*.gif                       # Los GIFs originales, agrupados por músculo
-api/
-  index.json                         # Metadata global
-  muscles.json                       # Lista simple de grupos
-  exercises.json                     # Todos los ejercicios
-  muscles/<muscle>.json              # Ejercicios de un grupo
-  exercises/<muscle>/<slug>.json     # Detalle individual
+<muscle>/*.gif                       # GIFs originales, agrupados por músculo
+api/                                 # API generada (no se edita a mano)
+overrides/<muscle>/<slug>.json       # Datos manuales (nameEs, instructions, ...)
 scripts/
-  generate-api.js                    # Generador de la carpeta /api
+  generate-api.js                    # Genera la carpeta /api
+  init-overrides.js                  # Crea plantillas vacías de overrides
+  enrich.js                          # Reglas para inferir equipment/bodyPart/category
 ```
 
 ## Formato de un ejercicio
@@ -45,11 +56,25 @@ scripts/
   "id": "biceps/barbell-curl",
   "slug": "barbell-curl",
   "name": "Barbell Curl",
+  "nameEs": "Curl con barra",
   "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": ["forearms"],
+  "instructions": [
+    "De pie, sujeta la barra con las palmas hacia arriba.",
+    "Flexiona los codos llevando la barra hacia los hombros.",
+    "Baja la barra controladamente hasta extender los brazos."
+  ],
   "file": "biceps/barbell-curl.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-curl.gif"
 }
 ```
+
+Los campos `name`, `bodyPart`, `equipment`, `category`, `gifUrl` se infieren
+automáticamente. Los campos `nameEs`, `secondaryMuscles` e `instructions`
+se rellenan en `overrides/<muscle>/<slug>.json` (ver más abajo).
 
 ## Consumir desde tu app
 
@@ -83,6 +108,38 @@ npm run build
 ```
 
 Esto regenera completamente la carpeta `api/`.
+
+## Añadir traducciones e instrucciones (overrides)
+
+Los campos manuales viven en `overrides/<muscle>/<slug>.json`. Para crear las
+plantillas vacías de todos los ejercicios:
+
+```powershell
+npm run init-overrides
+```
+
+Ejemplo de override (`overrides/biceps/barbell-curl.json`):
+
+```json
+{
+  "nameEs": "Curl con barra",
+  "secondaryMuscles": ["forearms"],
+  "instructions": [
+    "De pie, sujeta la barra con las palmas hacia arriba.",
+    "Flexiona los codos llevando la barra hacia los hombros.",
+    "Baja la barra controladamente hasta extender los brazos."
+  ]
+}
+```
+
+Reglas:
+
+- Cualquier campo presente y **no vacío** en el override sustituye al inferido.
+- Los campos vacíos (`""` o `[]`) se ignoran, así que puedes dejarlos como
+  recordatorio de "falta rellenar".
+- También puedes corregir `equipment`, `bodyPart` o `category` si la heurística
+  los detecta mal: solo añádelos al JSON del override.
+- Tras editar overrides, vuelve a ejecutar `npm run build`.
 
 ## Añadir nuevos GIFs
 

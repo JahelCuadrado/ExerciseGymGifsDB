@@ -2,7 +2,24 @@
   "id": "cardio/jack-burpee",
   "slug": "jack-burpee",
   "name": "Jack Burpee",
+  "nameEs": "Burpee, jack",
   "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "other",
+  "category": "cardio",
+  "secondaryMuscles": [
+    "pectorals",
+    "triceps",
+    "quads",
+    "glutes",
+    "abs"
+  ],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Mantén un ritmo constante adaptado a tu nivel.",
+    "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+    "Continúa el tiempo o las repeticiones planificadas."
+  ],
   "file": "cardio/jack-burpee.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/jack-burpee.gif"
 }

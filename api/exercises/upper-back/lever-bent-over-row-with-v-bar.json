@@ -2,7 +2,23 @@
   "id": "upper-back/lever-bent-over-row-with-v-bar",
   "slug": "lever-bent-over-row-with-v-bar",
   "name": "Lever Bent Over Row With V Bar",
+  "nameEs": "Remo inclinado en máquina con barra en V",
   "muscle": "upper-back",
+  "bodyPart": "back",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "delts"
+  ],
+  "instructions": [
+    "Ajusta la máquina a tu medida y selecciona la carga.",
+    "Activa el upper-back antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "upper-back/lever-bent-over-row-with-v-bar.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-bent-over-row-with-v-bar.gif"
 }

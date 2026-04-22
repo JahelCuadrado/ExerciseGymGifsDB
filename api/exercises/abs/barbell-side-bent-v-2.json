@@ -2,7 +2,19 @@
   "id": "abs/barbell-side-bent-v-2",
   "slug": "barbell-side-bent-v-2",
   "name": "Barbell Side Bent v2",
+  "nameEs": "Con barra, lateral v2, doblado",
   "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Carga el peso adecuado en la barra y adopta la postura inicial.",
+    "Activa el abs antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "abs/barbell-side-bent-v-2.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/barbell-side-bent-v-2.gif"
 }

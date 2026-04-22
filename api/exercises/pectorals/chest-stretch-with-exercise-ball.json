@@ -2,7 +2,18 @@
   "id": "pectorals/chest-stretch-with-exercise-ball",
   "slug": "chest-stretch-with-exercise-ball",
   "name": "Chest Stretch With Exercise Ball",
+  "nameEs": "Estiramiento en fitball, pecho",
   "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "other",
+  "category": "stretching",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Lleva el cuerpo a la posición de estiramiento del pectorals.",
+    "Mantén entre 20 y 40 segundos respirando de forma profunda.",
+    "Vuelve a la posición inicial lentamente y repite si lo deseas."
+  ],
   "file": "pectorals/chest-stretch-with-exercise-ball.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/chest-stretch-with-exercise-ball.gif"
 }

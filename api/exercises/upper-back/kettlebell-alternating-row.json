@@ -2,7 +2,23 @@
   "id": "upper-back/kettlebell-alternating-row",
   "slug": "kettlebell-alternating-row",
   "name": "Kettlebell Alternating Row",
+  "nameEs": "Remo con kettlebell, alternado",
   "muscle": "upper-back",
+  "bodyPart": "back",
+  "equipment": "kettlebell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "delts"
+  ],
+  "instructions": [
+    "Coge la kettlebell con un peso adecuado y adopta la postura.",
+    "Activa el upper-back antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "upper-back/kettlebell-alternating-row.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/kettlebell-alternating-row.gif"
 }

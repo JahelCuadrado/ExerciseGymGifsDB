@@ -2,7 +2,18 @@
   "id": "cardio/stationary-bike-run-v-3",
   "slug": "stationary-bike-run-v-3",
   "name": "Stationary Bike Run v3",
+  "nameEs": "Stationary bike correr, v3, stationary bike correr",
   "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "other",
+  "category": "cardio",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Mantén un ritmo constante adaptado a tu nivel.",
+    "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+    "Continúa el tiempo o las repeticiones planificadas."
+  ],
   "file": "cardio/stationary-bike-run-v-3.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/stationary-bike-run-v-3.gif"
 }

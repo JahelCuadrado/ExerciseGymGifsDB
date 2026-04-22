@@ -6,7 +6,19 @@
       "id": "serratus-anterior/barbell-incline-shoulder-raise",
       "slug": "barbell-incline-shoulder-raise",
       "name": "Barbell Incline Shoulder Raise",
+      "nameEs": "Elevación inclinado con barra, hombro",
       "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el serratus-anterior antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "serratus-anterior/barbell-incline-shoulder-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/serratus-anterior/barbell-incline-shoulder-raise.gif"
     },
@@ -14,7 +26,19 @@
       "id": "serratus-anterior/dumbbell-incline-shoulder-raise",
       "slug": "dumbbell-incline-shoulder-raise",
       "name": "Dumbbell Incline Shoulder Raise",
+      "nameEs": "Elevación inclinado con mancuerna, hombro",
       "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el serratus-anterior antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "serratus-anterior/dumbbell-incline-shoulder-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/serratus-anterior/dumbbell-incline-shoulder-raise.gif"
     },
@@ -22,7 +46,22 @@
       "id": "serratus-anterior/incline-scapula-push-up",
       "slug": "incline-scapula-push-up",
       "name": "Incline Scapula Push Up",
+      "nameEs": "Flexión inclinado, scapula",
       "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el serratus-anterior antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "serratus-anterior/incline-scapula-push-up.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/serratus-anterior/incline-scapula-push-up.gif"
     },
@@ -30,7 +69,22 @@
       "id": "serratus-anterior/scapula-push-up",
       "slug": "scapula-push-up",
       "name": "Scapula Push Up",
+      "nameEs": "Flexión, scapula",
       "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el serratus-anterior antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "serratus-anterior/scapula-push-up.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/serratus-anterior/scapula-push-up.gif"
     },
@@ -38,7 +92,19 @@
       "id": "serratus-anterior/smith-incline-shoulder-raises",
       "slug": "smith-incline-shoulder-raises",
       "name": "Smith Incline Shoulder Raises",
+      "nameEs": "Elevaciones inclinado en máquina Smith, hombro",
       "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coloca la barra en la máquina Smith a la altura adecuada.",
+        "Activa el serratus-anterior antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "serratus-anterior/smith-incline-shoulder-raises.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/serratus-anterior/smith-incline-shoulder-raises.gif"
     }

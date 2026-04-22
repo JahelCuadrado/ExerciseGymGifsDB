@@ -3,37 +3,43 @@
  * Generador de API estática a partir de las carpetas de GIFs.
  *
  * Estructura generada en /api:
- *   api/index.json                -> metadata + lista de grupos musculares
- *   api/muscles.json              -> lista simple de grupos musculares
- *   api/exercises.json            -> array con todos los ejercicios
- *   api/muscles/<muscle>.json     -> ejercicios filtrados por grupo
- *   api/exercises/<id>.json       -> detalle individual de cada ejercicio
+ *   api/index.json                      -> metadata global
+ *   api/muscles.json                    -> lista de grupos musculares
+ *   api/muscles/<muscle>.json           -> ejercicios por músculo
+ *   api/equipment.json + equipment/<eq>.json
+ *   api/bodyparts.json + bodyparts/<bp>.json
+ *   api/categories.json + categories/<cat>.json
+ *   api/exercises.json                  -> todos los ejercicios
+ *   api/exercises/<muscle>/<slug>.json  -> detalle individual
  *
  * Cada ejercicio expone:
  *   {
- *     id:        "biceps/barbell-curl",
- *     slug:      "barbell-curl",
- *     name:      "Barbell Curl",
- *     muscle:    "biceps",
- *     file:      "biceps/barbell-curl.gif",
- *     gifUrl:    "<BASE_URL>/biceps/barbell-curl.gif"
+ *     id, slug, name, nameEs, muscle, bodyPart, equipment, category,
+ *     secondaryMuscles, instructions, file, gifUrl
  *   }
  *
- * Configura BASE_URL con la variable de entorno API_BASE_URL o editando el
- * default que aparece debajo. Recomendado:
- *   - jsDelivr (rápido, con CDN):
- *       https://cdn.jsdelivr.net/gh/<USER>/<REPO>@<BRANCH>
- *   - Raw GitHub:
- *       https://raw.githubusercontent.com/<USER>/<REPO>/<BRANCH>
- *   - GitHub Pages:
- *       https://<USER>.github.io/<REPO>
+ * Los campos manuales (nameEs, secondaryMuscles, instructions) se cargan desde
+ * overrides/<muscle>/<slug>.json. Cualquier campo presente en el override
+ * (no vacío) sobrescribe al inferido, lo que permite corregir equipment,
+ * category, etc. cuando la heurística falle.
  */
 
 const fs = require("fs");
 const path = require("path");
+const {
+	inferEquipment,
+	inferBodyPart,
+	inferCategory,
+} = require("./enrich");
+const {
+	translateSlug,
+	inferSecondary,
+	generateInstructions,
+} = require("./translate");
 
 const ROOT = path.resolve(__dirname, "..");
 const OUT = path.join(ROOT, "api");
+const OVERRIDES = path.join(ROOT, "overrides");
 
 const BASE_URL = (
 	process.env.API_BASE_URL ||
@@ -43,6 +49,7 @@ const BASE_URL = (
 const IGNORE = new Set([
 	"api",
 	"scripts",
+	"overrides",
 	".git",
 	".github",
 	".vscode",
@@ -57,10 +64,8 @@ function titleCase(slug) {
 }
 
 function isMuscleDir(name) {
-	if (IGNORE.has(name)) return false;
-	if (name.startsWith(".")) return false;
-	const full = path.join(ROOT, name);
-	return fs.statSync(full).isDirectory();
+	if (IGNORE.has(name) || name.startsWith(".")) return false;
+	return fs.statSync(path.join(ROOT, name)).isDirectory();
 }
 
 function ensureDir(p) {
@@ -72,48 +77,127 @@ function writeJson(file, data) {
 	fs.writeFileSync(file, JSON.stringify(data, null, 2) + "\n", "utf8");
 }
 
+function loadOverride(muscle, slug) {
+	const file = path.join(OVERRIDES, muscle, `${slug}.json`);
+	if (!fs.existsSync(file)) return null;
+	try {
+		return JSON.parse(fs.readFileSync(file, "utf8"));
+	} catch (err) {
+		console.warn(`! Override inválido: ${file} (${err.message})`);
+		return null;
+	}
+}
+
+function isEmpty(value) {
+	if (value == null) return true;
+	if (typeof value === "string") return value.trim() === "";
+	if (Array.isArray(value)) return value.length === 0;
+	return false;
+}
+
+function applyOverride(base, override) {
+	if (!override) return base;
+	const out = { ...base };
+	for (const [key, value] of Object.entries(override)) {
+		if (isEmpty(value)) continue;
+		out[key] = value;
+	}
+	return out;
+}
+
+function pushTo(map, key, value) {
+	if (!map.has(key)) map.set(key, []);
+	map.get(key).push(value);
+}
+
+function dumpGroup(folder, singular, map) {
+	const summary = [];
+	for (const [key, list] of [...map.entries()].sort((a, b) =>
+		a[0].localeCompare(b[0])
+	)) {
+		writeJson(path.join(OUT, folder, `${key}.json`), {
+			[singular]: key,
+			count: list.length,
+			exercises: list,
+		});
+		summary.push({
+			[singular]: key,
+			count: list.length,
+			endpoint: `${folder}/${key}.json`,
+		});
+	}
+	writeJson(path.join(OUT, `${folder}.json`), summary);
+}
+
 function main() {
 	if (fs.existsSync(OUT)) {
 		fs.rmSync(OUT, { recursive: true, force: true });
 	}
 	ensureDir(OUT);
 
-	const muscles = fs
-		.readdirSync(ROOT)
-		.filter(isMuscleDir)
-		.sort((a, b) => a.localeCompare(b));
+	const muscles = fs.readdirSync(ROOT).filter(isMuscleDir).sort();
 
 	const allExercises = [];
 	const muscleSummaries = [];
+	const byEquipment = new Map();
+	const byBodyPart = new Map();
+	const byCategory = new Map();
+	let withEs = 0;
+	let withInstructions = 0;
 
 	for (const muscle of muscles) {
 		const dir = path.join(ROOT, muscle);
 		const gifs = fs
 			.readdirSync(dir)
 			.filter((f) => f.toLowerCase().endsWith(".gif"))
-			.sort((a, b) => a.localeCompare(b));
+			.sort();
 
 		const exercises = gifs.map((file) => {
 			const slug = file.replace(/\.gif$/i, "");
 			const relPath = `${muscle}/${file}`;
-			return {
+			const bodyPart = inferBodyPart(muscle);
+			const equipment = inferEquipment(slug);
+			const category = inferCategory(muscle, slug);
+			const name = titleCase(slug);
+
+			const base = {
 				id: `${muscle}/${slug}`,
 				slug,
-				name: titleCase(slug),
+				name,
+				nameEs: translateSlug(slug),
 				muscle,
+				bodyPart,
+				equipment,
+				category,
+				secondaryMuscles: inferSecondary(muscle, slug),
+				instructions: generateInstructions({
+					name,
+					muscle,
+					equipment,
+					category,
+				}),
 				file: relPath,
 				gifUrl: `${BASE_URL}/${relPath}`,
 			};
+
+			const merged = applyOverride(base, loadOverride(muscle, slug));
+
+			if (!isEmpty(merged.nameEs)) withEs++;
+			if (!isEmpty(merged.instructions)) withInstructions++;
+
+			pushTo(byEquipment, merged.equipment, merged);
+			pushTo(byBodyPart, merged.bodyPart, merged);
+			pushTo(byCategory, merged.category, merged);
+
+			return merged;
 		});
 
-		// /api/muscles/<muscle>.json
 		writeJson(path.join(OUT, "muscles", `${muscle}.json`), {
 			muscle,
 			count: exercises.length,
 			exercises,
 		});
 
-		// /api/exercises/<muscle>/<slug>.json
 		for (const ex of exercises) {
 			writeJson(
 				path.join(OUT, "exercises", muscle, `${ex.slug}.json`),
@@ -130,6 +214,10 @@ function main() {
 		allExercises.push(...exercises);
 	}
 
+	dumpGroup("equipment", "equipment", byEquipment);
+	dumpGroup("bodyparts", "bodyPart", byBodyPart);
+	dumpGroup("categories", "category", byCategory);
+
 	writeJson(path.join(OUT, "muscles.json"), muscleSummaries);
 	writeJson(path.join(OUT, "exercises.json"), {
 		count: allExercises.length,
@@ -139,19 +227,38 @@ function main() {
 		name: "Exercise GIF API",
 		baseUrl: BASE_URL,
 		generatedAt: new Date().toISOString(),
-		totalMuscles: muscleSummaries.length,
-		totalExercises: allExercises.length,
+		totals: {
+			muscles: muscleSummaries.length,
+			exercises: allExercises.length,
+			equipment: byEquipment.size,
+			bodyParts: byBodyPart.size,
+			categories: byCategory.size,
+			withSpanishName: withEs,
+			withInstructions,
+		},
 		endpoints: {
 			muscles: "muscles.json",
 			exercises: "exercises.json",
 			muscleDetail: "muscles/{muscle}.json",
 			exerciseDetail: "exercises/{muscle}/{slug}.json",
+			equipmentList: "equipment.json",
+			equipmentDetail: "equipment/{equipment}.json",
+			bodyPartList: "bodyparts.json",
+			bodyPartDetail: "bodyparts/{bodyPart}.json",
+			categoryList: "categories.json",
+			categoryDetail: "categories/{category}.json",
 		},
 		muscles: muscleSummaries,
 	});
 
 	console.log(
 		`OK -> ${muscleSummaries.length} grupos | ${allExercises.length} ejercicios`
+	);
+	console.log(
+		`     equipment=${byEquipment.size} bodyParts=${byBodyPart.size} categories=${byCategory.size}`
+	);
+	console.log(
+		`     con nameEs=${withEs} | con instructions=${withInstructions}`
 	);
 	console.log(`BASE_URL = ${BASE_URL}`);
 	console.log(`Salida:   ${path.relative(ROOT, OUT)}/`);

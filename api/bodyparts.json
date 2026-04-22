@@ -1,0 +1,37 @@
+[
+  {
+    "bodyPart": "arms",
+    "count": 329,
+    "endpoint": "bodyparts/arms.json"
+  },
+  {
+    "bodyPart": "back",
+    "count": 204,
+    "endpoint": "bodyparts/back.json"
+  },
+  {
+    "bodyPart": "cardio",
+    "count": 29,
+    "endpoint": "bodyparts/cardio.json"
+  },
+  {
+    "bodyPart": "chest",
+    "count": 163,
+    "endpoint": "bodyparts/chest.json"
+  },
+  {
+    "bodyPart": "core",
+    "count": 169,
+    "endpoint": "bodyparts/core.json"
+  },
+  {
+    "bodyPart": "legs",
+    "count": 286,
+    "endpoint": "bodyparts/legs.json"
+  },
+  {
+    "bodyPart": "shoulders",
+    "count": 143,
+    "endpoint": "bodyparts/shoulders.json"
+  }
+]

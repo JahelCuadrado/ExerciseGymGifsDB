@@ -2,7 +2,21 @@
   "id": "biceps/dumbbell-prone-incline-curl",
   "slug": "dumbbell-prone-incline-curl",
   "name": "Dumbbell Prone Incline Curl",
+  "nameEs": "Curl tumbado boca abajo inclinado con mancuerna",
   "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+    "Activa el biceps antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "biceps/dumbbell-prone-incline-curl.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-prone-incline-curl.gif"
 }

@@ -2,7 +2,21 @@
   "id": "abs/bridge-mountain-climber-cross-body",
   "slug": "bridge-mountain-climber-cross-body",
   "name": "Bridge Mountain Climber Cross Body",
+  "nameEs": "Escalador cruzado al cuerpo, puente",
   "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "other",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Activa el abs antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "abs/bridge-mountain-climber-cross-body.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/bridge-mountain-climber-cross-body.gif"
 }

@@ -2,7 +2,22 @@
   "id": "pectorals/lever-incline-chest-press",
   "slug": "lever-incline-chest-press",
   "name": "Lever Incline Chest Press",
+  "nameEs": "Press de pecho inclinado en máquina",
   "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Ajusta la máquina a tu medida y selecciona la carga.",
+    "Activa el pectorals antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "pectorals/lever-incline-chest-press.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/lever-incline-chest-press.gif"
 }

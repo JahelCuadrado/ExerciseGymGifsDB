@@ -1,0 +1,590 @@
+{
+  "category": "cardio",
+  "count": 29,
+  "exercises": [
+    {
+      "id": "cardio/astride-jumps-male",
+      "slug": "astride-jumps-male",
+      "name": "Astride Jumps Male",
+      "nameEs": "Saltos, astride male",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/astride-jumps-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/astride-jumps-male.gif"
+    },
+    {
+      "id": "cardio/back-and-forth-step",
+      "slug": "back-and-forth-step",
+      "name": "Back And Forth Step",
+      "nameEs": "Espalda forth step, espalda forth step",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/back-and-forth-step.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/back-and-forth-step.gif"
+    },
+    {
+      "id": "cardio/bear-crawl",
+      "slug": "bear-crawl",
+      "name": "Bear Crawl",
+      "nameEs": "Bear crawl, bear crawl",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/bear-crawl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/bear-crawl.gif"
+    },
+    {
+      "id": "cardio/burpee",
+      "slug": "burpee",
+      "name": "Burpee",
+      "nameEs": "Burpee",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "quads",
+        "glutes",
+        "abs"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/burpee.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/burpee.gif"
+    },
+    {
+      "id": "cardio/cycle-cross-trainer",
+      "slug": "cycle-cross-trainer",
+      "name": "Cycle Cross Trainer",
+      "nameEs": "Cycle cross trainer, cycle cross trainer",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/cycle-cross-trainer.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/cycle-cross-trainer.gif"
+    },
+    {
+      "id": "cardio/dumbbell-burpee",
+      "slug": "dumbbell-burpee",
+      "name": "Dumbbell Burpee",
+      "nameEs": "Burpee con mancuerna",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "dumbbell",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "quads",
+        "glutes",
+        "abs"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/dumbbell-burpee.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/dumbbell-burpee.gif"
+    },
+    {
+      "id": "cardio/half-knee-bends-male",
+      "slug": "half-knee-bends-male",
+      "name": "Half Knee Bends Male",
+      "nameEs": "Medio rodilla bends male, medio rodilla bends male",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/half-knee-bends-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/half-knee-bends-male.gif"
+    },
+    {
+      "id": "cardio/high-knee-against-wall",
+      "slug": "high-knee-against-wall",
+      "name": "High Knee Against Wall",
+      "nameEs": "Rodilla against pared, alto, rodilla against pared",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/high-knee-against-wall.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/high-knee-against-wall.gif"
+    },
+    {
+      "id": "cardio/jack-burpee",
+      "slug": "jack-burpee",
+      "name": "Jack Burpee",
+      "nameEs": "Burpee, jack",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "quads",
+        "glutes",
+        "abs"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/jack-burpee.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/jack-burpee.gif"
+    },
+    {
+      "id": "cardio/jack-jump-male",
+      "slug": "jack-jump-male",
+      "name": "Jack Jump Male",
+      "nameEs": "Salto, jack male",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/jack-jump-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/jack-jump-male.gif"
+    },
+    {
+      "id": "cardio/jump-rope",
+      "slug": "jump-rope",
+      "name": "Jump Rope",
+      "nameEs": "Comba",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/jump-rope.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/jump-rope.gif"
+    },
+    {
+      "id": "cardio/mountain-climber",
+      "slug": "mountain-climber",
+      "name": "Mountain Climber",
+      "nameEs": "Escalador",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/mountain-climber.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/mountain-climber.gif"
+    },
+    {
+      "id": "cardio/push-to-run",
+      "slug": "push-to-run",
+      "name": "Push To Run",
+      "nameEs": "Push correr, push correr",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/push-to-run.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/push-to-run.gif"
+    },
+    {
+      "id": "cardio/run-equipment",
+      "slug": "run-equipment",
+      "name": "Run Equipment",
+      "nameEs": "Correr equipment, correr equipment",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/run-equipment.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/run-equipment.gif"
+    },
+    {
+      "id": "cardio/run",
+      "slug": "run",
+      "name": "Run",
+      "nameEs": "Correr, correr",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/run.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/run.gif"
+    },
+    {
+      "id": "cardio/scissor-jumps-male",
+      "slug": "scissor-jumps-male",
+      "name": "Scissor Jumps Male",
+      "nameEs": "Saltos, scissor male",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/scissor-jumps-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/scissor-jumps-male.gif"
+    },
+    {
+      "id": "cardio/semi-squat-jump-male",
+      "slug": "semi-squat-jump-male",
+      "name": "Semi Squat Jump Male",
+      "nameEs": "Sentadilla, semi jump male",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/semi-squat-jump-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/semi-squat-jump-male.gif"
+    },
+    {
+      "id": "cardio/short-stride-run",
+      "slug": "short-stride-run",
+      "name": "Short Stride Run",
+      "nameEs": "Short stride correr, short stride correr",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/short-stride-run.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/short-stride-run.gif"
+    },
+    {
+      "id": "cardio/skater-hops",
+      "slug": "skater-hops",
+      "name": "Skater Hops",
+      "nameEs": "Skater hops, skater hops",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/skater-hops.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/skater-hops.gif"
+    },
+    {
+      "id": "cardio/ski-step",
+      "slug": "ski-step",
+      "name": "Ski Step",
+      "nameEs": "Ski step, ski step",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/ski-step.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/ski-step.gif"
+    },
+    {
+      "id": "cardio/star-jump-male",
+      "slug": "star-jump-male",
+      "name": "Star Jump Male",
+      "nameEs": "Salto, star male",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/star-jump-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/star-jump-male.gif"
+    },
+    {
+      "id": "cardio/stationary-bike-run-v-3",
+      "slug": "stationary-bike-run-v-3",
+      "name": "Stationary Bike Run v3",
+      "nameEs": "Stationary bike correr, v3, stationary bike correr",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/stationary-bike-run-v-3.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/stationary-bike-run-v-3.gif"
+    },
+    {
+      "id": "cardio/stationary-bike-walk",
+      "slug": "stationary-bike-walk",
+      "name": "Stationary Bike Walk",
+      "nameEs": "Stationary bike caminar, stationary bike caminar",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/stationary-bike-walk.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/stationary-bike-walk.gif"
+    },
+    {
+      "id": "cardio/swing-360",
+      "slug": "swing-360",
+      "name": "Swing 360",
+      "nameEs": "Swing, 360",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/swing-360.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/swing-360.gif"
+    },
+    {
+      "id": "cardio/walk-elliptical-cross-trainer",
+      "slug": "walk-elliptical-cross-trainer",
+      "name": "Walk Elliptical Cross Trainer",
+      "nameEs": "Caminar elíptica cross trainer, caminar elíptica cross trainer",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/walk-elliptical-cross-trainer.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/walk-elliptical-cross-trainer.gif"
+    },
+    {
+      "id": "cardio/walking-high-knees-lunge",
+      "slug": "walking-high-knees-lunge",
+      "name": "Walking High Knees Lunge",
+      "nameEs": "Rodillas altas, caminando lunge",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/walking-high-knees-lunge.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/walking-high-knees-lunge.gif"
+    },
+    {
+      "id": "cardio/walking-on-incline-treadmill",
+      "slug": "walking-on-incline-treadmill",
+      "name": "Walking On Incline Treadmill",
+      "nameEs": "Inclinado, caminando cinta",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/walking-on-incline-treadmill.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/walking-on-incline-treadmill.gif"
+    },
+    {
+      "id": "cardio/walking-on-stepmill",
+      "slug": "walking-on-stepmill",
+      "name": "Walking On Stepmill",
+      "nameEs": "Caminando stepmill, caminando stepmill",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/walking-on-stepmill.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/walking-on-stepmill.gif"
+    },
+    {
+      "id": "cardio/wheel-run",
+      "slug": "wheel-run",
+      "name": "Wheel Run",
+      "nameEs": "Wheel correr, wheel correr",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "other",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/wheel-run.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/wheel-run.gif"
+    }
+  ]
+}

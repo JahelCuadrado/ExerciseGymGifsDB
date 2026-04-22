@@ -2,7 +2,19 @@
   "id": "triceps/ez-bar-lying-close-grip-triceps-extension-behind-head",
   "slug": "ez-bar-lying-close-grip-triceps-extension-behind-head",
   "name": "Ez Bar Lying Close Grip Triceps Extension Behind Head",
+  "nameEs": "Extensión con barra Z, tumbado, con agarre cerrado, tríceps behind head",
   "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "ez-bar",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Carga la barra Z con un peso adecuado y agárrala con firmeza.",
+    "Activa el triceps antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "triceps/ez-bar-lying-close-grip-triceps-extension-behind-head.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/ez-bar-lying-close-grip-triceps-extension-behind-head.gif"
 }

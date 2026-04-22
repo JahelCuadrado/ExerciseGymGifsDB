@@ -2,7 +2,19 @@
   "id": "triceps/dumbbell-tricep-kickback-with-stork-stance",
   "slug": "dumbbell-tricep-kickback-with-stork-stance",
   "name": "Dumbbell Tricep Kickback With Stork Stance",
+  "nameEs": "Patada de tríceps con mancuerna, en postura de cigüeña, tríceps",
   "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+    "Activa el triceps antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "triceps/dumbbell-tricep-kickback-with-stork-stance.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-tricep-kickback-with-stork-stance.gif"
 }

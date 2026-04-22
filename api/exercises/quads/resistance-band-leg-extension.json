@@ -2,7 +2,19 @@
   "id": "quads/resistance-band-leg-extension",
   "slug": "resistance-band-leg-extension",
   "name": "Resistance Band Leg Extension",
+  "nameEs": "Extensión de cuádriceps con banda elástica",
   "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fija la banda elástica y mantén la tensión inicial.",
+    "Activa el quads antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "quads/resistance-band-leg-extension.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/resistance-band-leg-extension.gif"
 }

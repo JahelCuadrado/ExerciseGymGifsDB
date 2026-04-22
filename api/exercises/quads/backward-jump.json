@@ -2,7 +2,18 @@
   "id": "quads/backward-jump",
   "slug": "backward-jump",
   "name": "Backward Jump",
+  "nameEs": "Salto, backward",
   "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "other",
+  "category": "plyometrics",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Realiza una breve flexión para acumular tensión.",
+    "Ejecuta el movimiento de forma explosiva y aterriza con control.",
+    "Aterriza suave amortiguando con piernas y core, y encadena la siguiente repetición."
+  ],
   "file": "quads/backward-jump.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/backward-jump.gif"
 }

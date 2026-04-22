@@ -6,7 +6,19 @@
       "id": "triceps/assisted-standing-triceps-extension-with-towel",
       "slug": "assisted-standing-triceps-extension-with-towel",
       "name": "Assisted Standing Triceps Extension With Towel",
+      "nameEs": "Extensión, de pie, con toalla, assisted tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/assisted-standing-triceps-extension-with-towel.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/assisted-standing-triceps-extension-with-towel.gif"
     },
@@ -14,7 +26,22 @@
       "id": "triceps/assisted-triceps-dip-kneeling",
       "slug": "assisted-triceps-dip-kneeling",
       "name": "Assisted Triceps Dip Kneeling",
+      "nameEs": "Fondo, de rodillas, assisted tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/assisted-triceps-dip-kneeling.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/assisted-triceps-dip-kneeling.gif"
     },
@@ -22,7 +49,21 @@
       "id": "triceps/band-close-grip-push-up",
       "slug": "band-close-grip-push-up",
       "name": "Band Close Grip Push Up",
+      "nameEs": "Flexión con banda, con agarre cerrado",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Fija la banda elástica y mantén la tensión inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/band-close-grip-push-up.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/band-close-grip-push-up.gif"
     },
@@ -30,7 +71,19 @@
       "id": "triceps/band-side-triceps-extension",
       "slug": "band-side-triceps-extension",
       "name": "Band Side Triceps Extension",
+      "nameEs": "Extensión con banda, lateral, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fija la banda elástica y mantén la tensión inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/band-side-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/band-side-triceps-extension.gif"
     },
@@ -38,7 +91,21 @@
       "id": "triceps/barbell-close-grip-bench-press",
       "slug": "barbell-close-grip-bench-press",
       "name": "Barbell Close Grip Bench Press",
+      "nameEs": "Press de banca con barra, con agarre cerrado",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/barbell-close-grip-bench-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-close-grip-bench-press.gif"
     },
@@ -46,7 +113,21 @@
       "id": "triceps/barbell-decline-close-grip-to-skull-press",
       "slug": "barbell-decline-close-grip-to-skull-press",
       "name": "Barbell Decline Close Grip To Skull Press",
+      "nameEs": "Press declinado con barra, con agarre cerrado, skull",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/barbell-decline-close-grip-to-skull-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-decline-close-grip-to-skull-press.gif"
     },
@@ -54,7 +135,21 @@
       "id": "triceps/barbell-incline-close-grip-bench-press",
       "slug": "barbell-incline-close-grip-bench-press",
       "name": "Barbell Incline Close Grip Bench Press",
+      "nameEs": "Press de banca inclinado con barra, con agarre cerrado",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/barbell-incline-close-grip-bench-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-incline-close-grip-bench-press.gif"
     },
@@ -62,7 +157,21 @@
       "id": "triceps/barbell-incline-reverse-grip-press",
       "slug": "barbell-incline-reverse-grip-press",
       "name": "Barbell Incline Reverse Grip Press",
+      "nameEs": "Press inclinado con barra, con agarre invertido",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/barbell-incline-reverse-grip-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-incline-reverse-grip-press.gif"
     },
@@ -70,7 +179,21 @@
       "id": "triceps/barbell-jm-bench-press",
       "slug": "barbell-jm-bench-press",
       "name": "Barbell Jm Bench Press",
+      "nameEs": "Press de banca con barra, jm",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/barbell-jm-bench-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-jm-bench-press.gif"
     },
@@ -78,7 +201,19 @@
       "id": "triceps/barbell-lying-back-of-the-head-tricep-extension",
       "slug": "barbell-lying-back-of-the-head-tricep-extension",
       "name": "Barbell Lying Back Of The Head Tricep Extension",
+      "nameEs": "Extensión con barra, tumbado, espalda head tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/barbell-lying-back-of-the-head-tricep-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-lying-back-of-the-head-tricep-extension.gif"
     },
@@ -86,7 +221,21 @@
       "id": "triceps/barbell-lying-close-grip-press",
       "slug": "barbell-lying-close-grip-press",
       "name": "Barbell Lying Close Grip Press",
+      "nameEs": "Press con barra, tumbado, con agarre cerrado",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/barbell-lying-close-grip-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-lying-close-grip-press.gif"
     },
@@ -94,7 +243,19 @@
       "id": "triceps/barbell-lying-close-grip-triceps-extension",
       "slug": "barbell-lying-close-grip-triceps-extension",
       "name": "Barbell Lying Close Grip Triceps Extension",
+      "nameEs": "Extensión con barra, tumbado, con agarre cerrado, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/barbell-lying-close-grip-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-lying-close-grip-triceps-extension.gif"
     },
@@ -102,7 +263,19 @@
       "id": "triceps/barbell-lying-extension",
       "slug": "barbell-lying-extension",
       "name": "Barbell Lying Extension",
+      "nameEs": "Extensión con barra, tumbado",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/barbell-lying-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-lying-extension.gif"
     },
@@ -110,7 +283,19 @@
       "id": "triceps/barbell-lying-triceps-extension-skull-crusher",
       "slug": "barbell-lying-triceps-extension-skull-crusher",
       "name": "Barbell Lying Triceps Extension Skull Crusher",
+      "nameEs": "Rompecráneos con barra, tumbado, tríceps extension",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/barbell-lying-triceps-extension-skull-crusher.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-lying-triceps-extension-skull-crusher.gif"
     },
@@ -118,7 +303,19 @@
       "id": "triceps/barbell-lying-triceps-extension",
       "slug": "barbell-lying-triceps-extension",
       "name": "Barbell Lying Triceps Extension",
+      "nameEs": "Extensión con barra, tumbado, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/barbell-lying-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-lying-triceps-extension.gif"
     },
@@ -126,7 +323,21 @@
       "id": "triceps/barbell-one-arm-floor-press",
       "slug": "barbell-one-arm-floor-press",
       "name": "Barbell One Arm Floor Press",
+      "nameEs": "Press en el suelo con barra, a una mano",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/barbell-one-arm-floor-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-one-arm-floor-press.gif"
     },
@@ -134,7 +345,21 @@
       "id": "triceps/barbell-pin-presses",
       "slug": "barbell-pin-presses",
       "name": "Barbell Pin Presses",
+      "nameEs": "Con barra, pin presses",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/barbell-pin-presses.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-pin-presses.gif"
     },
@@ -142,7 +367,21 @@
       "id": "triceps/barbell-reverse-close-grip-bench-press",
       "slug": "barbell-reverse-close-grip-bench-press",
       "name": "Barbell Reverse Close Grip Bench Press",
+      "nameEs": "Press de banca invertido con barra, con agarre cerrado",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/barbell-reverse-close-grip-bench-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-reverse-close-grip-bench-press.gif"
     },
@@ -150,7 +389,19 @@
       "id": "triceps/barbell-reverse-grip-skullcrusher",
       "slug": "barbell-reverse-grip-skullcrusher",
       "name": "Barbell Reverse Grip Skullcrusher",
+      "nameEs": "Con barra, con agarre invertido, skullcrusher",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/barbell-reverse-grip-skullcrusher.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-reverse-grip-skullcrusher.gif"
     },
@@ -158,7 +409,19 @@
       "id": "triceps/barbell-seated-close-grip-behind-neck-triceps-extension",
       "slug": "barbell-seated-close-grip-behind-neck-triceps-extension",
       "name": "Barbell Seated Close Grip Behind Neck Triceps Extension",
+      "nameEs": "Extensión con barra, sentado, con agarre cerrado, behind neck tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/barbell-seated-close-grip-behind-neck-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-seated-close-grip-behind-neck-triceps-extension.gif"
     },
@@ -166,7 +429,19 @@
       "id": "triceps/barbell-seated-overhead-triceps-extension",
       "slug": "barbell-seated-overhead-triceps-extension",
       "name": "Barbell Seated Overhead Triceps Extension",
+      "nameEs": "Extensión sobre la cabeza con barra, sentado, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/barbell-seated-overhead-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-seated-overhead-triceps-extension.gif"
     },
@@ -174,7 +449,19 @@
       "id": "triceps/barbell-standing-overhead-triceps-extension",
       "slug": "barbell-standing-overhead-triceps-extension",
       "name": "Barbell Standing Overhead Triceps Extension",
+      "nameEs": "Extensión sobre la cabeza con barra, de pie, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/barbell-standing-overhead-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-standing-overhead-triceps-extension.gif"
     },
@@ -182,7 +469,22 @@
       "id": "triceps/bench-dip-knees-bent",
       "slug": "bench-dip-knees-bent",
       "name": "Bench Dip Knees Bent",
+      "nameEs": "Fondo, banco rodillas doblado",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/bench-dip-knees-bent.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/bench-dip-knees-bent.gif"
     },
@@ -190,7 +492,22 @@
       "id": "triceps/bench-dip-on-floor",
       "slug": "bench-dip-on-floor",
       "name": "Bench Dip On Floor",
+      "nameEs": "Fondo, banco suelo",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/bench-dip-on-floor.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/bench-dip-on-floor.gif"
     },
@@ -198,7 +515,19 @@
       "id": "triceps/body-up",
       "slug": "body-up",
       "name": "Body Up",
+      "nameEs": "Body up, body up",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/body-up.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/body-up.gif"
     },
@@ -206,7 +535,19 @@
       "id": "triceps/bodyweight-kneeling-triceps-extension",
       "slug": "bodyweight-kneeling-triceps-extension",
       "name": "Bodyweight Kneeling Triceps Extension",
+      "nameEs": "Extensión con peso corporal, de rodillas, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/bodyweight-kneeling-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/bodyweight-kneeling-triceps-extension.gif"
     },
@@ -214,7 +555,19 @@
       "id": "triceps/cable-alternate-triceps-extension",
       "slug": "cable-alternate-triceps-extension",
       "name": "Cable Alternate Triceps Extension",
+      "nameEs": "Extensión en polea, alternado, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/cable-alternate-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-alternate-triceps-extension.gif"
     },
@@ -222,7 +575,19 @@
       "id": "triceps/cable-concentration-extension-on-knee",
       "slug": "cable-concentration-extension-on-knee",
       "name": "Cable Concentration Extension On Knee",
+      "nameEs": "Extensión concentrado en polea, rodilla",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/cable-concentration-extension-on-knee.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-concentration-extension-on-knee.gif"
     },
@@ -230,7 +595,19 @@
       "id": "triceps/cable-high-pulley-overhead-tricep-extension",
       "slug": "cable-high-pulley-overhead-tricep-extension",
       "name": "Cable High Pulley Overhead Tricep Extension",
+      "nameEs": "Extensión sobre la cabeza en polea, alto, pulley tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/cable-high-pulley-overhead-tricep-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-high-pulley-overhead-tricep-extension.gif"
     },
@@ -238,7 +615,19 @@
       "id": "triceps/cable-incline-triceps-extension",
       "slug": "cable-incline-triceps-extension",
       "name": "Cable Incline Triceps Extension",
+      "nameEs": "Extensión inclinado en polea, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/cable-incline-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-incline-triceps-extension.gif"
     },
@@ -246,7 +635,19 @@
       "id": "triceps/cable-kickback",
       "slug": "cable-kickback",
       "name": "Cable Kickback",
+      "nameEs": "Patada de tríceps en polea",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/cable-kickback.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-kickback.gif"
     },
@@ -254,7 +655,19 @@
       "id": "triceps/cable-kneeling-triceps-extension",
       "slug": "cable-kneeling-triceps-extension",
       "name": "Cable Kneeling Triceps Extension",
+      "nameEs": "Extensión en polea, de rodillas, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/cable-kneeling-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-kneeling-triceps-extension.gif"
     },
@@ -262,7 +675,19 @@
       "id": "triceps/cable-lying-triceps-extension-v-2",
       "slug": "cable-lying-triceps-extension-v-2",
       "name": "Cable Lying Triceps Extension v2",
+      "nameEs": "Extensión en polea, tumbado, v2, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/cable-lying-triceps-extension-v-2.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-lying-triceps-extension-v-2.gif"
     },
@@ -270,7 +695,19 @@
       "id": "triceps/cable-one-arm-tricep-pushdown",
       "slug": "cable-one-arm-tricep-pushdown",
       "name": "Cable One Arm Tricep Pushdown",
+      "nameEs": "Pushdown en polea, a una mano, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/cable-one-arm-tricep-pushdown.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-one-arm-tricep-pushdown.gif"
     },
@@ -278,7 +715,19 @@
       "id": "triceps/cable-overhead-triceps-extension-rope-attachment",
       "slug": "cable-overhead-triceps-extension-rope-attachment",
       "name": "Cable Overhead Triceps Extension Rope Attachment",
+      "nameEs": "Extensión sobre la cabeza en polea con cuerda, tríceps attachment",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/cable-overhead-triceps-extension-rope-attachment.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-overhead-triceps-extension-rope-attachment.gif"
     },
@@ -286,7 +735,19 @@
       "id": "triceps/cable-pushdown-with-rope-attachment",
       "slug": "cable-pushdown-with-rope-attachment",
       "name": "Cable Pushdown With Rope Attachment",
+      "nameEs": "Pushdown en polea, con cuerda, attachment",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/cable-pushdown-with-rope-attachment.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-pushdown-with-rope-attachment.gif"
     },
@@ -294,7 +755,19 @@
       "id": "triceps/cable-pushdown",
       "slug": "cable-pushdown",
       "name": "Cable Pushdown",
+      "nameEs": "Pushdown en polea",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/cable-pushdown.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-pushdown.gif"
     },
@@ -302,7 +775,19 @@
       "id": "triceps/cable-rear-drive",
       "slug": "cable-rear-drive",
       "name": "Cable Rear Drive",
+      "nameEs": "En polea, posterior, drive",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/cable-rear-drive.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-rear-drive.gif"
     },
@@ -310,7 +795,19 @@
       "id": "triceps/cable-reverse-grip-pushdown",
       "slug": "cable-reverse-grip-pushdown",
       "name": "Cable Reverse Grip Pushdown",
+      "nameEs": "Pushdown en polea, con agarre invertido",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/cable-reverse-grip-pushdown.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-reverse-grip-pushdown.gif"
     },
@@ -318,7 +815,19 @@
       "id": "triceps/cable-reverse-grip-triceps-pushdown-sz-bar-with-arm-blaster",
       "slug": "cable-reverse-grip-triceps-pushdown-sz-bar-with-arm-blaster",
       "name": "Cable Reverse Grip Triceps Pushdown Sz Bar With Arm Blaster",
+      "nameEs": "Pushdown en polea, con agarre invertido, con arm blaster, tríceps sz barra",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/cable-reverse-grip-triceps-pushdown-sz-bar-with-arm-blaster.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-reverse-grip-triceps-pushdown-sz-bar-with-arm-blaster.gif"
     },
@@ -326,7 +835,19 @@
       "id": "triceps/cable-rope-high-pulley-overhead-tricep-extension",
       "slug": "cable-rope-high-pulley-overhead-tricep-extension",
       "name": "Cable Rope High Pulley Overhead Tricep Extension",
+      "nameEs": "Extensión sobre la cabeza en polea con cuerda, alto, pulley tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/cable-rope-high-pulley-overhead-tricep-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-rope-high-pulley-overhead-tricep-extension.gif"
     },
@@ -334,7 +855,19 @@
       "id": "triceps/cable-rope-incline-tricep-extension",
       "slug": "cable-rope-incline-tricep-extension",
       "name": "Cable Rope Incline Tricep Extension",
+      "nameEs": "Extensión inclinado en polea con cuerda, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/cable-rope-incline-tricep-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-rope-incline-tricep-extension.gif"
     },
@@ -342,7 +875,19 @@
       "id": "triceps/cable-rope-lying-on-floor-tricep-extension",
       "slug": "cable-rope-lying-on-floor-tricep-extension",
       "name": "Cable Rope Lying On Floor Tricep Extension",
+      "nameEs": "Extensión en polea con cuerda, tumbado, suelo tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/cable-rope-lying-on-floor-tricep-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-rope-lying-on-floor-tricep-extension.gif"
     },
@@ -350,7 +895,19 @@
       "id": "triceps/cable-standing-one-arm-triceps-extension",
       "slug": "cable-standing-one-arm-triceps-extension",
       "name": "Cable Standing One Arm Triceps Extension",
+      "nameEs": "Extensión en polea, de pie, a una mano, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/cable-standing-one-arm-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-standing-one-arm-triceps-extension.gif"
     },
@@ -358,7 +915,19 @@
       "id": "triceps/cable-standing-reverse-grip-one-arm-overhead-tricep-extension",
       "slug": "cable-standing-reverse-grip-one-arm-overhead-tricep-extension",
       "name": "Cable Standing Reverse Grip One Arm Overhead Tricep Extension",
+      "nameEs": "Extensión sobre la cabeza en polea, de pie, con agarre invertido, a una mano, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/cable-standing-reverse-grip-one-arm-overhead-tricep-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-standing-reverse-grip-one-arm-overhead-tricep-extension.gif"
     },
@@ -366,7 +935,19 @@
       "id": "triceps/cable-triceps-pushdown-v-bar-with-arm-blaster",
       "slug": "cable-triceps-pushdown-v-bar-with-arm-blaster",
       "name": "Cable Triceps Pushdown V Bar With Arm Blaster",
+      "nameEs": "Pushdown en polea con barra en V, con arm blaster, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/cable-triceps-pushdown-v-bar-with-arm-blaster.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-triceps-pushdown-v-bar-with-arm-blaster.gif"
     },
@@ -374,7 +955,19 @@
       "id": "triceps/cable-triceps-pushdown-v-bar",
       "slug": "cable-triceps-pushdown-v-bar",
       "name": "Cable Triceps Pushdown V Bar",
+      "nameEs": "Pushdown en polea con barra en V, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/cable-triceps-pushdown-v-bar.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-triceps-pushdown-v-bar.gif"
     },
@@ -382,7 +975,19 @@
       "id": "triceps/cable-two-arm-tricep-kickback",
       "slug": "cable-two-arm-tricep-kickback",
       "name": "Cable Two Arm Tricep Kickback",
+      "nameEs": "Patada de tríceps en polea, a dos manos, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/cable-two-arm-tricep-kickback.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-two-arm-tricep-kickback.gif"
     },
@@ -390,7 +995,21 @@
       "id": "triceps/close-grip-push-up-on-knees",
       "slug": "close-grip-push-up-on-knees",
       "name": "Close Grip Push Up On Knees",
+      "nameEs": "Flexión, con agarre cerrado, rodillas",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/close-grip-push-up-on-knees.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/close-grip-push-up-on-knees.gif"
     },
@@ -398,7 +1017,21 @@
       "id": "triceps/close-grip-push-up",
       "slug": "close-grip-push-up",
       "name": "Close Grip Push Up",
+      "nameEs": "Flexión, con agarre cerrado",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/close-grip-push-up.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/close-grip-push-up.gif"
     },
@@ -406,7 +1039,21 @@
       "id": "triceps/diamond-push-up",
       "slug": "diamond-push-up",
       "name": "Diamond Push Up",
+      "nameEs": "Flexión, diamond",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/diamond-push-up.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/diamond-push-up.gif"
     },
@@ -414,7 +1061,21 @@
       "id": "triceps/dumbbell-close-grip-press-1731",
       "slug": "dumbbell-close-grip-press-1731",
       "name": "Dumbbell Close Grip Press 1731",
+      "nameEs": "Press con mancuerna, con agarre cerrado, 1731",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-close-grip-press-1731.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-close-grip-press-1731.gif"
     },
@@ -422,7 +1083,21 @@
       "id": "triceps/dumbbell-close-grip-press",
       "slug": "dumbbell-close-grip-press",
       "name": "Dumbbell Close Grip Press",
+      "nameEs": "Press con mancuerna, con agarre cerrado",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-close-grip-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-close-grip-press.gif"
     },
@@ -430,7 +1105,21 @@
       "id": "triceps/dumbbell-decline-one-arm-hammer-press",
       "slug": "dumbbell-decline-one-arm-hammer-press",
       "name": "Dumbbell Decline One Arm Hammer Press",
+      "nameEs": "Press declinado martillo con mancuerna, a una mano",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-decline-one-arm-hammer-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-decline-one-arm-hammer-press.gif"
     },
@@ -438,7 +1127,19 @@
       "id": "triceps/dumbbell-decline-triceps-extension",
       "slug": "dumbbell-decline-triceps-extension",
       "name": "Dumbbell Decline Triceps Extension",
+      "nameEs": "Extensión declinado con mancuerna, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-decline-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-decline-triceps-extension.gif"
     },
@@ -446,7 +1147,23 @@
       "id": "triceps/dumbbell-forward-lunge-triceps-extension",
       "slug": "dumbbell-forward-lunge-triceps-extension",
       "name": "Dumbbell Forward Lunge Triceps Extension",
+      "nameEs": "Zancada con mancuerna, forward tríceps extension",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-forward-lunge-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-forward-lunge-triceps-extension.gif"
     },
@@ -454,7 +1171,21 @@
       "id": "triceps/dumbbell-incline-hammer-press-on-exercise-ball",
       "slug": "dumbbell-incline-hammer-press-on-exercise-ball",
       "name": "Dumbbell Incline Hammer Press On Exercise Ball",
+      "nameEs": "Press inclinado martillo con mancuerna, en fitball",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-incline-hammer-press-on-exercise-ball.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-incline-hammer-press-on-exercise-ball.gif"
     },
@@ -462,7 +1193,21 @@
       "id": "triceps/dumbbell-incline-one-arm-hammer-press-on-exercise-ball",
       "slug": "dumbbell-incline-one-arm-hammer-press-on-exercise-ball",
       "name": "Dumbbell Incline One Arm Hammer Press On Exercise Ball",
+      "nameEs": "Press inclinado martillo con mancuerna, a una mano en fitball",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-incline-one-arm-hammer-press-on-exercise-ball.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-incline-one-arm-hammer-press-on-exercise-ball.gif"
     },
@@ -470,7 +1215,21 @@
       "id": "triceps/dumbbell-incline-one-arm-hammer-press",
       "slug": "dumbbell-incline-one-arm-hammer-press",
       "name": "Dumbbell Incline One Arm Hammer Press",
+      "nameEs": "Press inclinado martillo con mancuerna, a una mano",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-incline-one-arm-hammer-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-incline-one-arm-hammer-press.gif"
     },
@@ -478,7 +1237,19 @@
       "id": "triceps/dumbbell-incline-triceps-extension",
       "slug": "dumbbell-incline-triceps-extension",
       "name": "Dumbbell Incline Triceps Extension",
+      "nameEs": "Extensión inclinado con mancuerna, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-incline-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-incline-triceps-extension.gif"
     },
@@ -486,7 +1257,19 @@
       "id": "triceps/dumbbell-incline-two-arm-extension",
       "slug": "dumbbell-incline-two-arm-extension",
       "name": "Dumbbell Incline Two Arm Extension",
+      "nameEs": "Extensión inclinado con mancuerna, a dos manos",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-incline-two-arm-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-incline-two-arm-extension.gif"
     },
@@ -494,7 +1277,19 @@
       "id": "triceps/dumbbell-kickback",
       "slug": "dumbbell-kickback",
       "name": "Dumbbell Kickback",
+      "nameEs": "Patada de tríceps con mancuerna",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-kickback.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-kickback.gif"
     },
@@ -502,7 +1297,19 @@
       "id": "triceps/dumbbell-kickbacks-on-exercise-ball",
       "slug": "dumbbell-kickbacks-on-exercise-ball",
       "name": "Dumbbell Kickbacks On Exercise Ball",
+      "nameEs": "Patadas de tríceps con mancuerna, en fitball",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-kickbacks-on-exercise-ball.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-kickbacks-on-exercise-ball.gif"
     },
@@ -510,7 +1317,19 @@
       "id": "triceps/dumbbell-lying-alternate-extension",
       "slug": "dumbbell-lying-alternate-extension",
       "name": "Dumbbell Lying Alternate Extension",
+      "nameEs": "Extensión con mancuerna, tumbado, alternado",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-lying-alternate-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-lying-alternate-extension.gif"
     },
@@ -518,7 +1337,21 @@
       "id": "triceps/dumbbell-lying-elbow-press",
       "slug": "dumbbell-lying-elbow-press",
       "name": "Dumbbell Lying Elbow Press",
+      "nameEs": "Press con mancuerna, tumbado, elbow",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-lying-elbow-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-lying-elbow-press.gif"
     },
@@ -526,7 +1359,19 @@
       "id": "triceps/dumbbell-lying-extension-across-face",
       "slug": "dumbbell-lying-extension-across-face",
       "name": "Dumbbell Lying Extension Across Face",
+      "nameEs": "Extensión con mancuerna, tumbado, across face",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-lying-extension-across-face.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-lying-extension-across-face.gif"
     },
@@ -534,7 +1379,19 @@
       "id": "triceps/dumbbell-lying-one-arm-pronated-triceps-extension",
       "slug": "dumbbell-lying-one-arm-pronated-triceps-extension",
       "name": "Dumbbell Lying One Arm Pronated Triceps Extension",
+      "nameEs": "Extensión con mancuerna, tumbado, a una mano, pronated tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-lying-one-arm-pronated-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-lying-one-arm-pronated-triceps-extension.gif"
     },
@@ -542,7 +1399,19 @@
       "id": "triceps/dumbbell-lying-one-arm-supinated-triceps-extension",
       "slug": "dumbbell-lying-one-arm-supinated-triceps-extension",
       "name": "Dumbbell Lying One Arm Supinated Triceps Extension",
+      "nameEs": "Extensión con mancuerna, tumbado, a una mano, supinated tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-lying-one-arm-supinated-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-lying-one-arm-supinated-triceps-extension.gif"
     },
@@ -550,7 +1419,19 @@
       "id": "triceps/dumbbell-lying-single-extension",
       "slug": "dumbbell-lying-single-extension",
       "name": "Dumbbell Lying Single Extension",
+      "nameEs": "Extensión con mancuerna, tumbado, individual",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-lying-single-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-lying-single-extension.gif"
     },
@@ -558,7 +1439,19 @@
       "id": "triceps/dumbbell-lying-triceps-extension",
       "slug": "dumbbell-lying-triceps-extension",
       "name": "Dumbbell Lying Triceps Extension",
+      "nameEs": "Extensión con mancuerna, tumbado, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-lying-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-lying-triceps-extension.gif"
     },
@@ -566,7 +1459,21 @@
       "id": "triceps/dumbbell-neutral-grip-bench-press",
       "slug": "dumbbell-neutral-grip-bench-press",
       "name": "Dumbbell Neutral Grip Bench Press",
+      "nameEs": "Press de banca con mancuerna, con agarre neutro",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-neutral-grip-bench-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-neutral-grip-bench-press.gif"
     },
@@ -574,7 +1481,21 @@
       "id": "triceps/dumbbell-one-arm-french-press-on-exercise-ball",
       "slug": "dumbbell-one-arm-french-press-on-exercise-ball",
       "name": "Dumbbell One Arm French Press On Exercise Ball",
+      "nameEs": "Press con mancuerna, a una mano en fitball, french",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-one-arm-french-press-on-exercise-ball.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-one-arm-french-press-on-exercise-ball.gif"
     },
@@ -582,7 +1503,21 @@
       "id": "triceps/dumbbell-one-arm-hammer-press-on-exercise-ball",
       "slug": "dumbbell-one-arm-hammer-press-on-exercise-ball",
       "name": "Dumbbell One Arm Hammer Press On Exercise Ball",
+      "nameEs": "Press martillo con mancuerna, a una mano en fitball",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-one-arm-hammer-press-on-exercise-ball.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-one-arm-hammer-press-on-exercise-ball.gif"
     },
@@ -590,7 +1525,19 @@
       "id": "triceps/dumbbell-one-arm-kickback",
       "slug": "dumbbell-one-arm-kickback",
       "name": "Dumbbell One Arm Kickback",
+      "nameEs": "Patada de tríceps con mancuerna, a una mano",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-one-arm-kickback.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-one-arm-kickback.gif"
     },
@@ -598,7 +1545,19 @@
       "id": "triceps/dumbbell-one-arm-triceps-extension-on-bench",
       "slug": "dumbbell-one-arm-triceps-extension-on-bench",
       "name": "Dumbbell One Arm Triceps Extension On Bench",
+      "nameEs": "Extensión con mancuerna, a una mano, tríceps banco",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-one-arm-triceps-extension-on-bench.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-one-arm-triceps-extension-on-bench.gif"
     },
@@ -606,7 +1565,21 @@
       "id": "triceps/dumbbell-palms-in-incline-bench-press",
       "slug": "dumbbell-palms-in-incline-bench-press",
       "name": "Dumbbell Palms In Incline Bench Press",
+      "nameEs": "Press de banca inclinado con mancuerna, palms",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-palms-in-incline-bench-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-palms-in-incline-bench-press.gif"
     },
@@ -614,7 +1587,19 @@
       "id": "triceps/dumbbell-pronate-grip-triceps-extension",
       "slug": "dumbbell-pronate-grip-triceps-extension",
       "name": "Dumbbell Pronate Grip Triceps Extension",
+      "nameEs": "Extensión con mancuerna, pronate tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-pronate-grip-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-pronate-grip-triceps-extension.gif"
     },
@@ -622,7 +1607,19 @@
       "id": "triceps/dumbbell-seated-bench-extension",
       "slug": "dumbbell-seated-bench-extension",
       "name": "Dumbbell Seated Bench Extension",
+      "nameEs": "Extensión con mancuerna, sentado, banco",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-seated-bench-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-seated-bench-extension.gif"
     },
@@ -630,7 +1627,19 @@
       "id": "triceps/dumbbell-seated-bent-over-alternate-kickback",
       "slug": "dumbbell-seated-bent-over-alternate-kickback",
       "name": "Dumbbell Seated Bent Over Alternate Kickback",
+      "nameEs": "Patada de tríceps con mancuerna, sentado, alternado, doblado over",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-seated-bent-over-alternate-kickback.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-seated-bent-over-alternate-kickback.gif"
     },
@@ -638,7 +1647,19 @@
       "id": "triceps/dumbbell-seated-bent-over-triceps-extension",
       "slug": "dumbbell-seated-bent-over-triceps-extension",
       "name": "Dumbbell Seated Bent Over Triceps Extension",
+      "nameEs": "Extensión con mancuerna, sentado, doblado over tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-seated-bent-over-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-seated-bent-over-triceps-extension.gif"
     },
@@ -646,7 +1667,19 @@
       "id": "triceps/dumbbell-seated-kickback",
       "slug": "dumbbell-seated-kickback",
       "name": "Dumbbell Seated Kickback",
+      "nameEs": "Patada de tríceps con mancuerna, sentado",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-seated-kickback.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-seated-kickback.gif"
     },
@@ -654,7 +1687,19 @@
       "id": "triceps/dumbbell-seated-one-arm-kickback",
       "slug": "dumbbell-seated-one-arm-kickback",
       "name": "Dumbbell Seated One Arm Kickback",
+      "nameEs": "Patada de tríceps con mancuerna, sentado, a una mano",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-seated-one-arm-kickback.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-seated-one-arm-kickback.gif"
     },
@@ -662,7 +1707,19 @@
       "id": "triceps/dumbbell-seated-reverse-grip-one-arm-overhead-tricep-extension",
       "slug": "dumbbell-seated-reverse-grip-one-arm-overhead-tricep-extension",
       "name": "Dumbbell Seated Reverse Grip One Arm Overhead Tricep Extension",
+      "nameEs": "Extensión sobre la cabeza con mancuerna, sentado, con agarre invertido, a una mano, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-seated-reverse-grip-one-arm-overhead-tricep-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-seated-reverse-grip-one-arm-overhead-tricep-extension.gif"
     },
@@ -670,7 +1727,19 @@
       "id": "triceps/dumbbell-seated-triceps-extension",
       "slug": "dumbbell-seated-triceps-extension",
       "name": "Dumbbell Seated Triceps Extension",
+      "nameEs": "Extensión con mancuerna, sentado, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-seated-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-seated-triceps-extension.gif"
     },
@@ -678,7 +1747,19 @@
       "id": "triceps/dumbbell-standing-alternating-tricep-kickback",
       "slug": "dumbbell-standing-alternating-tricep-kickback",
       "name": "Dumbbell Standing Alternating Tricep Kickback",
+      "nameEs": "Patada de tríceps con mancuerna, de pie, alternado, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-standing-alternating-tricep-kickback.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-standing-alternating-tricep-kickback.gif"
     },
@@ -686,7 +1767,19 @@
       "id": "triceps/dumbbell-standing-bent-over-one-arm-triceps-extension",
       "slug": "dumbbell-standing-bent-over-one-arm-triceps-extension",
       "name": "Dumbbell Standing Bent Over One Arm Triceps Extension",
+      "nameEs": "Extensión con mancuerna, de pie, a una mano, doblado over tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-standing-bent-over-one-arm-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-standing-bent-over-one-arm-triceps-extension.gif"
     },
@@ -694,7 +1787,19 @@
       "id": "triceps/dumbbell-standing-bent-over-two-arm-triceps-extension",
       "slug": "dumbbell-standing-bent-over-two-arm-triceps-extension",
       "name": "Dumbbell Standing Bent Over Two Arm Triceps Extension",
+      "nameEs": "Extensión con mancuerna, de pie, a dos manos, doblado over tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-standing-bent-over-two-arm-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-standing-bent-over-two-arm-triceps-extension.gif"
     },
@@ -702,7 +1807,19 @@
       "id": "triceps/dumbbell-standing-kickback",
       "slug": "dumbbell-standing-kickback",
       "name": "Dumbbell Standing Kickback",
+      "nameEs": "Patada de tríceps con mancuerna, de pie",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-standing-kickback.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-standing-kickback.gif"
     },
@@ -710,7 +1827,19 @@
       "id": "triceps/dumbbell-standing-one-arm-extension",
       "slug": "dumbbell-standing-one-arm-extension",
       "name": "Dumbbell Standing One Arm Extension",
+      "nameEs": "Extensión con mancuerna, de pie, a una mano",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-standing-one-arm-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-standing-one-arm-extension.gif"
     },
@@ -718,7 +1847,19 @@
       "id": "triceps/dumbbell-standing-triceps-extension",
       "slug": "dumbbell-standing-triceps-extension",
       "name": "Dumbbell Standing Triceps Extension",
+      "nameEs": "Extensión con mancuerna, de pie, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-standing-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-standing-triceps-extension.gif"
     },
@@ -726,7 +1867,21 @@
       "id": "triceps/dumbbell-tate-press",
       "slug": "dumbbell-tate-press",
       "name": "Dumbbell Tate Press",
+      "nameEs": "Press con mancuerna, tate",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-tate-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-tate-press.gif"
     },
@@ -734,7 +1889,19 @@
       "id": "triceps/dumbbell-tricep-kickback-with-stork-stance",
       "slug": "dumbbell-tricep-kickback-with-stork-stance",
       "name": "Dumbbell Tricep Kickback With Stork Stance",
+      "nameEs": "Patada de tríceps con mancuerna, en postura de cigüeña, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-tricep-kickback-with-stork-stance.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-tricep-kickback-with-stork-stance.gif"
     },
@@ -742,7 +1909,21 @@
       "id": "triceps/dumbbell-twisting-bench-press",
       "slug": "dumbbell-twisting-bench-press",
       "name": "Dumbbell Twisting Bench Press",
+      "nameEs": "Press de banca con mancuerna, twisting",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbell-twisting-bench-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-twisting-bench-press.gif"
     },
@@ -750,7 +1931,19 @@
       "id": "triceps/dumbbells-seated-triceps-extension",
       "slug": "dumbbells-seated-triceps-extension",
       "name": "Dumbbells Seated Triceps Extension",
+      "nameEs": "Extensión con mancuernas, sentado, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/dumbbells-seated-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbells-seated-triceps-extension.gif"
     },
@@ -758,7 +1951,22 @@
       "id": "triceps/elbow-dips",
       "slug": "elbow-dips",
       "name": "Elbow Dips",
+      "nameEs": "Fondos, elbow",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/elbow-dips.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/elbow-dips.gif"
     },
@@ -766,7 +1974,22 @@
       "id": "triceps/exercise-ball-dip",
       "slug": "exercise-ball-dip",
       "name": "Exercise Ball Dip",
+      "nameEs": "Fondo en fitball",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/exercise-ball-dip.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/exercise-ball-dip.gif"
     },
@@ -774,7 +1997,18 @@
       "id": "triceps/exercise-ball-seated-triceps-stretch",
       "slug": "exercise-ball-seated-triceps-stretch",
       "name": "Exercise Ball Seated Triceps Stretch",
+      "nameEs": "Estiramiento en fitball, sentado, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Lleva el cuerpo a la posición de estiramiento del triceps.",
+        "Mantén entre 20 y 40 segundos respirando de forma profunda.",
+        "Vuelve a la posición inicial lentamente y repite si lo deseas."
+      ],
       "file": "triceps/exercise-ball-seated-triceps-stretch.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/exercise-ball-seated-triceps-stretch.gif"
     },
@@ -782,7 +2016,19 @@
       "id": "triceps/exercise-ball-supine-triceps-extension",
       "slug": "exercise-ball-supine-triceps-extension",
       "name": "Exercise Ball Supine Triceps Extension",
+      "nameEs": "Extensión tumbado boca arriba en fitball, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/exercise-ball-supine-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/exercise-ball-supine-triceps-extension.gif"
     },
@@ -790,7 +2036,21 @@
       "id": "triceps/ez-bar-close-grip-bench-press",
       "slug": "ez-bar-close-grip-bench-press",
       "name": "Ez Bar Close Grip Bench Press",
+      "nameEs": "Press de banca con barra Z, con agarre cerrado",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Carga la barra Z con un peso adecuado y agárrala con firmeza.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/ez-bar-close-grip-bench-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/ez-bar-close-grip-bench-press.gif"
     },
@@ -798,7 +2058,21 @@
       "id": "triceps/ez-bar-french-press-on-exercise-ball",
       "slug": "ez-bar-french-press-on-exercise-ball",
       "name": "Ez Bar French Press On Exercise Ball",
+      "nameEs": "Press con barra Z, en fitball, french",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Carga la barra Z con un peso adecuado y agárrala con firmeza.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/ez-bar-french-press-on-exercise-ball.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/ez-bar-french-press-on-exercise-ball.gif"
     },
@@ -806,7 +2080,19 @@
       "id": "triceps/ez-bar-lying-close-grip-triceps-extension-behind-head",
       "slug": "ez-bar-lying-close-grip-triceps-extension-behind-head",
       "name": "Ez Bar Lying Close Grip Triceps Extension Behind Head",
+      "nameEs": "Extensión con barra Z, tumbado, con agarre cerrado, tríceps behind head",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carga la barra Z con un peso adecuado y agárrala con firmeza.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/ez-bar-lying-close-grip-triceps-extension-behind-head.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/ez-bar-lying-close-grip-triceps-extension-behind-head.gif"
     },
@@ -814,7 +2100,21 @@
       "id": "triceps/ez-bar-standing-french-press",
       "slug": "ez-bar-standing-french-press",
       "name": "Ez Bar Standing French Press",
+      "nameEs": "Press con barra Z, de pie, french",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Carga la barra Z con un peso adecuado y agárrala con firmeza.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/ez-bar-standing-french-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/ez-bar-standing-french-press.gif"
     },
@@ -822,7 +2122,21 @@
       "id": "triceps/ez-barbell-decline-close-grip-face-press",
       "slug": "ez-barbell-decline-close-grip-face-press",
       "name": "Ez Barbell Decline Close Grip Face Press",
+      "nameEs": "Press declinado con barra Z, con agarre cerrado, face",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Carga la barra Z con un peso adecuado y agárrala con firmeza.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/ez-barbell-decline-close-grip-face-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/ez-barbell-decline-close-grip-face-press.gif"
     },
@@ -830,7 +2144,19 @@
       "id": "triceps/ez-barbell-decline-triceps-extension",
       "slug": "ez-barbell-decline-triceps-extension",
       "name": "Ez Barbell Decline Triceps Extension",
+      "nameEs": "Extensión declinado con barra Z, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carga la barra Z con un peso adecuado y agárrala con firmeza.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/ez-barbell-decline-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/ez-barbell-decline-triceps-extension.gif"
     },
@@ -838,7 +2164,19 @@
       "id": "triceps/ez-barbell-incline-triceps-extension",
       "slug": "ez-barbell-incline-triceps-extension",
       "name": "Ez Barbell Incline Triceps Extension",
+      "nameEs": "Extensión inclinado con barra Z, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carga la barra Z con un peso adecuado y agárrala con firmeza.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/ez-barbell-incline-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/ez-barbell-incline-triceps-extension.gif"
     },
@@ -846,7 +2184,21 @@
       "id": "triceps/ez-barbell-jm-bench-press",
       "slug": "ez-barbell-jm-bench-press",
       "name": "Ez Barbell Jm Bench Press",
+      "nameEs": "Press de banca con barra Z, jm",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Carga la barra Z con un peso adecuado y agárrala con firmeza.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/ez-barbell-jm-bench-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/ez-barbell-jm-bench-press.gif"
     },
@@ -854,7 +2206,19 @@
       "id": "triceps/ez-barbell-seated-triceps-extension",
       "slug": "ez-barbell-seated-triceps-extension",
       "name": "Ez Barbell Seated Triceps Extension",
+      "nameEs": "Extensión con barra Z, sentado, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carga la barra Z con un peso adecuado y agárrala con firmeza.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/ez-barbell-seated-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/ez-barbell-seated-triceps-extension.gif"
     },
@@ -862,7 +2226,21 @@
       "id": "triceps/handstand-push-up",
       "slug": "handstand-push-up",
       "name": "Handstand Push Up",
+      "nameEs": "Flexión, handstand",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/handstand-push-up.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/handstand-push-up.gif"
     },
@@ -870,7 +2248,19 @@
       "id": "triceps/handstand",
       "slug": "handstand",
       "name": "Handstand",
+      "nameEs": "Handstand, handstand",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/handstand.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/handstand.gif"
     },
@@ -878,7 +2268,22 @@
       "id": "triceps/impossible-dips",
       "slug": "impossible-dips",
       "name": "Impossible Dips",
+      "nameEs": "Fondos, impossible",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/impossible-dips.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/impossible-dips.gif"
     },
@@ -886,7 +2291,21 @@
       "id": "triceps/incline-close-grip-push-up",
       "slug": "incline-close-grip-push-up",
       "name": "Incline Close Grip Push Up",
+      "nameEs": "Flexión inclinado, con agarre cerrado",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/incline-close-grip-push-up.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/incline-close-grip-push-up.gif"
     },
@@ -894,7 +2313,22 @@
       "id": "triceps/lever-overhand-triceps-dip",
       "slug": "lever-overhand-triceps-dip",
       "name": "Lever Overhand Triceps Dip",
+      "nameEs": "Fondo en máquina, overhand tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/lever-overhand-triceps-dip.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/lever-overhand-triceps-dip.gif"
     },
@@ -902,7 +2336,22 @@
       "id": "triceps/lever-seated-dip",
       "slug": "lever-seated-dip",
       "name": "Lever Seated Dip",
+      "nameEs": "Fondo en máquina, sentado",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/lever-seated-dip.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/lever-seated-dip.gif"
     },
@@ -910,7 +2359,19 @@
       "id": "triceps/lever-triceps-extension",
       "slug": "lever-triceps-extension",
       "name": "Lever Triceps Extension",
+      "nameEs": "Extensión en máquina, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/lever-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/lever-triceps-extension.gif"
     },
@@ -918,7 +2379,21 @@
       "id": "triceps/medicine-ball-close-grip-push-up",
       "slug": "medicine-ball-close-grip-push-up",
       "name": "Medicine Ball Close Grip Push Up",
+      "nameEs": "Flexión con balón medicinal, con agarre cerrado",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/medicine-ball-close-grip-push-up.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/medicine-ball-close-grip-push-up.gif"
     },
@@ -926,7 +2401,19 @@
       "id": "triceps/medicine-ball-supine-chest-throw",
       "slug": "medicine-ball-supine-chest-throw",
       "name": "Medicine Ball Supine Chest Throw",
+      "nameEs": "Tumbado boca arriba con balón medicinal, pecho throw",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/medicine-ball-supine-chest-throw.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/medicine-ball-supine-chest-throw.gif"
     },
@@ -934,7 +2421,21 @@
       "id": "triceps/narrow-push-up-on-exercise-ball",
       "slug": "narrow-push-up-on-exercise-ball",
       "name": "Narrow Push Up On Exercise Ball",
+      "nameEs": "Flexión, estrecho en fitball",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/narrow-push-up-on-exercise-ball.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/narrow-push-up-on-exercise-ball.gif"
     },
@@ -942,7 +2443,19 @@
       "id": "triceps/olympic-barbell-triceps-extension",
       "slug": "olympic-barbell-triceps-extension",
       "name": "Olympic Barbell Triceps Extension",
+      "nameEs": "Extensión con barra olímpica, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/olympic-barbell-triceps-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/olympic-barbell-triceps-extension.gif"
     },
@@ -950,7 +2463,22 @@
       "id": "triceps/one-arm-dip",
       "slug": "one-arm-dip",
       "name": "One Arm Dip",
+      "nameEs": "Fondo, a una mano",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/one-arm-dip.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/one-arm-dip.gif"
     },
@@ -958,7 +2486,18 @@
       "id": "triceps/overhead-triceps-stretch",
       "slug": "overhead-triceps-stretch",
       "name": "Overhead Triceps Stretch",
+      "nameEs": "Estiramiento sobre la cabeza, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Lleva el cuerpo a la posición de estiramiento del triceps.",
+        "Mantén entre 20 y 40 segundos respirando de forma profunda.",
+        "Vuelve a la posición inicial lentamente y repite si lo deseas."
+      ],
       "file": "triceps/overhead-triceps-stretch.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/overhead-triceps-stretch.gif"
     },
@@ -966,7 +2505,21 @@
       "id": "triceps/push-up-close-grip-off-dumbbell",
       "slug": "push-up-close-grip-off-dumbbell",
       "name": "Push Up Close Grip Off Dumbbell",
+      "nameEs": "Flexión con mancuerna, con agarre cerrado, off",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/push-up-close-grip-off-dumbbell.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/push-up-close-grip-off-dumbbell.gif"
     },
@@ -974,7 +2527,21 @@
       "id": "triceps/push-up-on-lower-arms",
       "slug": "push-up-on-lower-arms",
       "name": "Push Up On Lower Arms",
+      "nameEs": "Flexión, inferior brazos",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/push-up-on-lower-arms.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/push-up-on-lower-arms.gif"
     },
@@ -982,7 +2549,22 @@
       "id": "triceps/reverse-dip",
       "slug": "reverse-dip",
       "name": "Reverse Dip",
+      "nameEs": "Fondo invertido",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/reverse-dip.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/reverse-dip.gif"
     },
@@ -990,7 +2572,22 @@
       "id": "triceps/ring-dips",
       "slug": "ring-dips",
       "name": "Ring Dips",
+      "nameEs": "Fondos, ring",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/ring-dips.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/ring-dips.gif"
     },
@@ -998,7 +2595,21 @@
       "id": "triceps/side-push-up",
       "slug": "side-push-up",
       "name": "Side Push Up",
+      "nameEs": "Flexión, lateral",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/side-push-up.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/side-push-up.gif"
     },
@@ -1006,7 +2617,19 @@
       "id": "triceps/ski-ergometer",
       "slug": "ski-ergometer",
       "name": "Ski Ergometer",
+      "nameEs": "Ski ergometer, ski ergometer",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/ski-ergometer.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/ski-ergometer.gif"
     },
@@ -1014,7 +2637,21 @@
       "id": "triceps/smith-close-grip-bench-press",
       "slug": "smith-close-grip-bench-press",
       "name": "Smith Close Grip Bench Press",
+      "nameEs": "Press de banca en máquina Smith, con agarre cerrado",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Coloca la barra en la máquina Smith a la altura adecuada.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/smith-close-grip-bench-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/smith-close-grip-bench-press.gif"
     },
@@ -1022,7 +2659,21 @@
       "id": "triceps/smith-machine-decline-close-grip-bench-press",
       "slug": "smith-machine-decline-close-grip-bench-press",
       "name": "Smith Machine Decline Close Grip Bench Press",
+      "nameEs": "Press de banca declinado en máquina Smith en máquina, con agarre cerrado",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Coloca la barra en la máquina Smith a la altura adecuada.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/smith-machine-decline-close-grip-bench-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/smith-machine-decline-close-grip-bench-press.gif"
     },
@@ -1030,7 +2681,19 @@
       "id": "triceps/smith-machine-incline-tricep-extension",
       "slug": "smith-machine-incline-tricep-extension",
       "name": "Smith Machine Incline Tricep Extension",
+      "nameEs": "Extensión inclinado en máquina Smith en máquina, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coloca la barra en la máquina Smith a la altura adecuada.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/smith-machine-incline-tricep-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/smith-machine-incline-tricep-extension.gif"
     },
@@ -1038,7 +2701,21 @@
       "id": "triceps/stalder-press",
       "slug": "stalder-press",
       "name": "Stalder Press",
+      "nameEs": "Press, stalder",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/stalder-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/stalder-press.gif"
     },
@@ -1046,7 +2723,22 @@
       "id": "triceps/three-bench-dip",
       "slug": "three-bench-dip",
       "name": "Three Bench Dip",
+      "nameEs": "Fondo, three banco",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/three-bench-dip.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/three-bench-dip.gif"
     },
@@ -1054,7 +2746,22 @@
       "id": "triceps/triceps-dip-bench-leg",
       "slug": "triceps-dip-bench-leg",
       "name": "Triceps Dip Bench Leg",
+      "nameEs": "Fondo, tríceps banco pierna",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/triceps-dip-bench-leg.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/triceps-dip-bench-leg.gif"
     },
@@ -1062,7 +2769,22 @@
       "id": "triceps/triceps-dip-between-benches",
       "slug": "triceps-dip-between-benches",
       "name": "Triceps Dip Between Benches",
+      "nameEs": "Fondo, tríceps between benches",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/triceps-dip-between-benches.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/triceps-dip-between-benches.gif"
     },
@@ -1070,7 +2792,22 @@
       "id": "triceps/triceps-dip",
       "slug": "triceps-dip",
       "name": "Triceps Dip",
+      "nameEs": "Fondo, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/triceps-dip.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/triceps-dip.gif"
     },
@@ -1078,7 +2815,22 @@
       "id": "triceps/triceps-dips-floor",
       "slug": "triceps-dips-floor",
       "name": "Triceps Dips Floor",
+      "nameEs": "Fondos, tríceps suelo",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/triceps-dips-floor.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/triceps-dips-floor.gif"
     },
@@ -1086,7 +2838,21 @@
       "id": "triceps/triceps-press",
       "slug": "triceps-press",
       "name": "Triceps Press",
+      "nameEs": "Press, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/triceps-press.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/triceps-press.gif"
     },
@@ -1094,7 +2860,18 @@
       "id": "triceps/triceps-stretch",
       "slug": "triceps-stretch",
       "name": "Triceps Stretch",
+      "nameEs": "Estiramiento, tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Lleva el cuerpo a la posición de estiramiento del triceps.",
+        "Mantén entre 20 y 40 segundos respirando de forma profunda.",
+        "Vuelve a la posición inicial lentamente y repite si lo deseas."
+      ],
       "file": "triceps/triceps-stretch.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/triceps-stretch.gif"
     },
@@ -1102,7 +2879,22 @@
       "id": "triceps/weighted-bench-dip",
       "slug": "weighted-bench-dip",
       "name": "Weighted Bench Dip",
+      "nameEs": "Fondo, weighted banco",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/weighted-bench-dip.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/weighted-bench-dip.gif"
     },
@@ -1110,7 +2902,22 @@
       "id": "triceps/weighted-three-bench-dips",
       "slug": "weighted-three-bench-dips",
       "name": "Weighted Three Bench Dips",
+      "nameEs": "Fondos, weighted three banco",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/weighted-three-bench-dips.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/weighted-three-bench-dips.gif"
     },
@@ -1118,7 +2925,22 @@
       "id": "triceps/weighted-tricep-dips",
       "slug": "weighted-tricep-dips",
       "name": "Weighted Tricep Dips",
+      "nameEs": "Fondos, weighted tríceps",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/weighted-tricep-dips.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/weighted-tricep-dips.gif"
     },
@@ -1126,7 +2948,22 @@
       "id": "triceps/weighted-triceps-dip-on-high-parallel-bars",
       "slug": "weighted-triceps-dip-on-high-parallel-bars",
       "name": "Weighted Triceps Dip On High Parallel Bars",
+      "nameEs": "Fondo, alto, weighted tríceps parallel bars",
       "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa el triceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
       "file": "triceps/weighted-triceps-dip-on-high-parallel-bars.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/weighted-triceps-dip-on-high-parallel-bars.gif"
     }

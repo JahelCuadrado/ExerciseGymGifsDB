@@ -2,7 +2,25 @@
   "id": "hamstrings/barbell-straight-leg-deadlift",
   "slug": "barbell-straight-leg-deadlift",
   "name": "Barbell Straight Leg Deadlift",
+  "nameEs": "Peso muerto con barra, recto pierna",
   "muscle": "hamstrings",
+  "bodyPart": "legs",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "lats",
+    "traps",
+    "forearms",
+    "spine"
+  ],
+  "instructions": [
+    "Carga el peso adecuado en la barra y adopta la postura inicial.",
+    "Activa el hamstrings antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "hamstrings/barbell-straight-leg-deadlift.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/barbell-straight-leg-deadlift.gif"
 }

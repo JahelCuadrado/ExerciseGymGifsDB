@@ -2,7 +2,22 @@
   "id": "glutes/glute-bridge-two-legs-on-bench-male",
   "slug": "glute-bridge-two-legs-on-bench-male",
   "name": "Glute Bridge Two Legs On Bench Male",
+  "nameEs": "Puente, glúteo two piernas banco male",
   "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "other",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "abs"
+  ],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Activa el glutes antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "glutes/glute-bridge-two-legs-on-bench-male.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/glute-bridge-two-legs-on-bench-male.gif"
 }

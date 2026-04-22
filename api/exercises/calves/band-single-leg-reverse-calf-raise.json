@@ -2,7 +2,19 @@
   "id": "calves/band-single-leg-reverse-calf-raise",
   "slug": "band-single-leg-reverse-calf-raise",
   "name": "Band Single Leg Reverse Calf Raise",
+  "nameEs": "Elevación de talones invertido con banda, a una pierna",
   "muscle": "calves",
+  "bodyPart": "legs",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fija la banda elástica y mantén la tensión inicial.",
+    "Activa el calves antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "calves/band-single-leg-reverse-calf-raise.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/band-single-leg-reverse-calf-raise.gif"
 }

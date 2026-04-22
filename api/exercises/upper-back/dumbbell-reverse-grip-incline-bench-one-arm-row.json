@@ -2,7 +2,23 @@
   "id": "upper-back/dumbbell-reverse-grip-incline-bench-one-arm-row",
   "slug": "dumbbell-reverse-grip-incline-bench-one-arm-row",
   "name": "Dumbbell Reverse Grip Incline Bench One Arm Row",
+  "nameEs": "Remo inclinado con mancuerna, con agarre invertido, a una mano, banco",
   "muscle": "upper-back",
+  "bodyPart": "back",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "delts"
+  ],
+  "instructions": [
+    "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+    "Activa el upper-back antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "upper-back/dumbbell-reverse-grip-incline-bench-one-arm-row.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/dumbbell-reverse-grip-incline-bench-one-arm-row.gif"
 }

@@ -2,7 +2,18 @@
   "id": "cardio/ski-step",
   "slug": "ski-step",
   "name": "Ski Step",
+  "nameEs": "Ski step, ski step",
   "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "other",
+  "category": "cardio",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Mantén un ritmo constante adaptado a tu nivel.",
+    "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+    "Continúa el tiempo o las repeticiones planificadas."
+  ],
   "file": "cardio/ski-step.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/ski-step.gif"
 }

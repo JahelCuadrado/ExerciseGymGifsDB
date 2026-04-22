@@ -2,7 +2,23 @@
   "id": "upper-back/dumbbell-side-plank-with-rear-fly",
   "slug": "dumbbell-side-plank-with-rear-fly",
   "name": "Dumbbell Side Plank With Rear Fly",
+  "nameEs": "Plancha con mancuerna, lateral posterior, fly",
   "muscle": "upper-back",
+  "bodyPart": "back",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "abs",
+    "delts",
+    "glutes"
+  ],
+  "instructions": [
+    "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+    "Activa el upper-back antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "upper-back/dumbbell-side-plank-with-rear-fly.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/dumbbell-side-plank-with-rear-fly.gif"
 }

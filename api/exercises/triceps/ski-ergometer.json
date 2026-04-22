@@ -2,7 +2,19 @@
   "id": "triceps/ski-ergometer",
   "slug": "ski-ergometer",
   "name": "Ski Ergometer",
+  "nameEs": "Ski ergometer, ski ergometer",
   "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "other",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Activa el triceps antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "triceps/ski-ergometer.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/ski-ergometer.gif"
 }

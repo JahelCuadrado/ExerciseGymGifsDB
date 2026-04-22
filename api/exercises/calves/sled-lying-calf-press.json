@@ -2,7 +2,22 @@
   "id": "calves/sled-lying-calf-press",
   "slug": "sled-lying-calf-press",
   "name": "Sled Lying Calf Press",
+  "nameEs": "Press, tumbado, sled gemelo",
   "muscle": "calves",
+  "bodyPart": "legs",
+  "equipment": "other",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Activa el calves antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "calves/sled-lying-calf-press.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/sled-lying-calf-press.gif"
 }

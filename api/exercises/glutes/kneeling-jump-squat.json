@@ -2,7 +2,21 @@
   "id": "glutes/kneeling-jump-squat",
   "slug": "kneeling-jump-squat",
   "name": "Kneeling Jump Squat",
+  "nameEs": "Sentadilla con salto, de rodillas",
   "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "other",
+  "category": "plyometrics",
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Realiza una breve flexión para acumular tensión.",
+    "Ejecuta el movimiento de forma explosiva y aterriza con control.",
+    "Aterriza suave amortiguando con piernas y core, y encadena la siguiente repetición."
+  ],
   "file": "glutes/kneeling-jump-squat.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/kneeling-jump-squat.gif"
 }

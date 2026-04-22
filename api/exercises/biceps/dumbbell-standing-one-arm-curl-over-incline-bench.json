@@ -2,7 +2,21 @@
   "id": "biceps/dumbbell-standing-one-arm-curl-over-incline-bench",
   "slug": "dumbbell-standing-one-arm-curl-over-incline-bench",
   "name": "Dumbbell Standing One Arm Curl Over Incline Bench",
+  "nameEs": "Curl con mancuerna, de pie, a una mano sobre banco inclinado",
   "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+    "Activa el biceps antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "biceps/dumbbell-standing-one-arm-curl-over-incline-bench.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-standing-one-arm-curl-over-incline-bench.gif"
 }

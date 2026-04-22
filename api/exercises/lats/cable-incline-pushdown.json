@@ -2,7 +2,19 @@
   "id": "lats/cable-incline-pushdown",
   "slug": "cable-incline-pushdown",
   "name": "Cable Incline Pushdown",
+  "nameEs": "Pushdown inclinado en polea",
   "muscle": "lats",
+  "bodyPart": "back",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajusta la polea a la altura indicada y selecciona el peso.",
+    "Activa el lats antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "lats/cable-incline-pushdown.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/cable-incline-pushdown.gif"
 }

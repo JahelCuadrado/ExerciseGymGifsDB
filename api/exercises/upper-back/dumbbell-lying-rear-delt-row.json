@@ -2,7 +2,23 @@
   "id": "upper-back/dumbbell-lying-rear-delt-row",
   "slug": "dumbbell-lying-rear-delt-row",
   "name": "Dumbbell Lying Rear Delt Row",
+  "nameEs": "Remo con mancuerna, tumbado, posterior, deltoides",
   "muscle": "upper-back",
+  "bodyPart": "back",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "delts"
+  ],
+  "instructions": [
+    "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+    "Activa el upper-back antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "upper-back/dumbbell-lying-rear-delt-row.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/dumbbell-lying-rear-delt-row.gif"
 }

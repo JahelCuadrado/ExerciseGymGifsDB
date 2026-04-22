@@ -2,7 +2,19 @@
   "id": "upper-back/back-lever",
   "slug": "back-lever",
   "name": "Back Lever",
+  "nameEs": "En máquina, espalda",
   "muscle": "upper-back",
+  "bodyPart": "back",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajusta la máquina a tu medida y selecciona la carga.",
+    "Activa el upper-back antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "upper-back/back-lever.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/back-lever.gif"
 }

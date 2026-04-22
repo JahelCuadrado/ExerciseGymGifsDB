@@ -2,7 +2,22 @@
   "id": "glutes/barbell-full-squat-side-pov",
   "slug": "barbell-full-squat-side-pov",
   "name": "Barbell Full Squat Side Pov",
+  "nameEs": "Sentadilla con barra, lateral, completo pov",
   "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Carga el peso adecuado en la barra y adopta la postura inicial.",
+    "Activa el glutes antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "glutes/barbell-full-squat-side-pov.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/barbell-full-squat-side-pov.gif"
 }

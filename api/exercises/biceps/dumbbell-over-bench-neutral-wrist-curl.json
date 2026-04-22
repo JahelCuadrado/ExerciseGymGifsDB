@@ -2,7 +2,21 @@
   "id": "biceps/dumbbell-over-bench-neutral-wrist-curl",
   "slug": "dumbbell-over-bench-neutral-wrist-curl",
   "name": "Dumbbell Over Bench Neutral Wrist Curl",
+  "nameEs": "Curl con mancuerna, con muñeca neutra, sobre banco",
   "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+    "Activa el biceps antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "biceps/dumbbell-over-bench-neutral-wrist-curl.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-over-bench-neutral-wrist-curl.gif"
 }

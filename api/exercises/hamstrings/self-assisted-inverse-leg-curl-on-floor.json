@@ -2,7 +2,19 @@
   "id": "hamstrings/self-assisted-inverse-leg-curl-on-floor",
   "slug": "self-assisted-inverse-leg-curl-on-floor",
   "name": "Self Assisted Inverse Leg Curl On Floor",
+  "nameEs": "Curl femoral, self assisted inverse suelo",
   "muscle": "hamstrings",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Adopta la postura inicial con buena alineación corporal.",
+    "Activa el hamstrings antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "hamstrings/self-assisted-inverse-leg-curl-on-floor.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/self-assisted-inverse-leg-curl-on-floor.gif"
 }

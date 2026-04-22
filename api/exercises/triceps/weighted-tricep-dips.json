@@ -2,7 +2,22 @@
   "id": "triceps/weighted-tricep-dips",
   "slug": "weighted-tricep-dips",
   "name": "Weighted Tricep Dips",
+  "nameEs": "Fondos, weighted tríceps",
   "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "pectorals"
+  ],
+  "instructions": [
+    "Adopta la postura inicial con buena alineación corporal.",
+    "Activa el triceps antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "triceps/weighted-tricep-dips.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/weighted-tricep-dips.gif"
 }

@@ -4,6 +4,7 @@
   "private": true,
   "description": "Static JSON API generated from local exercise GIF folders.",
   "scripts": {
-    "build": "node scripts/generate-api.js"
+    "build": "node scripts/generate-api.js",
+    "init-overrides": "node scripts/init-overrides.js"
   }
 }

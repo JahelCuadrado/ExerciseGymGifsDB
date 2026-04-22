@@ -2,7 +2,21 @@
   "id": "biceps/barbell-standing-close-grip-curl",
   "slug": "barbell-standing-close-grip-curl",
   "name": "Barbell Standing Close Grip Curl",
+  "nameEs": "Curl con barra, de pie, con agarre cerrado",
   "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Carga el peso adecuado en la barra y adopta la postura inicial.",
+    "Activa el biceps antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
   "file": "biceps/barbell-standing-close-grip-curl.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-standing-close-grip-curl.gif"
 }
