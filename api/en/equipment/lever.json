@@ -1,0 +1,1549 @@
+{
+  "equipment": "lever",
+  "count": 74,
+  "exercises": [
+    {
+      "id": "abductors/lever-seated-hip-abduction",
+      "slug": "lever-seated-hip-abduction",
+      "name": "Lever Seated Hip Abduction",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the abductors before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "abductors/lever-seated-hip-abduction.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abductors/lever-seated-hip-abduction.gif"
+    },
+    {
+      "id": "abs/front-lever",
+      "slug": "front-lever",
+      "name": "Front Lever",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the abs before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "abs/front-lever.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/front-lever.gif"
+    },
+    {
+      "id": "abs/lever-kneeling-twist",
+      "slug": "lever-kneeling-twist",
+      "name": "Lever Kneeling Twist",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the abs before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "abs/lever-kneeling-twist.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/lever-kneeling-twist.gif"
+    },
+    {
+      "id": "abs/lever-seated-crunch-chest-pad",
+      "slug": "lever-seated-crunch-chest-pad",
+      "name": "Lever Seated Crunch Chest Pad",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the abs before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "abs/lever-seated-crunch-chest-pad.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/lever-seated-crunch-chest-pad.gif"
+    },
+    {
+      "id": "abs/lever-seated-crunch-v-2",
+      "slug": "lever-seated-crunch-v-2",
+      "name": "Lever Seated Crunch v2",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the abs before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "abs/lever-seated-crunch-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/lever-seated-crunch-v-2.gif"
+    },
+    {
+      "id": "abs/lever-seated-crunch",
+      "slug": "lever-seated-crunch",
+      "name": "Lever Seated Crunch",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the abs before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "abs/lever-seated-crunch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/lever-seated-crunch.gif"
+    },
+    {
+      "id": "abs/lever-seated-leg-raise-crunch",
+      "slug": "lever-seated-leg-raise-crunch",
+      "name": "Lever Seated Leg Raise Crunch",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the abs before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "abs/lever-seated-leg-raise-crunch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/lever-seated-leg-raise-crunch.gif"
+    },
+    {
+      "id": "adductors/lever-seated-hip-adduction",
+      "slug": "lever-seated-hip-adduction",
+      "name": "Lever Seated Hip Adduction",
+      "muscle": "adductors",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the adductors before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "adductors/lever-seated-hip-adduction.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/adductors/lever-seated-hip-adduction.gif"
+    },
+    {
+      "id": "biceps/lever-bicep-curl",
+      "slug": "lever-bicep-curl",
+      "name": "Lever Bicep Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/lever-bicep-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/lever-bicep-curl.gif"
+    },
+    {
+      "id": "biceps/lever-hammer-grip-preacher-curl",
+      "slug": "lever-hammer-grip-preacher-curl",
+      "name": "Lever Hammer Grip Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/lever-hammer-grip-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/lever-hammer-grip-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/lever-preacher-curl-v-2",
+      "slug": "lever-preacher-curl-v-2",
+      "name": "Lever Preacher Curl v2",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/lever-preacher-curl-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/lever-preacher-curl-v-2.gif"
+    },
+    {
+      "id": "biceps/lever-preacher-curl",
+      "slug": "lever-preacher-curl",
+      "name": "Lever Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/lever-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/lever-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/lever-reverse-grip-preacher-curl",
+      "slug": "lever-reverse-grip-preacher-curl",
+      "name": "Lever Reverse Grip Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/lever-reverse-grip-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/lever-reverse-grip-preacher-curl.gif"
+    },
+    {
+      "id": "calves/lever-calf-press",
+      "slug": "lever-calf-press",
+      "name": "Lever Calf Press",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the calves before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "calves/lever-calf-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/lever-calf-press.gif"
+    },
+    {
+      "id": "calves/lever-donkey-calf-raise",
+      "slug": "lever-donkey-calf-raise",
+      "name": "Lever Donkey Calf Raise",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the calves before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "calves/lever-donkey-calf-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/lever-donkey-calf-raise.gif"
+    },
+    {
+      "id": "calves/lever-rotary-calf",
+      "slug": "lever-rotary-calf",
+      "name": "Lever Rotary Calf",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the calves before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "calves/lever-rotary-calf.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/lever-rotary-calf.gif"
+    },
+    {
+      "id": "calves/lever-seated-calf-press",
+      "slug": "lever-seated-calf-press",
+      "name": "Lever Seated Calf Press",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the calves before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "calves/lever-seated-calf-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/lever-seated-calf-press.gif"
+    },
+    {
+      "id": "calves/lever-seated-calf-raise",
+      "slug": "lever-seated-calf-raise",
+      "name": "Lever Seated Calf Raise",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the calves before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "calves/lever-seated-calf-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/lever-seated-calf-raise.gif"
+    },
+    {
+      "id": "calves/lever-seated-squat-calf-raise-on-leg-press-machine",
+      "slug": "lever-seated-squat-calf-raise-on-leg-press-machine",
+      "name": "Lever Seated Squat Calf Raise On Leg Press Machine",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the calves before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "calves/lever-seated-squat-calf-raise-on-leg-press-machine.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/lever-seated-squat-calf-raise-on-leg-press-machine.gif"
+    },
+    {
+      "id": "calves/lever-standing-calf-raise",
+      "slug": "lever-standing-calf-raise",
+      "name": "Lever Standing Calf Raise",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the calves before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "calves/lever-standing-calf-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/lever-standing-calf-raise.gif"
+    },
+    {
+      "id": "delts/lever-lateral-raise",
+      "slug": "lever-lateral-raise",
+      "name": "Lever Lateral Raise",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the delts before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "delts/lever-lateral-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/lever-lateral-raise.gif"
+    },
+    {
+      "id": "delts/lever-military-press",
+      "slug": "lever-military-press",
+      "name": "Lever Military Press",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the delts before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "delts/lever-military-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/lever-military-press.gif"
+    },
+    {
+      "id": "delts/lever-one-arm-shoulder-press",
+      "slug": "lever-one-arm-shoulder-press",
+      "name": "Lever One Arm Shoulder Press",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the delts before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "delts/lever-one-arm-shoulder-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/lever-one-arm-shoulder-press.gif"
+    },
+    {
+      "id": "delts/lever-seated-reverse-fly-parallel-grip",
+      "slug": "lever-seated-reverse-fly-parallel-grip",
+      "name": "Lever Seated Reverse Fly Parallel Grip",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the delts before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "delts/lever-seated-reverse-fly-parallel-grip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/lever-seated-reverse-fly-parallel-grip.gif"
+    },
+    {
+      "id": "delts/lever-seated-reverse-fly",
+      "slug": "lever-seated-reverse-fly",
+      "name": "Lever Seated Reverse Fly",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the delts before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "delts/lever-seated-reverse-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/lever-seated-reverse-fly.gif"
+    },
+    {
+      "id": "delts/lever-shoulder-press-v-2",
+      "slug": "lever-shoulder-press-v-2",
+      "name": "Lever Shoulder Press v2",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the delts before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "delts/lever-shoulder-press-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/lever-shoulder-press-v-2.gif"
+    },
+    {
+      "id": "delts/lever-shoulder-press-v-3",
+      "slug": "lever-shoulder-press-v-3",
+      "name": "Lever Shoulder Press v3",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the delts before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "delts/lever-shoulder-press-v-3.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/lever-shoulder-press-v-3.gif"
+    },
+    {
+      "id": "delts/lever-shoulder-press",
+      "slug": "lever-shoulder-press",
+      "name": "Lever Shoulder Press",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the delts before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "delts/lever-shoulder-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/lever-shoulder-press.gif"
+    },
+    {
+      "id": "forearms/lever-gripper-hands",
+      "slug": "lever-gripper-hands",
+      "name": "Lever Gripper Hands",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the forearms before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "forearms/lever-gripper-hands.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/lever-gripper-hands.gif"
+    },
+    {
+      "id": "glutes/lever-deadlift",
+      "slug": "lever-deadlift",
+      "name": "Lever Deadlift",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the glutes before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "glutes/lever-deadlift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/lever-deadlift.gif"
+    },
+    {
+      "id": "glutes/lever-hip-extension-v-2",
+      "slug": "lever-hip-extension-v-2",
+      "name": "Lever Hip Extension v2",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the glutes before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "glutes/lever-hip-extension-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/lever-hip-extension-v-2.gif"
+    },
+    {
+      "id": "glutes/lever-horizontal-one-leg-press",
+      "slug": "lever-horizontal-one-leg-press",
+      "name": "Lever Horizontal One Leg Press",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the glutes before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "glutes/lever-horizontal-one-leg-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/lever-horizontal-one-leg-press.gif"
+    },
+    {
+      "id": "glutes/lever-reverse-hyperextension",
+      "slug": "lever-reverse-hyperextension",
+      "name": "Lever Reverse Hyperextension",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the glutes before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "glutes/lever-reverse-hyperextension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/lever-reverse-hyperextension.gif"
+    },
+    {
+      "id": "glutes/lever-seated-good-morning",
+      "slug": "lever-seated-good-morning",
+      "name": "Lever Seated Good Morning",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the glutes before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "glutes/lever-seated-good-morning.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/lever-seated-good-morning.gif"
+    },
+    {
+      "id": "hamstrings/lever-kneeling-leg-curl",
+      "slug": "lever-kneeling-leg-curl",
+      "name": "Lever Kneeling Leg Curl",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the hamstrings before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "hamstrings/lever-kneeling-leg-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/lever-kneeling-leg-curl.gif"
+    },
+    {
+      "id": "hamstrings/lever-lying-leg-curl",
+      "slug": "lever-lying-leg-curl",
+      "name": "Lever Lying Leg Curl",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the hamstrings before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "hamstrings/lever-lying-leg-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/lever-lying-leg-curl.gif"
+    },
+    {
+      "id": "hamstrings/lever-lying-two-one-leg-curl",
+      "slug": "lever-lying-two-one-leg-curl",
+      "name": "Lever Lying Two One Leg Curl",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the hamstrings before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "hamstrings/lever-lying-two-one-leg-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/lever-lying-two-one-leg-curl.gif"
+    },
+    {
+      "id": "hamstrings/lever-seated-leg-curl",
+      "slug": "lever-seated-leg-curl",
+      "name": "Lever Seated Leg Curl",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the hamstrings before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "hamstrings/lever-seated-leg-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/lever-seated-leg-curl.gif"
+    },
+    {
+      "id": "lats/lever-assisted-chin-up",
+      "slug": "lever-assisted-chin-up",
+      "name": "Lever Assisted Chin Up",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the lats before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "lats/lever-assisted-chin-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/lever-assisted-chin-up.gif"
+    },
+    {
+      "id": "lats/lever-front-pulldown",
+      "slug": "lever-front-pulldown",
+      "name": "Lever Front Pulldown",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the lats before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "lats/lever-front-pulldown.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/lever-front-pulldown.gif"
+    },
+    {
+      "id": "lats/lever-one-arm-lateral-wide-pulldown",
+      "slug": "lever-one-arm-lateral-wide-pulldown",
+      "name": "Lever One Arm Lateral Wide Pulldown",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the lats before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "lats/lever-one-arm-lateral-wide-pulldown.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/lever-one-arm-lateral-wide-pulldown.gif"
+    },
+    {
+      "id": "lats/lever-pullover",
+      "slug": "lever-pullover",
+      "name": "Lever Pullover",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the lats before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "lats/lever-pullover.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/lever-pullover.gif"
+    },
+    {
+      "id": "lats/lever-reverse-grip-lateral-pulldown",
+      "slug": "lever-reverse-grip-lateral-pulldown",
+      "name": "Lever Reverse Grip Lateral Pulldown",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the lats before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "lats/lever-reverse-grip-lateral-pulldown.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/lever-reverse-grip-lateral-pulldown.gif"
+    },
+    {
+      "id": "pectorals/lever-chest-press-0577",
+      "slug": "lever-chest-press-0577",
+      "name": "Lever Chest Press 0577",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the pectorals before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "pectorals/lever-chest-press-0577.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/lever-chest-press-0577.gif"
+    },
+    {
+      "id": "pectorals/lever-chest-press",
+      "slug": "lever-chest-press",
+      "name": "Lever Chest Press",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the pectorals before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "pectorals/lever-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/lever-chest-press.gif"
+    },
+    {
+      "id": "pectorals/lever-decline-chest-press",
+      "slug": "lever-decline-chest-press",
+      "name": "Lever Decline Chest Press",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the pectorals before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "pectorals/lever-decline-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/lever-decline-chest-press.gif"
+    },
+    {
+      "id": "pectorals/lever-incline-chest-press-v-2",
+      "slug": "lever-incline-chest-press-v-2",
+      "name": "Lever Incline Chest Press v2",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the pectorals before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "pectorals/lever-incline-chest-press-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/lever-incline-chest-press-v-2.gif"
+    },
+    {
+      "id": "pectorals/lever-incline-chest-press",
+      "slug": "lever-incline-chest-press",
+      "name": "Lever Incline Chest Press",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the pectorals before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "pectorals/lever-incline-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/lever-incline-chest-press.gif"
+    },
+    {
+      "id": "pectorals/lever-seated-fly",
+      "slug": "lever-seated-fly",
+      "name": "Lever Seated Fly",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the pectorals before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "pectorals/lever-seated-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/lever-seated-fly.gif"
+    },
+    {
+      "id": "pectorals/lever-standing-chest-press",
+      "slug": "lever-standing-chest-press",
+      "name": "Lever Standing Chest Press",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the pectorals before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "pectorals/lever-standing-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/lever-standing-chest-press.gif"
+    },
+    {
+      "id": "quads/lever-alternate-leg-press",
+      "slug": "lever-alternate-leg-press",
+      "name": "Lever Alternate Leg Press",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the quads before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "quads/lever-alternate-leg-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/lever-alternate-leg-press.gif"
+    },
+    {
+      "id": "quads/lever-leg-extension",
+      "slug": "lever-leg-extension",
+      "name": "Lever Leg Extension",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the quads before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "quads/lever-leg-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/lever-leg-extension.gif"
+    },
+    {
+      "id": "spine/lever-back-extension",
+      "slug": "lever-back-extension",
+      "name": "Lever Back Extension",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the spine before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "spine/lever-back-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/spine/lever-back-extension.gif"
+    },
+    {
+      "id": "traps/lever-gripless-shrug-v-2",
+      "slug": "lever-gripless-shrug-v-2",
+      "name": "Lever Gripless Shrug v2",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the traps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "traps/lever-gripless-shrug-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/traps/lever-gripless-shrug-v-2.gif"
+    },
+    {
+      "id": "traps/lever-gripless-shrug",
+      "slug": "lever-gripless-shrug",
+      "name": "Lever Gripless Shrug",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the traps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "traps/lever-gripless-shrug.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/traps/lever-gripless-shrug.gif"
+    },
+    {
+      "id": "traps/lever-shrug",
+      "slug": "lever-shrug",
+      "name": "Lever Shrug",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the traps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "traps/lever-shrug.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/traps/lever-shrug.gif"
+    },
+    {
+      "id": "triceps/lever-overhand-triceps-dip",
+      "slug": "lever-overhand-triceps-dip",
+      "name": "Lever Overhand Triceps Dip",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the triceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "triceps/lever-overhand-triceps-dip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/lever-overhand-triceps-dip.gif"
+    },
+    {
+      "id": "triceps/lever-seated-dip",
+      "slug": "lever-seated-dip",
+      "name": "Lever Seated Dip",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the triceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "triceps/lever-seated-dip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/lever-seated-dip.gif"
+    },
+    {
+      "id": "triceps/lever-triceps-extension",
+      "slug": "lever-triceps-extension",
+      "name": "Lever Triceps Extension",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the triceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "triceps/lever-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/lever-triceps-extension.gif"
+    },
+    {
+      "id": "upper-back/back-lever",
+      "slug": "back-lever",
+      "name": "Back Lever",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the upper-back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/back-lever.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/back-lever.gif"
+    },
+    {
+      "id": "upper-back/front-lever-reps",
+      "slug": "front-lever-reps",
+      "name": "Front Lever Reps",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the upper-back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/front-lever-reps.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/front-lever-reps.gif"
+    },
+    {
+      "id": "upper-back/lever-alternating-narrow-grip-seated-row",
+      "slug": "lever-alternating-narrow-grip-seated-row",
+      "name": "Lever Alternating Narrow Grip Seated Row",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the upper-back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/lever-alternating-narrow-grip-seated-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-alternating-narrow-grip-seated-row.gif"
+    },
+    {
+      "id": "upper-back/lever-bent-over-row-with-v-bar",
+      "slug": "lever-bent-over-row-with-v-bar",
+      "name": "Lever Bent Over Row With V Bar",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the upper-back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/lever-bent-over-row-with-v-bar.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-bent-over-row-with-v-bar.gif"
+    },
+    {
+      "id": "upper-back/lever-bent-over-row",
+      "slug": "lever-bent-over-row",
+      "name": "Lever Bent Over Row",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the upper-back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/lever-bent-over-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-bent-over-row.gif"
+    },
+    {
+      "id": "upper-back/lever-high-row",
+      "slug": "lever-high-row",
+      "name": "Lever High Row",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the upper-back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/lever-high-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-high-row.gif"
+    },
+    {
+      "id": "upper-back/lever-narrow-grip-seated-row",
+      "slug": "lever-narrow-grip-seated-row",
+      "name": "Lever Narrow Grip Seated Row",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the upper-back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/lever-narrow-grip-seated-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-narrow-grip-seated-row.gif"
+    },
+    {
+      "id": "upper-back/lever-one-arm-bent-over-row",
+      "slug": "lever-one-arm-bent-over-row",
+      "name": "Lever One Arm Bent Over Row",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the upper-back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/lever-one-arm-bent-over-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-one-arm-bent-over-row.gif"
+    },
+    {
+      "id": "upper-back/lever-one-arm-lateral-high-row",
+      "slug": "lever-one-arm-lateral-high-row",
+      "name": "Lever One Arm Lateral High Row",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the upper-back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/lever-one-arm-lateral-high-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-one-arm-lateral-high-row.gif"
+    },
+    {
+      "id": "upper-back/lever-reverse-grip-vertical-row",
+      "slug": "lever-reverse-grip-vertical-row",
+      "name": "Lever Reverse Grip Vertical Row",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the upper-back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/lever-reverse-grip-vertical-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-reverse-grip-vertical-row.gif"
+    },
+    {
+      "id": "upper-back/lever-reverse-t-bar-row",
+      "slug": "lever-reverse-t-bar-row",
+      "name": "Lever Reverse T Bar Row",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the upper-back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/lever-reverse-t-bar-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-reverse-t-bar-row.gif"
+    },
+    {
+      "id": "upper-back/lever-seated-row",
+      "slug": "lever-seated-row",
+      "name": "Lever Seated Row",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the upper-back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/lever-seated-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-seated-row.gif"
+    },
+    {
+      "id": "upper-back/lever-t-bar-reverse-grip-row",
+      "slug": "lever-t-bar-reverse-grip-row",
+      "name": "Lever T Bar Reverse Grip Row",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the upper-back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/lever-t-bar-reverse-grip-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-t-bar-reverse-grip-row.gif"
+    },
+    {
+      "id": "upper-back/lever-t-bar-row",
+      "slug": "lever-t-bar-row",
+      "name": "Lever T Bar Row",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the upper-back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/lever-t-bar-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-t-bar-row.gif"
+    },
+    {
+      "id": "upper-back/lever-unilateral-row",
+      "slug": "lever-unilateral-row",
+      "name": "Lever Unilateral Row",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the upper-back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/lever-unilateral-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-unilateral-row.gif"
+    }
+  ]
+}

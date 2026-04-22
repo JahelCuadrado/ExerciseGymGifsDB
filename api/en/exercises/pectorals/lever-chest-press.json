@@ -1,0 +1,22 @@
+{
+  "id": "pectorals/lever-chest-press",
+  "slug": "lever-chest-press",
+  "name": "Lever Chest Press",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Adjust the machine to your size and select the load.",
+    "Pre-engage the pectorals before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "pectorals/lever-chest-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/lever-chest-press.gif"
+}

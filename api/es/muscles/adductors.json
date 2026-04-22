@@ -1,0 +1,123 @@
+{
+  "muscle": "adductors",
+  "count": 6,
+  "exercises": [
+    {
+      "id": "adductors/assisted-side-lying-adductor-stretch",
+      "slug": "assisted-side-lying-adductor-stretch",
+      "name": "Estiramiento, tumbado, lateral, assisted aductor",
+      "muscle": "adductors",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Lleva el cuerpo a la posición de estiramiento del adductors.",
+        "Mantén entre 20 y 40 segundos respirando de forma profunda.",
+        "Vuelve a la posición inicial lentamente y repite si lo deseas."
+      ],
+      "file": "adductors/assisted-side-lying-adductor-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/adductors/assisted-side-lying-adductor-stretch.gif"
+    },
+    {
+      "id": "adductors/butterfly-yoga-pose",
+      "slug": "butterfly-yoga-pose",
+      "name": "Butterfly yoga pose, butterfly yoga pose",
+      "muscle": "adductors",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el adductors antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "adductors/butterfly-yoga-pose.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/adductors/butterfly-yoga-pose.gif"
+    },
+    {
+      "id": "adductors/cable-hip-adduction",
+      "slug": "cable-hip-adduction",
+      "name": "En polea, cadera adduction",
+      "muscle": "adductors",
+      "bodyPart": "legs",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la polea a la altura indicada y selecciona el peso.",
+        "Activa el adductors antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "adductors/cable-hip-adduction.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/adductors/cable-hip-adduction.gif"
+    },
+    {
+      "id": "adductors/lever-seated-hip-adduction",
+      "slug": "lever-seated-hip-adduction",
+      "name": "En máquina, sentado, cadera adduction",
+      "muscle": "adductors",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa el adductors antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "adductors/lever-seated-hip-adduction.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/adductors/lever-seated-hip-adduction.gif"
+    },
+    {
+      "id": "adductors/side-lying-hip-adduction-male",
+      "slug": "side-lying-hip-adduction-male",
+      "name": "Cadera adduction male, tumbado, lateral, cadera adduction male",
+      "muscle": "adductors",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el adductors antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "adductors/side-lying-hip-adduction-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/adductors/side-lying-hip-adduction-male.gif"
+    },
+    {
+      "id": "adductors/side-plank-hip-adduction",
+      "slug": "side-plank-hip-adduction",
+      "name": "Plancha, lateral, cadera adduction",
+      "muscle": "adductors",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "abs",
+        "delts",
+        "glutes"
+      ],
+      "instructions": [
+        "Prepara el equipo y adopta la postura inicial.",
+        "Activa el adductors antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "adductors/side-plank-hip-adduction.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/adductors/side-plank-hip-adduction.gif"
+    }
+  ]
+}

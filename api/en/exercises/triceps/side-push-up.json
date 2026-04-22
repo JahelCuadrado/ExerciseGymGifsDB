@@ -1,0 +1,21 @@
+{
+  "id": "triceps/side-push-up",
+  "slug": "side-push-up",
+  "name": "Side Push Up",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "other",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "Prepare the equipment and adopt the starting position.",
+    "Pre-engage the triceps before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "triceps/side-push-up.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/side-push-up.gif"
+}

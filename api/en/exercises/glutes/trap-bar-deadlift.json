@@ -1,0 +1,25 @@
+{
+  "id": "glutes/trap-bar-deadlift",
+  "slug": "trap-bar-deadlift",
+  "name": "Trap Bar Deadlift",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "other",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "lats",
+    "traps",
+    "forearms",
+    "spine"
+  ],
+  "instructions": [
+    "Prepare the equipment and adopt the starting position.",
+    "Pre-engage the glutes before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "glutes/trap-bar-deadlift.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/trap-bar-deadlift.gif"
+}

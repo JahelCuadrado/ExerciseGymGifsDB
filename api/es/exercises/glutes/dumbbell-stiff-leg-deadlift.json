@@ -1,0 +1,25 @@
+{
+  "id": "glutes/dumbbell-stiff-leg-deadlift",
+  "slug": "dumbbell-stiff-leg-deadlift",
+  "name": "Peso muerto a piernas rígidas con mancuerna",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "lats",
+    "traps",
+    "forearms",
+    "spine"
+  ],
+  "instructions": [
+    "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+    "Activa el glutes antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
+  "file": "glutes/dumbbell-stiff-leg-deadlift.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/dumbbell-stiff-leg-deadlift.gif"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "glutes/kneeling-jump-squat",
+  "slug": "kneeling-jump-squat",
+  "name": "Kneeling Jump Squat",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "other",
+  "category": "plyometrics",
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Prepare the equipment and adopt the starting position.",
+    "Perform a brief dip to load tension.",
+    "Execute the movement explosively and land under control.",
+    "Land softly absorbing with legs and core, then chain the next rep."
+  ],
+  "file": "glutes/kneeling-jump-squat.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/kneeling-jump-squat.gif"
+}

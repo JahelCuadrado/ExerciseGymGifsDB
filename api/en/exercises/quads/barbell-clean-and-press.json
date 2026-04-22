@@ -1,0 +1,27 @@
+{
+  "id": "quads/barbell-clean-and-press",
+  "slug": "barbell-clean-and-press",
+  "name": "Barbell Clean And Press",
+  "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts",
+    "glutes",
+    "hamstrings",
+    "spine",
+    "traps",
+    "forearms"
+  ],
+  "instructions": [
+    "Load the bar with an appropriate weight and adopt the starting position.",
+    "Pre-engage the quads before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "quads/barbell-clean-and-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/barbell-clean-and-press.gif"
+}

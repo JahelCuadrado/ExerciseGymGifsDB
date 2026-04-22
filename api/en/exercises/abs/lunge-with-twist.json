@@ -1,0 +1,23 @@
+{
+  "id": "abs/lunge-with-twist",
+  "slug": "lunge-with-twist",
+  "name": "Lunge With Twist",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "other",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Prepare the equipment and adopt the starting position.",
+    "Pre-engage the abs before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "abs/lunge-with-twist.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/lunge-with-twist.gif"
+}

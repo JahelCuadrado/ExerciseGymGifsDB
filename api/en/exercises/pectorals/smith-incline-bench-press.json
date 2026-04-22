@@ -1,0 +1,22 @@
+{
+  "id": "pectorals/smith-incline-bench-press",
+  "slug": "smith-incline-bench-press",
+  "name": "Smith Incline Bench Press",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Set the bar on the Smith machine at the right height.",
+    "Pre-engage the pectorals before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "pectorals/smith-incline-bench-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/smith-incline-bench-press.gif"
+}

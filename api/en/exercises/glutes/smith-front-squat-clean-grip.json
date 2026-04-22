@@ -1,0 +1,26 @@
+{
+  "id": "glutes/smith-front-squat-clean-grip",
+  "slug": "smith-front-squat-clean-grip",
+  "name": "Smith Front Squat Clean Grip",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves",
+    "spine",
+    "traps",
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "Set the bar on the Smith machine at the right height.",
+    "Pre-engage the glutes before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "glutes/smith-front-squat-clean-grip.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/smith-front-squat-clean-grip.gif"
+}

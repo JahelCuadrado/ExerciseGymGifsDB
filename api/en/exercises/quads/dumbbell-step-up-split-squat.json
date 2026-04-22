@@ -1,0 +1,23 @@
+{
+  "id": "quads/dumbbell-step-up-split-squat",
+  "slug": "dumbbell-step-up-split-squat",
+  "name": "Dumbbell Step Up Split Squat",
+  "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+    "Pre-engage the quads before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "quads/dumbbell-step-up-split-squat.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/dumbbell-step-up-split-squat.gif"
+}

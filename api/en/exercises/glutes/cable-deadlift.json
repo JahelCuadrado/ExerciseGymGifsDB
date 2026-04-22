@@ -1,0 +1,25 @@
+{
+  "id": "glutes/cable-deadlift",
+  "slug": "cable-deadlift",
+  "name": "Cable Deadlift",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "lats",
+    "traps",
+    "forearms",
+    "spine"
+  ],
+  "instructions": [
+    "Set the pulley at the required height and select the weight.",
+    "Pre-engage the glutes before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "glutes/cable-deadlift.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/cable-deadlift.gif"
+}

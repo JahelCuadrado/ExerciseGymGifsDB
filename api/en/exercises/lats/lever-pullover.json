@@ -1,0 +1,19 @@
+{
+  "id": "lats/lever-pullover",
+  "slug": "lever-pullover",
+  "name": "Lever Pullover",
+  "muscle": "lats",
+  "bodyPart": "back",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Adjust the machine to your size and select the load.",
+    "Pre-engage the lats before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "lats/lever-pullover.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/lever-pullover.gif"
+}

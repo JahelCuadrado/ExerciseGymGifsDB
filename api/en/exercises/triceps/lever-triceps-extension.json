@@ -1,0 +1,19 @@
+{
+  "id": "triceps/lever-triceps-extension",
+  "slug": "lever-triceps-extension",
+  "name": "Lever Triceps Extension",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Adjust the machine to your size and select the load.",
+    "Pre-engage the triceps before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "triceps/lever-triceps-extension.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/lever-triceps-extension.gif"
+}

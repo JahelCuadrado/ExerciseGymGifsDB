@@ -1,0 +1,23 @@
+{
+  "id": "upper-back/cable-seated-row",
+  "slug": "cable-seated-row",
+  "name": "Cable Seated Row",
+  "muscle": "upper-back",
+  "bodyPart": "back",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "delts"
+  ],
+  "instructions": [
+    "Set the pulley at the required height and select the weight.",
+    "Pre-engage the upper-back before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "upper-back/cable-seated-row.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cable-seated-row.gif"
+}

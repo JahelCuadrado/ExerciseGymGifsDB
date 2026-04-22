@@ -1,0 +1,23 @@
+{
+  "id": "lats/band-kneeling-one-arm-pulldown",
+  "slug": "band-kneeling-one-arm-pulldown",
+  "name": "Band Kneeling One Arm Pulldown",
+  "muscle": "lats",
+  "bodyPart": "back",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "delts"
+  ],
+  "instructions": [
+    "Anchor the resistance band and maintain initial tension.",
+    "Pre-engage the lats before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "lats/band-kneeling-one-arm-pulldown.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/band-kneeling-one-arm-pulldown.gif"
+}

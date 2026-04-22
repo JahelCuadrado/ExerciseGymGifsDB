@@ -1,0 +1,21 @@
+{
+  "id": "triceps/smith-machine-decline-close-grip-bench-press",
+  "slug": "smith-machine-decline-close-grip-bench-press",
+  "name": "Smith Machine Decline Close Grip Bench Press",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "Set the bar on the Smith machine at the right height.",
+    "Pre-engage the triceps before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "triceps/smith-machine-decline-close-grip-bench-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/smith-machine-decline-close-grip-bench-press.gif"
+}

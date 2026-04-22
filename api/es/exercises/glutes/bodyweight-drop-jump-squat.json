@@ -1,0 +1,21 @@
+{
+  "id": "glutes/bodyweight-drop-jump-squat",
+  "slug": "bodyweight-drop-jump-squat",
+  "name": "Sentadilla con salto con peso corporal, drop",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "plyometrics",
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Adopta la postura inicial con buena alineación corporal.",
+    "Realiza una breve flexión para acumular tensión.",
+    "Ejecuta el movimiento de forma explosiva y aterriza con control.",
+    "Aterriza suave amortiguando con piernas y core, y encadena la siguiente repetición."
+  ],
+  "file": "glutes/bodyweight-drop-jump-squat.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/bodyweight-drop-jump-squat.gif"
+}

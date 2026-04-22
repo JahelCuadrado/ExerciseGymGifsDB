@@ -1,0 +1,23 @@
+{
+  "id": "quads/sissy-squat",
+  "slug": "sissy-squat",
+  "name": "Sissy Squat",
+  "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "other",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Prepare the equipment and adopt the starting position.",
+    "Pre-engage the quads before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "quads/sissy-squat.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/sissy-squat.gif"
+}

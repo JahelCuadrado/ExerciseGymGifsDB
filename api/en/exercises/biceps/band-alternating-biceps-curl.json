@@ -1,0 +1,21 @@
+{
+  "id": "biceps/band-alternating-biceps-curl",
+  "slug": "band-alternating-biceps-curl",
+  "name": "Band Alternating Biceps Curl",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Anchor the resistance band and maintain initial tension.",
+    "Pre-engage the biceps before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "biceps/band-alternating-biceps-curl.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/band-alternating-biceps-curl.gif"
+}

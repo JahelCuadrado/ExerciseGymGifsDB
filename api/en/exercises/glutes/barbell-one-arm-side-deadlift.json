@@ -1,0 +1,25 @@
+{
+  "id": "glutes/barbell-one-arm-side-deadlift",
+  "slug": "barbell-one-arm-side-deadlift",
+  "name": "Barbell One Arm Side Deadlift",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "lats",
+    "traps",
+    "forearms",
+    "spine"
+  ],
+  "instructions": [
+    "Load the bar with an appropriate weight and adopt the starting position.",
+    "Pre-engage the glutes before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "glutes/barbell-one-arm-side-deadlift.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/barbell-one-arm-side-deadlift.gif"
+}

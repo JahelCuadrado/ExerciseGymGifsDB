@@ -1,0 +1,19 @@
+{
+  "id": "calves/smith-toe-raise",
+  "slug": "smith-toe-raise",
+  "name": "Smith Toe Raise",
+  "muscle": "calves",
+  "bodyPart": "legs",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Set the bar on the Smith machine at the right height.",
+    "Pre-engage the calves before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "calves/smith-toe-raise.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/smith-toe-raise.gif"
+}

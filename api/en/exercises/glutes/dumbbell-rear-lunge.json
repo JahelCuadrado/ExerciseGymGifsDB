@@ -1,0 +1,22 @@
+{
+  "id": "glutes/dumbbell-rear-lunge",
+  "slug": "dumbbell-rear-lunge",
+  "name": "Dumbbell Rear Lunge",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+    "Pre-engage the glutes before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "glutes/dumbbell-rear-lunge.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/dumbbell-rear-lunge.gif"
+}

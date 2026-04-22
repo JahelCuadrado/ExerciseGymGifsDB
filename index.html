@@ -117,27 +117,29 @@
         <p class="muted">Cambia <code>@main</code> por <code>@v1.0.0</code> (u otro tag) cuando quieras congelar la versión.</p>
 
         <h3 id="endpoints">Endpoints</h3>
+        <p>La API tiene una versión por idioma. Sustituye <code>{lang}</code> por <code>en</code> o <code>es</code>.</p>
         <div class="endpoints">
-          <div class="endpoint"><span class="method">GET</span><code>/api/index.json</code><p>Metadata global y totales.</p></div>
-          <div class="endpoint"><span class="method">GET</span><code>/api/muscles.json</code><p>Lista de grupos musculares.</p></div>
-          <div class="endpoint"><span class="method">GET</span><code>/api/muscles/{muscle}.json</code><p>Ejercicios de un grupo.</p></div>
-          <div class="endpoint"><span class="method">GET</span><code>/api/equipment.json</code><p>Lista de equipamientos.</p></div>
-          <div class="endpoint"><span class="method">GET</span><code>/api/equipment/{equipment}.json</code><p>Ejercicios por equipamiento.</p></div>
-          <div class="endpoint"><span class="method">GET</span><code>/api/bodyparts.json</code><p>Lista de partes del cuerpo.</p></div>
-          <div class="endpoint"><span class="method">GET</span><code>/api/bodyparts/{bodyPart}.json</code><p>Ejercicios por parte del cuerpo.</p></div>
-          <div class="endpoint"><span class="method">GET</span><code>/api/categories.json</code><p>Lista de categorías.</p></div>
-          <div class="endpoint"><span class="method">GET</span><code>/api/categories/{category}.json</code><p>Ejercicios por categoría.</p></div>
-          <div class="endpoint"><span class="method">GET</span><code>/api/exercises.json</code><p>Todos los ejercicios.</p></div>
-          <div class="endpoint"><span class="method">GET</span><code>/api/exercises/{muscle}/{slug}.json</code><p>Detalle individual.</p></div>
-          <div class="endpoint"><span class="method">GET</span><code>/{muscle}/{slug}.gif</code><p>El GIF original.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/index.json</code><p>Metadata global e idiomas disponibles.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/index.json</code><p>Metadata del idioma seleccionado.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/muscles.json</code><p>Lista de grupos musculares.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/muscles/{muscle}.json</code><p>Ejercicios de un grupo.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/equipment.json</code><p>Lista de equipamientos.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/equipment/{equipment}.json</code><p>Ejercicios por equipamiento.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/bodyparts.json</code><p>Lista de partes del cuerpo.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/bodyparts/{bodyPart}.json</code><p>Ejercicios por parte del cuerpo.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/categories.json</code><p>Lista de categorías.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/categories/{category}.json</code><p>Ejercicios por categoría.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/exercises.json</code><p>Todos los ejercicios.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/exercises/{muscle}/{slug}.json</code><p>Detalle individual.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/{muscle}/{slug}.gif</code><p>El GIF original (compartido entre idiomas).</p></div>
         </div>
 
         <h3 id="schema">Esquema de un ejercicio</h3>
+        <p>El esquema es el mismo en todos los idiomas; lo que cambia es el contenido de <code>name</code> e <code>instructions</code>.</p>
 <pre><code class="lang-json">{
   "id": "biceps/barbell-curl",
   "slug": "barbell-curl",
-  "name": "Barbell Curl",
-  "nameEs": "Curl con barra",
+  "name": "Curl con barra",
   "muscle": "biceps",
   "bodyPart": "arms",
   "equipment": "barbell",
@@ -161,14 +163,16 @@
 
         <h3 id="example-fetch">Ejemplo de uso</h3>
 <pre><code class="lang-js">const BASE = "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main";
+const LANG = "es"; // o "en"
 
-// Lista de ejercicios de bíceps
-const data = await fetch(`${BASE}/api/muscles/biceps.json`).then(r =&gt; r.json());
+// Lista de ejercicios de bíceps en el idioma elegido
+const data = await fetch(`${BASE}/api/${LANG}/muscles/biceps.json`).then(r =&gt; r.json());
 
 // Mostrar el primero
 const ex = data.exercises[0];
-console.log(ex.nameEs);           // "Curl con barra"
-document.body.innerHTML = `&lt;img src="${ex.gifUrl}" alt="${ex.nameEs}" /&gt;`;</code></pre>
+console.log(ex.name);             // "Curl con barra"
+console.log(ex.instructions[0]);  // "Carga el peso adecuado..."
+document.body.innerHTML = `&lt;img src="${ex.gifUrl}" alt="${ex.name}" /&gt;`;</code></pre>
       </div>
     </div>
   </div>
@@ -182,18 +186,26 @@ document.body.innerHTML = `&lt;img src="${ex.gifUrl}" alt="${ex.nameEs}" /&gt;`;
 
     <div class="play-controls">
       <label>
+        Idioma
+        <select id="lang-select">
+          <option value="en">English</option>
+          <option value="es" selected>Español</option>
+        </select>
+      </label>
+      <label>
         Endpoint
         <select id="endpoint-select">
-          <option value="index">/api/index.json</option>
-          <option value="muscles">/api/muscles.json</option>
-          <option value="muscleDetail" selected>/api/muscles/{muscle}.json</option>
-          <option value="equipment">/api/equipment.json</option>
-          <option value="equipmentDetail">/api/equipment/{equipment}.json</option>
-          <option value="bodyparts">/api/bodyparts.json</option>
-          <option value="bodypartDetail">/api/bodyparts/{bodyPart}.json</option>
-          <option value="categories">/api/categories.json</option>
-          <option value="categoryDetail">/api/categories/{category}.json</option>
-          <option value="exerciseDetail">/api/exercises/{muscle}/{slug}.json</option>
+          <option value="globalIndex">/api/index.json</option>
+          <option value="index">/api/{lang}/index.json</option>
+          <option value="muscles">/api/{lang}/muscles.json</option>
+          <option value="muscleDetail" selected>/api/{lang}/muscles/{muscle}.json</option>
+          <option value="equipment">/api/{lang}/equipment.json</option>
+          <option value="equipmentDetail">/api/{lang}/equipment/{equipment}.json</option>
+          <option value="bodyparts">/api/{lang}/bodyparts.json</option>
+          <option value="bodypartDetail">/api/{lang}/bodyparts/{bodyPart}.json</option>
+          <option value="categories">/api/{lang}/categories.json</option>
+          <option value="categoryDetail">/api/{lang}/categories/{category}.json</option>
+          <option value="exerciseDetail">/api/{lang}/exercises/{muscle}/{slug}.json</option>
         </select>
       </label>
 
@@ -245,6 +257,10 @@ document.body.innerHTML = `&lt;img src="${ex.gifUrl}" alt="${ex.nameEs}" /&gt;`;
     <h2 class="section-title">Galería en vivo</h2>
     <p class="muted">Una muestra aleatoria sirviéndose desde la API.</p>
     <div class="gallery-controls">
+      <select id="gallery-lang">
+        <option value="en">English</option>
+        <option value="es" selected>Español</option>
+      </select>
       <select id="gallery-muscle"></select>
       <button class="btn btn-secondary" id="btn-shuffle">Ver otros</button>
     </div>

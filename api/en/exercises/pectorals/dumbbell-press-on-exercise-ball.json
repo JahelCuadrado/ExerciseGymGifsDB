@@ -1,0 +1,22 @@
+{
+  "id": "pectorals/dumbbell-press-on-exercise-ball",
+  "slug": "dumbbell-press-on-exercise-ball",
+  "name": "Dumbbell Press On Exercise Ball",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+    "Pre-engage the pectorals before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "pectorals/dumbbell-press-on-exercise-ball.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/dumbbell-press-on-exercise-ball.gif"
+}

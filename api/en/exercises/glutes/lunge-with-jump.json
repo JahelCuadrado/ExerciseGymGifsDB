@@ -1,0 +1,21 @@
+{
+  "id": "glutes/lunge-with-jump",
+  "slug": "lunge-with-jump",
+  "name": "Lunge With Jump",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "other",
+  "category": "plyometrics",
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Prepare the equipment and adopt the starting position.",
+    "Perform a brief dip to load tension.",
+    "Execute the movement explosively and land under control.",
+    "Land softly absorbing with legs and core, then chain the next rep."
+  ],
+  "file": "glutes/lunge-with-jump.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/lunge-with-jump.gif"
+}

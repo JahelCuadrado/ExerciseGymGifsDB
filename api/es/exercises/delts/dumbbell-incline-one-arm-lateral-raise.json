@@ -1,0 +1,21 @@
+{
+  "id": "delts/dumbbell-incline-one-arm-lateral-raise",
+  "slug": "dumbbell-incline-one-arm-lateral-raise",
+  "name": "Elevación lateral inclinado con mancuerna, a una mano",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+    "Activa el delts antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
+  "file": "delts/dumbbell-incline-one-arm-lateral-raise.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-incline-one-arm-lateral-raise.gif"
+}

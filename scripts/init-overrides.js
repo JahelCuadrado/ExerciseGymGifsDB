@@ -57,9 +57,15 @@ function main() {
 			}
 			ensureDir(path.dirname(out));
 			const template = {
-				nameEs: "",
 				secondaryMuscles: [],
-				instructions: [],
+				en: {
+					name: "",
+					instructions: [],
+				},
+				es: {
+					name: "",
+					instructions: [],
+				},
 			};
 			fs.writeFileSync(
 				out,

@@ -1,0 +1,21 @@
+{
+  "id": "delts/dumbbell-w-press",
+  "slug": "dumbbell-w-press",
+  "name": "Dumbbell W Press",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+    "Pre-engage the delts before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "delts/dumbbell-w-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-w-press.gif"
+}

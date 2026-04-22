@@ -1,0 +1,22 @@
+{
+  "id": "pectorals/resistance-band-seated-chest-press",
+  "slug": "resistance-band-seated-chest-press",
+  "name": "Press de pecho con banda elástica, sentado",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Fija la banda elástica y mantén la tensión inicial.",
+    "Activa el pectorals antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
+  "file": "pectorals/resistance-band-seated-chest-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/resistance-band-seated-chest-press.gif"
+}

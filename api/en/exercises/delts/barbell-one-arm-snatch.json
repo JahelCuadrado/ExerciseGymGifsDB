@@ -1,0 +1,25 @@
+{
+  "id": "delts/barbell-one-arm-snatch",
+  "slug": "barbell-one-arm-snatch",
+  "name": "Barbell One Arm Snatch",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "spine",
+    "traps",
+    "forearms"
+  ],
+  "instructions": [
+    "Load the bar with an appropriate weight and adopt the starting position.",
+    "Pre-engage the delts before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "delts/barbell-one-arm-snatch.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-one-arm-snatch.gif"
+}

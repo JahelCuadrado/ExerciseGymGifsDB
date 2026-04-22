@@ -1,0 +1,21 @@
+{
+  "id": "biceps/lever-reverse-grip-preacher-curl",
+  "slug": "lever-reverse-grip-preacher-curl",
+  "name": "Curl predicador en máquina, con agarre invertido",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Ajusta la máquina a tu medida y selecciona la carga.",
+    "Activa el biceps antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
+  "file": "biceps/lever-reverse-grip-preacher-curl.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/lever-reverse-grip-preacher-curl.gif"
+}

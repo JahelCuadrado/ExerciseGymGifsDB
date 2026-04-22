@@ -1,0 +1,23 @@
+{
+  "id": "quads/barbell-squat-on-knees",
+  "slug": "barbell-squat-on-knees",
+  "name": "Barbell Squat On Knees",
+  "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Load the bar with an appropriate weight and adopt the starting position.",
+    "Pre-engage the quads before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "quads/barbell-squat-on-knees.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/barbell-squat-on-knees.gif"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "lats/chin-up",
+  "slug": "chin-up",
+  "name": "Chin Up",
+  "muscle": "lats",
+  "bodyPart": "back",
+  "equipment": "other",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "delts"
+  ],
+  "instructions": [
+    "Prepare the equipment and adopt the starting position.",
+    "Pre-engage the lats before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "lats/chin-up.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/chin-up.gif"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "delts/lever-one-arm-shoulder-press",
+  "slug": "lever-one-arm-shoulder-press",
+  "name": "Lever One Arm Shoulder Press",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Adjust the machine to your size and select the load.",
+    "Pre-engage the delts before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "delts/lever-one-arm-shoulder-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/lever-one-arm-shoulder-press.gif"
+}

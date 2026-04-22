@@ -1,0 +1,21 @@
+{
+  "id": "biceps/lever-reverse-grip-preacher-curl",
+  "slug": "lever-reverse-grip-preacher-curl",
+  "name": "Lever Reverse Grip Preacher Curl",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Adjust the machine to your size and select the load.",
+    "Pre-engage the biceps before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "biceps/lever-reverse-grip-preacher-curl.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/lever-reverse-grip-preacher-curl.gif"
+}

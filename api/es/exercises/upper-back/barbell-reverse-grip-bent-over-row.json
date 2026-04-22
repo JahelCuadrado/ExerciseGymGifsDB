@@ -1,0 +1,23 @@
+{
+  "id": "upper-back/barbell-reverse-grip-bent-over-row",
+  "slug": "barbell-reverse-grip-bent-over-row",
+  "name": "Remo inclinado con barra, con agarre invertido",
+  "muscle": "upper-back",
+  "bodyPart": "back",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "delts"
+  ],
+  "instructions": [
+    "Carga el peso adecuado en la barra y adopta la postura inicial.",
+    "Activa el upper-back antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
+  "file": "upper-back/barbell-reverse-grip-bent-over-row.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/barbell-reverse-grip-bent-over-row.gif"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "cardio/jump-rope",
+  "slug": "jump-rope",
+  "name": "Jump Rope",
+  "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "other",
+  "category": "cardio",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prepare the equipment and adopt the starting position.",
+    "Keep a steady pace adapted to your fitness level.",
+    "Engage your core and keep an upright posture throughout.",
+    "Continue for the planned time or repetitions."
+  ],
+  "file": "cardio/jump-rope.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/jump-rope.gif"
+}

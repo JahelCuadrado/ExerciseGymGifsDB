@@ -1,0 +1,23 @@
+{
+  "id": "upper-back/dumbbell-incline-row",
+  "slug": "dumbbell-incline-row",
+  "name": "Dumbbell Incline Row",
+  "muscle": "upper-back",
+  "bodyPart": "back",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "delts"
+  ],
+  "instructions": [
+    "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+    "Pre-engage the upper-back before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "upper-back/dumbbell-incline-row.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/dumbbell-incline-row.gif"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "abs/kettlebell-bent-press",
+  "slug": "kettlebell-bent-press",
+  "name": "Kettlebell Bent Press",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "kettlebell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Grab the kettlebell with an appropriate weight and adopt the position.",
+    "Pre-engage the abs before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "abs/kettlebell-bent-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/kettlebell-bent-press.gif"
+}

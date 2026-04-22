@@ -1,0 +1,21 @@
+{
+  "id": "pectorals/kettlebell-plyo-push-up",
+  "slug": "kettlebell-plyo-push-up",
+  "name": "Flexión con kettlebell, plyo",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "kettlebell",
+  "category": "plyometrics",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Coge la kettlebell con un peso adecuado y adopta la postura.",
+    "Realiza una breve flexión para acumular tensión.",
+    "Ejecuta el movimiento de forma explosiva y aterriza con control.",
+    "Aterriza suave amortiguando con piernas y core, y encadena la siguiente repetición."
+  ],
+  "file": "pectorals/kettlebell-plyo-push-up.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/kettlebell-plyo-push-up.gif"
+}

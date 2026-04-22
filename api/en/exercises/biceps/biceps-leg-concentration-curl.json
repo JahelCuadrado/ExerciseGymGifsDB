@@ -1,0 +1,21 @@
+{
+  "id": "biceps/biceps-leg-concentration-curl",
+  "slug": "biceps-leg-concentration-curl",
+  "name": "Biceps Leg Concentration Curl",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "other",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Prepare the equipment and adopt the starting position.",
+    "Pre-engage the biceps before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "biceps/biceps-leg-concentration-curl.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/biceps-leg-concentration-curl.gif"
+}

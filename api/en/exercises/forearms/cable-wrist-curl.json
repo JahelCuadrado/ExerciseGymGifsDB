@@ -1,0 +1,19 @@
+{
+  "id": "forearms/cable-wrist-curl",
+  "slug": "cable-wrist-curl",
+  "name": "Cable Wrist Curl",
+  "muscle": "forearms",
+  "bodyPart": "arms",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Set the pulley at the required height and select the weight.",
+    "Pre-engage the forearms before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "forearms/cable-wrist-curl.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/cable-wrist-curl.gif"
+}

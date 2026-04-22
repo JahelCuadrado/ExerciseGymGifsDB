@@ -1,0 +1,21 @@
+{
+  "id": "delts/lever-lateral-raise",
+  "slug": "lever-lateral-raise",
+  "name": "Lever Lateral Raise",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Adjust the machine to your size and select the load.",
+    "Pre-engage the delts before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "delts/lever-lateral-raise.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/lever-lateral-raise.gif"
+}

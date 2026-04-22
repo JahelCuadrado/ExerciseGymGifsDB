@@ -1,0 +1,22 @@
+{
+  "id": "pectorals/barbell-decline-wide-grip-press",
+  "slug": "barbell-decline-wide-grip-press",
+  "name": "Barbell Decline Wide Grip Press",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Load the bar with an appropriate weight and adopt the starting position.",
+    "Pre-engage the pectorals before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "pectorals/barbell-decline-wide-grip-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/barbell-decline-wide-grip-press.gif"
+}

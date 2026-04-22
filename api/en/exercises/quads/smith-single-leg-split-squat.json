@@ -1,0 +1,23 @@
+{
+  "id": "quads/smith-single-leg-split-squat",
+  "slug": "smith-single-leg-split-squat",
+  "name": "Smith Single Leg Split Squat",
+  "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Set the bar on the Smith machine at the right height.",
+    "Pre-engage the quads before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "quads/smith-single-leg-split-squat.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/smith-single-leg-split-squat.gif"
+}

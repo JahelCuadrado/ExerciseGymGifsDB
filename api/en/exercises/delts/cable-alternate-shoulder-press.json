@@ -1,0 +1,21 @@
+{
+  "id": "delts/cable-alternate-shoulder-press",
+  "slug": "cable-alternate-shoulder-press",
+  "name": "Cable Alternate Shoulder Press",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Set the pulley at the required height and select the weight.",
+    "Pre-engage the delts before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "delts/cable-alternate-shoulder-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/cable-alternate-shoulder-press.gif"
+}

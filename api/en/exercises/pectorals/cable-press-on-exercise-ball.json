@@ -1,0 +1,22 @@
+{
+  "id": "pectorals/cable-press-on-exercise-ball",
+  "slug": "cable-press-on-exercise-ball",
+  "name": "Cable Press On Exercise Ball",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Set the pulley at the required height and select the weight.",
+    "Pre-engage the pectorals before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "pectorals/cable-press-on-exercise-ball.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/cable-press-on-exercise-ball.gif"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "triceps/bench-dip-on-floor",
+  "slug": "bench-dip-on-floor",
+  "name": "Bench Dip On Floor",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "other",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "pectorals"
+  ],
+  "instructions": [
+    "Prepare the equipment and adopt the starting position.",
+    "Pre-engage the triceps before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "triceps/bench-dip-on-floor.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/bench-dip-on-floor.gif"
+}

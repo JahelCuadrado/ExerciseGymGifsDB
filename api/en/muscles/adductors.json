@@ -1,0 +1,123 @@
+{
+  "muscle": "adductors",
+  "count": 6,
+  "exercises": [
+    {
+      "id": "adductors/assisted-side-lying-adductor-stretch",
+      "slug": "assisted-side-lying-adductor-stretch",
+      "name": "Assisted Side Lying Adductor Stretch",
+      "muscle": "adductors",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepare the equipment and adopt the starting position.",
+        "Move into the adductors stretch position.",
+        "Hold for 20 to 40 seconds breathing deeply.",
+        "Return slowly to the starting position and repeat if desired."
+      ],
+      "file": "adductors/assisted-side-lying-adductor-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/adductors/assisted-side-lying-adductor-stretch.gif"
+    },
+    {
+      "id": "adductors/butterfly-yoga-pose",
+      "slug": "butterfly-yoga-pose",
+      "name": "Butterfly Yoga Pose",
+      "muscle": "adductors",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepare the equipment and adopt the starting position.",
+        "Pre-engage the adductors before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "adductors/butterfly-yoga-pose.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/adductors/butterfly-yoga-pose.gif"
+    },
+    {
+      "id": "adductors/cable-hip-adduction",
+      "slug": "cable-hip-adduction",
+      "name": "Cable Hip Adduction",
+      "muscle": "adductors",
+      "bodyPart": "legs",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the adductors before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "adductors/cable-hip-adduction.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/adductors/cable-hip-adduction.gif"
+    },
+    {
+      "id": "adductors/lever-seated-hip-adduction",
+      "slug": "lever-seated-hip-adduction",
+      "name": "Lever Seated Hip Adduction",
+      "muscle": "adductors",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the adductors before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "adductors/lever-seated-hip-adduction.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/adductors/lever-seated-hip-adduction.gif"
+    },
+    {
+      "id": "adductors/side-lying-hip-adduction-male",
+      "slug": "side-lying-hip-adduction-male",
+      "name": "Side Lying Hip Adduction Male",
+      "muscle": "adductors",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepare the equipment and adopt the starting position.",
+        "Pre-engage the adductors before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "adductors/side-lying-hip-adduction-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/adductors/side-lying-hip-adduction-male.gif"
+    },
+    {
+      "id": "adductors/side-plank-hip-adduction",
+      "slug": "side-plank-hip-adduction",
+      "name": "Side Plank Hip Adduction",
+      "muscle": "adductors",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "abs",
+        "delts",
+        "glutes"
+      ],
+      "instructions": [
+        "Prepare the equipment and adopt the starting position.",
+        "Pre-engage the adductors before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "adductors/side-plank-hip-adduction.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/adductors/side-plank-hip-adduction.gif"
+    }
+  ]
+}

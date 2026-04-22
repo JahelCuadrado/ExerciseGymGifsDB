@@ -1,0 +1,21 @@
+{
+  "id": "glutes/barbell-jump-squat",
+  "slug": "barbell-jump-squat",
+  "name": "Barbell Jump Squat",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "barbell",
+  "category": "plyometrics",
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Load the bar with an appropriate weight and adopt the starting position.",
+    "Perform a brief dip to load tension.",
+    "Execute the movement explosively and land under control.",
+    "Land softly absorbing with legs and core, then chain the next rep."
+  ],
+  "file": "glutes/barbell-jump-squat.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/barbell-jump-squat.gif"
+}

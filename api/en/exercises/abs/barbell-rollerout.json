@@ -1,0 +1,19 @@
+{
+  "id": "abs/barbell-rollerout",
+  "slug": "barbell-rollerout",
+  "name": "Barbell Rollerout",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Load the bar with an appropriate weight and adopt the starting position.",
+    "Pre-engage the abs before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "abs/barbell-rollerout.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/barbell-rollerout.gif"
+}

@@ -1,0 +1,1108 @@
+{
+  "equipment": "bodyweight",
+  "count": 52,
+  "exercises": [
+    {
+      "id": "abs/bodyweight-incline-side-plank",
+      "slug": "bodyweight-incline-side-plank",
+      "name": "Bodyweight Incline Side Plank",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "glutes"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the abs before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "abs/bodyweight-incline-side-plank.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/bodyweight-incline-side-plank.gif"
+    },
+    {
+      "id": "abs/weighted-crunch",
+      "slug": "weighted-crunch",
+      "name": "Weighted Crunch",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the abs before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "abs/weighted-crunch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/weighted-crunch.gif"
+    },
+    {
+      "id": "abs/weighted-decline-sit-up",
+      "slug": "weighted-decline-sit-up",
+      "name": "Weighted Decline Sit Up",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the abs before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "abs/weighted-decline-sit-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/weighted-decline-sit-up.gif"
+    },
+    {
+      "id": "abs/weighted-front-plank",
+      "slug": "weighted-front-plank",
+      "name": "Weighted Front Plank",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "glutes"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the abs before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "abs/weighted-front-plank.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/weighted-front-plank.gif"
+    },
+    {
+      "id": "abs/weighted-hanging-leg-hip-raise",
+      "slug": "weighted-hanging-leg-hip-raise",
+      "name": "Weighted Hanging Leg Hip Raise",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the abs before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "abs/weighted-hanging-leg-hip-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/weighted-hanging-leg-hip-raise.gif"
+    },
+    {
+      "id": "abs/weighted-overhead-crunch-on-stability-ball",
+      "slug": "weighted-overhead-crunch-on-stability-ball",
+      "name": "Weighted Overhead Crunch On Stability Ball",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the abs before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "abs/weighted-overhead-crunch-on-stability-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/weighted-overhead-crunch-on-stability-ball.gif"
+    },
+    {
+      "id": "abs/weighted-russian-twist-legs-up",
+      "slug": "weighted-russian-twist-legs-up",
+      "name": "Weighted Russian Twist Legs Up",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the abs before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "abs/weighted-russian-twist-legs-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/weighted-russian-twist-legs-up.gif"
+    },
+    {
+      "id": "abs/weighted-russian-twist-v-2",
+      "slug": "weighted-russian-twist-v-2",
+      "name": "Weighted Russian Twist v2",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the abs before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "abs/weighted-russian-twist-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/weighted-russian-twist-v-2.gif"
+    },
+    {
+      "id": "abs/weighted-russian-twist",
+      "slug": "weighted-russian-twist",
+      "name": "Weighted Russian Twist",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the abs before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "abs/weighted-russian-twist.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/weighted-russian-twist.gif"
+    },
+    {
+      "id": "abs/weighted-seated-twist-on-stability-ball",
+      "slug": "weighted-seated-twist-on-stability-ball",
+      "name": "Weighted Seated Twist On Stability Ball",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the abs before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "abs/weighted-seated-twist-on-stability-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/weighted-seated-twist-on-stability-ball.gif"
+    },
+    {
+      "id": "abs/weighted-side-bend-on-stability-ball",
+      "slug": "weighted-side-bend-on-stability-ball",
+      "name": "Weighted Side Bend On Stability Ball",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the abs before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "abs/weighted-side-bend-on-stability-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/weighted-side-bend-on-stability-ball.gif"
+    },
+    {
+      "id": "biceps/bodyweight-side-lying-biceps-curl",
+      "slug": "bodyweight-side-lying-biceps-curl",
+      "name": "Bodyweight Side Lying Biceps Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/bodyweight-side-lying-biceps-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/bodyweight-side-lying-biceps-curl.gif"
+    },
+    {
+      "id": "biceps/weighted-seated-bicep-curl-on-stability-ball",
+      "slug": "weighted-seated-bicep-curl-on-stability-ball",
+      "name": "Weighted Seated Bicep Curl On Stability Ball",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/weighted-seated-bicep-curl-on-stability-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/weighted-seated-bicep-curl-on-stability-ball.gif"
+    },
+    {
+      "id": "biceps/weighted-standing-curl",
+      "slug": "weighted-standing-curl",
+      "name": "Weighted Standing Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/weighted-standing-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/weighted-standing-curl.gif"
+    },
+    {
+      "id": "calves/bodyweight-standing-calf-raise",
+      "slug": "bodyweight-standing-calf-raise",
+      "name": "Bodyweight Standing Calf Raise",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the calves before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "calves/bodyweight-standing-calf-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/bodyweight-standing-calf-raise.gif"
+    },
+    {
+      "id": "calves/weighted-donkey-calf-raise",
+      "slug": "weighted-donkey-calf-raise",
+      "name": "Weighted Donkey Calf Raise",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the calves before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "calves/weighted-donkey-calf-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/weighted-donkey-calf-raise.gif"
+    },
+    {
+      "id": "delts/weighted-front-raise",
+      "slug": "weighted-front-raise",
+      "name": "Weighted Front Raise",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the delts before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "delts/weighted-front-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/weighted-front-raise.gif"
+    },
+    {
+      "id": "delts/weighted-kneeling-step-with-swing",
+      "slug": "weighted-kneeling-step-with-swing",
+      "name": "Weighted Kneeling Step With Swing",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the delts before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "delts/weighted-kneeling-step-with-swing.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/weighted-kneeling-step-with-swing.gif"
+    },
+    {
+      "id": "delts/weighted-round-arm",
+      "slug": "weighted-round-arm",
+      "name": "Weighted Round Arm",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the delts before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "delts/weighted-round-arm.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/weighted-round-arm.gif"
+    },
+    {
+      "id": "forearms/weighted-standing-hand-squeeze",
+      "slug": "weighted-standing-hand-squeeze",
+      "name": "Weighted Standing Hand Squeeze",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the forearms before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "forearms/weighted-standing-hand-squeeze.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/weighted-standing-hand-squeeze.gif"
+    },
+    {
+      "id": "glutes/bodyweight-drop-jump-squat",
+      "slug": "bodyweight-drop-jump-squat",
+      "name": "Bodyweight Drop Jump Squat",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Perform a brief dip to load tension.",
+        "Execute the movement explosively and land under control.",
+        "Land softly absorbing with legs and core, then chain the next rep."
+      ],
+      "file": "glutes/bodyweight-drop-jump-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/bodyweight-drop-jump-squat.gif"
+    },
+    {
+      "id": "glutes/weighted-cossack-squats-male",
+      "slug": "weighted-cossack-squats-male",
+      "name": "Weighted Cossack Squats Male",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the glutes before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "glutes/weighted-cossack-squats-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/weighted-cossack-squats-male.gif"
+    },
+    {
+      "id": "glutes/weighted-lunge-with-swing",
+      "slug": "weighted-lunge-with-swing",
+      "name": "Weighted Lunge With Swing",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the glutes before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "glutes/weighted-lunge-with-swing.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/weighted-lunge-with-swing.gif"
+    },
+    {
+      "id": "glutes/weighted-squat",
+      "slug": "weighted-squat",
+      "name": "Weighted Squat",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the glutes before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "glutes/weighted-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/weighted-squat.gif"
+    },
+    {
+      "id": "glutes/weighted-stretch-lunge",
+      "slug": "weighted-stretch-lunge",
+      "name": "Weighted Stretch Lunge",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Move into the glutes stretch position.",
+        "Hold for 20 to 40 seconds breathing deeply.",
+        "Return slowly to the starting position and repeat if desired."
+      ],
+      "file": "glutes/weighted-stretch-lunge.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/weighted-stretch-lunge.gif"
+    },
+    {
+      "id": "hamstrings/self-assisted-inverse-leg-curl-1766",
+      "slug": "self-assisted-inverse-leg-curl-1766",
+      "name": "Self Assisted Inverse Leg Curl 1766",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the hamstrings before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "hamstrings/self-assisted-inverse-leg-curl-1766.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/self-assisted-inverse-leg-curl-1766.gif"
+    },
+    {
+      "id": "hamstrings/self-assisted-inverse-leg-curl-on-floor",
+      "slug": "self-assisted-inverse-leg-curl-on-floor",
+      "name": "Self Assisted Inverse Leg Curl On Floor",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the hamstrings before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "hamstrings/self-assisted-inverse-leg-curl-on-floor.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/self-assisted-inverse-leg-curl-on-floor.gif"
+    },
+    {
+      "id": "hamstrings/self-assisted-inverse-leg-curl",
+      "slug": "self-assisted-inverse-leg-curl",
+      "name": "Self Assisted Inverse Leg Curl",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the hamstrings before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "hamstrings/self-assisted-inverse-leg-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/self-assisted-inverse-leg-curl.gif"
+    },
+    {
+      "id": "lats/weighted-close-grip-chin-up-on-dip-cage",
+      "slug": "weighted-close-grip-chin-up-on-dip-cage",
+      "name": "Weighted Close Grip Chin Up On Dip Cage",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "pectorals",
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the lats before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "lats/weighted-close-grip-chin-up-on-dip-cage.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/weighted-close-grip-chin-up-on-dip-cage.gif"
+    },
+    {
+      "id": "lats/weighted-muscle-up-on-bar",
+      "slug": "weighted-muscle-up-on-bar",
+      "name": "Weighted Muscle Up On Bar",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the lats before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "lats/weighted-muscle-up-on-bar.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/weighted-muscle-up-on-bar.gif"
+    },
+    {
+      "id": "lats/weighted-muscle-up",
+      "slug": "weighted-muscle-up",
+      "name": "Weighted Muscle Up",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the lats before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "lats/weighted-muscle-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/weighted-muscle-up.gif"
+    },
+    {
+      "id": "lats/weighted-one-hand-pull-up",
+      "slug": "weighted-one-hand-pull-up",
+      "name": "Weighted One Hand Pull Up",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the lats before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "lats/weighted-one-hand-pull-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/weighted-one-hand-pull-up.gif"
+    },
+    {
+      "id": "lats/weighted-pull-up",
+      "slug": "weighted-pull-up",
+      "name": "Weighted Pull Up",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the lats before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "lats/weighted-pull-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/weighted-pull-up.gif"
+    },
+    {
+      "id": "pectorals/push-and-pull-bodyweight",
+      "slug": "push-and-pull-bodyweight",
+      "name": "Push And Pull Bodyweight",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the pectorals before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "pectorals/push-and-pull-bodyweight.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/push-and-pull-bodyweight.gif"
+    },
+    {
+      "id": "pectorals/weighted-drop-push-up",
+      "slug": "weighted-drop-push-up",
+      "name": "Weighted Drop Push Up",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the pectorals before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "pectorals/weighted-drop-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/weighted-drop-push-up.gif"
+    },
+    {
+      "id": "pectorals/weighted-straight-bar-dip",
+      "slug": "weighted-straight-bar-dip",
+      "name": "Weighted Straight Bar Dip",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the pectorals before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "pectorals/weighted-straight-bar-dip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/weighted-straight-bar-dip.gif"
+    },
+    {
+      "id": "pectorals/weighted-svend-press",
+      "slug": "weighted-svend-press",
+      "name": "Weighted Svend Press",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the pectorals before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "pectorals/weighted-svend-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/weighted-svend-press.gif"
+    },
+    {
+      "id": "quads/weighted-sissy-squat",
+      "slug": "weighted-sissy-squat",
+      "name": "Weighted Sissy Squat",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the quads before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "quads/weighted-sissy-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/weighted-sissy-squat.gif"
+    },
+    {
+      "id": "spine/weighted-hyperextension-on-stability-ball",
+      "slug": "weighted-hyperextension-on-stability-ball",
+      "name": "Weighted Hyperextension On Stability Ball",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the spine before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "spine/weighted-hyperextension-on-stability-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/spine/weighted-hyperextension-on-stability-ball.gif"
+    },
+    {
+      "id": "triceps/bodyweight-kneeling-triceps-extension",
+      "slug": "bodyweight-kneeling-triceps-extension",
+      "name": "Bodyweight Kneeling Triceps Extension",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the triceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "triceps/bodyweight-kneeling-triceps-extension.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/bodyweight-kneeling-triceps-extension.gif"
+    },
+    {
+      "id": "triceps/weighted-bench-dip",
+      "slug": "weighted-bench-dip",
+      "name": "Weighted Bench Dip",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the triceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "triceps/weighted-bench-dip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/weighted-bench-dip.gif"
+    },
+    {
+      "id": "triceps/weighted-three-bench-dips",
+      "slug": "weighted-three-bench-dips",
+      "name": "Weighted Three Bench Dips",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the triceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "triceps/weighted-three-bench-dips.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/weighted-three-bench-dips.gif"
+    },
+    {
+      "id": "triceps/weighted-tricep-dips",
+      "slug": "weighted-tricep-dips",
+      "name": "Weighted Tricep Dips",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the triceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "triceps/weighted-tricep-dips.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/weighted-tricep-dips.gif"
+    },
+    {
+      "id": "triceps/weighted-triceps-dip-on-high-parallel-bars",
+      "slug": "weighted-triceps-dip-on-high-parallel-bars",
+      "name": "Weighted Triceps Dip On High Parallel Bars",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the triceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "triceps/weighted-triceps-dip-on-high-parallel-bars.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/weighted-triceps-dip-on-high-parallel-bars.gif"
+    },
+    {
+      "id": "upper-back/bodyweight-squatting-row-with-towel",
+      "slug": "bodyweight-squatting-row-with-towel",
+      "name": "Bodyweight Squatting Row With Towel",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves",
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the upper-back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/bodyweight-squatting-row-with-towel.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/bodyweight-squatting-row-with-towel.gif"
+    },
+    {
+      "id": "upper-back/bodyweight-squatting-row",
+      "slug": "bodyweight-squatting-row",
+      "name": "Bodyweight Squatting Row",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves",
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the upper-back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/bodyweight-squatting-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/bodyweight-squatting-row.gif"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-close-grip-one-arm-row",
+      "slug": "bodyweight-standing-close-grip-one-arm-row",
+      "name": "Bodyweight Standing Close Grip One Arm Row",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the upper-back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/bodyweight-standing-close-grip-one-arm-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/bodyweight-standing-close-grip-one-arm-row.gif"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-close-grip-row",
+      "slug": "bodyweight-standing-close-grip-row",
+      "name": "Bodyweight Standing Close Grip Row",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the upper-back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/bodyweight-standing-close-grip-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/bodyweight-standing-close-grip-row.gif"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-one-arm-row-with-towel",
+      "slug": "bodyweight-standing-one-arm-row-with-towel",
+      "name": "Bodyweight Standing One Arm Row With Towel",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the upper-back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/bodyweight-standing-one-arm-row-with-towel.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/bodyweight-standing-one-arm-row-with-towel.gif"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-one-arm-row",
+      "slug": "bodyweight-standing-one-arm-row",
+      "name": "Bodyweight Standing One Arm Row",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the upper-back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/bodyweight-standing-one-arm-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/bodyweight-standing-one-arm-row.gif"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-row-with-towel",
+      "slug": "bodyweight-standing-row-with-towel",
+      "name": "Bodyweight Standing Row With Towel",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the upper-back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/bodyweight-standing-row-with-towel.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/bodyweight-standing-row-with-towel.gif"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-row",
+      "slug": "bodyweight-standing-row",
+      "name": "Bodyweight Standing Row",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the upper-back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/bodyweight-standing-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/bodyweight-standing-row.gif"
+    }
+  ]
+}

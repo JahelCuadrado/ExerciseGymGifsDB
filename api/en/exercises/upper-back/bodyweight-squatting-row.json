@@ -1,0 +1,26 @@
+{
+  "id": "upper-back/bodyweight-squatting-row",
+  "slug": "bodyweight-squatting-row",
+  "name": "Bodyweight Squatting Row",
+  "muscle": "upper-back",
+  "bodyPart": "back",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves",
+    "biceps",
+    "forearms",
+    "delts"
+  ],
+  "instructions": [
+    "Adopt the starting position with proper body alignment.",
+    "Pre-engage the upper-back before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "upper-back/bodyweight-squatting-row.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/bodyweight-squatting-row.gif"
+}

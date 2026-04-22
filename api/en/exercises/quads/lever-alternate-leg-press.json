@@ -1,0 +1,22 @@
+{
+  "id": "quads/lever-alternate-leg-press",
+  "slug": "lever-alternate-leg-press",
+  "name": "Lever Alternate Leg Press",
+  "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Adjust the machine to your size and select the load.",
+    "Pre-engage the quads before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "quads/lever-alternate-leg-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/lever-alternate-leg-press.gif"
+}

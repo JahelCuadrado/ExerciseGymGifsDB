@@ -706,7 +706,7 @@ function inferSecondary(muscle, slug) {
 // Plantillas de instrucciones (genéricas)
 // ---------------------------------------------------------------------------
 
-const EQUIP_SETUP = {
+const EQUIP_SETUP_ES = {
 	barbell: "Carga el peso adecuado en la barra y adopta la postura inicial.",
 	dumbbell: "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
 	cable: "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -720,16 +720,16 @@ const EQUIP_SETUP = {
 	other: "Prepara el equipo y adopta la postura inicial.",
 };
 
-const CATEGORY_FOCUS = {
+const CATEGORY_FOCUS_ES = {
 	strength: "Realiza el movimiento de forma controlada manteniendo la técnica.",
 	stretching: "Mantén la posición sintiendo el estiramiento sin rebotes.",
 	plyometrics: "Ejecuta el movimiento de forma explosiva y aterriza con control.",
 	cardio: "Mantén un ritmo constante adaptado a tu nivel.",
 };
 
-function generateInstructions({ name, muscle, equipment, category }) {
-	const setup = EQUIP_SETUP[equipment] || EQUIP_SETUP.other;
-	const focus = CATEGORY_FOCUS[category] || CATEGORY_FOCUS.strength;
+function generateInstructionsEs({ name, muscle, equipment, category }) {
+	const setup = EQUIP_SETUP_ES[equipment] || EQUIP_SETUP_ES.other;
+	const focus = CATEGORY_FOCUS_ES[category] || CATEGORY_FOCUS_ES.strength;
 
 	if (category === "stretching") {
 		return [
@@ -764,8 +764,67 @@ function generateInstructions({ name, muscle, equipment, category }) {
 	];
 }
 
+const EQUIP_SETUP_EN = {
+	barbell: "Load the bar with an appropriate weight and adopt the starting position.",
+	dumbbell: "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+	cable: "Set the pulley at the required height and select the weight.",
+	machine: "Adjust the machine to your size and select the load.",
+	lever: "Adjust the machine to your size and select the load.",
+	smith: "Set the bar on the Smith machine at the right height.",
+	"ez-bar": "Load the EZ-bar with an appropriate weight and grip it firmly.",
+	kettlebell: "Grab the kettlebell with an appropriate weight and adopt the position.",
+	band: "Anchor the resistance band and maintain initial tension.",
+	bodyweight: "Adopt the starting position with proper body alignment.",
+	other: "Prepare the equipment and adopt the starting position.",
+};
+
+const CATEGORY_FOCUS_EN = {
+	strength: "Perform the movement in a controlled manner, keeping good form.",
+	stretching: "Hold the position feeling the stretch without bouncing.",
+	plyometrics: "Execute the movement explosively and land under control.",
+	cardio: "Keep a steady pace adapted to your fitness level.",
+};
+
+function generateInstructionsEn({ name, muscle, equipment, category }) {
+	const setup = EQUIP_SETUP_EN[equipment] || EQUIP_SETUP_EN.other;
+	const focus = CATEGORY_FOCUS_EN[category] || CATEGORY_FOCUS_EN.strength;
+
+	if (category === "stretching") {
+		return [
+			setup,
+			`Move into the ${muscle} stretch position.`,
+			"Hold for 20 to 40 seconds breathing deeply.",
+			"Return slowly to the starting position and repeat if desired.",
+		];
+	}
+	if (category === "cardio") {
+		return [
+			setup,
+			focus,
+			"Engage your core and keep an upright posture throughout.",
+			"Continue for the planned time or repetitions.",
+		];
+	}
+	if (category === "plyometrics") {
+		return [
+			setup,
+			"Perform a brief dip to load tension.",
+			focus,
+			"Land softly absorbing with legs and core, then chain the next rep.",
+		];
+	}
+	return [
+		setup,
+		`Pre-engage the ${muscle} before initiating the movement.`,
+		focus,
+		"Return to the starting position controlling the eccentric phase.",
+		"Breathe: exhale on effort, inhale on the way back.",
+	];
+}
+
 module.exports = {
 	translateSlug,
 	inferSecondary,
-	generateInstructions,
+	generateInstructionsEs,
+	generateInstructionsEn,
 };

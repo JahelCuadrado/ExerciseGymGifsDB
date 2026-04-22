@@ -1,0 +1,22 @@
+{
+  "id": "pectorals/band-bench-press",
+  "slug": "band-bench-press",
+  "name": "Band Bench Press",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Anchor the resistance band and maintain initial tension.",
+    "Pre-engage the pectorals before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "pectorals/band-bench-press.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/band-bench-press.gif"
+}

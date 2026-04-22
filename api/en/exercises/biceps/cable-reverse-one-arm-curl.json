@@ -1,0 +1,21 @@
+{
+  "id": "biceps/cable-reverse-one-arm-curl",
+  "slug": "cable-reverse-one-arm-curl",
+  "name": "Cable Reverse One Arm Curl",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Set the pulley at the required height and select the weight.",
+    "Pre-engage the biceps before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "biceps/cable-reverse-one-arm-curl.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-reverse-one-arm-curl.gif"
+}

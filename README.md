@@ -10,19 +10,22 @@ app móvil o web sin necesidad de backend.
 
 ## Endpoints
 
+La API es **multilingüe**. Sustituye `<lang>` por `en` o `es`.
+
 | Endpoint | Descripción |
 |---|---|
-| `/api/index.json` | Metadata global + listados |
-| `/api/muscles.json` | Lista de grupos musculares |
-| `/api/muscles/<muscle>.json` | Ejercicios de un grupo |
-| `/api/equipment.json` | Lista de equipamientos |
-| `/api/equipment/<equipment>.json` | Ejercicios por equipamiento |
-| `/api/bodyparts.json` | Lista de partes del cuerpo |
-| `/api/bodyparts/<bodyPart>.json` | Ejercicios por parte del cuerpo |
-| `/api/categories.json` | Lista de categorías |
-| `/api/categories/<category>.json` | Ejercicios por categoría |
-| `/api/exercises.json` | Todos los ejercicios en un solo array |
-| `/api/exercises/<muscle>/<slug>.json` | Detalle individual |
+| `/api/index.json` | Metadata global e idiomas disponibles |
+| `/api/<lang>/index.json` | Metadata del idioma |
+| `/api/<lang>/muscles.json` | Lista de grupos musculares |
+| `/api/<lang>/muscles/<muscle>.json` | Ejercicios de un grupo |
+| `/api/<lang>/equipment.json` | Lista de equipamientos |
+| `/api/<lang>/equipment/<equipment>.json` | Ejercicios por equipamiento |
+| `/api/<lang>/bodyparts.json` | Lista de partes del cuerpo |
+| `/api/<lang>/bodyparts/<bodyPart>.json` | Ejercicios por parte del cuerpo |
+| `/api/<lang>/categories.json` | Lista de categorías |
+| `/api/<lang>/categories/<category>.json` | Ejercicios por categoría |
+| `/api/<lang>/exercises.json` | Todos los ejercicios |
+| `/api/<lang>/exercises/<muscle>/<slug>.json` | Detalle individual |
 
 Valores posibles:
 
@@ -33,8 +36,8 @@ Valores posibles:
 Ejemplos en vivo:
 
 - https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/api/index.json
-- https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/api/muscles/biceps.json
-- https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/api/equipment/dumbbell.json
+- https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/api/es/muscles/biceps.json
+- https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/api/en/muscles/biceps.json
 - https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-curl.gif
 
 ## Estructura del repo
@@ -51,41 +54,40 @@ scripts/
 
 ## Formato de un ejercicio
 
+El esquema es idéntico en todos los idiomas; lo que cambia es el contenido de
+`name` e `instructions`.
+
 ```json
 {
   "id": "biceps/barbell-curl",
   "slug": "barbell-curl",
-  "name": "Barbell Curl",
-  "nameEs": "Curl con barra",
+  "name": "Curl con barra",
   "muscle": "biceps",
   "bodyPart": "arms",
   "equipment": "barbell",
   "category": "strength",
   "secondaryMuscles": ["forearms"],
   "instructions": [
-    "De pie, sujeta la barra con las palmas hacia arriba.",
-    "Flexiona los codos llevando la barra hacia los hombros.",
-    "Baja la barra controladamente hasta extender los brazos."
+    "Carga el peso adecuado en la barra y adopta la postura inicial.",
+    "Activa el biceps antes de iniciar el movimiento.",
+    "..."
   ],
   "file": "biceps/barbell-curl.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-curl.gif"
 }
 ```
 
-Los campos `name`, `bodyPart`, `equipment`, `category`, `gifUrl` se infieren
-automáticamente. Los campos `nameEs`, `secondaryMuscles` e `instructions`
-se rellenan en `overrides/<muscle>/<slug>.json` (ver más abajo).
-
 ## Consumir desde tu app
 
 ```js
 const BASE = "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main";
+const LANG = "es"; // o "en"
 
 // Lista de grupos musculares
-const muscles = await fetch(`${BASE}/api/muscles.json`).then(r => r.json());
+const muscles = await fetch(`${BASE}/api/${LANG}/muscles.json`).then(r => r.json());
 
 // Ejercicios de bíceps
-const biceps = await fetch(`${BASE}/api/muscles/biceps.json`).then(r => r.json());
+const biceps = await fetch(`${BASE}/api/${LANG}/muscles/biceps.json`).then(r => r.json());
 
 // Mostrar un GIF
 // <img src={biceps.exercises[0].gifUrl} />
@@ -118,27 +120,27 @@ plantillas vacías de todos los ejercicios:
 npm run init-overrides
 ```
 
-Ejemplo de override (`overrides/biceps/barbell-curl.json`):
+Formato recomendado (multilingüe):
 
 ```json
 {
-  "nameEs": "Curl con barra",
   "secondaryMuscles": ["forearms"],
-  "instructions": [
-    "De pie, sujeta la barra con las palmas hacia arriba.",
-    "Flexiona los codos llevando la barra hacia los hombros.",
-    "Baja la barra controladamente hasta extender los brazos."
-  ]
+  "en": {
+    "name": "Barbell Curl",
+    "instructions": ["Step 1...", "Step 2..."]
+  },
+  "es": {
+    "name": "Curl con barra",
+    "instructions": ["Paso 1...", "Paso 2..."]
+  }
 }
 ```
 
 Reglas:
 
 - Cualquier campo presente y **no vacío** en el override sustituye al inferido.
-- Los campos vacíos (`""` o `[]`) se ignoran, así que puedes dejarlos como
-  recordatorio de "falta rellenar".
-- También puedes corregir `equipment`, `bodyPart` o `category` si la heurística
-  los detecta mal: solo añádelos al JSON del override.
+- También se admite el formato legacy `{ nameEs, instructions }` para
+  compatibilidad.
 - Tras editar overrides, vuelve a ejecutar `npm run build`.
 
 ## Añadir nuevos GIFs

@@ -3,13 +3,12 @@
 // =====================================================================
 const BASE = "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main";
 
-// Cargamos el index para tener músculos, equipos, etc.
-let INDEX = null;
+let GLOBAL_INDEX = null;
 let MUSCLES = [];
 let EQUIPMENT = [];
 let BODYPARTS = [];
 let CATEGORIES = [];
-const muscleCache = new Map(); // muscle -> exercises[]
+const muscleCache = new Map(); // `${lang}/${muscle}` -> exercises[]
 
 const $ = (sel) => document.querySelector(sel);
 
@@ -20,20 +19,23 @@ document.addEventListener("DOMContentLoaded", () => {
 
 async function bootstrap() {
 	try {
-		INDEX = await fetchJSON(`${BASE}/api/index.json`);
-		updateStats(INDEX);
-		MUSCLES = INDEX.muscles.map((m) => m.muscle);
+		GLOBAL_INDEX = await fetchJSON(`${BASE}/api/index.json`);
+		updateStats(GLOBAL_INDEX);
 
-		// Cargas opcionales para el playground (en paralelo, sin bloquear)
-		fetchJSON(`${BASE}/api/equipment.json`).then((j) => {
+		const lang = currentLang();
+		const langIndex = await fetchJSON(`${BASE}/api/${lang}/index.json`);
+		MUSCLES = langIndex.muscles.map((m) => m.muscle);
+
+		// Cargas paralelas para los desplegables
+		fetchJSON(`${BASE}/api/${lang}/equipment.json`).then((j) => {
 			EQUIPMENT = (j || []).map((x) => x.equipment);
 			fillSelect("#param-equipment", EQUIPMENT);
 		});
-		fetchJSON(`${BASE}/api/bodyparts.json`).then((j) => {
+		fetchJSON(`${BASE}/api/${lang}/bodyparts.json`).then((j) => {
 			BODYPARTS = (j || []).map((x) => x.bodyPart);
 			fillSelect("#param-bodypart", BODYPARTS);
 		});
-		fetchJSON(`${BASE}/api/categories.json`).then((j) => {
+		fetchJSON(`${BASE}/api/${lang}/categories.json`).then((j) => {
 			CATEGORIES = (j || []).map((x) => x.category);
 			fillSelect("#param-category", CATEGORIES);
 		});
@@ -41,9 +43,8 @@ async function bootstrap() {
 		fillSelect("#param-muscle", MUSCLES);
 		fillSelect("#gallery-muscle", MUSCLES);
 
-		// Precargar slugs del primer músculo para que el desplegable no aparezca vacío
 		if (MUSCLES.length) {
-			loadMuscle(MUSCLES[0]).then((data) => {
+			loadMuscle(lang, MUSCLES[0]).then((data) => {
 				fillSelect(
 					"#param-slug",
 					data.exercises.map((e) => e.slug)
@@ -53,7 +54,7 @@ async function bootstrap() {
 		}
 
 		updateUrlPreview();
-		await loadGallery(MUSCLES[0]);
+		await loadGallery(currentGalleryLang(), MUSCLES[0]);
 	} catch (err) {
 		console.error(err);
 		document.getElementById("result-meta").textContent =
@@ -63,10 +64,14 @@ async function bootstrap() {
 
 function updateStats(idx) {
 	if (!idx?.totals) return;
-	$("#stat-exercises").textContent = idx.totals.exercises;
-	$("#stat-muscles").textContent = idx.totals.muscles;
-	$("#stat-equipment").textContent = idx.totals.equipment;
-	$("#stat-categories").textContent = idx.totals.categories;
+	// Tomamos los totales del idioma por defecto.
+	const defLang = idx.defaultLanguage || (idx.languages && idx.languages[0]);
+	const t = idx.totals?.[defLang] || idx.totals;
+	if (!t) return;
+	$("#stat-exercises").textContent = t.exercises ?? "—";
+	$("#stat-muscles").textContent = t.muscles ?? "—";
+	$("#stat-equipment").textContent = t.equipment ?? "—";
+	$("#stat-categories").textContent = t.categories ?? "—";
 }
 
 async function fetchJSON(url) {
@@ -78,17 +83,31 @@ async function fetchJSON(url) {
 function fillSelect(sel, items) {
 	const el = $(sel);
 	if (!el) return;
+	const prev = el.value;
 	el.innerHTML = items
 		.map((v) => `<option value="${v}">${v}</option>`)
 		.join("");
+	if (items.includes(prev)) el.value = prev;
+}
+
+function currentLang() {
+	return $("#lang-select")?.value || "es";
+}
+
+function currentGalleryLang() {
+	return $("#gallery-lang")?.value || "es";
 }
 
 // ---------------------------------------------------------------------
 // Playground
 // ---------------------------------------------------------------------
 function bindUI() {
-	const select = $("#endpoint-select");
-	select.addEventListener("change", onEndpointChange);
+	$("#lang-select").addEventListener("change", () => {
+		updateUrlPreview();
+		// recargar slugs si el endpoint los necesita
+		onMuscleChangeForExerciseDetail().then(updateUrlPreview);
+	});
+	$("#endpoint-select").addEventListener("change", onEndpointChange);
 
 	$("#param-muscle").addEventListener("change", async () => {
 		await onMuscleChangeForExerciseDetail();
@@ -102,11 +121,14 @@ function bindUI() {
 	$("#btn-send").addEventListener("click", sendRequest);
 	$("#btn-copy").addEventListener("click", copyUrl);
 
+	$("#gallery-lang").addEventListener("change", () =>
+		loadGallery(currentGalleryLang(), $("#gallery-muscle").value)
+	);
 	$("#gallery-muscle").addEventListener("change", (e) =>
-		loadGallery(e.target.value)
+		loadGallery(currentGalleryLang(), e.target.value)
 	);
 	$("#btn-shuffle").addEventListener("click", () =>
-		loadGallery($("#gallery-muscle").value)
+		loadGallery(currentGalleryLang(), $("#gallery-muscle").value)
 	);
 
 	onEndpointChange();
@@ -142,44 +164,47 @@ async function onMuscleChangeForExerciseDetail() {
 	}
 	slugSel.innerHTML = '<option value="">Cargando…</option>';
 	try {
-		const data = await loadMuscle(muscle);
-		const slugs = data.exercises.map((e) => e.slug);
-		fillSelect("#param-slug", slugs);
+		const data = await loadMuscle(currentLang(), muscle);
+		fillSelect("#param-slug", data.exercises.map((e) => e.slug));
 	} catch (err) {
 		slugSel.innerHTML = `<option value="">Error: ${err.message}</option>`;
 	}
 }
 
-async function loadMuscle(muscle) {
-	if (muscleCache.has(muscle)) return muscleCache.get(muscle);
-	const data = await fetchJSON(`${BASE}/api/muscles/${muscle}.json`);
-	muscleCache.set(muscle, data);
+async function loadMuscle(lang, muscle) {
+	const key = `${lang}/${muscle}`;
+	if (muscleCache.has(key)) return muscleCache.get(key);
+	const data = await fetchJSON(`${BASE}/api/${lang}/muscles/${muscle}.json`);
+	muscleCache.set(key, data);
 	return data;
 }
 
 function buildUrl() {
 	const ep = $("#endpoint-select").value;
+	const lang = currentLang();
 	switch (ep) {
-		case "index":
+		case "globalIndex":
 			return `${BASE}/api/index.json`;
+		case "index":
+			return `${BASE}/api/${lang}/index.json`;
 		case "muscles":
-			return `${BASE}/api/muscles.json`;
+			return `${BASE}/api/${lang}/muscles.json`;
 		case "muscleDetail":
-			return `${BASE}/api/muscles/${$("#param-muscle").value}.json`;
+			return `${BASE}/api/${lang}/muscles/${$("#param-muscle").value}.json`;
 		case "equipment":
-			return `${BASE}/api/equipment.json`;
+			return `${BASE}/api/${lang}/equipment.json`;
 		case "equipmentDetail":
-			return `${BASE}/api/equipment/${$("#param-equipment").value}.json`;
+			return `${BASE}/api/${lang}/equipment/${$("#param-equipment").value}.json`;
 		case "bodyparts":
-			return `${BASE}/api/bodyparts.json`;
+			return `${BASE}/api/${lang}/bodyparts.json`;
 		case "bodypartDetail":
-			return `${BASE}/api/bodyparts/${$("#param-bodypart").value}.json`;
+			return `${BASE}/api/${lang}/bodyparts/${$("#param-bodypart").value}.json`;
 		case "categories":
-			return `${BASE}/api/categories.json`;
+			return `${BASE}/api/${lang}/categories.json`;
 		case "categoryDetail":
-			return `${BASE}/api/categories/${$("#param-category").value}.json`;
+			return `${BASE}/api/${lang}/categories/${$("#param-category").value}.json`;
 		case "exerciseDetail":
-			return `${BASE}/api/exercises/${$("#param-muscle").value}/${$(
+			return `${BASE}/api/${lang}/exercises/${$("#param-muscle").value}/${$(
 				"#param-slug"
 			).value}.json`;
 	}
@@ -231,19 +256,20 @@ async function copyUrl() {
 // ---------------------------------------------------------------------
 // Gallery
 // ---------------------------------------------------------------------
-async function loadGallery(muscle) {
+async function loadGallery(lang, muscle) {
 	const grid = $("#gallery-grid");
+	if (!muscle) return;
 	grid.innerHTML = '<p class="muted">Cargando GIFs…</p>';
 	try {
-		const data = await loadMuscle(muscle);
+		const data = await loadMuscle(lang, muscle);
 		const sample = shuffle(data.exercises).slice(0, 12);
 		grid.innerHTML = sample
 			.map(
 				(ex) => `
 			<a class="gif-card" href="${ex.gifUrl}" target="_blank" rel="noopener">
-				<img src="${ex.gifUrl}" alt="${escapeHtml(ex.nameEs || ex.name)}" loading="lazy" />
+				<img src="${ex.gifUrl}" alt="${escapeHtml(ex.name)}" loading="lazy" />
 				<div class="meta">
-					<h4>${escapeHtml(ex.nameEs || ex.name)}</h4>
+					<h4>${escapeHtml(ex.name)}</h4>
 					<p>${escapeHtml(ex.equipment)} · ${escapeHtml(ex.bodyPart)}</p>
 				</div>
 			</a>`

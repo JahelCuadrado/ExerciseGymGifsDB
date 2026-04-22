@@ -1,0 +1,57 @@
+[
+  {
+    "equipment": "band",
+    "count": 61,
+    "endpoint": "equipment/band.json"
+  },
+  {
+    "equipment": "barbell",
+    "count": 144,
+    "endpoint": "equipment/barbell.json"
+  },
+  {
+    "equipment": "bodyweight",
+    "count": 52,
+    "endpoint": "equipment/bodyweight.json"
+  },
+  {
+    "equipment": "cable",
+    "count": 156,
+    "endpoint": "equipment/cable.json"
+  },
+  {
+    "equipment": "dumbbell",
+    "count": 286,
+    "endpoint": "equipment/dumbbell.json"
+  },
+  {
+    "equipment": "ez-bar",
+    "count": 23,
+    "endpoint": "equipment/ez-bar.json"
+  },
+  {
+    "equipment": "kettlebell",
+    "count": 41,
+    "endpoint": "equipment/kettlebell.json"
+  },
+  {
+    "equipment": "lever",
+    "count": 74,
+    "endpoint": "equipment/lever.json"
+  },
+  {
+    "equipment": "machine",
+    "count": 2,
+    "endpoint": "equipment/machine.json"
+  },
+  {
+    "equipment": "other",
+    "count": 436,
+    "endpoint": "equipment/other.json"
+  },
+  {
+    "equipment": "smith",
+    "count": 48,
+    "endpoint": "equipment/smith.json"
+  }
+]

@@ -1,40 +1,37 @@
 #!/usr/bin/env node
 /**
- * Generador de API estática a partir de las carpetas de GIFs.
+ * Generador de API estática multilingüe.
  *
- * Estructura generada en /api:
- *   api/index.json                      -> metadata global
- *   api/muscles.json                    -> lista de grupos musculares
- *   api/muscles/<muscle>.json           -> ejercicios por músculo
- *   api/equipment.json + equipment/<eq>.json
- *   api/bodyparts.json + bodyparts/<bp>.json
- *   api/categories.json + categories/<cat>.json
- *   api/exercises.json                  -> todos los ejercicios
- *   api/exercises/<muscle>/<slug>.json  -> detalle individual
+ * Estructura:
+ *   api/index.json                          -> metadata global y idiomas disponibles
+ *   api/{lang}/index.json                   -> metadata por idioma
+ *   api/{lang}/muscles.json                 -> lista de grupos
+ *   api/{lang}/muscles/{muscle}.json        -> ejercicios por grupo
+ *   api/{lang}/equipment.json + equipment/{eq}.json
+ *   api/{lang}/bodyparts.json + bodyparts/{bp}.json
+ *   api/{lang}/categories.json + categories/{cat}.json
+ *   api/{lang}/exercises.json
+ *   api/{lang}/exercises/{muscle}/{slug}.json
  *
- * Cada ejercicio expone:
- *   {
- *     id, slug, name, nameEs, muscle, bodyPart, equipment, category,
- *     secondaryMuscles, instructions, file, gifUrl
- *   }
+ * Idiomas soportados: en, es
  *
- * Los campos manuales (nameEs, secondaryMuscles, instructions) se cargan desde
- * overrides/<muscle>/<slug>.json. Cualquier campo presente en el override
- * (no vacío) sobrescribe al inferido, lo que permite corregir equipment,
- * category, etc. cuando la heurística falle.
+ * Cada ejercicio expone (mismo esquema en cualquier idioma):
+ *   { id, slug, name, muscle, bodyPart, equipment, category,
+ *     secondaryMuscles, instructions, file, gifUrl }
+ *
+ * Los overrides en overrides/<muscle>/<slug>.json pueden contener:
+ *   - claves planas (nameEs, instructions, ...) -> compat con la versión anterior
+ *   - claves por idioma:  { en: { name, instructions }, es: { name, instructions } }
  */
 
 const fs = require("fs");
 const path = require("path");
-const {
-	inferEquipment,
-	inferBodyPart,
-	inferCategory,
-} = require("./enrich");
+const { inferEquipment, inferBodyPart, inferCategory } = require("./enrich");
 const {
 	translateSlug,
 	inferSecondary,
-	generateInstructions,
+	generateInstructionsEs,
+	generateInstructionsEn,
 } = require("./translate");
 
 const ROOT = path.resolve(__dirname, "..");
@@ -45,6 +42,8 @@ const BASE_URL = (
 	process.env.API_BASE_URL ||
 	"https://cdn.jsdelivr.net/gh/USER/REPO@main"
 ).replace(/\/+$/, "");
+
+const LANGS = ["en", "es"];
 
 const IGNORE = new Set([
 	"api",
@@ -95,12 +94,47 @@ function isEmpty(value) {
 	return false;
 }
 
+/**
+ * Devuelve el override aplicable a un idioma concreto.
+ * Soporta dos formatos:
+ *   - { nameEs: "...", instructions: [...] }   (legacy plano)
+ *   - { en: { name, instructions }, es: {...}, secondaryMuscles: [] }
+ */
+function pickLangOverride(override, lang) {
+	if (!override) return {};
+	const out = {};
+	// Comunes (no dependen de idioma)
+	if (Array.isArray(override.secondaryMuscles)) {
+		out.secondaryMuscles = override.secondaryMuscles;
+	}
+	for (const k of ["equipment", "bodyPart", "category"]) {
+		if (!isEmpty(override[k])) out[k] = override[k];
+	}
+	// Por idioma
+	const langBlock = override[lang];
+	if (langBlock && typeof langBlock === "object") {
+		if (!isEmpty(langBlock.name)) out.name = langBlock.name;
+		if (!isEmpty(langBlock.instructions))
+			out.instructions = langBlock.instructions;
+	}
+	// Compat legacy
+	if (lang === "es") {
+		if (!isEmpty(override.nameEs)) out.name = override.nameEs;
+		if (!isEmpty(override.instructions) && !out.instructions) {
+			out.instructions = override.instructions;
+		}
+	} else if (lang === "en") {
+		if (!isEmpty(override.nameEn)) out.name = override.nameEn;
+	}
+	return out;
+}
+
 function applyOverride(base, override) {
 	if (!override) return base;
 	const out = { ...base };
-	for (const [key, value] of Object.entries(override)) {
-		if (isEmpty(value)) continue;
-		out[key] = value;
+	for (const [k, v] of Object.entries(override)) {
+		if (isEmpty(v)) continue;
+		out[k] = v;
 	}
 	return out;
 }
@@ -110,12 +144,12 @@ function pushTo(map, key, value) {
 	map.get(key).push(value);
 }
 
-function dumpGroup(folder, singular, map) {
+function dumpGroup(langOut, folder, singular, map) {
 	const summary = [];
 	for (const [key, list] of [...map.entries()].sort((a, b) =>
 		a[0].localeCompare(b[0])
 	)) {
-		writeJson(path.join(OUT, folder, `${key}.json`), {
+		writeJson(path.join(langOut, folder, `${key}.json`), {
 			[singular]: key,
 			count: list.length,
 			exercises: list,
@@ -126,7 +160,46 @@ function dumpGroup(folder, singular, map) {
 			endpoint: `${folder}/${key}.json`,
 		});
 	}
-	writeJson(path.join(OUT, `${folder}.json`), summary);
+	writeJson(path.join(langOut, `${folder}.json`), summary);
+}
+
+function buildExercise(lang, muscle, slug, file, override) {
+	const relPath = `${muscle}/${file}`;
+	const bodyPart = inferBodyPart(muscle);
+	const equipment = inferEquipment(slug);
+	const category = inferCategory(muscle, slug);
+	const nameInferred =
+		lang === "es" ? translateSlug(slug) : titleCase(slug);
+	const instructionsInferred =
+		lang === "es"
+			? generateInstructionsEs({
+					name: nameInferred,
+					muscle,
+					equipment,
+					category,
+			  })
+			: generateInstructionsEn({
+					name: nameInferred,
+					muscle,
+					equipment,
+					category,
+			  });
+
+	const base = {
+		id: `${muscle}/${slug}`,
+		slug,
+		name: nameInferred,
+		muscle,
+		bodyPart,
+		equipment,
+		category,
+		secondaryMuscles: inferSecondary(muscle, slug),
+		instructions: instructionsInferred,
+		file: relPath,
+		gifUrl: `${BASE_URL}/${relPath}`,
+	};
+
+	return applyOverride(base, pickLangOverride(override, lang));
 }
 
 function main() {
@@ -137,129 +210,124 @@ function main() {
 
 	const muscles = fs.readdirSync(ROOT).filter(isMuscleDir).sort();
 
-	const allExercises = [];
-	const muscleSummaries = [];
-	const byEquipment = new Map();
-	const byBodyPart = new Map();
-	const byCategory = new Map();
-	let withEs = 0;
-	let withInstructions = 0;
+	const totals = {};
+	for (const lang of LANGS) {
+		const langOut = path.join(OUT, lang);
+		ensureDir(langOut);
 
-	for (const muscle of muscles) {
-		const dir = path.join(ROOT, muscle);
-		const gifs = fs
-			.readdirSync(dir)
-			.filter((f) => f.toLowerCase().endsWith(".gif"))
-			.sort();
+		const allExercises = [];
+		const muscleSummaries = [];
+		const byEquipment = new Map();
+		const byBodyPart = new Map();
+		const byCategory = new Map();
 
-		const exercises = gifs.map((file) => {
-			const slug = file.replace(/\.gif$/i, "");
-			const relPath = `${muscle}/${file}`;
-			const bodyPart = inferBodyPart(muscle);
-			const equipment = inferEquipment(slug);
-			const category = inferCategory(muscle, slug);
-			const name = titleCase(slug);
+		for (const muscle of muscles) {
+			const dir = path.join(ROOT, muscle);
+			const gifs = fs
+				.readdirSync(dir)
+				.filter((f) => f.toLowerCase().endsWith(".gif"))
+				.sort();
 
-			const base = {
-				id: `${muscle}/${slug}`,
-				slug,
-				name,
-				nameEs: translateSlug(slug),
+			const exercises = gifs.map((file) => {
+				const slug = file.replace(/\.gif$/i, "");
+				const override = loadOverride(muscle, slug);
+				const ex = buildExercise(lang, muscle, slug, file, override);
+				pushTo(byEquipment, ex.equipment, ex);
+				pushTo(byBodyPart, ex.bodyPart, ex);
+				pushTo(byCategory, ex.category, ex);
+				return ex;
+			});
+
+			writeJson(path.join(langOut, "muscles", `${muscle}.json`), {
 				muscle,
-				bodyPart,
-				equipment,
-				category,
-				secondaryMuscles: inferSecondary(muscle, slug),
-				instructions: generateInstructions({
-					name,
-					muscle,
-					equipment,
-					category,
-				}),
-				file: relPath,
-				gifUrl: `${BASE_URL}/${relPath}`,
-			};
+				count: exercises.length,
+				exercises,
+			});
 
-			const merged = applyOverride(base, loadOverride(muscle, slug));
+			for (const ex of exercises) {
+				writeJson(
+					path.join(langOut, "exercises", muscle, `${ex.slug}.json`),
+					ex
+				);
+			}
 
-			if (!isEmpty(merged.nameEs)) withEs++;
-			if (!isEmpty(merged.instructions)) withInstructions++;
+			muscleSummaries.push({
+				muscle,
+				count: exercises.length,
+				endpoint: `muscles/${muscle}.json`,
+			});
 
-			pushTo(byEquipment, merged.equipment, merged);
-			pushTo(byBodyPart, merged.bodyPart, merged);
-			pushTo(byCategory, merged.category, merged);
-
-			return merged;
-		});
-
-		writeJson(path.join(OUT, "muscles", `${muscle}.json`), {
-			muscle,
-			count: exercises.length,
-			exercises,
-		});
-
-		for (const ex of exercises) {
-			writeJson(
-				path.join(OUT, "exercises", muscle, `${ex.slug}.json`),
-				ex
-			);
+			allExercises.push(...exercises);
 		}
 
-		muscleSummaries.push({
-			muscle,
-			count: exercises.length,
-			endpoint: `muscles/${muscle}.json`,
+		dumpGroup(langOut, "equipment", "equipment", byEquipment);
+		dumpGroup(langOut, "bodyparts", "bodyPart", byBodyPart);
+		dumpGroup(langOut, "categories", "category", byCategory);
+
+		writeJson(path.join(langOut, "muscles.json"), muscleSummaries);
+		writeJson(path.join(langOut, "exercises.json"), {
+			count: allExercises.length,
+			exercises: allExercises,
+		});
+		writeJson(path.join(langOut, "index.json"), {
+			name: "Exercise GIF API",
+			language: lang,
+			baseUrl: BASE_URL,
+			generatedAt: new Date().toISOString(),
+			totals: {
+				muscles: muscleSummaries.length,
+				exercises: allExercises.length,
+				equipment: byEquipment.size,
+				bodyParts: byBodyPart.size,
+				categories: byCategory.size,
+			},
+			endpoints: {
+				muscles: `${lang}/muscles.json`,
+				exercises: `${lang}/exercises.json`,
+				muscleDetail: `${lang}/muscles/{muscle}.json`,
+				exerciseDetail: `${lang}/exercises/{muscle}/{slug}.json`,
+				equipmentList: `${lang}/equipment.json`,
+				equipmentDetail: `${lang}/equipment/{equipment}.json`,
+				bodyPartList: `${lang}/bodyparts.json`,
+				bodyPartDetail: `${lang}/bodyparts/{bodyPart}.json`,
+				categoryList: `${lang}/categories.json`,
+				categoryDetail: `${lang}/categories/{category}.json`,
+			},
+			muscles: muscleSummaries,
 		});
 
-		allExercises.push(...exercises);
-	}
-
-	dumpGroup("equipment", "equipment", byEquipment);
-	dumpGroup("bodyparts", "bodyPart", byBodyPart);
-	dumpGroup("categories", "category", byCategory);
-
-	writeJson(path.join(OUT, "muscles.json"), muscleSummaries);
-	writeJson(path.join(OUT, "exercises.json"), {
-		count: allExercises.length,
-		exercises: allExercises,
-	});
-	writeJson(path.join(OUT, "index.json"), {
-		name: "Exercise GIF API",
-		baseUrl: BASE_URL,
-		generatedAt: new Date().toISOString(),
-		totals: {
+		totals[lang] = {
 			muscles: muscleSummaries.length,
 			exercises: allExercises.length,
 			equipment: byEquipment.size,
 			bodyParts: byBodyPart.size,
 			categories: byCategory.size,
-			withSpanishName: withEs,
-			withInstructions,
-		},
+		};
+	}
+
+	// Index global con la lista de idiomas y totales
+	writeJson(path.join(OUT, "index.json"), {
+		name: "Exercise GIF API",
+		baseUrl: BASE_URL,
+		generatedAt: new Date().toISOString(),
+		languages: LANGS,
+		defaultLanguage: "en",
+		totals,
 		endpoints: {
-			muscles: "muscles.json",
-			exercises: "exercises.json",
-			muscleDetail: "muscles/{muscle}.json",
-			exerciseDetail: "exercises/{muscle}/{slug}.json",
-			equipmentList: "equipment.json",
-			equipmentDetail: "equipment/{equipment}.json",
-			bodyPartList: "bodyparts.json",
-			bodyPartDetail: "bodyparts/{bodyPart}.json",
-			categoryList: "categories.json",
-			categoryDetail: "categories/{category}.json",
+			languageRoot: "{lang}/",
+			languageIndex: "{lang}/index.json",
+			musclesByLang: "{lang}/muscles.json",
+			exerciseDetail: "{lang}/exercises/{muscle}/{slug}.json",
 		},
-		muscles: muscleSummaries,
 	});
 
-	console.log(
-		`OK -> ${muscleSummaries.length} grupos | ${allExercises.length} ejercicios`
-	);
-	console.log(
-		`     equipment=${byEquipment.size} bodyParts=${byBodyPart.size} categories=${byCategory.size}`
-	);
-	console.log(
-		`     con nameEs=${withEs} | con instructions=${withInstructions}`
-	);
+	console.log(`OK -> idiomas=${LANGS.join(",")}`);
+	for (const lang of LANGS) {
+		const t = totals[lang];
+		console.log(
+			`  [${lang}] muscles=${t.muscles} exercises=${t.exercises} equipment=${t.equipment} bodyParts=${t.bodyParts} categories=${t.categories}`
+		);
+	}
 	console.log(`BASE_URL = ${BASE_URL}`);
 	console.log(`Salida:   ${path.relative(ROOT, OUT)}/`);
 }

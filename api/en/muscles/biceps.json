@@ -1,0 +1,3207 @@
+{
+  "muscle": "biceps",
+  "count": 151,
+  "exercises": [
+    {
+      "id": "biceps/band-alternating-biceps-curl",
+      "slug": "band-alternating-biceps-curl",
+      "name": "Band Alternating Biceps Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Anchor the resistance band and maintain initial tension.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/band-alternating-biceps-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/band-alternating-biceps-curl.gif"
+    },
+    {
+      "id": "biceps/band-concentration-curl",
+      "slug": "band-concentration-curl",
+      "name": "Band Concentration Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Anchor the resistance band and maintain initial tension.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/band-concentration-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/band-concentration-curl.gif"
+    },
+    {
+      "id": "biceps/band-one-arm-overhead-biceps-curl",
+      "slug": "band-one-arm-overhead-biceps-curl",
+      "name": "Band One Arm Overhead Biceps Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Anchor the resistance band and maintain initial tension.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/band-one-arm-overhead-biceps-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/band-one-arm-overhead-biceps-curl.gif"
+    },
+    {
+      "id": "biceps/barbell-alternate-biceps-curl",
+      "slug": "barbell-alternate-biceps-curl",
+      "name": "Barbell Alternate Biceps Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the bar with an appropriate weight and adopt the starting position.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/barbell-alternate-biceps-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-alternate-biceps-curl.gif"
+    },
+    {
+      "id": "biceps/barbell-biceps-curl-with-arm-blaster",
+      "slug": "barbell-biceps-curl-with-arm-blaster",
+      "name": "Barbell Biceps Curl With Arm Blaster",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the bar with an appropriate weight and adopt the starting position.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/barbell-biceps-curl-with-arm-blaster.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-biceps-curl-with-arm-blaster.gif"
+    },
+    {
+      "id": "biceps/barbell-curl",
+      "slug": "barbell-curl",
+      "name": "Barbell Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the bar with an appropriate weight and adopt the starting position.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/barbell-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-curl.gif"
+    },
+    {
+      "id": "biceps/barbell-drag-curl",
+      "slug": "barbell-drag-curl",
+      "name": "Barbell Drag Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the bar with an appropriate weight and adopt the starting position.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/barbell-drag-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-drag-curl.gif"
+    },
+    {
+      "id": "biceps/barbell-lying-preacher-curl",
+      "slug": "barbell-lying-preacher-curl",
+      "name": "Barbell Lying Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the bar with an appropriate weight and adopt the starting position.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/barbell-lying-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-lying-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/barbell-preacher-curl",
+      "slug": "barbell-preacher-curl",
+      "name": "Barbell Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the bar with an appropriate weight and adopt the starting position.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/barbell-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/barbell-prone-incline-curl",
+      "slug": "barbell-prone-incline-curl",
+      "name": "Barbell Prone Incline Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the bar with an appropriate weight and adopt the starting position.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/barbell-prone-incline-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-prone-incline-curl.gif"
+    },
+    {
+      "id": "biceps/barbell-reverse-curl",
+      "slug": "barbell-reverse-curl",
+      "name": "Barbell Reverse Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the bar with an appropriate weight and adopt the starting position.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/barbell-reverse-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-reverse-curl.gif"
+    },
+    {
+      "id": "biceps/barbell-reverse-preacher-curl",
+      "slug": "barbell-reverse-preacher-curl",
+      "name": "Barbell Reverse Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the bar with an appropriate weight and adopt the starting position.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/barbell-reverse-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-reverse-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/barbell-seated-close-grip-concentration-curl",
+      "slug": "barbell-seated-close-grip-concentration-curl",
+      "name": "Barbell Seated Close Grip Concentration Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the bar with an appropriate weight and adopt the starting position.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/barbell-seated-close-grip-concentration-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-seated-close-grip-concentration-curl.gif"
+    },
+    {
+      "id": "biceps/barbell-standing-close-grip-curl",
+      "slug": "barbell-standing-close-grip-curl",
+      "name": "Barbell Standing Close Grip Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the bar with an appropriate weight and adopt the starting position.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/barbell-standing-close-grip-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-standing-close-grip-curl.gif"
+    },
+    {
+      "id": "biceps/barbell-standing-concentration-curl",
+      "slug": "barbell-standing-concentration-curl",
+      "name": "Barbell Standing Concentration Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the bar with an appropriate weight and adopt the starting position.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/barbell-standing-concentration-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-standing-concentration-curl.gif"
+    },
+    {
+      "id": "biceps/barbell-standing-reverse-grip-curl",
+      "slug": "barbell-standing-reverse-grip-curl",
+      "name": "Barbell Standing Reverse Grip Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the bar with an appropriate weight and adopt the starting position.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/barbell-standing-reverse-grip-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-standing-reverse-grip-curl.gif"
+    },
+    {
+      "id": "biceps/barbell-standing-wide-grip-biceps-curl",
+      "slug": "barbell-standing-wide-grip-biceps-curl",
+      "name": "Barbell Standing Wide Grip Biceps Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the bar with an appropriate weight and adopt the starting position.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/barbell-standing-wide-grip-biceps-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-standing-wide-grip-biceps-curl.gif"
+    },
+    {
+      "id": "biceps/barbell-standing-wide-grip-curl",
+      "slug": "barbell-standing-wide-grip-curl",
+      "name": "Barbell Standing Wide Grip Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the bar with an appropriate weight and adopt the starting position.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/barbell-standing-wide-grip-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-standing-wide-grip-curl.gif"
+    },
+    {
+      "id": "biceps/biceps-leg-concentration-curl",
+      "slug": "biceps-leg-concentration-curl",
+      "name": "Biceps Leg Concentration Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Prepare the equipment and adopt the starting position.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/biceps-leg-concentration-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/biceps-leg-concentration-curl.gif"
+    },
+    {
+      "id": "biceps/biceps-narrow-pull-ups",
+      "slug": "biceps-narrow-pull-ups",
+      "name": "Biceps Narrow Pull Ups",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Prepare the equipment and adopt the starting position.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/biceps-narrow-pull-ups.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/biceps-narrow-pull-ups.gif"
+    },
+    {
+      "id": "biceps/biceps-pull-up",
+      "slug": "biceps-pull-up",
+      "name": "Biceps Pull Up",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Prepare the equipment and adopt the starting position.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/biceps-pull-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/biceps-pull-up.gif"
+    },
+    {
+      "id": "biceps/bodyweight-side-lying-biceps-curl",
+      "slug": "bodyweight-side-lying-biceps-curl",
+      "name": "Bodyweight Side Lying Biceps Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/bodyweight-side-lying-biceps-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/bodyweight-side-lying-biceps-curl.gif"
+    },
+    {
+      "id": "biceps/cable-close-grip-curl",
+      "slug": "cable-close-grip-curl",
+      "name": "Cable Close Grip Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-close-grip-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-close-grip-curl.gif"
+    },
+    {
+      "id": "biceps/cable-concentration-curl",
+      "slug": "cable-concentration-curl",
+      "name": "Cable Concentration Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-concentration-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-concentration-curl.gif"
+    },
+    {
+      "id": "biceps/cable-curl",
+      "slug": "cable-curl",
+      "name": "Cable Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-curl.gif"
+    },
+    {
+      "id": "biceps/cable-drag-curl",
+      "slug": "cable-drag-curl",
+      "name": "Cable Drag Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-drag-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-drag-curl.gif"
+    },
+    {
+      "id": "biceps/cable-hammer-curl-with-rope",
+      "slug": "cable-hammer-curl-with-rope",
+      "name": "Cable Hammer Curl With Rope",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-hammer-curl-with-rope.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-hammer-curl-with-rope.gif"
+    },
+    {
+      "id": "biceps/cable-lying-bicep-curl",
+      "slug": "cable-lying-bicep-curl",
+      "name": "Cable Lying Bicep Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-lying-bicep-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-lying-bicep-curl.gif"
+    },
+    {
+      "id": "biceps/cable-lying-close-grip-curl",
+      "slug": "cable-lying-close-grip-curl",
+      "name": "Cable Lying Close Grip Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-lying-close-grip-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-lying-close-grip-curl.gif"
+    },
+    {
+      "id": "biceps/cable-one-arm-curl",
+      "slug": "cable-one-arm-curl",
+      "name": "Cable One Arm Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-one-arm-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-one-arm-curl.gif"
+    },
+    {
+      "id": "biceps/cable-one-arm-preacher-curl",
+      "slug": "cable-one-arm-preacher-curl",
+      "name": "Cable One Arm Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-one-arm-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-one-arm-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/cable-one-arm-reverse-preacher-curl",
+      "slug": "cable-one-arm-reverse-preacher-curl",
+      "name": "Cable One Arm Reverse Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-one-arm-reverse-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-one-arm-reverse-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/cable-overhead-curl-on-exercise-ball",
+      "slug": "cable-overhead-curl-on-exercise-ball",
+      "name": "Cable Overhead Curl On Exercise Ball",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-overhead-curl-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-overhead-curl-on-exercise-ball.gif"
+    },
+    {
+      "id": "biceps/cable-overhead-curl",
+      "slug": "cable-overhead-curl",
+      "name": "Cable Overhead Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-overhead-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-overhead-curl.gif"
+    },
+    {
+      "id": "biceps/cable-preacher-curl",
+      "slug": "cable-preacher-curl",
+      "name": "Cable Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/cable-pulldown-bicep-curl",
+      "slug": "cable-pulldown-bicep-curl",
+      "name": "Cable Pulldown Bicep Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-pulldown-bicep-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-pulldown-bicep-curl.gif"
+    },
+    {
+      "id": "biceps/cable-reverse-curl",
+      "slug": "cable-reverse-curl",
+      "name": "Cable Reverse Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-reverse-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-reverse-curl.gif"
+    },
+    {
+      "id": "biceps/cable-reverse-one-arm-curl",
+      "slug": "cable-reverse-one-arm-curl",
+      "name": "Cable Reverse One Arm Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-reverse-one-arm-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-reverse-one-arm-curl.gif"
+    },
+    {
+      "id": "biceps/cable-reverse-preacher-curl",
+      "slug": "cable-reverse-preacher-curl",
+      "name": "Cable Reverse Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-reverse-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-reverse-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/cable-rope-hammer-preacher-curl",
+      "slug": "cable-rope-hammer-preacher-curl",
+      "name": "Cable Rope Hammer Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-rope-hammer-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-rope-hammer-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/cable-rope-one-arm-hammer-preacher-curl",
+      "slug": "cable-rope-one-arm-hammer-preacher-curl",
+      "name": "Cable Rope One Arm Hammer Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-rope-one-arm-hammer-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-rope-one-arm-hammer-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/cable-seated-curl",
+      "slug": "cable-seated-curl",
+      "name": "Cable Seated Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-seated-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-seated-curl.gif"
+    },
+    {
+      "id": "biceps/cable-seated-one-arm-concentration-curl",
+      "slug": "cable-seated-one-arm-concentration-curl",
+      "name": "Cable Seated One Arm Concentration Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-seated-one-arm-concentration-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-seated-one-arm-concentration-curl.gif"
+    },
+    {
+      "id": "biceps/cable-seated-overhead-curl",
+      "slug": "cable-seated-overhead-curl",
+      "name": "Cable Seated Overhead Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-seated-overhead-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-seated-overhead-curl.gif"
+    },
+    {
+      "id": "biceps/cable-squatting-curl",
+      "slug": "cable-squatting-curl",
+      "name": "Cable Squatting Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-squatting-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-squatting-curl.gif"
+    },
+    {
+      "id": "biceps/cable-standing-inner-curl",
+      "slug": "cable-standing-inner-curl",
+      "name": "Cable Standing Inner Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-standing-inner-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-standing-inner-curl.gif"
+    },
+    {
+      "id": "biceps/cable-standing-pulldown-with-rope",
+      "slug": "cable-standing-pulldown-with-rope",
+      "name": "Cable Standing Pulldown With Rope",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-standing-pulldown-with-rope.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-standing-pulldown-with-rope.gif"
+    },
+    {
+      "id": "biceps/cable-two-arm-curl-on-incline-bench",
+      "slug": "cable-two-arm-curl-on-incline-bench",
+      "name": "Cable Two Arm Curl On Incline Bench",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the pulley at the required height and select the weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/cable-two-arm-curl-on-incline-bench.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-two-arm-curl-on-incline-bench.gif"
+    },
+    {
+      "id": "biceps/dumbbell-alternate-biceps-curl-with-arm-blaster",
+      "slug": "dumbbell-alternate-biceps-curl-with-arm-blaster",
+      "name": "Dumbbell Alternate Biceps Curl With Arm Blaster",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-alternate-biceps-curl-with-arm-blaster.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-alternate-biceps-curl-with-arm-blaster.gif"
+    },
+    {
+      "id": "biceps/dumbbell-alternate-biceps-curl",
+      "slug": "dumbbell-alternate-biceps-curl",
+      "name": "Dumbbell Alternate Biceps Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-alternate-biceps-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-alternate-biceps-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-alternate-hammer-preacher-curl",
+      "slug": "dumbbell-alternate-hammer-preacher-curl",
+      "name": "Dumbbell Alternate Hammer Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-alternate-hammer-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-alternate-hammer-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-alternate-preacher-curl",
+      "slug": "dumbbell-alternate-preacher-curl",
+      "name": "Dumbbell Alternate Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-alternate-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-alternate-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-alternate-seated-hammer-curl",
+      "slug": "dumbbell-alternate-seated-hammer-curl",
+      "name": "Dumbbell Alternate Seated Hammer Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-alternate-seated-hammer-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-alternate-seated-hammer-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-alternating-bicep-curl-with-leg-raised-on-exercise-ball",
+      "slug": "dumbbell-alternating-bicep-curl-with-leg-raised-on-exercise-ball",
+      "name": "Dumbbell Alternating Bicep Curl With Leg Raised On Exercise Ball",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-alternating-bicep-curl-with-leg-raised-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-alternating-bicep-curl-with-leg-raised-on-exercise-ball.gif"
+    },
+    {
+      "id": "biceps/dumbbell-alternating-seated-bicep-curl-on-exercise-ball",
+      "slug": "dumbbell-alternating-seated-bicep-curl-on-exercise-ball",
+      "name": "Dumbbell Alternating Seated Bicep Curl On Exercise Ball",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-alternating-seated-bicep-curl-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-alternating-seated-bicep-curl-on-exercise-ball.gif"
+    },
+    {
+      "id": "biceps/dumbbell-bicep-curl-lunge-with-bowling-motion",
+      "slug": "dumbbell-bicep-curl-lunge-with-bowling-motion",
+      "name": "Dumbbell Bicep Curl Lunge With Bowling Motion",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-bicep-curl-lunge-with-bowling-motion.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-bicep-curl-lunge-with-bowling-motion.gif"
+    },
+    {
+      "id": "biceps/dumbbell-bicep-curl-on-exercise-ball-with-leg-raised",
+      "slug": "dumbbell-bicep-curl-on-exercise-ball-with-leg-raised",
+      "name": "Dumbbell Bicep Curl On Exercise Ball With Leg Raised",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-bicep-curl-on-exercise-ball-with-leg-raised.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-bicep-curl-on-exercise-ball-with-leg-raised.gif"
+    },
+    {
+      "id": "biceps/dumbbell-bicep-curl-with-stork-stance",
+      "slug": "dumbbell-bicep-curl-with-stork-stance",
+      "name": "Dumbbell Bicep Curl With Stork Stance",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-bicep-curl-with-stork-stance.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-bicep-curl-with-stork-stance.gif"
+    },
+    {
+      "id": "biceps/dumbbell-biceps-curl-reverse",
+      "slug": "dumbbell-biceps-curl-reverse",
+      "name": "Dumbbell Biceps Curl Reverse",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-biceps-curl-reverse.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-biceps-curl-reverse.gif"
+    },
+    {
+      "id": "biceps/dumbbell-biceps-curl-squat",
+      "slug": "dumbbell-biceps-curl-squat",
+      "name": "Dumbbell Biceps Curl Squat",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-biceps-curl-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-biceps-curl-squat.gif"
+    },
+    {
+      "id": "biceps/dumbbell-biceps-curl-v-sit-on-bosu-ball",
+      "slug": "dumbbell-biceps-curl-v-sit-on-bosu-ball",
+      "name": "Dumbbell Biceps Curl V Sit On Bosu Ball",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-biceps-curl-v-sit-on-bosu-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-biceps-curl-v-sit-on-bosu-ball.gif"
+    },
+    {
+      "id": "biceps/dumbbell-biceps-curl-with-arm-blaster",
+      "slug": "dumbbell-biceps-curl-with-arm-blaster",
+      "name": "Dumbbell Biceps Curl With Arm Blaster",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-biceps-curl-with-arm-blaster.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-biceps-curl-with-arm-blaster.gif"
+    },
+    {
+      "id": "biceps/dumbbell-biceps-curl",
+      "slug": "dumbbell-biceps-curl",
+      "name": "Dumbbell Biceps Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-biceps-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-biceps-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-concentration-curl",
+      "slug": "dumbbell-concentration-curl",
+      "name": "Dumbbell Concentration Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-concentration-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-concentration-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-cross-body-hammer-curl-v-2",
+      "slug": "dumbbell-cross-body-hammer-curl-v-2",
+      "name": "Dumbbell Cross Body Hammer Curl v2",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-cross-body-hammer-curl-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-cross-body-hammer-curl-v-2.gif"
+    },
+    {
+      "id": "biceps/dumbbell-cross-body-hammer-curl",
+      "slug": "dumbbell-cross-body-hammer-curl",
+      "name": "Dumbbell Cross Body Hammer Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-cross-body-hammer-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-cross-body-hammer-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-hammer-curl-on-exercise-ball",
+      "slug": "dumbbell-hammer-curl-on-exercise-ball",
+      "name": "Dumbbell Hammer Curl On Exercise Ball",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-hammer-curl-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-hammer-curl-on-exercise-ball.gif"
+    },
+    {
+      "id": "biceps/dumbbell-hammer-curl-v-2",
+      "slug": "dumbbell-hammer-curl-v-2",
+      "name": "Dumbbell Hammer Curl v2",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-hammer-curl-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-hammer-curl-v-2.gif"
+    },
+    {
+      "id": "biceps/dumbbell-hammer-curl",
+      "slug": "dumbbell-hammer-curl",
+      "name": "Dumbbell Hammer Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-hammer-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-hammer-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-hammer-curls-with-arm-blaster",
+      "slug": "dumbbell-hammer-curls-with-arm-blaster",
+      "name": "Dumbbell Hammer Curls With Arm Blaster",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-hammer-curls-with-arm-blaster.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-hammer-curls-with-arm-blaster.gif"
+    },
+    {
+      "id": "biceps/dumbbell-high-curl",
+      "slug": "dumbbell-high-curl",
+      "name": "Dumbbell High Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-high-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-high-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-incline-biceps-curl",
+      "slug": "dumbbell-incline-biceps-curl",
+      "name": "Dumbbell Incline Biceps Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-incline-biceps-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-incline-biceps-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-incline-curl-v-2",
+      "slug": "dumbbell-incline-curl-v-2",
+      "name": "Dumbbell Incline Curl v2",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-incline-curl-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-incline-curl-v-2.gif"
+    },
+    {
+      "id": "biceps/dumbbell-incline-curl",
+      "slug": "dumbbell-incline-curl",
+      "name": "Dumbbell Incline Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-incline-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-incline-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-incline-hammer-curl",
+      "slug": "dumbbell-incline-hammer-curl",
+      "name": "Dumbbell Incline Hammer Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-incline-hammer-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-incline-hammer-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-incline-inner-biceps-curl",
+      "slug": "dumbbell-incline-inner-biceps-curl",
+      "name": "Dumbbell Incline Inner Biceps Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-incline-inner-biceps-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-incline-inner-biceps-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-kneeling-bicep-curl-exercise-ball",
+      "slug": "dumbbell-kneeling-bicep-curl-exercise-ball",
+      "name": "Dumbbell Kneeling Bicep Curl Exercise Ball",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-kneeling-bicep-curl-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-kneeling-bicep-curl-exercise-ball.gif"
+    },
+    {
+      "id": "biceps/dumbbell-lunge-with-bicep-curl",
+      "slug": "dumbbell-lunge-with-bicep-curl",
+      "name": "Dumbbell Lunge With Bicep Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-lunge-with-bicep-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-lunge-with-bicep-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-lying-supine-biceps-curl",
+      "slug": "dumbbell-lying-supine-biceps-curl",
+      "name": "Dumbbell Lying Supine Biceps Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-lying-supine-biceps-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-lying-supine-biceps-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-lying-supine-curl",
+      "slug": "dumbbell-lying-supine-curl",
+      "name": "Dumbbell Lying Supine Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-lying-supine-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-lying-supine-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-lying-wide-curl",
+      "slug": "dumbbell-lying-wide-curl",
+      "name": "Dumbbell Lying Wide Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-lying-wide-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-lying-wide-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-concentration-curl-on-stability-ball",
+      "slug": "dumbbell-one-arm-concentration-curl-on-stability-ball",
+      "name": "Dumbbell One Arm Concentration Curl On Stability Ball",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-one-arm-concentration-curl-on-stability-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-one-arm-concentration-curl-on-stability-ball.gif"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-hammer-preacher-curl",
+      "slug": "dumbbell-one-arm-hammer-preacher-curl",
+      "name": "Dumbbell One Arm Hammer Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-one-arm-hammer-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-one-arm-hammer-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-prone-curl",
+      "slug": "dumbbell-one-arm-prone-curl",
+      "name": "Dumbbell One Arm Prone Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-one-arm-prone-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-one-arm-prone-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-prone-hammer-curl",
+      "slug": "dumbbell-one-arm-prone-hammer-curl",
+      "name": "Dumbbell One Arm Prone Hammer Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-one-arm-prone-hammer-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-one-arm-prone-hammer-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-reverse-preacher-curl",
+      "slug": "dumbbell-one-arm-reverse-preacher-curl",
+      "name": "Dumbbell One Arm Reverse Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-one-arm-reverse-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-one-arm-reverse-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-reverse-spider-curl",
+      "slug": "dumbbell-one-arm-reverse-spider-curl",
+      "name": "Dumbbell One Arm Reverse Spider Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-one-arm-reverse-spider-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-one-arm-reverse-spider-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-seated-bicep-curl-on-exercise-ball",
+      "slug": "dumbbell-one-arm-seated-bicep-curl-on-exercise-ball",
+      "name": "Dumbbell One Arm Seated Bicep Curl On Exercise Ball",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-one-arm-seated-bicep-curl-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-one-arm-seated-bicep-curl-on-exercise-ball.gif"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-seated-hammer-curl",
+      "slug": "dumbbell-one-arm-seated-hammer-curl",
+      "name": "Dumbbell One Arm Seated Hammer Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-one-arm-seated-hammer-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-one-arm-seated-hammer-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-standing-curl",
+      "slug": "dumbbell-one-arm-standing-curl",
+      "name": "Dumbbell One Arm Standing Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-one-arm-standing-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-one-arm-standing-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-standing-hammer-curl",
+      "slug": "dumbbell-one-arm-standing-hammer-curl",
+      "name": "Dumbbell One Arm Standing Hammer Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-one-arm-standing-hammer-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-one-arm-standing-hammer-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-zottman-preacher-curl",
+      "slug": "dumbbell-one-arm-zottman-preacher-curl",
+      "name": "Dumbbell One Arm Zottman Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-one-arm-zottman-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-one-arm-zottman-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-over-bench-neutral-wrist-curl",
+      "slug": "dumbbell-over-bench-neutral-wrist-curl",
+      "name": "Dumbbell Over Bench Neutral Wrist Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-over-bench-neutral-wrist-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-over-bench-neutral-wrist-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-over-bench-one-arm-neutral-wrist-curl",
+      "slug": "dumbbell-over-bench-one-arm-neutral-wrist-curl",
+      "name": "Dumbbell Over Bench One Arm Neutral Wrist Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-over-bench-one-arm-neutral-wrist-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-over-bench-one-arm-neutral-wrist-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-peacher-hammer-curl",
+      "slug": "dumbbell-peacher-hammer-curl",
+      "name": "Dumbbell Peacher Hammer Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-peacher-hammer-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-peacher-hammer-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-preacher-curl-over-exercise-ball",
+      "slug": "dumbbell-preacher-curl-over-exercise-ball",
+      "name": "Dumbbell Preacher Curl Over Exercise Ball",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-preacher-curl-over-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-preacher-curl-over-exercise-ball.gif"
+    },
+    {
+      "id": "biceps/dumbbell-preacher-curl",
+      "slug": "dumbbell-preacher-curl",
+      "name": "Dumbbell Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-prone-incline-curl",
+      "slug": "dumbbell-prone-incline-curl",
+      "name": "Dumbbell Prone Incline Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-prone-incline-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-prone-incline-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-prone-incline-hammer-curl",
+      "slug": "dumbbell-prone-incline-hammer-curl",
+      "name": "Dumbbell Prone Incline Hammer Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-prone-incline-hammer-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-prone-incline-hammer-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-revers-grip-biceps-curl",
+      "slug": "dumbbell-revers-grip-biceps-curl",
+      "name": "Dumbbell Revers Grip Biceps Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-revers-grip-biceps-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-revers-grip-biceps-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-reverse-preacher-curl",
+      "slug": "dumbbell-reverse-preacher-curl",
+      "name": "Dumbbell Reverse Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-reverse-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-reverse-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-reverse-spider-curl",
+      "slug": "dumbbell-reverse-spider-curl",
+      "name": "Dumbbell Reverse Spider Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-reverse-spider-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-reverse-spider-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-seated-alternate-hammer-curl-on-exercise-ball",
+      "slug": "dumbbell-seated-alternate-hammer-curl-on-exercise-ball",
+      "name": "Dumbbell Seated Alternate Hammer Curl On Exercise Ball",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-seated-alternate-hammer-curl-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-seated-alternate-hammer-curl-on-exercise-ball.gif"
+    },
+    {
+      "id": "biceps/dumbbell-seated-bicep-curl",
+      "slug": "dumbbell-seated-bicep-curl",
+      "name": "Dumbbell Seated Bicep Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-seated-bicep-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-seated-bicep-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-seated-biceps-curl-on-stability-ball",
+      "slug": "dumbbell-seated-biceps-curl-on-stability-ball",
+      "name": "Dumbbell Seated Biceps Curl On Stability Ball",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-seated-biceps-curl-on-stability-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-seated-biceps-curl-on-stability-ball.gif"
+    },
+    {
+      "id": "biceps/dumbbell-seated-biceps-curl-to-shoulder-press",
+      "slug": "dumbbell-seated-biceps-curl-to-shoulder-press",
+      "name": "Dumbbell Seated Biceps Curl To Shoulder Press",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-seated-biceps-curl-to-shoulder-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-seated-biceps-curl-to-shoulder-press.gif"
+    },
+    {
+      "id": "biceps/dumbbell-seated-curl",
+      "slug": "dumbbell-seated-curl",
+      "name": "Dumbbell Seated Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-seated-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-seated-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-seated-hammer-curl",
+      "slug": "dumbbell-seated-hammer-curl",
+      "name": "Dumbbell Seated Hammer Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-seated-hammer-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-seated-hammer-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-seated-inner-biceps-curl",
+      "slug": "dumbbell-seated-inner-biceps-curl",
+      "name": "Dumbbell Seated Inner Biceps Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-seated-inner-biceps-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-seated-inner-biceps-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-seated-neutral-wrist-curl",
+      "slug": "dumbbell-seated-neutral-wrist-curl",
+      "name": "Dumbbell Seated Neutral Wrist Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-seated-neutral-wrist-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-seated-neutral-wrist-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised",
+      "slug": "dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised",
+      "name": "Dumbbell Seated One Arm Bicep Curl On Exercise Ball With Leg Raised",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised.gif"
+    },
+    {
+      "id": "biceps/dumbbell-seated-preacher-curl",
+      "slug": "dumbbell-seated-preacher-curl",
+      "name": "Dumbbell Seated Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-seated-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-seated-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-seated-revers-grip-concentration-curl",
+      "slug": "dumbbell-seated-revers-grip-concentration-curl",
+      "name": "Dumbbell Seated Revers Grip Concentration Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-seated-revers-grip-concentration-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-seated-revers-grip-concentration-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-standing-alternate-hammer-curl-and-press",
+      "slug": "dumbbell-standing-alternate-hammer-curl-and-press",
+      "name": "Dumbbell Standing Alternate Hammer Curl And Press",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-standing-alternate-hammer-curl-and-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-standing-alternate-hammer-curl-and-press.gif"
+    },
+    {
+      "id": "biceps/dumbbell-standing-biceps-curl",
+      "slug": "dumbbell-standing-biceps-curl",
+      "name": "Dumbbell Standing Biceps Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-standing-biceps-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-standing-biceps-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-standing-concentration-curl",
+      "slug": "dumbbell-standing-concentration-curl",
+      "name": "Dumbbell Standing Concentration Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-standing-concentration-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-standing-concentration-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-standing-inner-biceps-curl-v-2",
+      "slug": "dumbbell-standing-inner-biceps-curl-v-2",
+      "name": "Dumbbell Standing Inner Biceps Curl v2",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-standing-inner-biceps-curl-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-standing-inner-biceps-curl-v-2.gif"
+    },
+    {
+      "id": "biceps/dumbbell-standing-one-arm-concentration-curl",
+      "slug": "dumbbell-standing-one-arm-concentration-curl",
+      "name": "Dumbbell Standing One Arm Concentration Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-standing-one-arm-concentration-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-standing-one-arm-concentration-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-standing-one-arm-curl-over-incline-bench-1680",
+      "slug": "dumbbell-standing-one-arm-curl-over-incline-bench-1680",
+      "name": "Dumbbell Standing One Arm Curl Over Incline Bench 1680",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-standing-one-arm-curl-over-incline-bench-1680.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-standing-one-arm-curl-over-incline-bench-1680.gif"
+    },
+    {
+      "id": "biceps/dumbbell-standing-one-arm-curl-over-incline-bench",
+      "slug": "dumbbell-standing-one-arm-curl-over-incline-bench",
+      "name": "Dumbbell Standing One Arm Curl Over Incline Bench",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-standing-one-arm-curl-over-incline-bench.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-standing-one-arm-curl-over-incline-bench.gif"
+    },
+    {
+      "id": "biceps/dumbbell-standing-one-arm-reverse-curl",
+      "slug": "dumbbell-standing-one-arm-reverse-curl",
+      "name": "Dumbbell Standing One Arm Reverse Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-standing-one-arm-reverse-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-standing-one-arm-reverse-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-standing-preacher-curl",
+      "slug": "dumbbell-standing-preacher-curl",
+      "name": "Dumbbell Standing Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-standing-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-standing-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-standing-reverse-curl",
+      "slug": "dumbbell-standing-reverse-curl",
+      "name": "Dumbbell Standing Reverse Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-standing-reverse-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-standing-reverse-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-standing-zottman-preacher-curl",
+      "slug": "dumbbell-standing-zottman-preacher-curl",
+      "name": "Dumbbell Standing Zottman Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-standing-zottman-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-standing-zottman-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-step-up-single-leg-balance-with-bicep-curl",
+      "slug": "dumbbell-step-up-single-leg-balance-with-bicep-curl",
+      "name": "Dumbbell Step Up Single Leg Balance With Bicep Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-step-up-single-leg-balance-with-bicep-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-step-up-single-leg-balance-with-bicep-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-waiter-biceps-curl",
+      "slug": "dumbbell-waiter-biceps-curl",
+      "name": "Dumbbell Waiter Biceps Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-waiter-biceps-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-waiter-biceps-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-zottman-curl",
+      "slug": "dumbbell-zottman-curl",
+      "name": "Dumbbell Zottman Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-zottman-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-zottman-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-zottman-preacher-curl",
+      "slug": "dumbbell-zottman-preacher-curl",
+      "name": "Dumbbell Zottman Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/dumbbell-zottman-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-zottman-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/ez-bar-biceps-curl-with-arm-blaster",
+      "slug": "ez-bar-biceps-curl-with-arm-blaster",
+      "name": "Ez Bar Biceps Curl With Arm Blaster",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the EZ-bar with an appropriate weight and grip it firmly.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/ez-bar-biceps-curl-with-arm-blaster.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/ez-bar-biceps-curl-with-arm-blaster.gif"
+    },
+    {
+      "id": "biceps/ez-bar-seated-close-grip-concentration-curl",
+      "slug": "ez-bar-seated-close-grip-concentration-curl",
+      "name": "Ez Bar Seated Close Grip Concentration Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the EZ-bar with an appropriate weight and grip it firmly.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/ez-bar-seated-close-grip-concentration-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/ez-bar-seated-close-grip-concentration-curl.gif"
+    },
+    {
+      "id": "biceps/ez-barbell-close-grip-curl",
+      "slug": "ez-barbell-close-grip-curl",
+      "name": "Ez Barbell Close Grip Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the EZ-bar with an appropriate weight and grip it firmly.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/ez-barbell-close-grip-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/ez-barbell-close-grip-curl.gif"
+    },
+    {
+      "id": "biceps/ez-barbell-close-grip-preacher-curl",
+      "slug": "ez-barbell-close-grip-preacher-curl",
+      "name": "Ez Barbell Close Grip Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the EZ-bar with an appropriate weight and grip it firmly.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/ez-barbell-close-grip-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/ez-barbell-close-grip-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/ez-barbell-curl",
+      "slug": "ez-barbell-curl",
+      "name": "Ez Barbell Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the EZ-bar with an appropriate weight and grip it firmly.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/ez-barbell-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/ez-barbell-curl.gif"
+    },
+    {
+      "id": "biceps/ez-barbell-reverse-grip-curl",
+      "slug": "ez-barbell-reverse-grip-curl",
+      "name": "Ez Barbell Reverse Grip Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the EZ-bar with an appropriate weight and grip it firmly.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/ez-barbell-reverse-grip-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/ez-barbell-reverse-grip-curl.gif"
+    },
+    {
+      "id": "biceps/ez-barbell-reverse-grip-preacher-curl",
+      "slug": "ez-barbell-reverse-grip-preacher-curl",
+      "name": "Ez Barbell Reverse Grip Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the EZ-bar with an appropriate weight and grip it firmly.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/ez-barbell-reverse-grip-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/ez-barbell-reverse-grip-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/ez-barbell-seated-curls",
+      "slug": "ez-barbell-seated-curls",
+      "name": "Ez Barbell Seated Curls",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the EZ-bar with an appropriate weight and grip it firmly.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/ez-barbell-seated-curls.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/ez-barbell-seated-curls.gif"
+    },
+    {
+      "id": "biceps/ez-barbell-spider-curl-1628",
+      "slug": "ez-barbell-spider-curl-1628",
+      "name": "Ez Barbell Spider Curl 1628",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the EZ-bar with an appropriate weight and grip it firmly.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/ez-barbell-spider-curl-1628.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/ez-barbell-spider-curl-1628.gif"
+    },
+    {
+      "id": "biceps/ez-barbell-spider-curl",
+      "slug": "ez-barbell-spider-curl",
+      "name": "Ez Barbell Spider Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the EZ-bar with an appropriate weight and grip it firmly.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/ez-barbell-spider-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/ez-barbell-spider-curl.gif"
+    },
+    {
+      "id": "biceps/ez-barbell-standing-wide-grip-biceps-curl",
+      "slug": "ez-barbell-standing-wide-grip-biceps-curl",
+      "name": "Ez Barbell Standing Wide Grip Biceps Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the EZ-bar with an appropriate weight and grip it firmly.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/ez-barbell-standing-wide-grip-biceps-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/ez-barbell-standing-wide-grip-biceps-curl.gif"
+    },
+    {
+      "id": "biceps/kettlebell-bottoms-up-clean-from-the-hang-position",
+      "slug": "kettlebell-bottoms-up-clean-from-the-hang-position",
+      "name": "Kettlebell Bottoms Up Clean From The Hang Position",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Grab the kettlebell with an appropriate weight and adopt the position.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/kettlebell-bottoms-up-clean-from-the-hang-position.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/kettlebell-bottoms-up-clean-from-the-hang-position.gif"
+    },
+    {
+      "id": "biceps/kettlebell-double-alternating-hang-clean",
+      "slug": "kettlebell-double-alternating-hang-clean",
+      "name": "Kettlebell Double Alternating Hang Clean",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Grab the kettlebell with an appropriate weight and adopt the position.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/kettlebell-double-alternating-hang-clean.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/kettlebell-double-alternating-hang-clean.gif"
+    },
+    {
+      "id": "biceps/lever-bicep-curl",
+      "slug": "lever-bicep-curl",
+      "name": "Lever Bicep Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/lever-bicep-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/lever-bicep-curl.gif"
+    },
+    {
+      "id": "biceps/lever-hammer-grip-preacher-curl",
+      "slug": "lever-hammer-grip-preacher-curl",
+      "name": "Lever Hammer Grip Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/lever-hammer-grip-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/lever-hammer-grip-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/lever-preacher-curl-v-2",
+      "slug": "lever-preacher-curl-v-2",
+      "name": "Lever Preacher Curl v2",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/lever-preacher-curl-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/lever-preacher-curl-v-2.gif"
+    },
+    {
+      "id": "biceps/lever-preacher-curl",
+      "slug": "lever-preacher-curl",
+      "name": "Lever Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/lever-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/lever-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/lever-reverse-grip-preacher-curl",
+      "slug": "lever-reverse-grip-preacher-curl",
+      "name": "Lever Reverse Grip Preacher Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/lever-reverse-grip-preacher-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/lever-reverse-grip-preacher-curl.gif"
+    },
+    {
+      "id": "biceps/olympic-barbell-hammer-curl",
+      "slug": "olympic-barbell-hammer-curl",
+      "name": "Olympic Barbell Hammer Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Load the bar with an appropriate weight and adopt the starting position.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/olympic-barbell-hammer-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/olympic-barbell-hammer-curl.gif"
+    },
+    {
+      "id": "biceps/resistance-band-seated-biceps-curl",
+      "slug": "resistance-band-seated-biceps-curl",
+      "name": "Resistance Band Seated Biceps Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Anchor the resistance band and maintain initial tension.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/resistance-band-seated-biceps-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/resistance-band-seated-biceps-curl.gif"
+    },
+    {
+      "id": "biceps/smith-machine-bicep-curl",
+      "slug": "smith-machine-bicep-curl",
+      "name": "Smith Machine Bicep Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Set the bar on the Smith machine at the right height.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/smith-machine-bicep-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/smith-machine-bicep-curl.gif"
+    },
+    {
+      "id": "biceps/weighted-seated-bicep-curl-on-stability-ball",
+      "slug": "weighted-seated-bicep-curl-on-stability-ball",
+      "name": "Weighted Seated Bicep Curl On Stability Ball",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/weighted-seated-bicep-curl-on-stability-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/weighted-seated-bicep-curl-on-stability-ball.gif"
+    },
+    {
+      "id": "biceps/weighted-standing-curl",
+      "slug": "weighted-standing-curl",
+      "name": "Weighted Standing Curl",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the biceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "biceps/weighted-standing-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/weighted-standing-curl.gif"
+    }
+  ]
+}

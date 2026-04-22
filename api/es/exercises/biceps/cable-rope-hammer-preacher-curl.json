@@ -1,0 +1,21 @@
+{
+  "id": "biceps/cable-rope-hammer-preacher-curl",
+  "slug": "cable-rope-hammer-preacher-curl",
+  "name": "Curl martillo predicador en polea con cuerda",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Ajusta la polea a la altura indicada y selecciona el peso.",
+    "Activa el biceps antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
+  "file": "biceps/cable-rope-hammer-preacher-curl.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-rope-hammer-preacher-curl.gif"
+}

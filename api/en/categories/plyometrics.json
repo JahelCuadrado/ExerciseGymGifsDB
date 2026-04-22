@@ -1,0 +1,292 @@
+{
+  "category": "plyometrics",
+  "count": 14,
+  "exercises": [
+    {
+      "id": "calves/box-jump-down-with-one-leg-stabilization",
+      "slug": "box-jump-down-with-one-leg-stabilization",
+      "name": "Box Jump Down With One Leg Stabilization",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "plyometrics",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepare the equipment and adopt the starting position.",
+        "Perform a brief dip to load tension.",
+        "Execute the movement explosively and land under control.",
+        "Land softly absorbing with legs and core, then chain the next rep."
+      ],
+      "file": "calves/box-jump-down-with-one-leg-stabilization.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/box-jump-down-with-one-leg-stabilization.gif"
+    },
+    {
+      "id": "glutes/barbell-jump-squat",
+      "slug": "barbell-jump-squat",
+      "name": "Barbell Jump Squat",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Load the bar with an appropriate weight and adopt the starting position.",
+        "Perform a brief dip to load tension.",
+        "Execute the movement explosively and land under control.",
+        "Land softly absorbing with legs and core, then chain the next rep."
+      ],
+      "file": "glutes/barbell-jump-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/barbell-jump-squat.gif"
+    },
+    {
+      "id": "glutes/bodyweight-drop-jump-squat",
+      "slug": "bodyweight-drop-jump-squat",
+      "name": "Bodyweight Drop Jump Squat",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Perform a brief dip to load tension.",
+        "Execute the movement explosively and land under control.",
+        "Land softly absorbing with legs and core, then chain the next rep."
+      ],
+      "file": "glutes/bodyweight-drop-jump-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/bodyweight-drop-jump-squat.gif"
+    },
+    {
+      "id": "glutes/dumbbell-plyo-squat",
+      "slug": "dumbbell-plyo-squat",
+      "name": "Dumbbell Plyo Squat",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
+        "Perform a brief dip to load tension.",
+        "Execute the movement explosively and land under control.",
+        "Land softly absorbing with legs and core, then chain the next rep."
+      ],
+      "file": "glutes/dumbbell-plyo-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/dumbbell-plyo-squat.gif"
+    },
+    {
+      "id": "glutes/jump-squat-v-2",
+      "slug": "jump-squat-v-2",
+      "name": "Jump Squat v2",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Prepare the equipment and adopt the starting position.",
+        "Perform a brief dip to load tension.",
+        "Execute the movement explosively and land under control.",
+        "Land softly absorbing with legs and core, then chain the next rep."
+      ],
+      "file": "glutes/jump-squat-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/jump-squat-v-2.gif"
+    },
+    {
+      "id": "glutes/jump-squat",
+      "slug": "jump-squat",
+      "name": "Jump Squat",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Prepare the equipment and adopt the starting position.",
+        "Perform a brief dip to load tension.",
+        "Execute the movement explosively and land under control.",
+        "Land softly absorbing with legs and core, then chain the next rep."
+      ],
+      "file": "glutes/jump-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/jump-squat.gif"
+    },
+    {
+      "id": "glutes/kneeling-jump-squat",
+      "slug": "kneeling-jump-squat",
+      "name": "Kneeling Jump Squat",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Prepare the equipment and adopt the starting position.",
+        "Perform a brief dip to load tension.",
+        "Execute the movement explosively and land under control.",
+        "Land softly absorbing with legs and core, then chain the next rep."
+      ],
+      "file": "glutes/kneeling-jump-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/kneeling-jump-squat.gif"
+    },
+    {
+      "id": "glutes/lunge-with-jump",
+      "slug": "lunge-with-jump",
+      "name": "Lunge With Jump",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Prepare the equipment and adopt the starting position.",
+        "Perform a brief dip to load tension.",
+        "Execute the movement explosively and land under control.",
+        "Land softly absorbing with legs and core, then chain the next rep."
+      ],
+      "file": "glutes/lunge-with-jump.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/lunge-with-jump.gif"
+    },
+    {
+      "id": "pectorals/incline-push-up-depth-jump",
+      "slug": "incline-push-up-depth-jump",
+      "name": "Incline Push Up Depth Jump",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "other",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Prepare the equipment and adopt the starting position.",
+        "Perform a brief dip to load tension.",
+        "Execute the movement explosively and land under control.",
+        "Land softly absorbing with legs and core, then chain the next rep."
+      ],
+      "file": "pectorals/incline-push-up-depth-jump.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/incline-push-up-depth-jump.gif"
+    },
+    {
+      "id": "pectorals/kettlebell-plyo-push-up",
+      "slug": "kettlebell-plyo-push-up",
+      "name": "Kettlebell Plyo Push Up",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Grab the kettlebell with an appropriate weight and adopt the position.",
+        "Perform a brief dip to load tension.",
+        "Execute the movement explosively and land under control.",
+        "Land softly absorbing with legs and core, then chain the next rep."
+      ],
+      "file": "pectorals/kettlebell-plyo-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/kettlebell-plyo-push-up.gif"
+    },
+    {
+      "id": "pectorals/plyo-push-up",
+      "slug": "plyo-push-up",
+      "name": "Plyo Push Up",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "other",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Prepare the equipment and adopt the starting position.",
+        "Perform a brief dip to load tension.",
+        "Execute the movement explosively and land under control.",
+        "Land softly absorbing with legs and core, then chain the next rep."
+      ],
+      "file": "pectorals/plyo-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/plyo-push-up.gif"
+    },
+    {
+      "id": "quads/backward-jump",
+      "slug": "backward-jump",
+      "name": "Backward Jump",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "plyometrics",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepare the equipment and adopt the starting position.",
+        "Perform a brief dip to load tension.",
+        "Execute the movement explosively and land under control.",
+        "Land softly absorbing with legs and core, then chain the next rep."
+      ],
+      "file": "quads/backward-jump.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/backward-jump.gif"
+    },
+    {
+      "id": "quads/barbell-squat-jump-step-rear-lunge",
+      "slug": "barbell-squat-jump-step-rear-lunge",
+      "name": "Barbell Squat Jump Step Rear Lunge",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Load the bar with an appropriate weight and adopt the starting position.",
+        "Perform a brief dip to load tension.",
+        "Execute the movement explosively and land under control.",
+        "Land softly absorbing with legs and core, then chain the next rep."
+      ],
+      "file": "quads/barbell-squat-jump-step-rear-lunge.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/barbell-squat-jump-step-rear-lunge.gif"
+    },
+    {
+      "id": "quads/forward-jump",
+      "slug": "forward-jump",
+      "name": "Forward Jump",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "plyometrics",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepare the equipment and adopt the starting position.",
+        "Perform a brief dip to load tension.",
+        "Execute the movement explosively and land under control.",
+        "Land softly absorbing with legs and core, then chain the next rep."
+      ],
+      "file": "quads/forward-jump.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/forward-jump.gif"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "cardio/dumbbell-burpee",
+  "slug": "dumbbell-burpee",
+  "name": "Burpee con mancuerna",
+  "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "dumbbell",
+  "category": "cardio",
+  "secondaryMuscles": [
+    "pectorals",
+    "triceps",
+    "quads",
+    "glutes",
+    "abs"
+  ],
+  "instructions": [
+    "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+    "Mantén un ritmo constante adaptado a tu nivel.",
+    "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+    "Continúa el tiempo o las repeticiones planificadas."
+  ],
+  "file": "cardio/dumbbell-burpee.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/dumbbell-burpee.gif"
+}

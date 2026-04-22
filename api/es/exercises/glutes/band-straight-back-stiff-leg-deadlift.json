@@ -1,0 +1,25 @@
+{
+  "id": "glutes/band-straight-back-stiff-leg-deadlift",
+  "slug": "band-straight-back-stiff-leg-deadlift",
+  "name": "Peso muerto a piernas rígidas con banda, recto espalda",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "lats",
+    "traps",
+    "forearms",
+    "spine"
+  ],
+  "instructions": [
+    "Fija la banda elástica y mantén la tensión inicial.",
+    "Activa el glutes antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
+  "file": "glutes/band-straight-back-stiff-leg-deadlift.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/band-straight-back-stiff-leg-deadlift.gif"
+}

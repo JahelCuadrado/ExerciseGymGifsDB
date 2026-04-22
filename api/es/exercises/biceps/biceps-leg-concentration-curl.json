@@ -1,0 +1,21 @@
+{
+  "id": "biceps/biceps-leg-concentration-curl",
+  "slug": "biceps-leg-concentration-curl",
+  "name": "Curl concentrado, bíceps pierna",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "other",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Prepara el equipo y adopta la postura inicial.",
+    "Activa el biceps antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
+  "file": "biceps/biceps-leg-concentration-curl.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/biceps-leg-concentration-curl.gif"
+}

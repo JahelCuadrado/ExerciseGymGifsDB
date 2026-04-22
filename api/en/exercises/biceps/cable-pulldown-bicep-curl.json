@@ -1,0 +1,22 @@
+{
+  "id": "biceps/cable-pulldown-bicep-curl",
+  "slug": "cable-pulldown-bicep-curl",
+  "name": "Cable Pulldown Bicep Curl",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms",
+    "delts"
+  ],
+  "instructions": [
+    "Set the pulley at the required height and select the weight.",
+    "Pre-engage the biceps before initiating the movement.",
+    "Perform the movement in a controlled manner, keeping good form.",
+    "Return to the starting position controlling the eccentric phase.",
+    "Breathe: exhale on effort, inhale on the way back."
+  ],
+  "file": "biceps/cable-pulldown-bicep-curl.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/cable-pulldown-bicep-curl.gif"
+}

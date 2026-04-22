@@ -1,0 +1,42 @@
+{
+  "muscle": "levator-scapulae",
+  "count": 2,
+  "exercises": [
+    {
+      "id": "levator-scapulae/neck-side-stretch",
+      "slug": "neck-side-stretch",
+      "name": "Neck Side Stretch",
+      "muscle": "levator-scapulae",
+      "bodyPart": "back",
+      "equipment": "other",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepare the equipment and adopt the starting position.",
+        "Move into the levator-scapulae stretch position.",
+        "Hold for 20 to 40 seconds breathing deeply.",
+        "Return slowly to the starting position and repeat if desired."
+      ],
+      "file": "levator-scapulae/neck-side-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/levator-scapulae/neck-side-stretch.gif"
+    },
+    {
+      "id": "levator-scapulae/side-push-neck-stretch",
+      "slug": "side-push-neck-stretch",
+      "name": "Side Push Neck Stretch",
+      "muscle": "levator-scapulae",
+      "bodyPart": "back",
+      "equipment": "other",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prepare the equipment and adopt the starting position.",
+        "Move into the levator-scapulae stretch position.",
+        "Hold for 20 to 40 seconds breathing deeply.",
+        "Return slowly to the starting position and repeat if desired."
+      ],
+      "file": "levator-scapulae/side-push-neck-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/levator-scapulae/side-push-neck-stretch.gif"
+    }
+  ]
+}

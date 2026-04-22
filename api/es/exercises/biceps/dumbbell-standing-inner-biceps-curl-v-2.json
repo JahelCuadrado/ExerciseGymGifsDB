@@ -1,0 +1,21 @@
+{
+  "id": "biceps/dumbbell-standing-inner-biceps-curl-v-2",
+  "slug": "dumbbell-standing-inner-biceps-curl-v-2",
+  "name": "Curl de bíceps con mancuerna, de pie, interno v2",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
+    "Activa el biceps antes de iniciar el movimiento.",
+    "Realiza el movimiento de forma controlada manteniendo la técnica.",
+    "Vuelve a la posición inicial controlando la fase excéntrica.",
+    "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+  ],
+  "file": "biceps/dumbbell-standing-inner-biceps-curl-v-2.gif",
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/dumbbell-standing-inner-biceps-curl-v-2.gif"
+}
