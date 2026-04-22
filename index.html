@@ -7,7 +7,10 @@
 <title data-i18n="meta.title">Exercise Gym GIFs DB · Static exercise API</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🏋️%3C/text%3E%3C/svg%3E" />
 <link rel="preconnect" href="https://cdn.jsdelivr.net" />
-<link rel="stylesheet" href="styles.css" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500;1,9..144,600;1,9..144,700&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css?v=2" />
 </head>
 <body>
 
@@ -31,26 +34,42 @@
   </div>
 </header>
 
+<!-- ============================ TICKER ============================ -->
+<div class="ticker" aria-hidden="true">
+  <div class="ticker-track">
+    <span data-i18n="ticker.text">1323 exercises · 19 muscle groups · 11 equipment types · zero servers · zero api keys · jsdelivr cdn · open source</span>
+    <span data-i18n="ticker.text">1323 exercises · 19 muscle groups · 11 equipment types · zero servers · zero api keys · jsdelivr cdn · open source</span>
+  </div>
+</div>
+
 <!-- ============================ HERO ============================ -->
-<section class="hero" id="top">
-  <div class="hero-bg" aria-hidden="true"></div>
-  <div class="container hero-inner">
-    <span class="badge" data-i18n="hero.badge">Static API · Free · No backend</span>
-    <h1 data-i18n-html="hero.title">
-      More than <span class="grad">1300 exercises</span><br/>
-      in an API you don't have to maintain
-    </h1>
-    <p class="lead" data-i18n="hero.lead">
-      JSON + GIFs served straight from GitHub through the jsDelivr CDN.
-      No keys, no hard limits, no servers. Paste the URL and consume.
-    </p>
-    <div class="cta-row">
-      <a class="btn btn-primary" href="#playground" data-i18n="hero.cta1">Try it live</a>
-      <a class="btn btn-secondary" href="#docs" data-i18n="hero.cta2">Read the docs</a>
+<section class="hero" id="top" style="border-top:0">
+  <div class="container">
+    <div class="hero-grid">
+      <div class="hero-text">
+        <span class="badge" data-i18n="hero.badge">Static API · Free · No backend</span>
+        <h1 data-i18n-html="hero.title">
+          More than <span class="grad">1300</span><br/>
+          gym exercises<br/>
+          <em>at your fingertips</em>
+        </h1>
+        <p class="lead" data-i18n="hero.lead">
+          JSON + GIFs served straight from GitHub through the jsDelivr CDN.
+          No keys, no hard limits, no servers. Paste the URL and consume.
+        </p>
+        <div class="cta-row">
+          <a class="btn btn-primary" href="#playground" data-i18n="hero.cta1">Try it live →</a>
+          <a class="btn btn-secondary" href="#docs" data-i18n="hero.cta2">Read the docs</a>
+        </div>
+      </div>
+      <div class="hero-sticker" data-i18n="hero.sticker">
+        100%<br/>free<br/>forever
+      </div>
     </div>
-    <div class="stats">
+
+    <div class="stats" style="margin-top:30px">
       <div class="stat"><strong id="stat-exercises">1323</strong><span data-i18n="stats.exercises">Exercises</span></div>
-      <div class="stat"><strong id="stat-muscles">19</strong><span data-i18n="stats.muscles">Muscle groups</span></div>
+      <div class="stat"><strong id="stat-muscles">19</strong><span data-i18n="stats.muscles">Muscles</span></div>
       <div class="stat"><strong id="stat-equipment">11</strong><span data-i18n="stats.equipment">Equipment</span></div>
       <div class="stat"><strong id="stat-categories">4</strong><span data-i18n="stats.categories">Categories</span></div>
     </div>
@@ -60,7 +79,13 @@
 <!-- ============================ FEATURES ============================ -->
 <section class="features" id="features">
   <div class="container">
-    <h2 class="section-title" data-i18n="features.title">Why use it?</h2>
+    <div class="section-head">
+      <div>
+        <span class="section-num">01 / <span data-i18n="features.label">Why</span></span>
+        <h2 class="section-title" data-i18n="features.title">Why use it?</h2>
+      </div>
+      <p class="section-sub" data-i18n="features.sub">Six reasons that make this the laziest API integration of your week.</p>
+    </div>
     <div class="grid-features">
       <article class="feature-card">
         <div class="icon">⚡</div>
@@ -99,7 +124,13 @@
 <!-- ============================ DOCS ============================ -->
 <section class="docs" id="docs">
   <div class="container">
-    <h2 class="section-title" data-i18n="docs.title">Documentation</h2>
+    <div class="section-head">
+      <div>
+        <span class="section-num">02 / <span data-i18n="docs.label">Docs</span></span>
+        <h2 class="section-title" data-i18n="docs.title">Documentation</h2>
+      </div>
+      <p class="section-sub" data-i18n="docs.sub">Everything you need to start consuming the API in less than a minute.</p>
+    </div>
 
     <div class="docs-grid">
       <aside class="docs-side">
@@ -113,7 +144,6 @@
       </aside>
 
       <div class="docs-main">
-
         <h3 id="base-url" data-i18n="docs.base.title">Base URL</h3>
         <p data-i18n="docs.base.text">Everything else hangs off this:</p>
 <pre><code>https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main</code></pre>
@@ -184,8 +214,13 @@ document.body.innerHTML = `&lt;img src="${ex.gifUrl}" alt="${ex.name}" /&gt;`;</
 <!-- ============================ PLAYGROUND ============================ -->
 <section class="playground" id="playground">
   <div class="container">
-    <h2 class="section-title" data-i18n="play.title">Playground</h2>
-    <p class="muted" data-i18n="play.subtitle">Build a request and see the live response.</p>
+    <div class="section-head">
+      <div>
+        <span class="section-num">03 / <span data-i18n="play.label">Try</span></span>
+        <h2 class="section-title" data-i18n="play.title">Playground</h2>
+      </div>
+      <p class="section-sub" data-i18n="play.subtitle">Build a request and see the live response.</p>
+    </div>
 
     <div class="play-controls">
       <label>
@@ -257,15 +292,20 @@ document.body.innerHTML = `&lt;img src="${ex.gifUrl}" alt="${ex.name}" /&gt;`;</
 <!-- ============================ GALLERY ============================ -->
 <section class="gallery" id="gallery">
   <div class="container">
-    <h2 class="section-title" data-i18n="gallery.title">Live gallery</h2>
-    <p class="muted" data-i18n="gallery.subtitle">A random sample served straight from the API.</p>
+    <div class="section-head">
+      <div>
+        <span class="section-num">04 / <span data-i18n="gallery.label">See</span></span>
+        <h2 class="section-title" data-i18n="gallery.title">Live gallery</h2>
+      </div>
+      <p class="section-sub" data-i18n="gallery.subtitle">A random sample served straight from the API.</p>
+    </div>
     <div class="gallery-controls">
       <select id="gallery-lang">
         <option value="en" selected>English</option>
         <option value="es">Español</option>
       </select>
       <select id="gallery-muscle"></select>
-      <button class="btn btn-secondary" id="btn-shuffle" data-i18n="gallery.shuffle">Shuffle</button>
+      <button class="btn btn-secondary" id="btn-shuffle" data-i18n="gallery.shuffle">↻ Shuffle</button>
     </div>
     <div class="gallery-grid" id="gallery-grid"></div>
   </div>
@@ -275,16 +315,16 @@ document.body.innerHTML = `&lt;img src="${ex.gifUrl}" alt="${ex.name}" /&gt;`;</
 <footer class="site-footer">
   <div class="container footer-inner">
     <p data-i18n-html="footer.line1">
-      Made with ❤️ for fitness apps ·
+      Made with ♥ for fitness apps ·
       <a href="https://github.com/JahelCuadrado/ExerciseGymGifsDB" target="_blank" rel="noopener">Source on GitHub</a>
     </p>
-    <p class="muted small" data-i18n="footer.line2">
+    <p class="small" data-i18n="footer.line2">
       GIFs belong to their respective authors. This project only organises and
       exposes the files as a static API.
     </p>
   </div>
 </footer>
 
-<script src="app.js"></script>
+<script src="app.js?v=2"></script>
 </body>
 </html>

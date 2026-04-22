@@ -25,18 +25,24 @@ const I18N = {
 		"nav.docs": "Docs",
 		"nav.playground": "Playground",
 		"nav.gallery": "Gallery",
+		"ticker.text":
+			"1323 exercises · 19 muscle groups · 11 equipment types · zero servers · zero api keys · jsdelivr cdn · open source",
 		"hero.badge": "Static API · Free · No backend",
 		"hero.title":
-			"More than <span class=\"grad\">1300 exercises</span><br/>in an API you don't have to maintain",
+			"More than <span class=\"grad\">1300</span><br/>gym exercises<br/><em>at your fingertips</em>",
 		"hero.lead":
 			"JSON + GIFs served straight from GitHub through the jsDelivr CDN. No keys, no hard limits, no servers. Paste the URL and consume.",
-		"hero.cta1": "Try it live",
+		"hero.cta1": "Try it live →",
 		"hero.cta2": "Read the docs",
+		"hero.sticker": "100%<br/>free<br/>forever",
 		"stats.exercises": "Exercises",
-		"stats.muscles": "Muscle groups",
+		"stats.muscles": "Muscles",
 		"stats.equipment": "Equipment",
 		"stats.categories": "Categories",
+		"features.label": "Why",
 		"features.title": "Why use it?",
+		"features.sub":
+			"Six reasons that make this the laziest API integration of your week.",
 		"features.fast.title": "Fast",
 		"features.fast.text":
 			"Served by jsDelivr's global CDN. Aggressive caching at every PoP.",
@@ -53,7 +59,10 @@ const I18N = {
 		"features.oss.title": "Open source",
 		"features.oss.text":
 			"Code and data on GitHub. Forkable and pinnable to a tag.",
+		"docs.label": "Docs",
 		"docs.title": "Documentation",
+		"docs.sub":
+			"Everything you need to start consuming the API in less than a minute.",
 		"docs.side.title": "Get started",
 		"docs.side.base": "Base URL",
 		"docs.side.endpoints": "Endpoints",
@@ -84,6 +93,7 @@ const I18N = {
 			"The schema is identical across languages; only <code>name</code> and <code>instructions</code> change.",
 		"docs.enums.title": "Allowed values",
 		"docs.example.title": "Usage example",
+		"play.label": "Try",
 		"play.title": "Playground",
 		"play.subtitle": "Build a request and see the live response.",
 		"play.lang": "Language",
@@ -94,19 +104,20 @@ const I18N = {
 		"play.category": "Category",
 		"play.slug": "Slug",
 		"play.send": "Send GET",
-		"play.url": "URL:",
+		"play.url": "URL",
 		"play.copy": "Copy",
 		"play.copied": "Copied!",
 		"play.open": "Open ↗",
 		"play.hint": "Press “Send GET” to see the response.",
 		"play.loading": "Loading…",
 		"play.loadFail": "Could not load the API. Check your connection.",
+		"gallery.label": "See",
 		"gallery.title": "Live gallery",
 		"gallery.subtitle": "A random sample served straight from the API.",
-		"gallery.shuffle": "Shuffle",
+		"gallery.shuffle": "↻ Shuffle",
 		"gallery.loading": "Loading GIFs…",
 		"footer.line1":
-			"Made with ❤️ for fitness apps · <a href=\"https://github.com/JahelCuadrado/ExerciseGymGifsDB\" target=\"_blank\" rel=\"noopener\">Source on GitHub</a>",
+			"Made with ♥ for fitness apps · <a href=\"https://github.com/JahelCuadrado/ExerciseGymGifsDB\" target=\"_blank\" rel=\"noopener\">Source on GitHub</a>",
 		"footer.line2":
 			"GIFs belong to their respective authors. This project only organises and exposes the files as a static API.",
 	},
@@ -114,22 +125,28 @@ const I18N = {
 		"meta.title": "Exercise Gym GIFs DB · API estática de ejercicios",
 		"meta.description":
 			"API estática y gratuita con más de 1300 GIFs de ejercicios de gimnasio. Sin backend, sin claves, lista para tu app.",
-		"nav.features": "Características",
-		"nav.docs": "Documentación",
+		"nav.features": "Features",
+		"nav.docs": "Docs",
 		"nav.playground": "Playground",
 		"nav.gallery": "Galería",
+		"ticker.text":
+			"1323 ejercicios · 19 grupos musculares · 11 equipamientos · cero servidores · cero claves · cdn jsdelivr · open source",
 		"hero.badge": "API estática · Gratis · Sin backend",
 		"hero.title":
-			"Más de <span class=\"grad\">1300 ejercicios</span><br/>en una API que no tienes que mantener",
+			"Más de <span class=\"grad\">1300</span><br/>ejercicios de gym<br/><em>al alcance del fetch</em>",
 		"hero.lead":
 			"JSON + GIFs servidos directamente desde GitHub a través del CDN de jsDelivr. Sin claves, sin límites duros, sin servidores. Pega la URL y consume.",
-		"hero.cta1": "Probar en vivo",
+		"hero.cta1": "Probar en vivo →",
 		"hero.cta2": "Ver documentación",
+		"hero.sticker": "100%<br/>gratis<br/>siempre",
 		"stats.exercises": "Ejercicios",
-		"stats.muscles": "Grupos musculares",
-		"stats.equipment": "Equipamientos",
+		"stats.muscles": "Músculos",
+		"stats.equipment": "Equipos",
 		"stats.categories": "Categorías",
+		"features.label": "Ventajas",
 		"features.title": "¿Por qué usarla?",
+		"features.sub":
+			"Seis razones para que esta sea la integración más vaga de tu semana.",
 		"features.fast.title": "Rápida",
 		"features.fast.text":
 			"Servida por jsDelivr con CDN global. Caché agresiva en cada PoP.",
@@ -148,7 +165,10 @@ const I18N = {
 		"features.oss.title": "Open source",
 		"features.oss.text":
 			"Código y datos en GitHub. Forkeable y versionable con tags.",
+		"docs.label": "Docs",
 		"docs.title": "Documentación",
+		"docs.sub":
+			"Todo lo que necesitas para empezar a consumir la API en menos de un minuto.",
 		"docs.side.title": "Empezar",
 		"docs.side.base": "Base URL",
 		"docs.side.endpoints": "Endpoints",
@@ -179,6 +199,7 @@ const I18N = {
 			"El esquema es el mismo en todos los idiomas; lo que cambia es el contenido de <code>name</code> e <code>instructions</code>.",
 		"docs.enums.title": "Valores admitidos",
 		"docs.example.title": "Ejemplo de uso",
+		"play.label": "Probar",
 		"play.title": "Playground",
 		"play.subtitle": "Construye una petición y mira la respuesta en directo.",
 		"play.lang": "Idioma",
@@ -189,19 +210,20 @@ const I18N = {
 		"play.category": "Categoría",
 		"play.slug": "Slug",
 		"play.send": "Enviar GET",
-		"play.url": "URL:",
+		"play.url": "URL",
 		"play.copy": "Copiar",
 		"play.copied": "¡Copiado!",
 		"play.open": "Abrir ↗",
 		"play.hint": "Pulsa “Enviar GET” para ver la respuesta.",
 		"play.loading": "Cargando…",
 		"play.loadFail": "No se pudo cargar la API. Comprueba tu conexión.",
+		"gallery.label": "Ver",
 		"gallery.title": "Galería en vivo",
 		"gallery.subtitle": "Una muestra aleatoria sirviéndose desde la API.",
-		"gallery.shuffle": "Ver otros",
+		"gallery.shuffle": "↻ Mezclar",
 		"gallery.loading": "Cargando GIFs…",
 		"footer.line1":
-			"Hecho con ❤️ para apps de fitness · <a href=\"https://github.com/JahelCuadrado/ExerciseGymGifsDB\" target=\"_blank\" rel=\"noopener\">Código en GitHub</a>",
+			"Hecho con ♥ para apps de fitness · <a href=\"https://github.com/JahelCuadrado/ExerciseGymGifsDB\" target=\"_blank\" rel=\"noopener\">Código en GitHub</a>",
 		"footer.line2":
 			"Los GIFs pertenecen a sus respectivos autores. Este proyecto solo organiza y expone los archivos como API estática.",
 	},
@@ -220,13 +242,14 @@ function applyI18n() {
 	if (metaDesc) metaDesc.setAttribute("content", t("meta.description"));
 
 	$$("[data-i18n]").forEach((el) => {
+		if (el.tagName === "META" || el.tagName === "TITLE") return;
 		el.textContent = t(el.getAttribute("data-i18n"));
 	});
 	$$("[data-i18n-html]").forEach((el) => {
 		el.innerHTML = t(el.getAttribute("data-i18n-html"));
 	});
 
-	// Toggle button visual state
+	// Update toggle visual state
 	$$("#ui-lang-toggle [data-ui-lang]").forEach((s) => {
 		s.classList.toggle("active", s.dataset.uiLang === UI_LANG);
 	});
@@ -240,65 +263,72 @@ function setUiLang(lang) {
 	applyI18n();
 }
 
-document.addEventListener("DOMContentLoaded", () => {
-	const stored =
-		(() => {
-			try {
-				return localStorage.getItem("ui-lang");
-			} catch {
-				return null;
-			}
-		})() ||
-		(navigator.language && navigator.language.toLowerCase().startsWith("es")
+function init() {
+	const stored = (() => {
+		try {
+			return localStorage.getItem("ui-lang");
+		} catch {
+			return null;
+		}
+	})();
+	const fallback =
+		navigator.language && navigator.language.toLowerCase().startsWith("es")
 			? "es"
-			: "en");
-	UI_LANG = I18N[stored] ? stored : "en";
+			: "en";
+	UI_LANG = I18N[stored] ? stored : fallback;
 	applyI18n();
-	bootstrap();
+
+	// Bind UI BEFORE bootstrap so the toggle works even if API fetch hangs
 	bindUI();
-});
+	bootstrap().catch((err) => {
+		console.error(err);
+		const meta = document.getElementById("result-meta");
+		if (meta) meta.textContent = t("play.loadFail");
+	});
+}
+
+if (document.readyState === "loading") {
+	document.addEventListener("DOMContentLoaded", init);
+} else {
+	init();
+}
 
 async function bootstrap() {
-	try {
-		GLOBAL_INDEX = await fetchJSON(`${BASE}/api/index.json`);
-		updateStats(GLOBAL_INDEX);
+	GLOBAL_INDEX = await fetchJSON(`${BASE}/api/index.json`);
+	updateStats(GLOBAL_INDEX);
 
-		const lang = currentLang();
-		const langIndex = await fetchJSON(`${BASE}/api/${lang}/index.json`);
-		MUSCLES = langIndex.muscles.map((m) => m.muscle);
+	const lang = currentLang();
+	const langIndex = await fetchJSON(`${BASE}/api/${lang}/index.json`);
+	MUSCLES = langIndex.muscles.map((m) => m.muscle);
 
-		fetchJSON(`${BASE}/api/${lang}/equipment.json`).then((j) => {
-			EQUIPMENT = (j || []).map((x) => x.equipment);
-			fillSelect("#param-equipment", EQUIPMENT);
+	fetchJSON(`${BASE}/api/${lang}/equipment.json`).then((j) => {
+		EQUIPMENT = (j || []).map((x) => x.equipment);
+		fillSelect("#param-equipment", EQUIPMENT);
+	});
+	fetchJSON(`${BASE}/api/${lang}/bodyparts.json`).then((j) => {
+		BODYPARTS = (j || []).map((x) => x.bodyPart);
+		fillSelect("#param-bodypart", BODYPARTS);
+	});
+	fetchJSON(`${BASE}/api/${lang}/categories.json`).then((j) => {
+		CATEGORIES = (j || []).map((x) => x.category);
+		fillSelect("#param-category", CATEGORIES);
+	});
+
+	fillSelect("#param-muscle", MUSCLES);
+	fillSelect("#gallery-muscle", MUSCLES);
+
+	if (MUSCLES.length) {
+		loadMuscle(lang, MUSCLES[0]).then((data) => {
+			fillSelect(
+				"#param-slug",
+				data.exercises.map((e) => e.slug)
+			);
+			updateUrlPreview();
 		});
-		fetchJSON(`${BASE}/api/${lang}/bodyparts.json`).then((j) => {
-			BODYPARTS = (j || []).map((x) => x.bodyPart);
-			fillSelect("#param-bodypart", BODYPARTS);
-		});
-		fetchJSON(`${BASE}/api/${lang}/categories.json`).then((j) => {
-			CATEGORIES = (j || []).map((x) => x.category);
-			fillSelect("#param-category", CATEGORIES);
-		});
-
-		fillSelect("#param-muscle", MUSCLES);
-		fillSelect("#gallery-muscle", MUSCLES);
-
-		if (MUSCLES.length) {
-			loadMuscle(lang, MUSCLES[0]).then((data) => {
-				fillSelect(
-					"#param-slug",
-					data.exercises.map((e) => e.slug)
-				);
-				updateUrlPreview();
-			});
-		}
-
-		updateUrlPreview();
-		await loadGallery(currentGalleryLang(), MUSCLES[0]);
-	} catch (err) {
-		console.error(err);
-		document.getElementById("result-meta").textContent = t("play.loadFail");
 	}
+
+	updateUrlPreview();
+	await loadGallery(currentGalleryLang(), MUSCLES[0]);
 }
 
 function updateStats(idx) {
@@ -337,38 +367,42 @@ function currentGalleryLang() {
 }
 
 // ---------------------------------------------------------------------
-// Playground
+// UI bindings
 // ---------------------------------------------------------------------
 function bindUI() {
-	$("#ui-lang-toggle").addEventListener("click", () => {
-		setUiLang(UI_LANG === "en" ? "es" : "en");
-	});
+	const toggle = $("#ui-lang-toggle");
+	if (toggle) {
+		toggle.addEventListener("click", (e) => {
+			e.preventDefault();
+			setUiLang(UI_LANG === "en" ? "es" : "en");
+		});
+	}
 
-	$("#lang-select").addEventListener("change", () => {
+	$("#lang-select")?.addEventListener("change", () => {
 		updateUrlPreview();
 		onMuscleChangeForExerciseDetail().then(updateUrlPreview);
 	});
-	$("#endpoint-select").addEventListener("change", onEndpointChange);
+	$("#endpoint-select")?.addEventListener("change", onEndpointChange);
 
-	$("#param-muscle").addEventListener("change", async () => {
+	$("#param-muscle")?.addEventListener("change", async () => {
 		await onMuscleChangeForExerciseDetail();
 		updateUrlPreview();
 	});
-	$("#param-equipment").addEventListener("change", updateUrlPreview);
-	$("#param-bodypart").addEventListener("change", updateUrlPreview);
-	$("#param-category").addEventListener("change", updateUrlPreview);
-	$("#param-slug").addEventListener("change", updateUrlPreview);
+	$("#param-equipment")?.addEventListener("change", updateUrlPreview);
+	$("#param-bodypart")?.addEventListener("change", updateUrlPreview);
+	$("#param-category")?.addEventListener("change", updateUrlPreview);
+	$("#param-slug")?.addEventListener("change", updateUrlPreview);
 
-	$("#btn-send").addEventListener("click", sendRequest);
-	$("#btn-copy").addEventListener("click", copyUrl);
+	$("#btn-send")?.addEventListener("click", sendRequest);
+	$("#btn-copy")?.addEventListener("click", copyUrl);
 
-	$("#gallery-lang").addEventListener("change", () =>
+	$("#gallery-lang")?.addEventListener("change", () =>
 		loadGallery(currentGalleryLang(), $("#gallery-muscle").value)
 	);
-	$("#gallery-muscle").addEventListener("change", (e) =>
+	$("#gallery-muscle")?.addEventListener("change", (e) =>
 		loadGallery(currentGalleryLang(), e.target.value)
 	);
-	$("#btn-shuffle").addEventListener("click", () =>
+	$("#btn-shuffle")?.addEventListener("click", () =>
 		loadGallery(currentGalleryLang(), $("#gallery-muscle").value)
 	);
 
@@ -376,7 +410,7 @@ function bindUI() {
 }
 
 function onEndpointChange() {
-	const ep = $("#endpoint-select").value;
+	const ep = $("#endpoint-select")?.value;
 	toggle("#param-muscle-wrap", ["muscleDetail", "exerciseDetail"].includes(ep));
 	toggle("#param-equipment-wrap", ep === "equipmentDetail");
 	toggle("#param-bodypart-wrap", ep === "bodypartDetail");
@@ -395,12 +429,12 @@ function toggle(sel, show) {
 }
 
 async function onMuscleChangeForExerciseDetail() {
-	const ep = $("#endpoint-select").value;
+	const ep = $("#endpoint-select")?.value;
 	if (ep !== "exerciseDetail") return;
 	const slugSel = $("#param-slug");
-	const muscle = $("#param-muscle").value;
+	const muscle = $("#param-muscle")?.value;
 	if (!muscle) {
-		slugSel.innerHTML = "";
+		if (slugSel) slugSel.innerHTML = "";
 		return;
 	}
 	slugSel.innerHTML = `<option value="">${t("play.loading")}</option>`;
@@ -421,7 +455,7 @@ async function loadMuscle(lang, muscle) {
 }
 
 function buildUrl() {
-	const ep = $("#endpoint-select").value;
+	const ep = $("#endpoint-select")?.value;
 	const lang = currentLang();
 	switch (ep) {
 		case "globalIndex":
@@ -453,9 +487,12 @@ function buildUrl() {
 }
 
 function updateUrlPreview() {
+	const preview = $("#url-preview");
+	if (!preview) return;
 	const url = buildUrl();
-	$("#url-preview").textContent = url;
-	$("#btn-open").href = url;
+	preview.textContent = url;
+	const open = $("#btn-open");
+	if (open) open.href = url;
 }
 
 async function sendRequest() {
