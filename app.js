@@ -118,7 +118,7 @@ const I18N = {
 		"gallery.shuffle": "↻ Shuffle",
 		"gallery.loading": "Loading GIFs…",
 		"footer.line1":
-			"Made with ♥ for fitness apps · <a href=\"https://github.com/JahelCuadrado/ExerciseGymGifsDB\" target=\"_blank\" rel=\"noopener\">Source on GitHub</a>",
+			"Made with ♥ by <a href=\"https://github.com/JahelCuadrado\" target=\"_blank\" rel=\"noopener\">Jahel</a> · <a href=\"https://github.com/JahelCuadrado/ExerciseGymGifsDB\" target=\"_blank\" rel=\"noopener\">Source on GitHub</a>",
 		"footer.line2":
 			"GIFs belong to their respective authors. This project only organises and exposes the files as a static API.",
 	},
@@ -225,7 +225,7 @@ const I18N = {
 		"gallery.shuffle": "↻ Mezclar",
 		"gallery.loading": "Cargando GIFs…",
 		"footer.line1":
-			"Hecho con ♥ para apps de fitness · <a href=\"https://github.com/JahelCuadrado/ExerciseGymGifsDB\" target=\"_blank\" rel=\"noopener\">Código en GitHub</a>",
+			"Hecho con ♥ por <a href=\"https://github.com/JahelCuadrado\" target=\"_blank\" rel=\"noopener\">Jahel</a> · <a href=\"https://github.com/JahelCuadrado/ExerciseGymGifsDB\" target=\"_blank\" rel=\"noopener\">Código en GitHub</a>",
 		"footer.line2":
 			"Los GIFs pertenecen a sus respectivos autores. Este proyecto solo organiza y expone los archivos como API estática.",
 	},
