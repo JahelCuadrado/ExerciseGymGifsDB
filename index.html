@@ -9,8 +9,8 @@
 <link rel="preconnect" href="https://cdn.jsdelivr.net" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500;1,9..144,600;1,9..144,700&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css?v=2" />
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css?v=3" />
 </head>
 <body>
 
@@ -18,7 +18,7 @@
 <header class="site-header">
   <div class="container nav">
     <a href="#top" class="logo">
-      <span class="logo-mark">🏋️</span>
+      <span class="logo-mark"><span>X</span></span>
       <span>Exercise GIFs DB</span>
     </a>
     <nav class="nav-links">
@@ -43,31 +43,33 @@
 </div>
 
 <!-- ============================ HERO ============================ -->
-<section class="hero" id="top" style="border-top:0">
+<section class="hero" id="top">
   <div class="container">
     <div class="hero-grid">
       <div class="hero-text">
         <span class="badge" data-i18n="hero.badge">Static API · Free · No backend</span>
         <h1 data-i18n-html="hero.title">
-          More than <span class="grad">1300</span><br/>
+          <span class="grad">1323</span><br/>
           gym exercises<br/>
-          <em>at your fingertips</em>
+          <em>ready to lift</em>
         </h1>
         <p class="lead" data-i18n="hero.lead">
           JSON + GIFs served straight from GitHub through the jsDelivr CDN.
           No keys, no hard limits, no servers. Paste the URL and consume.
         </p>
         <div class="cta-row">
-          <a class="btn btn-primary" href="#playground" data-i18n="hero.cta1">Try it live →</a>
+          <a class="btn btn-primary" href="#playground" data-i18n="hero.cta1">Start Training →</a>
           <a class="btn btn-secondary" href="#docs" data-i18n="hero.cta2">Read the docs</a>
         </div>
       </div>
-      <div class="hero-sticker" data-i18n="hero.sticker">
-        100%<br/>free<br/>forever
+      <div class="hero-sticker">
+        <span class="label-top" data-i18n="hero.sticker.top">Player</span>
+        <strong>01</strong>
+        <span data-i18n="hero.sticker.bottom">Free Forever</span>
       </div>
     </div>
 
-    <div class="stats" style="margin-top:30px">
+    <div class="stats" style="margin-top:20px">
       <div class="stat"><strong id="stat-exercises">1323</strong><span data-i18n="stats.exercises">Exercises</span></div>
       <div class="stat"><strong id="stat-muscles">19</strong><span data-i18n="stats.muscles">Muscles</span></div>
       <div class="stat"><strong id="stat-equipment">11</strong><span data-i18n="stats.equipment">Equipment</span></div>
@@ -81,38 +83,44 @@
   <div class="container">
     <div class="section-head">
       <div>
-        <span class="section-num">01 / <span data-i18n="features.label">Why</span></span>
-        <h2 class="section-title" data-i18n="features.title">Why use it?</h2>
+        <span class="section-num">› <span data-i18n="features.label">Round 01 / Why</span></span>
+        <h2 class="section-title" data-i18n="features.title">No excuses</h2>
       </div>
       <p class="section-sub" data-i18n="features.sub">Six reasons that make this the laziest API integration of your week.</p>
     </div>
     <div class="grid-features">
       <article class="feature-card">
+        <span class="num">01</span>
         <div class="icon">⚡</div>
         <h3 data-i18n="features.fast.title">Fast</h3>
         <p data-i18n="features.fast.text">Served by jsDelivr's global CDN. Aggressive caching at every PoP.</p>
       </article>
       <article class="feature-card">
+        <span class="num">02</span>
         <div class="icon">🆓</div>
         <h3 data-i18n="features.free.title">Free</h3>
         <p data-i18n="features.free.text">No API keys, no billing, no quotas. Zero friction.</p>
       </article>
       <article class="feature-card">
+        <span class="num">03</span>
         <div class="icon">📦</div>
         <h3 data-i18n="features.static.title">Static</h3>
         <p data-i18n="features.static.text">Just JSON files + GIFs. Works from any client.</p>
       </article>
       <article class="feature-card">
+        <span class="num">04</span>
         <div class="icon">🌍</div>
         <h3 data-i18n="features.bilingual.title">Bilingual</h3>
         <p data-i18n="features.bilingual.text">Each exercise comes with structured names and instructions in English and Spanish.</p>
       </article>
       <article class="feature-card">
+        <span class="num">05</span>
         <div class="icon">🎯</div>
         <h3 data-i18n="features.filter.title">Filterable</h3>
         <p data-i18n="features.filter.text">Endpoints by muscle, equipment, category and body part.</p>
       </article>
       <article class="feature-card">
+        <span class="num">06</span>
         <div class="icon">🔓</div>
         <h3 data-i18n="features.oss.title">Open source</h3>
         <p data-i18n="features.oss.text">Code and data on GitHub. Forkable and pinnable to a tag.</p>
@@ -126,15 +134,15 @@
   <div class="container">
     <div class="section-head">
       <div>
-        <span class="section-num">02 / <span data-i18n="docs.label">Docs</span></span>
-        <h2 class="section-title" data-i18n="docs.title">Documentation</h2>
+        <span class="section-num">› <span data-i18n="docs.label">Round 02 / Playbook</span></span>
+        <h2 class="section-title" data-i18n="docs.title">Playbook</h2>
       </div>
       <p class="section-sub" data-i18n="docs.sub">Everything you need to start consuming the API in less than a minute.</p>
     </div>
 
     <div class="docs-grid">
       <aside class="docs-side">
-        <h4 data-i18n="docs.side.title">Get started</h4>
+        <h4 data-i18n="docs.side.title">Warm up</h4>
         <ul>
           <li><a href="#base-url" data-i18n="docs.side.base">Base URL</a></li>
           <li><a href="#endpoints" data-i18n="docs.side.endpoints">Endpoints</a></li>
@@ -189,9 +197,9 @@
 
         <h3 data-i18n="docs.enums.title">Allowed values</h3>
         <ul class="enum-list">
-          <li><strong>bodyPart</strong>: arms · legs · chest · back · core · shoulders · cardio</li>
-          <li><strong>equipment</strong>: barbell · dumbbell · cable · machine · bodyweight · band · kettlebell · smith · ez-bar · lever · other</li>
-          <li><strong>category</strong>: strength · stretching · cardio · plyometrics</li>
+          <li><strong>bodyPart</strong> arms · legs · chest · back · core · shoulders · cardio</li>
+          <li><strong>equipment</strong> barbell · dumbbell · cable · machine · bodyweight · band · kettlebell · smith · ez-bar · lever · other</li>
+          <li><strong>category</strong> strength · stretching · cardio · plyometrics</li>
         </ul>
 
         <h3 id="example-fetch" data-i18n="docs.example.title">Usage example</h3>
@@ -216,7 +224,7 @@ document.body.innerHTML = `&lt;img src="${ex.gifUrl}" alt="${ex.name}" /&gt;`;</
   <div class="container">
     <div class="section-head">
       <div>
-        <span class="section-num">03 / <span data-i18n="play.label">Try</span></span>
+        <span class="section-num">› <span data-i18n="play.label">Round 03 / Live training</span></span>
         <h2 class="section-title" data-i18n="play.title">Playground</h2>
       </div>
       <p class="section-sub" data-i18n="play.subtitle">Build a request and see the live response.</p>
@@ -276,7 +284,7 @@ document.body.innerHTML = `&lt;img src="${ex.gifUrl}" alt="${ex.name}" /&gt;`;</
     </div>
 
     <div class="play-url">
-      <span data-i18n="play.url">URL:</span>
+      <span data-i18n="play.url">URL</span>
       <code id="url-preview">…</code>
       <button class="btn-mini" id="btn-copy" data-i18n="play.copy">Copy</button>
       <a class="btn-mini" id="btn-open" target="_blank" rel="noopener" data-i18n="play.open">Open ↗</a>
@@ -294,8 +302,8 @@ document.body.innerHTML = `&lt;img src="${ex.gifUrl}" alt="${ex.name}" /&gt;`;</
   <div class="container">
     <div class="section-head">
       <div>
-        <span class="section-num">04 / <span data-i18n="gallery.label">See</span></span>
-        <h2 class="section-title" data-i18n="gallery.title">Live gallery</h2>
+        <span class="section-num">› <span data-i18n="gallery.label">Round 04 / Highlights</span></span>
+        <h2 class="section-title" data-i18n="gallery.title">Highlights</h2>
       </div>
       <p class="section-sub" data-i18n="gallery.subtitle">A random sample served straight from the API.</p>
     </div>
@@ -305,7 +313,7 @@ document.body.innerHTML = `&lt;img src="${ex.gifUrl}" alt="${ex.name}" /&gt;`;</
         <option value="es">Español</option>
       </select>
       <select id="gallery-muscle"></select>
-      <button class="btn btn-secondary" id="btn-shuffle" data-i18n="gallery.shuffle">↻ Shuffle</button>
+      <button class="btn btn-primary" id="btn-shuffle" data-i18n="gallery.shuffle">↻ Shuffle</button>
     </div>
     <div class="gallery-grid" id="gallery-grid"></div>
   </div>
@@ -325,6 +333,6 @@ document.body.innerHTML = `&lt;img src="${ex.gifUrl}" alt="${ex.name}" /&gt;`;</
   </div>
 </footer>
 
-<script src="app.js?v=2"></script>
+<script src="app.js?v=3"></script>
 </body>
 </html>
