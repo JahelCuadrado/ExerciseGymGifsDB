@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta name="description" content="API estática y gratuita con más de 1300 GIFs de ejercicios de gimnasio. Sin backend, sin claves, lista para tu app." />
-<title>Exercise Gym GIFs DB · API estática de ejercicios</title>
+<meta name="description" data-i18n="meta.description" content="Free static API with 1300+ gym exercise GIFs. No backend, no API keys, ready for your app." />
+<title data-i18n="meta.title">Exercise Gym GIFs DB · Static exercise API</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🏋️%3C/text%3E%3C/svg%3E" />
 <link rel="preconnect" href="https://cdn.jsdelivr.net" />
 <link rel="stylesheet" href="styles.css" />
@@ -19,11 +19,14 @@
       <span>Exercise GIFs DB</span>
     </a>
     <nav class="nav-links">
-      <a href="#features">Features</a>
-      <a href="#docs">Docs</a>
-      <a href="#playground">Playground</a>
-      <a href="#gallery">Galería</a>
+      <a href="#features" data-i18n="nav.features">Features</a>
+      <a href="#docs" data-i18n="nav.docs">Docs</a>
+      <a href="#playground" data-i18n="nav.playground">Playground</a>
+      <a href="#gallery" data-i18n="nav.gallery">Gallery</a>
       <a class="btn-ghost" href="https://github.com/JahelCuadrado/ExerciseGymGifsDB" target="_blank" rel="noopener">GitHub ↗</a>
+      <button id="ui-lang-toggle" class="lang-toggle" type="button" title="Switch language" aria-label="Switch language">
+        <span data-ui-lang="en" class="active">EN</span><span class="sep">/</span><span data-ui-lang="es">ES</span>
+      </button>
     </nav>
   </div>
 </header>
@@ -32,24 +35,24 @@
 <section class="hero" id="top">
   <div class="hero-bg" aria-hidden="true"></div>
   <div class="container hero-inner">
-    <span class="badge">API estática · Gratis · Sin backend</span>
-    <h1>
-      Más de <span class="grad">1300 ejercicios</span><br/>
-      en una API que no tienes que mantener
+    <span class="badge" data-i18n="hero.badge">Static API · Free · No backend</span>
+    <h1 data-i18n-html="hero.title">
+      More than <span class="grad">1300 exercises</span><br/>
+      in an API you don't have to maintain
     </h1>
-    <p class="lead">
-      JSON + GIFs servidos directamente desde GitHub a través del CDN de jsDelivr.
-      Sin claves, sin límites duros, sin servidores. Pega la URL y consume.
+    <p class="lead" data-i18n="hero.lead">
+      JSON + GIFs served straight from GitHub through the jsDelivr CDN.
+      No keys, no hard limits, no servers. Paste the URL and consume.
     </p>
     <div class="cta-row">
-      <a class="btn btn-primary" href="#playground">Probar en vivo</a>
-      <a class="btn btn-secondary" href="#docs">Ver documentación</a>
+      <a class="btn btn-primary" href="#playground" data-i18n="hero.cta1">Try it live</a>
+      <a class="btn btn-secondary" href="#docs" data-i18n="hero.cta2">Read the docs</a>
     </div>
     <div class="stats">
-      <div class="stat"><strong id="stat-exercises">1323</strong><span>Ejercicios</span></div>
-      <div class="stat"><strong id="stat-muscles">19</strong><span>Grupos musculares</span></div>
-      <div class="stat"><strong id="stat-equipment">11</strong><span>Equipamientos</span></div>
-      <div class="stat"><strong id="stat-categories">4</strong><span>Categorías</span></div>
+      <div class="stat"><strong id="stat-exercises">1323</strong><span data-i18n="stats.exercises">Exercises</span></div>
+      <div class="stat"><strong id="stat-muscles">19</strong><span data-i18n="stats.muscles">Muscle groups</span></div>
+      <div class="stat"><strong id="stat-equipment">11</strong><span data-i18n="stats.equipment">Equipment</span></div>
+      <div class="stat"><strong id="stat-categories">4</strong><span data-i18n="stats.categories">Categories</span></div>
     </div>
   </div>
 </section>
@@ -57,37 +60,37 @@
 <!-- ============================ FEATURES ============================ -->
 <section class="features" id="features">
   <div class="container">
-    <h2 class="section-title">¿Por qué usarla?</h2>
+    <h2 class="section-title" data-i18n="features.title">Why use it?</h2>
     <div class="grid-features">
       <article class="feature-card">
         <div class="icon">⚡</div>
-        <h3>Rápida</h3>
-        <p>Servida por jsDelivr con CDN global. Caché agresiva en cada PoP.</p>
+        <h3 data-i18n="features.fast.title">Fast</h3>
+        <p data-i18n="features.fast.text">Served by jsDelivr's global CDN. Aggressive caching at every PoP.</p>
       </article>
       <article class="feature-card">
         <div class="icon">🆓</div>
-        <h3>Gratis</h3>
-        <p>Sin claves de API, sin facturación, sin cuotas. Cero fricción.</p>
+        <h3 data-i18n="features.free.title">Free</h3>
+        <p data-i18n="features.free.text">No API keys, no billing, no quotas. Zero friction.</p>
       </article>
       <article class="feature-card">
         <div class="icon">📦</div>
-        <h3>Estática</h3>
-        <p>Solo archivos JSON + GIFs. Funciona desde cualquier cliente.</p>
+        <h3 data-i18n="features.static.title">Static</h3>
+        <p data-i18n="features.static.text">Just JSON files + GIFs. Works from any client.</p>
       </article>
       <article class="feature-card">
-        <div class="icon">🇪🇸</div>
-        <h3>Bilingüe</h3>
-        <p>Cada ejercicio incluye nombre en inglés y español estructurado.</p>
+        <div class="icon">🌍</div>
+        <h3 data-i18n="features.bilingual.title">Bilingual</h3>
+        <p data-i18n="features.bilingual.text">Each exercise comes with structured names and instructions in English and Spanish.</p>
       </article>
       <article class="feature-card">
         <div class="icon">🎯</div>
-        <h3>Filtrable</h3>
-        <p>Endpoints por músculo, equipamiento, categoría y parte del cuerpo.</p>
+        <h3 data-i18n="features.filter.title">Filterable</h3>
+        <p data-i18n="features.filter.text">Endpoints by muscle, equipment, category and body part.</p>
       </article>
       <article class="feature-card">
         <div class="icon">🔓</div>
-        <h3>Open source</h3>
-        <p>Código y datos en GitHub. Forkeable y versionable con tags.</p>
+        <h3 data-i18n="features.oss.title">Open source</h3>
+        <p data-i18n="features.oss.text">Code and data on GitHub. Forkable and pinnable to a tag.</p>
       </article>
     </div>
   </div>
@@ -96,82 +99,82 @@
 <!-- ============================ DOCS ============================ -->
 <section class="docs" id="docs">
   <div class="container">
-    <h2 class="section-title">Documentación</h2>
+    <h2 class="section-title" data-i18n="docs.title">Documentation</h2>
 
     <div class="docs-grid">
       <aside class="docs-side">
-        <h4>Empezar</h4>
+        <h4 data-i18n="docs.side.title">Get started</h4>
         <ul>
-          <li><a href="#base-url">Base URL</a></li>
-          <li><a href="#endpoints">Endpoints</a></li>
-          <li><a href="#schema">Esquema</a></li>
-          <li><a href="#example-fetch">Ejemplo fetch</a></li>
+          <li><a href="#base-url" data-i18n="docs.side.base">Base URL</a></li>
+          <li><a href="#endpoints" data-i18n="docs.side.endpoints">Endpoints</a></li>
+          <li><a href="#schema" data-i18n="docs.side.schema">Schema</a></li>
+          <li><a href="#example-fetch" data-i18n="docs.side.example">Fetch example</a></li>
         </ul>
       </aside>
 
       <div class="docs-main">
 
-        <h3 id="base-url">Base URL</h3>
-        <p>Todo lo demás cuelga de aquí:</p>
+        <h3 id="base-url" data-i18n="docs.base.title">Base URL</h3>
+        <p data-i18n="docs.base.text">Everything else hangs off this:</p>
 <pre><code>https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main</code></pre>
-        <p class="muted">Cambia <code>@main</code> por <code>@v1.0.0</code> (u otro tag) cuando quieras congelar la versión.</p>
+        <p class="muted" data-i18n-html="docs.base.note">Replace <code>@main</code> with <code>@v1.0.0</code> (or any other tag) to pin a version.</p>
 
-        <h3 id="endpoints">Endpoints</h3>
-        <p>La API tiene una versión por idioma. Sustituye <code>{lang}</code> por <code>en</code> o <code>es</code>.</p>
+        <h3 id="endpoints" data-i18n="docs.endpoints.title">Endpoints</h3>
+        <p data-i18n-html="docs.endpoints.text">The API has one version per language. Replace <code>{lang}</code> with <code>en</code> or <code>es</code>.</p>
         <div class="endpoints">
-          <div class="endpoint"><span class="method">GET</span><code>/api/index.json</code><p>Metadata global e idiomas disponibles.</p></div>
-          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/index.json</code><p>Metadata del idioma seleccionado.</p></div>
-          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/muscles.json</code><p>Lista de grupos musculares.</p></div>
-          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/muscles/{muscle}.json</code><p>Ejercicios de un grupo.</p></div>
-          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/equipment.json</code><p>Lista de equipamientos.</p></div>
-          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/equipment/{equipment}.json</code><p>Ejercicios por equipamiento.</p></div>
-          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/bodyparts.json</code><p>Lista de partes del cuerpo.</p></div>
-          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/bodyparts/{bodyPart}.json</code><p>Ejercicios por parte del cuerpo.</p></div>
-          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/categories.json</code><p>Lista de categorías.</p></div>
-          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/categories/{category}.json</code><p>Ejercicios por categoría.</p></div>
-          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/exercises.json</code><p>Todos los ejercicios.</p></div>
-          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/exercises/{muscle}/{slug}.json</code><p>Detalle individual.</p></div>
-          <div class="endpoint"><span class="method">GET</span><code>/{muscle}/{slug}.gif</code><p>El GIF original (compartido entre idiomas).</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/index.json</code><p data-i18n="docs.ep.global">Global metadata and available languages.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/index.json</code><p data-i18n="docs.ep.langIndex">Metadata for the selected language.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/muscles.json</code><p data-i18n="docs.ep.muscles">List of muscle groups.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/muscles/{muscle}.json</code><p data-i18n="docs.ep.muscleDetail">Exercises for a muscle group.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/equipment.json</code><p data-i18n="docs.ep.equipment">List of equipment.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/equipment/{equipment}.json</code><p data-i18n="docs.ep.equipmentDetail">Exercises by equipment.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/bodyparts.json</code><p data-i18n="docs.ep.bodyparts">List of body parts.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/bodyparts/{bodyPart}.json</code><p data-i18n="docs.ep.bodypartDetail">Exercises by body part.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/categories.json</code><p data-i18n="docs.ep.categories">List of categories.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/categories/{category}.json</code><p data-i18n="docs.ep.categoryDetail">Exercises by category.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/exercises.json</code><p data-i18n="docs.ep.exercises">All exercises.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/api/{lang}/exercises/{muscle}/{slug}.json</code><p data-i18n="docs.ep.exerciseDetail">Single exercise detail.</p></div>
+          <div class="endpoint"><span class="method">GET</span><code>/{muscle}/{slug}.gif</code><p data-i18n="docs.ep.gif">The original GIF (shared between languages).</p></div>
         </div>
 
-        <h3 id="schema">Esquema de un ejercicio</h3>
-        <p>El esquema es el mismo en todos los idiomas; lo que cambia es el contenido de <code>name</code> e <code>instructions</code>.</p>
+        <h3 id="schema" data-i18n="docs.schema.title">Exercise schema</h3>
+        <p data-i18n-html="docs.schema.text">The schema is identical across languages; only <code>name</code> and <code>instructions</code> change.</p>
 <pre><code class="lang-json">{
   "id": "biceps/barbell-curl",
   "slug": "barbell-curl",
-  "name": "Curl con barra",
+  "name": "Barbell Curl",
   "muscle": "biceps",
   "bodyPart": "arms",
   "equipment": "barbell",
   "category": "strength",
   "secondaryMuscles": ["forearms"],
   "instructions": [
-    "Carga el peso adecuado en la barra y adopta la postura inicial.",
-    "Activa el biceps antes de iniciar el movimiento.",
+    "Load the barbell with an appropriate weight and set up.",
+    "Engage the biceps before initiating the movement.",
     "..."
   ],
   "file": "biceps/barbell-curl.gif",
   "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-curl.gif"
 }</code></pre>
 
-        <h3>Valores admitidos</h3>
+        <h3 data-i18n="docs.enums.title">Allowed values</h3>
         <ul class="enum-list">
           <li><strong>bodyPart</strong>: arms · legs · chest · back · core · shoulders · cardio</li>
           <li><strong>equipment</strong>: barbell · dumbbell · cable · machine · bodyweight · band · kettlebell · smith · ez-bar · lever · other</li>
           <li><strong>category</strong>: strength · stretching · cardio · plyometrics</li>
         </ul>
 
-        <h3 id="example-fetch">Ejemplo de uso</h3>
+        <h3 id="example-fetch" data-i18n="docs.example.title">Usage example</h3>
 <pre><code class="lang-js">const BASE = "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main";
-const LANG = "es"; // o "en"
+const LANG = "en"; // or "es"
 
-// Lista de ejercicios de bíceps en el idioma elegido
+// Biceps exercises in the chosen language
 const data = await fetch(`${BASE}/api/${LANG}/muscles/biceps.json`).then(r =&gt; r.json());
 
-// Mostrar el primero
+// Show the first one
 const ex = data.exercises[0];
-console.log(ex.name);             // "Curl con barra"
-console.log(ex.instructions[0]);  // "Carga el peso adecuado..."
+console.log(ex.name);             // "Barbell Curl"
+console.log(ex.instructions[0]);  // "Load the barbell..."
 document.body.innerHTML = `&lt;img src="${ex.gifUrl}" alt="${ex.name}" /&gt;`;</code></pre>
       </div>
     </div>
@@ -181,19 +184,19 @@ document.body.innerHTML = `&lt;img src="${ex.gifUrl}" alt="${ex.name}" /&gt;`;</
 <!-- ============================ PLAYGROUND ============================ -->
 <section class="playground" id="playground">
   <div class="container">
-    <h2 class="section-title">Playground</h2>
-    <p class="muted">Construye una petición y mira la respuesta en directo.</p>
+    <h2 class="section-title" data-i18n="play.title">Playground</h2>
+    <p class="muted" data-i18n="play.subtitle">Build a request and see the live response.</p>
 
     <div class="play-controls">
       <label>
-        Idioma
+        <span data-i18n="play.lang">Language</span>
         <select id="lang-select">
-          <option value="en">English</option>
-          <option value="es" selected>Español</option>
+          <option value="en" selected>English</option>
+          <option value="es">Español</option>
         </select>
       </label>
       <label>
-        Endpoint
+        <span data-i18n="play.endpoint">Endpoint</span>
         <select id="endpoint-select">
           <option value="globalIndex">/api/index.json</option>
           <option value="index">/api/{lang}/index.json</option>
@@ -210,42 +213,42 @@ document.body.innerHTML = `&lt;img src="${ex.gifUrl}" alt="${ex.name}" /&gt;`;</
       </label>
 
       <label id="param-muscle-wrap">
-        Muscle
+        <span data-i18n="play.muscle">Muscle</span>
         <select id="param-muscle"></select>
       </label>
 
       <label id="param-equipment-wrap" hidden>
-        Equipment
+        <span data-i18n="play.equipment">Equipment</span>
         <select id="param-equipment"></select>
       </label>
 
       <label id="param-bodypart-wrap" hidden>
-        Body part
+        <span data-i18n="play.bodypart">Body part</span>
         <select id="param-bodypart"></select>
       </label>
 
       <label id="param-category-wrap" hidden>
-        Category
+        <span data-i18n="play.category">Category</span>
         <select id="param-category"></select>
       </label>
 
       <label id="param-slug-wrap" hidden>
-        Slug
+        <span data-i18n="play.slug">Slug</span>
         <select id="param-slug"></select>
       </label>
 
-      <button class="btn btn-primary" id="btn-send">Enviar GET</button>
+      <button class="btn btn-primary" id="btn-send" data-i18n="play.send">Send GET</button>
     </div>
 
     <div class="play-url">
-      <span>URL:</span>
+      <span data-i18n="play.url">URL:</span>
       <code id="url-preview">…</code>
-      <button class="btn-mini" id="btn-copy">Copiar</button>
-      <a class="btn-mini" id="btn-open" target="_blank" rel="noopener">Abrir ↗</a>
+      <button class="btn-mini" id="btn-copy" data-i18n="play.copy">Copy</button>
+      <a class="btn-mini" id="btn-open" target="_blank" rel="noopener" data-i18n="play.open">Open ↗</a>
     </div>
 
     <div class="play-result">
-      <div class="result-meta" id="result-meta">Pulsa “Enviar GET” para ver la respuesta.</div>
+      <div class="result-meta" id="result-meta" data-i18n="play.hint">Press “Send GET” to see the response.</div>
       <pre><code id="result-body"></code></pre>
     </div>
   </div>
@@ -254,15 +257,15 @@ document.body.innerHTML = `&lt;img src="${ex.gifUrl}" alt="${ex.name}" /&gt;`;</
 <!-- ============================ GALLERY ============================ -->
 <section class="gallery" id="gallery">
   <div class="container">
-    <h2 class="section-title">Galería en vivo</h2>
-    <p class="muted">Una muestra aleatoria sirviéndose desde la API.</p>
+    <h2 class="section-title" data-i18n="gallery.title">Live gallery</h2>
+    <p class="muted" data-i18n="gallery.subtitle">A random sample served straight from the API.</p>
     <div class="gallery-controls">
       <select id="gallery-lang">
-        <option value="en">English</option>
-        <option value="es" selected>Español</option>
+        <option value="en" selected>English</option>
+        <option value="es">Español</option>
       </select>
       <select id="gallery-muscle"></select>
-      <button class="btn btn-secondary" id="btn-shuffle">Ver otros</button>
+      <button class="btn btn-secondary" id="btn-shuffle" data-i18n="gallery.shuffle">Shuffle</button>
     </div>
     <div class="gallery-grid" id="gallery-grid"></div>
   </div>
@@ -271,13 +274,13 @@ document.body.innerHTML = `&lt;img src="${ex.gifUrl}" alt="${ex.name}" /&gt;`;</
 <!-- ============================ FOOTER ============================ -->
 <footer class="site-footer">
   <div class="container footer-inner">
-    <p>
-      Hecho con ❤️ para apps de fitness ·
-      <a href="https://github.com/JahelCuadrado/ExerciseGymGifsDB" target="_blank" rel="noopener">Código en GitHub</a>
+    <p data-i18n-html="footer.line1">
+      Made with ❤️ for fitness apps ·
+      <a href="https://github.com/JahelCuadrado/ExerciseGymGifsDB" target="_blank" rel="noopener">Source on GitHub</a>
     </p>
-    <p class="muted small">
-      Los GIFs pertenecen a sus respectivos autores. Este proyecto solo
-      organiza y expone los archivos como API estática.
+    <p class="muted small" data-i18n="footer.line2">
+      GIFs belong to their respective authors. This project only organises and
+      exposes the files as a static API.
     </p>
   </div>
 </footer>

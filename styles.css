@@ -42,6 +42,16 @@ code{font-size:13.5px}
   border:1px solid #2a3142;padding:8px 14px;border-radius:10px;
 }
 .btn-ghost:hover{border-color:#3a4358;background:#141823}
+.lang-toggle{
+  display:inline-flex;align-items:center;gap:4px;
+  background:#0f1320;border:1px solid #2a3142;color:#aab4c5;
+  padding:6px 10px;border-radius:10px;font-size:12px;font-weight:600;
+  cursor:pointer;letter-spacing:0.5px;
+}
+.lang-toggle:hover{border-color:#3a4358;color:#fff}
+.lang-toggle .sep{opacity:.4}
+.lang-toggle [data-ui-lang]{opacity:.55;transition:opacity .15s}
+.lang-toggle [data-ui-lang].active{opacity:1;color:#fff}
 
 /* ====== Hero ====== */
 .hero{position:relative;overflow:hidden;padding:120px 0 90px}
