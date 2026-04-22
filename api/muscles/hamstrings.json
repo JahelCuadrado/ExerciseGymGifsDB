@@ -1,0 +1,230 @@
+{
+  "muscle": "hamstrings",
+  "count": 28,
+  "exercises": [
+    {
+      "id": "hamstrings/assisted-prone-hamstring",
+      "slug": "assisted-prone-hamstring",
+      "name": "Assisted Prone Hamstring",
+      "muscle": "hamstrings",
+      "file": "hamstrings/assisted-prone-hamstring.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/assisted-prone-hamstring.gif"
+    },
+    {
+      "id": "hamstrings/barbell-good-morning",
+      "slug": "barbell-good-morning",
+      "name": "Barbell Good Morning",
+      "muscle": "hamstrings",
+      "file": "hamstrings/barbell-good-morning.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/barbell-good-morning.gif"
+    },
+    {
+      "id": "hamstrings/barbell-straight-leg-deadlift",
+      "slug": "barbell-straight-leg-deadlift",
+      "name": "Barbell Straight Leg Deadlift",
+      "muscle": "hamstrings",
+      "file": "hamstrings/barbell-straight-leg-deadlift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/barbell-straight-leg-deadlift.gif"
+    },
+    {
+      "id": "hamstrings/cable-assisted-inverse-leg-curl",
+      "slug": "cable-assisted-inverse-leg-curl",
+      "name": "Cable Assisted Inverse Leg Curl",
+      "muscle": "hamstrings",
+      "file": "hamstrings/cable-assisted-inverse-leg-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/cable-assisted-inverse-leg-curl.gif"
+    },
+    {
+      "id": "hamstrings/dumbbell-lying-femoral",
+      "slug": "dumbbell-lying-femoral",
+      "name": "Dumbbell Lying Femoral",
+      "muscle": "hamstrings",
+      "file": "hamstrings/dumbbell-lying-femoral.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/dumbbell-lying-femoral.gif"
+    },
+    {
+      "id": "hamstrings/exercise-ball-seated-hamstring-stretch",
+      "slug": "exercise-ball-seated-hamstring-stretch",
+      "name": "Exercise Ball Seated Hamstring Stretch",
+      "muscle": "hamstrings",
+      "file": "hamstrings/exercise-ball-seated-hamstring-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/exercise-ball-seated-hamstring-stretch.gif"
+    },
+    {
+      "id": "hamstrings/glute-ham-raise",
+      "slug": "glute-ham-raise",
+      "name": "Glute Ham Raise",
+      "muscle": "hamstrings",
+      "file": "hamstrings/glute-ham-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/glute-ham-raise.gif"
+    },
+    {
+      "id": "hamstrings/hamstring-stretch",
+      "slug": "hamstring-stretch",
+      "name": "Hamstring Stretch",
+      "muscle": "hamstrings",
+      "file": "hamstrings/hamstring-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/hamstring-stretch.gif"
+    },
+    {
+      "id": "hamstrings/inverse-leg-curl-bench-support",
+      "slug": "inverse-leg-curl-bench-support",
+      "name": "Inverse Leg Curl Bench Support",
+      "muscle": "hamstrings",
+      "file": "hamstrings/inverse-leg-curl-bench-support.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/inverse-leg-curl-bench-support.gif"
+    },
+    {
+      "id": "hamstrings/inverse-leg-curl-on-pull-up-cable-machine",
+      "slug": "inverse-leg-curl-on-pull-up-cable-machine",
+      "name": "Inverse Leg Curl On Pull Up Cable Machine",
+      "muscle": "hamstrings",
+      "file": "hamstrings/inverse-leg-curl-on-pull-up-cable-machine.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/inverse-leg-curl-on-pull-up-cable-machine.gif"
+    },
+    {
+      "id": "hamstrings/kettlebell-hang-clean",
+      "slug": "kettlebell-hang-clean",
+      "name": "Kettlebell Hang Clean",
+      "muscle": "hamstrings",
+      "file": "hamstrings/kettlebell-hang-clean.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/kettlebell-hang-clean.gif"
+    },
+    {
+      "id": "hamstrings/kick-out-sit",
+      "slug": "kick-out-sit",
+      "name": "Kick Out Sit",
+      "muscle": "hamstrings",
+      "file": "hamstrings/kick-out-sit.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/kick-out-sit.gif"
+    },
+    {
+      "id": "hamstrings/leg-up-hamstring-stretch",
+      "slug": "leg-up-hamstring-stretch",
+      "name": "Leg Up Hamstring Stretch",
+      "muscle": "hamstrings",
+      "file": "hamstrings/leg-up-hamstring-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/leg-up-hamstring-stretch.gif"
+    },
+    {
+      "id": "hamstrings/lever-kneeling-leg-curl",
+      "slug": "lever-kneeling-leg-curl",
+      "name": "Lever Kneeling Leg Curl",
+      "muscle": "hamstrings",
+      "file": "hamstrings/lever-kneeling-leg-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/lever-kneeling-leg-curl.gif"
+    },
+    {
+      "id": "hamstrings/lever-lying-leg-curl",
+      "slug": "lever-lying-leg-curl",
+      "name": "Lever Lying Leg Curl",
+      "muscle": "hamstrings",
+      "file": "hamstrings/lever-lying-leg-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/lever-lying-leg-curl.gif"
+    },
+    {
+      "id": "hamstrings/lever-lying-two-one-leg-curl",
+      "slug": "lever-lying-two-one-leg-curl",
+      "name": "Lever Lying Two One Leg Curl",
+      "muscle": "hamstrings",
+      "file": "hamstrings/lever-lying-two-one-leg-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/lever-lying-two-one-leg-curl.gif"
+    },
+    {
+      "id": "hamstrings/lever-seated-leg-curl",
+      "slug": "lever-seated-leg-curl",
+      "name": "Lever Seated Leg Curl",
+      "muscle": "hamstrings",
+      "file": "hamstrings/lever-seated-leg-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/lever-seated-leg-curl.gif"
+    },
+    {
+      "id": "hamstrings/power-clean",
+      "slug": "power-clean",
+      "name": "Power Clean",
+      "muscle": "hamstrings",
+      "file": "hamstrings/power-clean.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/power-clean.gif"
+    },
+    {
+      "id": "hamstrings/reclining-big-toe-pose-with-rope",
+      "slug": "reclining-big-toe-pose-with-rope",
+      "name": "Reclining Big Toe Pose With Rope",
+      "muscle": "hamstrings",
+      "file": "hamstrings/reclining-big-toe-pose-with-rope.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/reclining-big-toe-pose-with-rope.gif"
+    },
+    {
+      "id": "hamstrings/runners-stretch",
+      "slug": "runners-stretch",
+      "name": "Runners Stretch",
+      "muscle": "hamstrings",
+      "file": "hamstrings/runners-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/runners-stretch.gif"
+    },
+    {
+      "id": "hamstrings/seated-wide-angle-pose-sequence",
+      "slug": "seated-wide-angle-pose-sequence",
+      "name": "Seated Wide Angle Pose Sequence",
+      "muscle": "hamstrings",
+      "file": "hamstrings/seated-wide-angle-pose-sequence.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/seated-wide-angle-pose-sequence.gif"
+    },
+    {
+      "id": "hamstrings/self-assisted-inverse-leg-curl-1766",
+      "slug": "self-assisted-inverse-leg-curl-1766",
+      "name": "Self Assisted Inverse Leg Curl 1766",
+      "muscle": "hamstrings",
+      "file": "hamstrings/self-assisted-inverse-leg-curl-1766.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/self-assisted-inverse-leg-curl-1766.gif"
+    },
+    {
+      "id": "hamstrings/self-assisted-inverse-leg-curl-on-floor",
+      "slug": "self-assisted-inverse-leg-curl-on-floor",
+      "name": "Self Assisted Inverse Leg Curl On Floor",
+      "muscle": "hamstrings",
+      "file": "hamstrings/self-assisted-inverse-leg-curl-on-floor.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/self-assisted-inverse-leg-curl-on-floor.gif"
+    },
+    {
+      "id": "hamstrings/self-assisted-inverse-leg-curl",
+      "slug": "self-assisted-inverse-leg-curl",
+      "name": "Self Assisted Inverse Leg Curl",
+      "muscle": "hamstrings",
+      "file": "hamstrings/self-assisted-inverse-leg-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/self-assisted-inverse-leg-curl.gif"
+    },
+    {
+      "id": "hamstrings/single-leg-platform-slide",
+      "slug": "single-leg-platform-slide",
+      "name": "Single Leg Platform Slide",
+      "muscle": "hamstrings",
+      "file": "hamstrings/single-leg-platform-slide.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/single-leg-platform-slide.gif"
+    },
+    {
+      "id": "hamstrings/standing-hamstring-and-calf-stretch-with-strap",
+      "slug": "standing-hamstring-and-calf-stretch-with-strap",
+      "name": "Standing Hamstring And Calf Stretch With Strap",
+      "muscle": "hamstrings",
+      "file": "hamstrings/standing-hamstring-and-calf-stretch-with-strap.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/standing-hamstring-and-calf-stretch-with-strap.gif"
+    },
+    {
+      "id": "hamstrings/standing-single-leg-curl",
+      "slug": "standing-single-leg-curl",
+      "name": "Standing Single Leg Curl",
+      "muscle": "hamstrings",
+      "file": "hamstrings/standing-single-leg-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/standing-single-leg-curl.gif"
+    },
+    {
+      "id": "hamstrings/world-greatest-stretch",
+      "slug": "world-greatest-stretch",
+      "name": "World Greatest Stretch",
+      "muscle": "hamstrings",
+      "file": "hamstrings/world-greatest-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/hamstrings/world-greatest-stretch.gif"
+    }
+  ]
+}

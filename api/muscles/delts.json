@@ -1,0 +1,1150 @@
+{
+  "muscle": "delts",
+  "count": 143,
+  "exercises": [
+    {
+      "id": "delts/band-front-lateral-raise",
+      "slug": "band-front-lateral-raise",
+      "name": "Band Front Lateral Raise",
+      "muscle": "delts",
+      "file": "delts/band-front-lateral-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/band-front-lateral-raise.gif"
+    },
+    {
+      "id": "delts/band-front-raise",
+      "slug": "band-front-raise",
+      "name": "Band Front Raise",
+      "muscle": "delts",
+      "file": "delts/band-front-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/band-front-raise.gif"
+    },
+    {
+      "id": "delts/band-reverse-fly",
+      "slug": "band-reverse-fly",
+      "name": "Band Reverse Fly",
+      "muscle": "delts",
+      "file": "delts/band-reverse-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/band-reverse-fly.gif"
+    },
+    {
+      "id": "delts/band-shoulder-press",
+      "slug": "band-shoulder-press",
+      "name": "Band Shoulder Press",
+      "muscle": "delts",
+      "file": "delts/band-shoulder-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/band-shoulder-press.gif"
+    },
+    {
+      "id": "delts/band-standing-rear-delt-row",
+      "slug": "band-standing-rear-delt-row",
+      "name": "Band Standing Rear Delt Row",
+      "muscle": "delts",
+      "file": "delts/band-standing-rear-delt-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/band-standing-rear-delt-row.gif"
+    },
+    {
+      "id": "delts/band-twisting-overhead-press",
+      "slug": "band-twisting-overhead-press",
+      "name": "Band Twisting Overhead Press",
+      "muscle": "delts",
+      "file": "delts/band-twisting-overhead-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/band-twisting-overhead-press.gif"
+    },
+    {
+      "id": "delts/band-y-raise",
+      "slug": "band-y-raise",
+      "name": "Band Y Raise",
+      "muscle": "delts",
+      "file": "delts/band-y-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/band-y-raise.gif"
+    },
+    {
+      "id": "delts/barbell-front-raise",
+      "slug": "barbell-front-raise",
+      "name": "Barbell Front Raise",
+      "muscle": "delts",
+      "file": "delts/barbell-front-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/barbell-front-raise.gif"
+    },
+    {
+      "id": "delts/barbell-one-arm-snatch",
+      "slug": "barbell-one-arm-snatch",
+      "name": "Barbell One Arm Snatch",
+      "muscle": "delts",
+      "file": "delts/barbell-one-arm-snatch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/barbell-one-arm-snatch.gif"
+    },
+    {
+      "id": "delts/barbell-rear-delt-raise",
+      "slug": "barbell-rear-delt-raise",
+      "name": "Barbell Rear Delt Raise",
+      "muscle": "delts",
+      "file": "delts/barbell-rear-delt-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/barbell-rear-delt-raise.gif"
+    },
+    {
+      "id": "delts/barbell-rear-delt-row",
+      "slug": "barbell-rear-delt-row",
+      "name": "Barbell Rear Delt Row",
+      "muscle": "delts",
+      "file": "delts/barbell-rear-delt-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/barbell-rear-delt-row.gif"
+    },
+    {
+      "id": "delts/barbell-seated-behind-head-military-press",
+      "slug": "barbell-seated-behind-head-military-press",
+      "name": "Barbell Seated Behind Head Military Press",
+      "muscle": "delts",
+      "file": "delts/barbell-seated-behind-head-military-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/barbell-seated-behind-head-military-press.gif"
+    },
+    {
+      "id": "delts/barbell-seated-bradford-rocky-press",
+      "slug": "barbell-seated-bradford-rocky-press",
+      "name": "Barbell Seated Bradford Rocky Press",
+      "muscle": "delts",
+      "file": "delts/barbell-seated-bradford-rocky-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/barbell-seated-bradford-rocky-press.gif"
+    },
+    {
+      "id": "delts/barbell-seated-overhead-press",
+      "slug": "barbell-seated-overhead-press",
+      "name": "Barbell Seated Overhead Press",
+      "muscle": "delts",
+      "file": "delts/barbell-seated-overhead-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/barbell-seated-overhead-press.gif"
+    },
+    {
+      "id": "delts/barbell-skier",
+      "slug": "barbell-skier",
+      "name": "Barbell Skier",
+      "muscle": "delts",
+      "file": "delts/barbell-skier.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/barbell-skier.gif"
+    },
+    {
+      "id": "delts/barbell-standing-bradford-press",
+      "slug": "barbell-standing-bradford-press",
+      "name": "Barbell Standing Bradford Press",
+      "muscle": "delts",
+      "file": "delts/barbell-standing-bradford-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/barbell-standing-bradford-press.gif"
+    },
+    {
+      "id": "delts/barbell-standing-close-grip-military-press",
+      "slug": "barbell-standing-close-grip-military-press",
+      "name": "Barbell Standing Close Grip Military Press",
+      "muscle": "delts",
+      "file": "delts/barbell-standing-close-grip-military-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/barbell-standing-close-grip-military-press.gif"
+    },
+    {
+      "id": "delts/barbell-standing-front-raise-over-head",
+      "slug": "barbell-standing-front-raise-over-head",
+      "name": "Barbell Standing Front Raise Over Head",
+      "muscle": "delts",
+      "file": "delts/barbell-standing-front-raise-over-head.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/barbell-standing-front-raise-over-head.gif"
+    },
+    {
+      "id": "delts/barbell-standing-wide-military-press",
+      "slug": "barbell-standing-wide-military-press",
+      "name": "Barbell Standing Wide Military Press",
+      "muscle": "delts",
+      "file": "delts/barbell-standing-wide-military-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/barbell-standing-wide-military-press.gif"
+    },
+    {
+      "id": "delts/barbell-thruster",
+      "slug": "barbell-thruster",
+      "name": "Barbell Thruster",
+      "muscle": "delts",
+      "file": "delts/barbell-thruster.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/barbell-thruster.gif"
+    },
+    {
+      "id": "delts/barbell-upright-row-v-2",
+      "slug": "barbell-upright-row-v-2",
+      "name": "Barbell Upright Row v2",
+      "muscle": "delts",
+      "file": "delts/barbell-upright-row-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/barbell-upright-row-v-2.gif"
+    },
+    {
+      "id": "delts/barbell-upright-row-v-3",
+      "slug": "barbell-upright-row-v-3",
+      "name": "Barbell Upright Row v3",
+      "muscle": "delts",
+      "file": "delts/barbell-upright-row-v-3.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/barbell-upright-row-v-3.gif"
+    },
+    {
+      "id": "delts/barbell-upright-row",
+      "slug": "barbell-upright-row",
+      "name": "Barbell Upright Row",
+      "muscle": "delts",
+      "file": "delts/barbell-upright-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/barbell-upright-row.gif"
+    },
+    {
+      "id": "delts/barbell-wide-grip-upright-row",
+      "slug": "barbell-wide-grip-upright-row",
+      "name": "Barbell Wide Grip Upright Row",
+      "muscle": "delts",
+      "file": "delts/barbell-wide-grip-upright-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/barbell-wide-grip-upright-row.gif"
+    },
+    {
+      "id": "delts/battling-ropes",
+      "slug": "battling-ropes",
+      "name": "Battling Ropes",
+      "muscle": "delts",
+      "file": "delts/battling-ropes.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/battling-ropes.gif"
+    },
+    {
+      "id": "delts/cable-alternate-shoulder-press",
+      "slug": "cable-alternate-shoulder-press",
+      "name": "Cable Alternate Shoulder Press",
+      "muscle": "delts",
+      "file": "delts/cable-alternate-shoulder-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/cable-alternate-shoulder-press.gif"
+    },
+    {
+      "id": "delts/cable-cross-over-revers-fly",
+      "slug": "cable-cross-over-revers-fly",
+      "name": "Cable Cross Over Revers Fly",
+      "muscle": "delts",
+      "file": "delts/cable-cross-over-revers-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/cable-cross-over-revers-fly.gif"
+    },
+    {
+      "id": "delts/cable-forward-raise",
+      "slug": "cable-forward-raise",
+      "name": "Cable Forward Raise",
+      "muscle": "delts",
+      "file": "delts/cable-forward-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/cable-forward-raise.gif"
+    },
+    {
+      "id": "delts/cable-front-raise",
+      "slug": "cable-front-raise",
+      "name": "Cable Front Raise",
+      "muscle": "delts",
+      "file": "delts/cable-front-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/cable-front-raise.gif"
+    },
+    {
+      "id": "delts/cable-front-shoulder-raise",
+      "slug": "cable-front-shoulder-raise",
+      "name": "Cable Front Shoulder Raise",
+      "muscle": "delts",
+      "file": "delts/cable-front-shoulder-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/cable-front-shoulder-raise.gif"
+    },
+    {
+      "id": "delts/cable-kneeling-rear-delt-row-with-rope-male",
+      "slug": "cable-kneeling-rear-delt-row-with-rope-male",
+      "name": "Cable Kneeling Rear Delt Row With Rope Male",
+      "muscle": "delts",
+      "file": "delts/cable-kneeling-rear-delt-row-with-rope-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/cable-kneeling-rear-delt-row-with-rope-male.gif"
+    },
+    {
+      "id": "delts/cable-lateral-raise",
+      "slug": "cable-lateral-raise",
+      "name": "Cable Lateral Raise",
+      "muscle": "delts",
+      "file": "delts/cable-lateral-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/cable-lateral-raise.gif"
+    },
+    {
+      "id": "delts/cable-one-arm-lateral-raise",
+      "slug": "cable-one-arm-lateral-raise",
+      "name": "Cable One Arm Lateral Raise",
+      "muscle": "delts",
+      "file": "delts/cable-one-arm-lateral-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/cable-one-arm-lateral-raise.gif"
+    },
+    {
+      "id": "delts/cable-rear-delt-row-stirrups",
+      "slug": "cable-rear-delt-row-stirrups",
+      "name": "Cable Rear Delt Row Stirrups",
+      "muscle": "delts",
+      "file": "delts/cable-rear-delt-row-stirrups.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/cable-rear-delt-row-stirrups.gif"
+    },
+    {
+      "id": "delts/cable-rear-delt-row-with-rope",
+      "slug": "cable-rear-delt-row-with-rope",
+      "name": "Cable Rear Delt Row With Rope",
+      "muscle": "delts",
+      "file": "delts/cable-rear-delt-row-with-rope.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/cable-rear-delt-row-with-rope.gif"
+    },
+    {
+      "id": "delts/cable-seated-rear-lateral-raise",
+      "slug": "cable-seated-rear-lateral-raise",
+      "name": "Cable Seated Rear Lateral Raise",
+      "muscle": "delts",
+      "file": "delts/cable-seated-rear-lateral-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/cable-seated-rear-lateral-raise.gif"
+    },
+    {
+      "id": "delts/cable-seated-shoulder-internal-rotation",
+      "slug": "cable-seated-shoulder-internal-rotation",
+      "name": "Cable Seated Shoulder Internal Rotation",
+      "muscle": "delts",
+      "file": "delts/cable-seated-shoulder-internal-rotation.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/cable-seated-shoulder-internal-rotation.gif"
+    },
+    {
+      "id": "delts/cable-shoulder-press",
+      "slug": "cable-shoulder-press",
+      "name": "Cable Shoulder Press",
+      "muscle": "delts",
+      "file": "delts/cable-shoulder-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/cable-shoulder-press.gif"
+    },
+    {
+      "id": "delts/cable-standing-cross-over-high-reverse-fly",
+      "slug": "cable-standing-cross-over-high-reverse-fly",
+      "name": "Cable Standing Cross Over High Reverse Fly",
+      "muscle": "delts",
+      "file": "delts/cable-standing-cross-over-high-reverse-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/cable-standing-cross-over-high-reverse-fly.gif"
+    },
+    {
+      "id": "delts/cable-standing-rear-delt-row-with-rope",
+      "slug": "cable-standing-rear-delt-row-with-rope",
+      "name": "Cable Standing Rear Delt Row With Rope",
+      "muscle": "delts",
+      "file": "delts/cable-standing-rear-delt-row-with-rope.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/cable-standing-rear-delt-row-with-rope.gif"
+    },
+    {
+      "id": "delts/cable-standing-shoulder-external-rotation",
+      "slug": "cable-standing-shoulder-external-rotation",
+      "name": "Cable Standing Shoulder External Rotation",
+      "muscle": "delts",
+      "file": "delts/cable-standing-shoulder-external-rotation.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/cable-standing-shoulder-external-rotation.gif"
+    },
+    {
+      "id": "delts/cable-supine-reverse-fly",
+      "slug": "cable-supine-reverse-fly",
+      "name": "Cable Supine Reverse Fly",
+      "muscle": "delts",
+      "file": "delts/cable-supine-reverse-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/cable-supine-reverse-fly.gif"
+    },
+    {
+      "id": "delts/cable-upright-row",
+      "slug": "cable-upright-row",
+      "name": "Cable Upright Row",
+      "muscle": "delts",
+      "file": "delts/cable-upright-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/cable-upright-row.gif"
+    },
+    {
+      "id": "delts/dumbbell-alternate-side-press",
+      "slug": "dumbbell-alternate-side-press",
+      "name": "Dumbbell Alternate Side Press",
+      "muscle": "delts",
+      "file": "delts/dumbbell-alternate-side-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-alternate-side-press.gif"
+    },
+    {
+      "id": "delts/dumbbell-arnold-press-v-2",
+      "slug": "dumbbell-arnold-press-v-2",
+      "name": "Dumbbell Arnold Press v2",
+      "muscle": "delts",
+      "file": "delts/dumbbell-arnold-press-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-arnold-press-v-2.gif"
+    },
+    {
+      "id": "delts/dumbbell-arnold-press",
+      "slug": "dumbbell-arnold-press",
+      "name": "Dumbbell Arnold Press",
+      "muscle": "delts",
+      "file": "delts/dumbbell-arnold-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-arnold-press.gif"
+    },
+    {
+      "id": "delts/dumbbell-bench-seated-press",
+      "slug": "dumbbell-bench-seated-press",
+      "name": "Dumbbell Bench Seated Press",
+      "muscle": "delts",
+      "file": "delts/dumbbell-bench-seated-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-bench-seated-press.gif"
+    },
+    {
+      "id": "delts/dumbbell-cuban-press-v-2",
+      "slug": "dumbbell-cuban-press-v-2",
+      "name": "Dumbbell Cuban Press v2",
+      "muscle": "delts",
+      "file": "delts/dumbbell-cuban-press-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-cuban-press-v-2.gif"
+    },
+    {
+      "id": "delts/dumbbell-cuban-press",
+      "slug": "dumbbell-cuban-press",
+      "name": "Dumbbell Cuban Press",
+      "muscle": "delts",
+      "file": "delts/dumbbell-cuban-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-cuban-press.gif"
+    },
+    {
+      "id": "delts/dumbbell-front-raise-v-2",
+      "slug": "dumbbell-front-raise-v-2",
+      "name": "Dumbbell Front Raise v2",
+      "muscle": "delts",
+      "file": "delts/dumbbell-front-raise-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-front-raise-v-2.gif"
+    },
+    {
+      "id": "delts/dumbbell-front-raise",
+      "slug": "dumbbell-front-raise",
+      "name": "Dumbbell Front Raise",
+      "muscle": "delts",
+      "file": "delts/dumbbell-front-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-front-raise.gif"
+    },
+    {
+      "id": "delts/dumbbell-full-can-lateral-raise",
+      "slug": "dumbbell-full-can-lateral-raise",
+      "name": "Dumbbell Full Can Lateral Raise",
+      "muscle": "delts",
+      "file": "delts/dumbbell-full-can-lateral-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-full-can-lateral-raise.gif"
+    },
+    {
+      "id": "delts/dumbbell-incline-one-arm-lateral-raise",
+      "slug": "dumbbell-incline-one-arm-lateral-raise",
+      "name": "Dumbbell Incline One Arm Lateral Raise",
+      "muscle": "delts",
+      "file": "delts/dumbbell-incline-one-arm-lateral-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-incline-one-arm-lateral-raise.gif"
+    },
+    {
+      "id": "delts/dumbbell-incline-raise",
+      "slug": "dumbbell-incline-raise",
+      "name": "Dumbbell Incline Raise",
+      "muscle": "delts",
+      "file": "delts/dumbbell-incline-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-incline-raise.gif"
+    },
+    {
+      "id": "delts/dumbbell-incline-rear-lateral-raise",
+      "slug": "dumbbell-incline-rear-lateral-raise",
+      "name": "Dumbbell Incline Rear Lateral Raise",
+      "muscle": "delts",
+      "file": "delts/dumbbell-incline-rear-lateral-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-incline-rear-lateral-raise.gif"
+    },
+    {
+      "id": "delts/dumbbell-incline-t-raise",
+      "slug": "dumbbell-incline-t-raise",
+      "name": "Dumbbell Incline T Raise",
+      "muscle": "delts",
+      "file": "delts/dumbbell-incline-t-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-incline-t-raise.gif"
+    },
+    {
+      "id": "delts/dumbbell-iron-cross",
+      "slug": "dumbbell-iron-cross",
+      "name": "Dumbbell Iron Cross",
+      "muscle": "delts",
+      "file": "delts/dumbbell-iron-cross.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-iron-cross.gif"
+    },
+    {
+      "id": "delts/dumbbell-lateral-raise",
+      "slug": "dumbbell-lateral-raise",
+      "name": "Dumbbell Lateral Raise",
+      "muscle": "delts",
+      "file": "delts/dumbbell-lateral-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-lateral-raise.gif"
+    },
+    {
+      "id": "delts/dumbbell-lateral-to-front-raise",
+      "slug": "dumbbell-lateral-to-front-raise",
+      "name": "Dumbbell Lateral To Front Raise",
+      "muscle": "delts",
+      "file": "delts/dumbbell-lateral-to-front-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-lateral-to-front-raise.gif"
+    },
+    {
+      "id": "delts/dumbbell-lying-external-shoulder-rotation",
+      "slug": "dumbbell-lying-external-shoulder-rotation",
+      "name": "Dumbbell Lying External Shoulder Rotation",
+      "muscle": "delts",
+      "file": "delts/dumbbell-lying-external-shoulder-rotation.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-lying-external-shoulder-rotation.gif"
+    },
+    {
+      "id": "delts/dumbbell-lying-on-floor-rear-delt-raise",
+      "slug": "dumbbell-lying-on-floor-rear-delt-raise",
+      "name": "Dumbbell Lying On Floor Rear Delt Raise",
+      "muscle": "delts",
+      "file": "delts/dumbbell-lying-on-floor-rear-delt-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-lying-on-floor-rear-delt-raise.gif"
+    },
+    {
+      "id": "delts/dumbbell-lying-one-arm-deltoid-rear",
+      "slug": "dumbbell-lying-one-arm-deltoid-rear",
+      "name": "Dumbbell Lying One Arm Deltoid Rear",
+      "muscle": "delts",
+      "file": "delts/dumbbell-lying-one-arm-deltoid-rear.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-lying-one-arm-deltoid-rear.gif"
+    },
+    {
+      "id": "delts/dumbbell-lying-one-arm-rear-lateral-raise",
+      "slug": "dumbbell-lying-one-arm-rear-lateral-raise",
+      "name": "Dumbbell Lying One Arm Rear Lateral Raise",
+      "muscle": "delts",
+      "file": "delts/dumbbell-lying-one-arm-rear-lateral-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-lying-one-arm-rear-lateral-raise.gif"
+    },
+    {
+      "id": "delts/dumbbell-lying-rear-lateral-raise",
+      "slug": "dumbbell-lying-rear-lateral-raise",
+      "name": "Dumbbell Lying Rear Lateral Raise",
+      "muscle": "delts",
+      "file": "delts/dumbbell-lying-rear-lateral-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-lying-rear-lateral-raise.gif"
+    },
+    {
+      "id": "delts/dumbbell-one-arm-lateral-raise-with-support",
+      "slug": "dumbbell-one-arm-lateral-raise-with-support",
+      "name": "Dumbbell One Arm Lateral Raise With Support",
+      "muscle": "delts",
+      "file": "delts/dumbbell-one-arm-lateral-raise-with-support.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-one-arm-lateral-raise-with-support.gif"
+    },
+    {
+      "id": "delts/dumbbell-one-arm-lateral-raise",
+      "slug": "dumbbell-one-arm-lateral-raise",
+      "name": "Dumbbell One Arm Lateral Raise",
+      "muscle": "delts",
+      "file": "delts/dumbbell-one-arm-lateral-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-one-arm-lateral-raise.gif"
+    },
+    {
+      "id": "delts/dumbbell-one-arm-reverse-fly-with-support",
+      "slug": "dumbbell-one-arm-reverse-fly-with-support",
+      "name": "Dumbbell One Arm Reverse Fly With Support",
+      "muscle": "delts",
+      "file": "delts/dumbbell-one-arm-reverse-fly-with-support.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-one-arm-reverse-fly-with-support.gif"
+    },
+    {
+      "id": "delts/dumbbell-one-arm-shoulder-press-v-2",
+      "slug": "dumbbell-one-arm-shoulder-press-v-2",
+      "name": "Dumbbell One Arm Shoulder Press v2",
+      "muscle": "delts",
+      "file": "delts/dumbbell-one-arm-shoulder-press-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-one-arm-shoulder-press-v-2.gif"
+    },
+    {
+      "id": "delts/dumbbell-one-arm-shoulder-press",
+      "slug": "dumbbell-one-arm-shoulder-press",
+      "name": "Dumbbell One Arm Shoulder Press",
+      "muscle": "delts",
+      "file": "delts/dumbbell-one-arm-shoulder-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-one-arm-shoulder-press.gif"
+    },
+    {
+      "id": "delts/dumbbell-one-arm-upright-row",
+      "slug": "dumbbell-one-arm-upright-row",
+      "name": "Dumbbell One Arm Upright Row",
+      "muscle": "delts",
+      "file": "delts/dumbbell-one-arm-upright-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-one-arm-upright-row.gif"
+    },
+    {
+      "id": "delts/dumbbell-push-press",
+      "slug": "dumbbell-push-press",
+      "name": "Dumbbell Push Press",
+      "muscle": "delts",
+      "file": "delts/dumbbell-push-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-push-press.gif"
+    },
+    {
+      "id": "delts/dumbbell-raise",
+      "slug": "dumbbell-raise",
+      "name": "Dumbbell Raise",
+      "muscle": "delts",
+      "file": "delts/dumbbell-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-raise.gif"
+    },
+    {
+      "id": "delts/dumbbell-rear-delt-raise",
+      "slug": "dumbbell-rear-delt-raise",
+      "name": "Dumbbell Rear Delt Raise",
+      "muscle": "delts",
+      "file": "delts/dumbbell-rear-delt-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-rear-delt-raise.gif"
+    },
+    {
+      "id": "delts/dumbbell-rear-delt-row-shoulder",
+      "slug": "dumbbell-rear-delt-row-shoulder",
+      "name": "Dumbbell Rear Delt Row Shoulder",
+      "muscle": "delts",
+      "file": "delts/dumbbell-rear-delt-row-shoulder.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-rear-delt-row-shoulder.gif"
+    },
+    {
+      "id": "delts/dumbbell-rear-fly",
+      "slug": "dumbbell-rear-fly",
+      "name": "Dumbbell Rear Fly",
+      "muscle": "delts",
+      "file": "delts/dumbbell-rear-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-rear-fly.gif"
+    },
+    {
+      "id": "delts/dumbbell-rear-lateral-raise-support-head",
+      "slug": "dumbbell-rear-lateral-raise-support-head",
+      "name": "Dumbbell Rear Lateral Raise Support Head",
+      "muscle": "delts",
+      "file": "delts/dumbbell-rear-lateral-raise-support-head.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-rear-lateral-raise-support-head.gif"
+    },
+    {
+      "id": "delts/dumbbell-rear-lateral-raise",
+      "slug": "dumbbell-rear-lateral-raise",
+      "name": "Dumbbell Rear Lateral Raise",
+      "muscle": "delts",
+      "file": "delts/dumbbell-rear-lateral-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-rear-lateral-raise.gif"
+    },
+    {
+      "id": "delts/dumbbell-reverse-fly",
+      "slug": "dumbbell-reverse-fly",
+      "name": "Dumbbell Reverse Fly",
+      "muscle": "delts",
+      "file": "delts/dumbbell-reverse-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-reverse-fly.gif"
+    },
+    {
+      "id": "delts/dumbbell-rotation-reverse-fly",
+      "slug": "dumbbell-rotation-reverse-fly",
+      "name": "Dumbbell Rotation Reverse Fly",
+      "muscle": "delts",
+      "file": "delts/dumbbell-rotation-reverse-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-rotation-reverse-fly.gif"
+    },
+    {
+      "id": "delts/dumbbell-scott-press",
+      "slug": "dumbbell-scott-press",
+      "name": "Dumbbell Scott Press",
+      "muscle": "delts",
+      "file": "delts/dumbbell-scott-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-scott-press.gif"
+    },
+    {
+      "id": "delts/dumbbell-seated-alternate-front-raise",
+      "slug": "dumbbell-seated-alternate-front-raise",
+      "name": "Dumbbell Seated Alternate Front Raise",
+      "muscle": "delts",
+      "file": "delts/dumbbell-seated-alternate-front-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-seated-alternate-front-raise.gif"
+    },
+    {
+      "id": "delts/dumbbell-seated-alternate-press",
+      "slug": "dumbbell-seated-alternate-press",
+      "name": "Dumbbell Seated Alternate Press",
+      "muscle": "delts",
+      "file": "delts/dumbbell-seated-alternate-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-seated-alternate-press.gif"
+    },
+    {
+      "id": "delts/dumbbell-seated-alternate-shoulder",
+      "slug": "dumbbell-seated-alternate-shoulder",
+      "name": "Dumbbell Seated Alternate Shoulder",
+      "muscle": "delts",
+      "file": "delts/dumbbell-seated-alternate-shoulder.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-seated-alternate-shoulder.gif"
+    },
+    {
+      "id": "delts/dumbbell-seated-bent-arm-lateral-raise",
+      "slug": "dumbbell-seated-bent-arm-lateral-raise",
+      "name": "Dumbbell Seated Bent Arm Lateral Raise",
+      "muscle": "delts",
+      "file": "delts/dumbbell-seated-bent-arm-lateral-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-seated-bent-arm-lateral-raise.gif"
+    },
+    {
+      "id": "delts/dumbbell-seated-front-raise",
+      "slug": "dumbbell-seated-front-raise",
+      "name": "Dumbbell Seated Front Raise",
+      "muscle": "delts",
+      "file": "delts/dumbbell-seated-front-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-seated-front-raise.gif"
+    },
+    {
+      "id": "delts/dumbbell-seated-lateral-raise-v-2",
+      "slug": "dumbbell-seated-lateral-raise-v-2",
+      "name": "Dumbbell Seated Lateral Raise v2",
+      "muscle": "delts",
+      "file": "delts/dumbbell-seated-lateral-raise-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-seated-lateral-raise-v-2.gif"
+    },
+    {
+      "id": "delts/dumbbell-seated-lateral-raise",
+      "slug": "dumbbell-seated-lateral-raise",
+      "name": "Dumbbell Seated Lateral Raise",
+      "muscle": "delts",
+      "file": "delts/dumbbell-seated-lateral-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-seated-lateral-raise.gif"
+    },
+    {
+      "id": "delts/dumbbell-seated-shoulder-press-parallel-grip",
+      "slug": "dumbbell-seated-shoulder-press-parallel-grip",
+      "name": "Dumbbell Seated Shoulder Press Parallel Grip",
+      "muscle": "delts",
+      "file": "delts/dumbbell-seated-shoulder-press-parallel-grip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-seated-shoulder-press-parallel-grip.gif"
+    },
+    {
+      "id": "delts/dumbbell-seated-shoulder-press",
+      "slug": "dumbbell-seated-shoulder-press",
+      "name": "Dumbbell Seated Shoulder Press",
+      "muscle": "delts",
+      "file": "delts/dumbbell-seated-shoulder-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-seated-shoulder-press.gif"
+    },
+    {
+      "id": "delts/dumbbell-side-lying-one-hand-raise",
+      "slug": "dumbbell-side-lying-one-hand-raise",
+      "name": "Dumbbell Side Lying One Hand Raise",
+      "muscle": "delts",
+      "file": "delts/dumbbell-side-lying-one-hand-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-side-lying-one-hand-raise.gif"
+    },
+    {
+      "id": "delts/dumbbell-single-arm-overhead-carry",
+      "slug": "dumbbell-single-arm-overhead-carry",
+      "name": "Dumbbell Single Arm Overhead Carry",
+      "muscle": "delts",
+      "file": "delts/dumbbell-single-arm-overhead-carry.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-single-arm-overhead-carry.gif"
+    },
+    {
+      "id": "delts/dumbbell-standing-alternate-overhead-press",
+      "slug": "dumbbell-standing-alternate-overhead-press",
+      "name": "Dumbbell Standing Alternate Overhead Press",
+      "muscle": "delts",
+      "file": "delts/dumbbell-standing-alternate-overhead-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-standing-alternate-overhead-press.gif"
+    },
+    {
+      "id": "delts/dumbbell-standing-alternate-raise",
+      "slug": "dumbbell-standing-alternate-raise",
+      "name": "Dumbbell Standing Alternate Raise",
+      "muscle": "delts",
+      "file": "delts/dumbbell-standing-alternate-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-standing-alternate-raise.gif"
+    },
+    {
+      "id": "delts/dumbbell-standing-around-world",
+      "slug": "dumbbell-standing-around-world",
+      "name": "Dumbbell Standing Around World",
+      "muscle": "delts",
+      "file": "delts/dumbbell-standing-around-world.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-standing-around-world.gif"
+    },
+    {
+      "id": "delts/dumbbell-standing-front-raise-above-head",
+      "slug": "dumbbell-standing-front-raise-above-head",
+      "name": "Dumbbell Standing Front Raise Above Head",
+      "muscle": "delts",
+      "file": "delts/dumbbell-standing-front-raise-above-head.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-standing-front-raise-above-head.gif"
+    },
+    {
+      "id": "delts/dumbbell-standing-one-arm-palm-in-press",
+      "slug": "dumbbell-standing-one-arm-palm-in-press",
+      "name": "Dumbbell Standing One Arm Palm In Press",
+      "muscle": "delts",
+      "file": "delts/dumbbell-standing-one-arm-palm-in-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-standing-one-arm-palm-in-press.gif"
+    },
+    {
+      "id": "delts/dumbbell-standing-overhead-press",
+      "slug": "dumbbell-standing-overhead-press",
+      "name": "Dumbbell Standing Overhead Press",
+      "muscle": "delts",
+      "file": "delts/dumbbell-standing-overhead-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-standing-overhead-press.gif"
+    },
+    {
+      "id": "delts/dumbbell-standing-palms-in-press",
+      "slug": "dumbbell-standing-palms-in-press",
+      "name": "Dumbbell Standing Palms In Press",
+      "muscle": "delts",
+      "file": "delts/dumbbell-standing-palms-in-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-standing-palms-in-press.gif"
+    },
+    {
+      "id": "delts/dumbbell-upright-row-back-pov",
+      "slug": "dumbbell-upright-row-back-pov",
+      "name": "Dumbbell Upright Row Back Pov",
+      "muscle": "delts",
+      "file": "delts/dumbbell-upright-row-back-pov.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-upright-row-back-pov.gif"
+    },
+    {
+      "id": "delts/dumbbell-upright-row",
+      "slug": "dumbbell-upright-row",
+      "name": "Dumbbell Upright Row",
+      "muscle": "delts",
+      "file": "delts/dumbbell-upright-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-upright-row.gif"
+    },
+    {
+      "id": "delts/dumbbell-upright-shoulder-external-rotation",
+      "slug": "dumbbell-upright-shoulder-external-rotation",
+      "name": "Dumbbell Upright Shoulder External Rotation",
+      "muscle": "delts",
+      "file": "delts/dumbbell-upright-shoulder-external-rotation.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-upright-shoulder-external-rotation.gif"
+    },
+    {
+      "id": "delts/dumbbell-w-press",
+      "slug": "dumbbell-w-press",
+      "name": "Dumbbell W Press",
+      "muscle": "delts",
+      "file": "delts/dumbbell-w-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/dumbbell-w-press.gif"
+    },
+    {
+      "id": "delts/ez-barbell-anti-gravity-press",
+      "slug": "ez-barbell-anti-gravity-press",
+      "name": "Ez Barbell Anti Gravity Press",
+      "muscle": "delts",
+      "file": "delts/ez-barbell-anti-gravity-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/ez-barbell-anti-gravity-press.gif"
+    },
+    {
+      "id": "delts/kettlebell-alternating-press",
+      "slug": "kettlebell-alternating-press",
+      "name": "Kettlebell Alternating Press",
+      "muscle": "delts",
+      "file": "delts/kettlebell-alternating-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/kettlebell-alternating-press.gif"
+    },
+    {
+      "id": "delts/kettlebell-arnold-press",
+      "slug": "kettlebell-arnold-press",
+      "name": "Kettlebell Arnold Press",
+      "muscle": "delts",
+      "file": "delts/kettlebell-arnold-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/kettlebell-arnold-press.gif"
+    },
+    {
+      "id": "delts/kettlebell-double-jerk",
+      "slug": "kettlebell-double-jerk",
+      "name": "Kettlebell Double Jerk",
+      "muscle": "delts",
+      "file": "delts/kettlebell-double-jerk.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/kettlebell-double-jerk.gif"
+    },
+    {
+      "id": "delts/kettlebell-double-push-press",
+      "slug": "kettlebell-double-push-press",
+      "name": "Kettlebell Double Push Press",
+      "muscle": "delts",
+      "file": "delts/kettlebell-double-push-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/kettlebell-double-push-press.gif"
+    },
+    {
+      "id": "delts/kettlebell-double-snatch",
+      "slug": "kettlebell-double-snatch",
+      "name": "Kettlebell Double Snatch",
+      "muscle": "delts",
+      "file": "delts/kettlebell-double-snatch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/kettlebell-double-snatch.gif"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-clean-and-jerk",
+      "slug": "kettlebell-one-arm-clean-and-jerk",
+      "name": "Kettlebell One Arm Clean And Jerk",
+      "muscle": "delts",
+      "file": "delts/kettlebell-one-arm-clean-and-jerk.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/kettlebell-one-arm-clean-and-jerk.gif"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-jerk",
+      "slug": "kettlebell-one-arm-jerk",
+      "name": "Kettlebell One Arm Jerk",
+      "muscle": "delts",
+      "file": "delts/kettlebell-one-arm-jerk.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/kettlebell-one-arm-jerk.gif"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-military-press-to-the-side",
+      "slug": "kettlebell-one-arm-military-press-to-the-side",
+      "name": "Kettlebell One Arm Military Press To The Side",
+      "muscle": "delts",
+      "file": "delts/kettlebell-one-arm-military-press-to-the-side.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/kettlebell-one-arm-military-press-to-the-side.gif"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-push-press",
+      "slug": "kettlebell-one-arm-push-press",
+      "name": "Kettlebell One Arm Push Press",
+      "muscle": "delts",
+      "file": "delts/kettlebell-one-arm-push-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/kettlebell-one-arm-push-press.gif"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-snatch",
+      "slug": "kettlebell-one-arm-snatch",
+      "name": "Kettlebell One Arm Snatch",
+      "muscle": "delts",
+      "file": "delts/kettlebell-one-arm-snatch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/kettlebell-one-arm-snatch.gif"
+    },
+    {
+      "id": "delts/kettlebell-pirate-supper-legs",
+      "slug": "kettlebell-pirate-supper-legs",
+      "name": "Kettlebell Pirate Supper Legs",
+      "muscle": "delts",
+      "file": "delts/kettlebell-pirate-supper-legs.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/kettlebell-pirate-supper-legs.gif"
+    },
+    {
+      "id": "delts/kettlebell-seated-press",
+      "slug": "kettlebell-seated-press",
+      "name": "Kettlebell Seated Press",
+      "muscle": "delts",
+      "file": "delts/kettlebell-seated-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/kettlebell-seated-press.gif"
+    },
+    {
+      "id": "delts/kettlebell-seated-two-arm-military-press",
+      "slug": "kettlebell-seated-two-arm-military-press",
+      "name": "Kettlebell Seated Two Arm Military Press",
+      "muscle": "delts",
+      "file": "delts/kettlebell-seated-two-arm-military-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/kettlebell-seated-two-arm-military-press.gif"
+    },
+    {
+      "id": "delts/kettlebell-seesaw-press",
+      "slug": "kettlebell-seesaw-press",
+      "name": "Kettlebell Seesaw Press",
+      "muscle": "delts",
+      "file": "delts/kettlebell-seesaw-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/kettlebell-seesaw-press.gif"
+    },
+    {
+      "id": "delts/kettlebell-thruster",
+      "slug": "kettlebell-thruster",
+      "name": "Kettlebell Thruster",
+      "muscle": "delts",
+      "file": "delts/kettlebell-thruster.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/kettlebell-thruster.gif"
+    },
+    {
+      "id": "delts/kettlebell-two-arm-clean",
+      "slug": "kettlebell-two-arm-clean",
+      "name": "Kettlebell Two Arm Clean",
+      "muscle": "delts",
+      "file": "delts/kettlebell-two-arm-clean.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/kettlebell-two-arm-clean.gif"
+    },
+    {
+      "id": "delts/kettlebell-two-arm-military-press",
+      "slug": "kettlebell-two-arm-military-press",
+      "name": "Kettlebell Two Arm Military Press",
+      "muscle": "delts",
+      "file": "delts/kettlebell-two-arm-military-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/kettlebell-two-arm-military-press.gif"
+    },
+    {
+      "id": "delts/landmine-lateral-raise",
+      "slug": "landmine-lateral-raise",
+      "name": "Landmine Lateral Raise",
+      "muscle": "delts",
+      "file": "delts/landmine-lateral-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/landmine-lateral-raise.gif"
+    },
+    {
+      "id": "delts/left-hook-boxing",
+      "slug": "left-hook-boxing",
+      "name": "Left Hook Boxing",
+      "muscle": "delts",
+      "file": "delts/left-hook-boxing.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/left-hook-boxing.gif"
+    },
+    {
+      "id": "delts/lever-lateral-raise",
+      "slug": "lever-lateral-raise",
+      "name": "Lever Lateral Raise",
+      "muscle": "delts",
+      "file": "delts/lever-lateral-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/lever-lateral-raise.gif"
+    },
+    {
+      "id": "delts/lever-military-press",
+      "slug": "lever-military-press",
+      "name": "Lever Military Press",
+      "muscle": "delts",
+      "file": "delts/lever-military-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/lever-military-press.gif"
+    },
+    {
+      "id": "delts/lever-one-arm-shoulder-press",
+      "slug": "lever-one-arm-shoulder-press",
+      "name": "Lever One Arm Shoulder Press",
+      "muscle": "delts",
+      "file": "delts/lever-one-arm-shoulder-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/lever-one-arm-shoulder-press.gif"
+    },
+    {
+      "id": "delts/lever-seated-reverse-fly-parallel-grip",
+      "slug": "lever-seated-reverse-fly-parallel-grip",
+      "name": "Lever Seated Reverse Fly Parallel Grip",
+      "muscle": "delts",
+      "file": "delts/lever-seated-reverse-fly-parallel-grip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/lever-seated-reverse-fly-parallel-grip.gif"
+    },
+    {
+      "id": "delts/lever-seated-reverse-fly",
+      "slug": "lever-seated-reverse-fly",
+      "name": "Lever Seated Reverse Fly",
+      "muscle": "delts",
+      "file": "delts/lever-seated-reverse-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/lever-seated-reverse-fly.gif"
+    },
+    {
+      "id": "delts/lever-shoulder-press-v-2",
+      "slug": "lever-shoulder-press-v-2",
+      "name": "Lever Shoulder Press v2",
+      "muscle": "delts",
+      "file": "delts/lever-shoulder-press-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/lever-shoulder-press-v-2.gif"
+    },
+    {
+      "id": "delts/lever-shoulder-press-v-3",
+      "slug": "lever-shoulder-press-v-3",
+      "name": "Lever Shoulder Press v3",
+      "muscle": "delts",
+      "file": "delts/lever-shoulder-press-v-3.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/lever-shoulder-press-v-3.gif"
+    },
+    {
+      "id": "delts/lever-shoulder-press",
+      "slug": "lever-shoulder-press",
+      "name": "Lever Shoulder Press",
+      "muscle": "delts",
+      "file": "delts/lever-shoulder-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/lever-shoulder-press.gif"
+    },
+    {
+      "id": "delts/rear-deltoid-stretch",
+      "slug": "rear-deltoid-stretch",
+      "name": "Rear Deltoid Stretch",
+      "muscle": "delts",
+      "file": "delts/rear-deltoid-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/rear-deltoid-stretch.gif"
+    },
+    {
+      "id": "delts/resistance-band-seated-shoulder-press",
+      "slug": "resistance-band-seated-shoulder-press",
+      "name": "Resistance Band Seated Shoulder Press",
+      "muscle": "delts",
+      "file": "delts/resistance-band-seated-shoulder-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/resistance-band-seated-shoulder-press.gif"
+    },
+    {
+      "id": "delts/smith-behind-neck-press",
+      "slug": "smith-behind-neck-press",
+      "name": "Smith Behind Neck Press",
+      "muscle": "delts",
+      "file": "delts/smith-behind-neck-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/smith-behind-neck-press.gif"
+    },
+    {
+      "id": "delts/smith-rear-delt-row",
+      "slug": "smith-rear-delt-row",
+      "name": "Smith Rear Delt Row",
+      "muscle": "delts",
+      "file": "delts/smith-rear-delt-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/smith-rear-delt-row.gif"
+    },
+    {
+      "id": "delts/smith-seated-shoulder-press",
+      "slug": "smith-seated-shoulder-press",
+      "name": "Smith Seated Shoulder Press",
+      "muscle": "delts",
+      "file": "delts/smith-seated-shoulder-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/smith-seated-shoulder-press.gif"
+    },
+    {
+      "id": "delts/smith-shoulder-press",
+      "slug": "smith-shoulder-press",
+      "name": "Smith Shoulder Press",
+      "muscle": "delts",
+      "file": "delts/smith-shoulder-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/smith-shoulder-press.gif"
+    },
+    {
+      "id": "delts/smith-standing-behind-head-military-press",
+      "slug": "smith-standing-behind-head-military-press",
+      "name": "Smith Standing Behind Head Military Press",
+      "muscle": "delts",
+      "file": "delts/smith-standing-behind-head-military-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/smith-standing-behind-head-military-press.gif"
+    },
+    {
+      "id": "delts/smith-standing-military-press",
+      "slug": "smith-standing-military-press",
+      "name": "Smith Standing Military Press",
+      "muscle": "delts",
+      "file": "delts/smith-standing-military-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/smith-standing-military-press.gif"
+    },
+    {
+      "id": "delts/smith-upright-row",
+      "slug": "smith-upright-row",
+      "name": "Smith Upright Row",
+      "muscle": "delts",
+      "file": "delts/smith-upright-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/smith-upright-row.gif"
+    },
+    {
+      "id": "delts/standing-behind-neck-press",
+      "slug": "standing-behind-neck-press",
+      "name": "Standing Behind Neck Press",
+      "muscle": "delts",
+      "file": "delts/standing-behind-neck-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/standing-behind-neck-press.gif"
+    },
+    {
+      "id": "delts/weighted-front-raise",
+      "slug": "weighted-front-raise",
+      "name": "Weighted Front Raise",
+      "muscle": "delts",
+      "file": "delts/weighted-front-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/weighted-front-raise.gif"
+    },
+    {
+      "id": "delts/weighted-kneeling-step-with-swing",
+      "slug": "weighted-kneeling-step-with-swing",
+      "name": "Weighted Kneeling Step With Swing",
+      "muscle": "delts",
+      "file": "delts/weighted-kneeling-step-with-swing.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/weighted-kneeling-step-with-swing.gif"
+    },
+    {
+      "id": "delts/weighted-round-arm",
+      "slug": "weighted-round-arm",
+      "name": "Weighted Round Arm",
+      "muscle": "delts",
+      "file": "delts/weighted-round-arm.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/delts/weighted-round-arm.gif"
+    }
+  ]
+}

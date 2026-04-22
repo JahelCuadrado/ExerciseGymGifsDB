@@ -1,0 +1,126 @@
+{
+  "muscle": "traps",
+  "count": 15,
+  "exercises": [
+    {
+      "id": "traps/band-shrug",
+      "slug": "band-shrug",
+      "name": "Band Shrug",
+      "muscle": "traps",
+      "file": "traps/band-shrug.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/traps/band-shrug.gif"
+    },
+    {
+      "id": "traps/barbell-shrug",
+      "slug": "barbell-shrug",
+      "name": "Barbell Shrug",
+      "muscle": "traps",
+      "file": "traps/barbell-shrug.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/traps/barbell-shrug.gif"
+    },
+    {
+      "id": "traps/cable-shrug",
+      "slug": "cable-shrug",
+      "name": "Cable Shrug",
+      "muscle": "traps",
+      "file": "traps/cable-shrug.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/traps/cable-shrug.gif"
+    },
+    {
+      "id": "traps/dumbbell-decline-shrug-v-2",
+      "slug": "dumbbell-decline-shrug-v-2",
+      "name": "Dumbbell Decline Shrug v2",
+      "muscle": "traps",
+      "file": "traps/dumbbell-decline-shrug-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/traps/dumbbell-decline-shrug-v-2.gif"
+    },
+    {
+      "id": "traps/dumbbell-decline-shrug",
+      "slug": "dumbbell-decline-shrug",
+      "name": "Dumbbell Decline Shrug",
+      "muscle": "traps",
+      "file": "traps/dumbbell-decline-shrug.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/traps/dumbbell-decline-shrug.gif"
+    },
+    {
+      "id": "traps/dumbbell-incline-shrug",
+      "slug": "dumbbell-incline-shrug",
+      "name": "Dumbbell Incline Shrug",
+      "muscle": "traps",
+      "file": "traps/dumbbell-incline-shrug.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/traps/dumbbell-incline-shrug.gif"
+    },
+    {
+      "id": "traps/dumbbell-shrug",
+      "slug": "dumbbell-shrug",
+      "name": "Dumbbell Shrug",
+      "muscle": "traps",
+      "file": "traps/dumbbell-shrug.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/traps/dumbbell-shrug.gif"
+    },
+    {
+      "id": "traps/kettlebell-sumo-high-pull",
+      "slug": "kettlebell-sumo-high-pull",
+      "name": "Kettlebell Sumo High Pull",
+      "muscle": "traps",
+      "file": "traps/kettlebell-sumo-high-pull.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/traps/kettlebell-sumo-high-pull.gif"
+    },
+    {
+      "id": "traps/lever-gripless-shrug-v-2",
+      "slug": "lever-gripless-shrug-v-2",
+      "name": "Lever Gripless Shrug v2",
+      "muscle": "traps",
+      "file": "traps/lever-gripless-shrug-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/traps/lever-gripless-shrug-v-2.gif"
+    },
+    {
+      "id": "traps/lever-gripless-shrug",
+      "slug": "lever-gripless-shrug",
+      "name": "Lever Gripless Shrug",
+      "muscle": "traps",
+      "file": "traps/lever-gripless-shrug.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/traps/lever-gripless-shrug.gif"
+    },
+    {
+      "id": "traps/lever-shrug",
+      "slug": "lever-shrug",
+      "name": "Lever Shrug",
+      "muscle": "traps",
+      "file": "traps/lever-shrug.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/traps/lever-shrug.gif"
+    },
+    {
+      "id": "traps/scapula-dips",
+      "slug": "scapula-dips",
+      "name": "Scapula Dips",
+      "muscle": "traps",
+      "file": "traps/scapula-dips.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/traps/scapula-dips.gif"
+    },
+    {
+      "id": "traps/scapular-pull-up",
+      "slug": "scapular-pull-up",
+      "name": "Scapular Pull Up",
+      "muscle": "traps",
+      "file": "traps/scapular-pull-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/traps/scapular-pull-up.gif"
+    },
+    {
+      "id": "traps/smith-back-shrug",
+      "slug": "smith-back-shrug",
+      "name": "Smith Back Shrug",
+      "muscle": "traps",
+      "file": "traps/smith-back-shrug.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/traps/smith-back-shrug.gif"
+    },
+    {
+      "id": "traps/smith-shrug",
+      "slug": "smith-shrug",
+      "name": "Smith Shrug",
+      "muscle": "traps",
+      "file": "traps/smith-shrug.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/traps/smith-shrug.gif"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "exercise-gif-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static JSON API generated from local exercise GIF folders.",
+  "scripts": {
+    "build": "node scripts/generate-api.js"
+  }
+}

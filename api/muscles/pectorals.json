@@ -1,0 +1,1270 @@
+{
+  "muscle": "pectorals",
+  "count": 158,
+  "exercises": [
+    {
+      "id": "pectorals/archer-push-up",
+      "slug": "archer-push-up",
+      "name": "Archer Push Up",
+      "muscle": "pectorals",
+      "file": "pectorals/archer-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/archer-push-up.gif"
+    },
+    {
+      "id": "pectorals/assisted-chest-dip-kneeling",
+      "slug": "assisted-chest-dip-kneeling",
+      "name": "Assisted Chest Dip Kneeling",
+      "muscle": "pectorals",
+      "file": "pectorals/assisted-chest-dip-kneeling.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/assisted-chest-dip-kneeling.gif"
+    },
+    {
+      "id": "pectorals/assisted-seated-pectoralis-major-stretch-with-stability-ball",
+      "slug": "assisted-seated-pectoralis-major-stretch-with-stability-ball",
+      "name": "Assisted Seated Pectoralis Major Stretch With Stability Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/assisted-seated-pectoralis-major-stretch-with-stability-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/assisted-seated-pectoralis-major-stretch-with-stability-ball.gif"
+    },
+    {
+      "id": "pectorals/assisted-wide-grip-chest-dip-kneeling",
+      "slug": "assisted-wide-grip-chest-dip-kneeling",
+      "name": "Assisted Wide Grip Chest Dip Kneeling",
+      "muscle": "pectorals",
+      "file": "pectorals/assisted-wide-grip-chest-dip-kneeling.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/assisted-wide-grip-chest-dip-kneeling.gif"
+    },
+    {
+      "id": "pectorals/band-bench-press",
+      "slug": "band-bench-press",
+      "name": "Band Bench Press",
+      "muscle": "pectorals",
+      "file": "pectorals/band-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/band-bench-press.gif"
+    },
+    {
+      "id": "pectorals/band-one-arm-twisting-chest-press",
+      "slug": "band-one-arm-twisting-chest-press",
+      "name": "Band One Arm Twisting Chest Press",
+      "muscle": "pectorals",
+      "file": "pectorals/band-one-arm-twisting-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/band-one-arm-twisting-chest-press.gif"
+    },
+    {
+      "id": "pectorals/barbell-bench-press",
+      "slug": "barbell-bench-press",
+      "name": "Barbell Bench Press",
+      "muscle": "pectorals",
+      "file": "pectorals/barbell-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/barbell-bench-press.gif"
+    },
+    {
+      "id": "pectorals/barbell-decline-bench-press",
+      "slug": "barbell-decline-bench-press",
+      "name": "Barbell Decline Bench Press",
+      "muscle": "pectorals",
+      "file": "pectorals/barbell-decline-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/barbell-decline-bench-press.gif"
+    },
+    {
+      "id": "pectorals/barbell-decline-pullover",
+      "slug": "barbell-decline-pullover",
+      "name": "Barbell Decline Pullover",
+      "muscle": "pectorals",
+      "file": "pectorals/barbell-decline-pullover.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/barbell-decline-pullover.gif"
+    },
+    {
+      "id": "pectorals/barbell-decline-wide-grip-press",
+      "slug": "barbell-decline-wide-grip-press",
+      "name": "Barbell Decline Wide Grip Press",
+      "muscle": "pectorals",
+      "file": "pectorals/barbell-decline-wide-grip-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/barbell-decline-wide-grip-press.gif"
+    },
+    {
+      "id": "pectorals/barbell-front-raise-and-pullover",
+      "slug": "barbell-front-raise-and-pullover",
+      "name": "Barbell Front Raise And Pullover",
+      "muscle": "pectorals",
+      "file": "pectorals/barbell-front-raise-and-pullover.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/barbell-front-raise-and-pullover.gif"
+    },
+    {
+      "id": "pectorals/barbell-guillotine-bench-press",
+      "slug": "barbell-guillotine-bench-press",
+      "name": "Barbell Guillotine Bench Press",
+      "muscle": "pectorals",
+      "file": "pectorals/barbell-guillotine-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/barbell-guillotine-bench-press.gif"
+    },
+    {
+      "id": "pectorals/barbell-incline-bench-press",
+      "slug": "barbell-incline-bench-press",
+      "name": "Barbell Incline Bench Press",
+      "muscle": "pectorals",
+      "file": "pectorals/barbell-incline-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/barbell-incline-bench-press.gif"
+    },
+    {
+      "id": "pectorals/barbell-reverse-grip-decline-bench-press",
+      "slug": "barbell-reverse-grip-decline-bench-press",
+      "name": "Barbell Reverse Grip Decline Bench Press",
+      "muscle": "pectorals",
+      "file": "pectorals/barbell-reverse-grip-decline-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/barbell-reverse-grip-decline-bench-press.gif"
+    },
+    {
+      "id": "pectorals/barbell-reverse-grip-incline-bench-press",
+      "slug": "barbell-reverse-grip-incline-bench-press",
+      "name": "Barbell Reverse Grip Incline Bench Press",
+      "muscle": "pectorals",
+      "file": "pectorals/barbell-reverse-grip-incline-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/barbell-reverse-grip-incline-bench-press.gif"
+    },
+    {
+      "id": "pectorals/barbell-wide-bench-press",
+      "slug": "barbell-wide-bench-press",
+      "name": "Barbell Wide Bench Press",
+      "muscle": "pectorals",
+      "file": "pectorals/barbell-wide-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/barbell-wide-bench-press.gif"
+    },
+    {
+      "id": "pectorals/barbell-wide-reverse-grip-bench-press",
+      "slug": "barbell-wide-reverse-grip-bench-press",
+      "name": "Barbell Wide Reverse Grip Bench Press",
+      "muscle": "pectorals",
+      "file": "pectorals/barbell-wide-reverse-grip-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/barbell-wide-reverse-grip-bench-press.gif"
+    },
+    {
+      "id": "pectorals/behind-head-chest-stretch",
+      "slug": "behind-head-chest-stretch",
+      "name": "Behind Head Chest Stretch",
+      "muscle": "pectorals",
+      "file": "pectorals/behind-head-chest-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/behind-head-chest-stretch.gif"
+    },
+    {
+      "id": "pectorals/cable-bench-press",
+      "slug": "cable-bench-press",
+      "name": "Cable Bench Press",
+      "muscle": "pectorals",
+      "file": "pectorals/cable-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/cable-bench-press.gif"
+    },
+    {
+      "id": "pectorals/cable-cross-over-variation",
+      "slug": "cable-cross-over-variation",
+      "name": "Cable Cross Over Variation",
+      "muscle": "pectorals",
+      "file": "pectorals/cable-cross-over-variation.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/cable-cross-over-variation.gif"
+    },
+    {
+      "id": "pectorals/cable-decline-fly",
+      "slug": "cable-decline-fly",
+      "name": "Cable Decline Fly",
+      "muscle": "pectorals",
+      "file": "pectorals/cable-decline-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/cable-decline-fly.gif"
+    },
+    {
+      "id": "pectorals/cable-decline-one-arm-press",
+      "slug": "cable-decline-one-arm-press",
+      "name": "Cable Decline One Arm Press",
+      "muscle": "pectorals",
+      "file": "pectorals/cable-decline-one-arm-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/cable-decline-one-arm-press.gif"
+    },
+    {
+      "id": "pectorals/cable-decline-press",
+      "slug": "cable-decline-press",
+      "name": "Cable Decline Press",
+      "muscle": "pectorals",
+      "file": "pectorals/cable-decline-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/cable-decline-press.gif"
+    },
+    {
+      "id": "pectorals/cable-incline-bench-press",
+      "slug": "cable-incline-bench-press",
+      "name": "Cable Incline Bench Press",
+      "muscle": "pectorals",
+      "file": "pectorals/cable-incline-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/cable-incline-bench-press.gif"
+    },
+    {
+      "id": "pectorals/cable-incline-fly-on-stability-ball",
+      "slug": "cable-incline-fly-on-stability-ball",
+      "name": "Cable Incline Fly On Stability Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/cable-incline-fly-on-stability-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/cable-incline-fly-on-stability-ball.gif"
+    },
+    {
+      "id": "pectorals/cable-incline-fly",
+      "slug": "cable-incline-fly",
+      "name": "Cable Incline Fly",
+      "muscle": "pectorals",
+      "file": "pectorals/cable-incline-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/cable-incline-fly.gif"
+    },
+    {
+      "id": "pectorals/cable-low-fly",
+      "slug": "cable-low-fly",
+      "name": "Cable Low Fly",
+      "muscle": "pectorals",
+      "file": "pectorals/cable-low-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/cable-low-fly.gif"
+    },
+    {
+      "id": "pectorals/cable-lying-fly",
+      "slug": "cable-lying-fly",
+      "name": "Cable Lying Fly",
+      "muscle": "pectorals",
+      "file": "pectorals/cable-lying-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/cable-lying-fly.gif"
+    },
+    {
+      "id": "pectorals/cable-middle-fly",
+      "slug": "cable-middle-fly",
+      "name": "Cable Middle Fly",
+      "muscle": "pectorals",
+      "file": "pectorals/cable-middle-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/cable-middle-fly.gif"
+    },
+    {
+      "id": "pectorals/cable-one-arm-decline-chest-fly",
+      "slug": "cable-one-arm-decline-chest-fly",
+      "name": "Cable One Arm Decline Chest Fly",
+      "muscle": "pectorals",
+      "file": "pectorals/cable-one-arm-decline-chest-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/cable-one-arm-decline-chest-fly.gif"
+    },
+    {
+      "id": "pectorals/cable-one-arm-fly-on-exercise-ball",
+      "slug": "cable-one-arm-fly-on-exercise-ball",
+      "name": "Cable One Arm Fly On Exercise Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/cable-one-arm-fly-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/cable-one-arm-fly-on-exercise-ball.gif"
+    },
+    {
+      "id": "pectorals/cable-one-arm-incline-fly-on-exercise-ball",
+      "slug": "cable-one-arm-incline-fly-on-exercise-ball",
+      "name": "Cable One Arm Incline Fly On Exercise Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/cable-one-arm-incline-fly-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/cable-one-arm-incline-fly-on-exercise-ball.gif"
+    },
+    {
+      "id": "pectorals/cable-one-arm-incline-press-on-exercise-ball",
+      "slug": "cable-one-arm-incline-press-on-exercise-ball",
+      "name": "Cable One Arm Incline Press On Exercise Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/cable-one-arm-incline-press-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/cable-one-arm-incline-press-on-exercise-ball.gif"
+    },
+    {
+      "id": "pectorals/cable-one-arm-incline-press",
+      "slug": "cable-one-arm-incline-press",
+      "name": "Cable One Arm Incline Press",
+      "muscle": "pectorals",
+      "file": "pectorals/cable-one-arm-incline-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/cable-one-arm-incline-press.gif"
+    },
+    {
+      "id": "pectorals/cable-one-arm-lateral-bent-over",
+      "slug": "cable-one-arm-lateral-bent-over",
+      "name": "Cable One Arm Lateral Bent Over",
+      "muscle": "pectorals",
+      "file": "pectorals/cable-one-arm-lateral-bent-over.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/cable-one-arm-lateral-bent-over.gif"
+    },
+    {
+      "id": "pectorals/cable-one-arm-press-on-exercise-ball",
+      "slug": "cable-one-arm-press-on-exercise-ball",
+      "name": "Cable One Arm Press On Exercise Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/cable-one-arm-press-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/cable-one-arm-press-on-exercise-ball.gif"
+    },
+    {
+      "id": "pectorals/cable-press-on-exercise-ball",
+      "slug": "cable-press-on-exercise-ball",
+      "name": "Cable Press On Exercise Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/cable-press-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/cable-press-on-exercise-ball.gif"
+    },
+    {
+      "id": "pectorals/cable-seated-chest-press",
+      "slug": "cable-seated-chest-press",
+      "name": "Cable Seated Chest Press",
+      "muscle": "pectorals",
+      "file": "pectorals/cable-seated-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/cable-seated-chest-press.gif"
+    },
+    {
+      "id": "pectorals/cable-standing-fly",
+      "slug": "cable-standing-fly",
+      "name": "Cable Standing Fly",
+      "muscle": "pectorals",
+      "file": "pectorals/cable-standing-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/cable-standing-fly.gif"
+    },
+    {
+      "id": "pectorals/cable-standing-up-straight-crossovers",
+      "slug": "cable-standing-up-straight-crossovers",
+      "name": "Cable Standing Up Straight Crossovers",
+      "muscle": "pectorals",
+      "file": "pectorals/cable-standing-up-straight-crossovers.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/cable-standing-up-straight-crossovers.gif"
+    },
+    {
+      "id": "pectorals/cable-upper-chest-crossovers",
+      "slug": "cable-upper-chest-crossovers",
+      "name": "Cable Upper Chest Crossovers",
+      "muscle": "pectorals",
+      "file": "pectorals/cable-upper-chest-crossovers.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/cable-upper-chest-crossovers.gif"
+    },
+    {
+      "id": "pectorals/chest-and-front-of-shoulder-stretch",
+      "slug": "chest-and-front-of-shoulder-stretch",
+      "name": "Chest And Front Of Shoulder Stretch",
+      "muscle": "pectorals",
+      "file": "pectorals/chest-and-front-of-shoulder-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/chest-and-front-of-shoulder-stretch.gif"
+    },
+    {
+      "id": "pectorals/chest-dip-on-dip-pull-up-cage",
+      "slug": "chest-dip-on-dip-pull-up-cage",
+      "name": "Chest Dip On Dip Pull Up Cage",
+      "muscle": "pectorals",
+      "file": "pectorals/chest-dip-on-dip-pull-up-cage.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/chest-dip-on-dip-pull-up-cage.gif"
+    },
+    {
+      "id": "pectorals/chest-dip-on-straight-bar",
+      "slug": "chest-dip-on-straight-bar",
+      "name": "Chest Dip On Straight Bar",
+      "muscle": "pectorals",
+      "file": "pectorals/chest-dip-on-straight-bar.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/chest-dip-on-straight-bar.gif"
+    },
+    {
+      "id": "pectorals/chest-dip",
+      "slug": "chest-dip",
+      "name": "Chest Dip",
+      "muscle": "pectorals",
+      "file": "pectorals/chest-dip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/chest-dip.gif"
+    },
+    {
+      "id": "pectorals/chest-stretch-with-exercise-ball",
+      "slug": "chest-stretch-with-exercise-ball",
+      "name": "Chest Stretch With Exercise Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/chest-stretch-with-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/chest-stretch-with-exercise-ball.gif"
+    },
+    {
+      "id": "pectorals/chest-tap-push-up-male",
+      "slug": "chest-tap-push-up-male",
+      "name": "Chest Tap Push Up Male",
+      "muscle": "pectorals",
+      "file": "pectorals/chest-tap-push-up-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/chest-tap-push-up-male.gif"
+    },
+    {
+      "id": "pectorals/clap-push-up",
+      "slug": "clap-push-up",
+      "name": "Clap Push Up",
+      "muscle": "pectorals",
+      "file": "pectorals/clap-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/clap-push-up.gif"
+    },
+    {
+      "id": "pectorals/clock-push-up",
+      "slug": "clock-push-up",
+      "name": "Clock Push Up",
+      "muscle": "pectorals",
+      "file": "pectorals/clock-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/clock-push-up.gif"
+    },
+    {
+      "id": "pectorals/decline-push-up",
+      "slug": "decline-push-up",
+      "name": "Decline Push Up",
+      "muscle": "pectorals",
+      "file": "pectorals/decline-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/decline-push-up.gif"
+    },
+    {
+      "id": "pectorals/deep-push-up",
+      "slug": "deep-push-up",
+      "name": "Deep Push Up",
+      "muscle": "pectorals",
+      "file": "pectorals/deep-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/deep-push-up.gif"
+    },
+    {
+      "id": "pectorals/drop-push-up",
+      "slug": "drop-push-up",
+      "name": "Drop Push Up",
+      "muscle": "pectorals",
+      "file": "pectorals/drop-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/drop-push-up.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-around-pullover",
+      "slug": "dumbbell-around-pullover",
+      "name": "Dumbbell Around Pullover",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-around-pullover.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-around-pullover.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-bench-press",
+      "slug": "dumbbell-bench-press",
+      "name": "Dumbbell Bench Press",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-bench-press.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-decline-bench-press",
+      "slug": "dumbbell-decline-bench-press",
+      "name": "Dumbbell Decline Bench Press",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-decline-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-decline-bench-press.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-decline-fly",
+      "slug": "dumbbell-decline-fly",
+      "name": "Dumbbell Decline Fly",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-decline-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-decline-fly.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-decline-hammer-press",
+      "slug": "dumbbell-decline-hammer-press",
+      "name": "Dumbbell Decline Hammer Press",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-decline-hammer-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-decline-hammer-press.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-decline-one-arm-fly",
+      "slug": "dumbbell-decline-one-arm-fly",
+      "name": "Dumbbell Decline One Arm Fly",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-decline-one-arm-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-decline-one-arm-fly.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-decline-twist-fly",
+      "slug": "dumbbell-decline-twist-fly",
+      "name": "Dumbbell Decline Twist Fly",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-decline-twist-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-decline-twist-fly.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-fly-on-exercise-ball",
+      "slug": "dumbbell-fly-on-exercise-ball",
+      "name": "Dumbbell Fly On Exercise Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-fly-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-fly-on-exercise-ball.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-fly",
+      "slug": "dumbbell-fly",
+      "name": "Dumbbell Fly",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-fly.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-alternate-press",
+      "slug": "dumbbell-incline-alternate-press",
+      "name": "Dumbbell Incline Alternate Press",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-incline-alternate-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-incline-alternate-press.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-bench-press",
+      "slug": "dumbbell-incline-bench-press",
+      "name": "Dumbbell Incline Bench Press",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-incline-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-incline-bench-press.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-breeding",
+      "slug": "dumbbell-incline-breeding",
+      "name": "Dumbbell Incline Breeding",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-incline-breeding.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-incline-breeding.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-fly-on-exercise-ball",
+      "slug": "dumbbell-incline-fly-on-exercise-ball",
+      "name": "Dumbbell Incline Fly On Exercise Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-incline-fly-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-incline-fly-on-exercise-ball.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-fly",
+      "slug": "dumbbell-incline-fly",
+      "name": "Dumbbell Incline Fly",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-incline-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-incline-fly.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-hammer-press",
+      "slug": "dumbbell-incline-hammer-press",
+      "name": "Dumbbell Incline Hammer Press",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-incline-hammer-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-incline-hammer-press.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-one-arm-fly-on-exercise-ball",
+      "slug": "dumbbell-incline-one-arm-fly-on-exercise-ball",
+      "name": "Dumbbell Incline One Arm Fly On Exercise Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-incline-one-arm-fly-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-incline-one-arm-fly-on-exercise-ball.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-one-arm-fly",
+      "slug": "dumbbell-incline-one-arm-fly",
+      "name": "Dumbbell Incline One Arm Fly",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-incline-one-arm-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-incline-one-arm-fly.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-one-arm-press-on-exercise-ball",
+      "slug": "dumbbell-incline-one-arm-press-on-exercise-ball",
+      "name": "Dumbbell Incline One Arm Press On Exercise Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-incline-one-arm-press-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-incline-one-arm-press-on-exercise-ball.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-one-arm-press",
+      "slug": "dumbbell-incline-one-arm-press",
+      "name": "Dumbbell Incline One Arm Press",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-incline-one-arm-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-incline-one-arm-press.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-palm-in-press",
+      "slug": "dumbbell-incline-palm-in-press",
+      "name": "Dumbbell Incline Palm In Press",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-incline-palm-in-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-incline-palm-in-press.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-press-on-exercise-ball",
+      "slug": "dumbbell-incline-press-on-exercise-ball",
+      "name": "Dumbbell Incline Press On Exercise Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-incline-press-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-incline-press-on-exercise-ball.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-twisted-flyes",
+      "slug": "dumbbell-incline-twisted-flyes",
+      "name": "Dumbbell Incline Twisted Flyes",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-incline-twisted-flyes.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-incline-twisted-flyes.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-lying-hammer-press",
+      "slug": "dumbbell-lying-hammer-press",
+      "name": "Dumbbell Lying Hammer Press",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-lying-hammer-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-lying-hammer-press.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-lying-one-arm-press-v-2",
+      "slug": "dumbbell-lying-one-arm-press-v-2",
+      "name": "Dumbbell Lying One Arm Press v2",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-lying-one-arm-press-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-lying-one-arm-press-v-2.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-lying-one-arm-press",
+      "slug": "dumbbell-lying-one-arm-press",
+      "name": "Dumbbell Lying One Arm Press",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-lying-one-arm-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-lying-one-arm-press.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-lying-pullover-on-exercise-ball",
+      "slug": "dumbbell-lying-pullover-on-exercise-ball",
+      "name": "Dumbbell Lying Pullover On Exercise Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-lying-pullover-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-lying-pullover-on-exercise-ball.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-bench-fly",
+      "slug": "dumbbell-one-arm-bench-fly",
+      "name": "Dumbbell One Arm Bench Fly",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-one-arm-bench-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-one-arm-bench-fly.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-chest-fly-on-exercise-ball",
+      "slug": "dumbbell-one-arm-chest-fly-on-exercise-ball",
+      "name": "Dumbbell One Arm Chest Fly On Exercise Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-one-arm-chest-fly-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-one-arm-chest-fly-on-exercise-ball.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-decline-chest-press",
+      "slug": "dumbbell-one-arm-decline-chest-press",
+      "name": "Dumbbell One Arm Decline Chest Press",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-one-arm-decline-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-one-arm-decline-chest-press.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-fly-on-exercise-ball",
+      "slug": "dumbbell-one-arm-fly-on-exercise-ball",
+      "name": "Dumbbell One Arm Fly On Exercise Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-one-arm-fly-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-one-arm-fly-on-exercise-ball.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-incline-chest-press",
+      "slug": "dumbbell-one-arm-incline-chest-press",
+      "name": "Dumbbell One Arm Incline Chest Press",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-one-arm-incline-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-one-arm-incline-chest-press.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-press-on-exercise-ball",
+      "slug": "dumbbell-one-arm-press-on-exercise-ball",
+      "name": "Dumbbell One Arm Press On Exercise Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-one-arm-press-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-one-arm-press-on-exercise-ball.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-pullover-on-exercise-ball",
+      "slug": "dumbbell-one-arm-pullover-on-exercise-ball",
+      "name": "Dumbbell One Arm Pullover On Exercise Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-one-arm-pullover-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-one-arm-pullover-on-exercise-ball.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-reverse-grip-press",
+      "slug": "dumbbell-one-arm-reverse-grip-press",
+      "name": "Dumbbell One Arm Reverse Grip Press",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-one-arm-reverse-grip-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-one-arm-reverse-grip-press.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-one-leg-fly-on-exercise-ball",
+      "slug": "dumbbell-one-leg-fly-on-exercise-ball",
+      "name": "Dumbbell One Leg Fly On Exercise Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-one-leg-fly-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-one-leg-fly-on-exercise-ball.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-press-on-exercise-ball",
+      "slug": "dumbbell-press-on-exercise-ball",
+      "name": "Dumbbell Press On Exercise Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-press-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-press-on-exercise-ball.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-pullover-hip-extension-on-exercise-ball",
+      "slug": "dumbbell-pullover-hip-extension-on-exercise-ball",
+      "name": "Dumbbell Pullover Hip Extension On Exercise Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-pullover-hip-extension-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-pullover-hip-extension-on-exercise-ball.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-pullover-on-exercise-ball",
+      "slug": "dumbbell-pullover-on-exercise-ball",
+      "name": "Dumbbell Pullover On Exercise Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-pullover-on-exercise-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-pullover-on-exercise-ball.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-pullover",
+      "slug": "dumbbell-pullover",
+      "name": "Dumbbell Pullover",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-pullover.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-pullover.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-reverse-bench-press",
+      "slug": "dumbbell-reverse-bench-press",
+      "name": "Dumbbell Reverse Bench Press",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-reverse-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-reverse-bench-press.gif"
+    },
+    {
+      "id": "pectorals/dumbbell-straight-arm-pullover",
+      "slug": "dumbbell-straight-arm-pullover",
+      "name": "Dumbbell Straight Arm Pullover",
+      "muscle": "pectorals",
+      "file": "pectorals/dumbbell-straight-arm-pullover.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dumbbell-straight-arm-pullover.gif"
+    },
+    {
+      "id": "pectorals/dynamic-chest-stretch-male",
+      "slug": "dynamic-chest-stretch-male",
+      "name": "Dynamic Chest Stretch Male",
+      "muscle": "pectorals",
+      "file": "pectorals/dynamic-chest-stretch-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/dynamic-chest-stretch-male.gif"
+    },
+    {
+      "id": "pectorals/exercise-ball-pike-push-up",
+      "slug": "exercise-ball-pike-push-up",
+      "name": "Exercise Ball Pike Push Up",
+      "muscle": "pectorals",
+      "file": "pectorals/exercise-ball-pike-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/exercise-ball-pike-push-up.gif"
+    },
+    {
+      "id": "pectorals/floor-fly-with-barbell",
+      "slug": "floor-fly-with-barbell",
+      "name": "Floor Fly With Barbell",
+      "muscle": "pectorals",
+      "file": "pectorals/floor-fly-with-barbell.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/floor-fly-with-barbell.gif"
+    },
+    {
+      "id": "pectorals/full-planche-push-up",
+      "slug": "full-planche-push-up",
+      "name": "Full Planche Push Up",
+      "muscle": "pectorals",
+      "file": "pectorals/full-planche-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/full-planche-push-up.gif"
+    },
+    {
+      "id": "pectorals/hands-bike",
+      "slug": "hands-bike",
+      "name": "Hands Bike",
+      "muscle": "pectorals",
+      "file": "pectorals/hands-bike.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/hands-bike.gif"
+    },
+    {
+      "id": "pectorals/hyght-dumbbell-fly",
+      "slug": "hyght-dumbbell-fly",
+      "name": "Hyght Dumbbell Fly",
+      "muscle": "pectorals",
+      "file": "pectorals/hyght-dumbbell-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/hyght-dumbbell-fly.gif"
+    },
+    {
+      "id": "pectorals/incline-push-up-depth-jump",
+      "slug": "incline-push-up-depth-jump",
+      "name": "Incline Push Up Depth Jump",
+      "muscle": "pectorals",
+      "file": "pectorals/incline-push-up-depth-jump.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/incline-push-up-depth-jump.gif"
+    },
+    {
+      "id": "pectorals/incline-push-up-on-box",
+      "slug": "incline-push-up-on-box",
+      "name": "Incline Push Up On Box",
+      "muscle": "pectorals",
+      "file": "pectorals/incline-push-up-on-box.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/incline-push-up-on-box.gif"
+    },
+    {
+      "id": "pectorals/incline-push-up",
+      "slug": "incline-push-up",
+      "name": "Incline Push Up",
+      "muscle": "pectorals",
+      "file": "pectorals/incline-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/incline-push-up.gif"
+    },
+    {
+      "id": "pectorals/incline-reverse-grip-push-up",
+      "slug": "incline-reverse-grip-push-up",
+      "name": "Incline Reverse Grip Push Up",
+      "muscle": "pectorals",
+      "file": "pectorals/incline-reverse-grip-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/incline-reverse-grip-push-up.gif"
+    },
+    {
+      "id": "pectorals/isometric-chest-squeeze",
+      "slug": "isometric-chest-squeeze",
+      "name": "Isometric Chest Squeeze",
+      "muscle": "pectorals",
+      "file": "pectorals/isometric-chest-squeeze.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/isometric-chest-squeeze.gif"
+    },
+    {
+      "id": "pectorals/isometric-wipers",
+      "slug": "isometric-wipers",
+      "name": "Isometric Wipers",
+      "muscle": "pectorals",
+      "file": "pectorals/isometric-wipers.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/isometric-wipers.gif"
+    },
+    {
+      "id": "pectorals/kettlebell-alternating-press-on-floor",
+      "slug": "kettlebell-alternating-press-on-floor",
+      "name": "Kettlebell Alternating Press On Floor",
+      "muscle": "pectorals",
+      "file": "pectorals/kettlebell-alternating-press-on-floor.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/kettlebell-alternating-press-on-floor.gif"
+    },
+    {
+      "id": "pectorals/kettlebell-extended-range-one-arm-press-on-floor",
+      "slug": "kettlebell-extended-range-one-arm-press-on-floor",
+      "name": "Kettlebell Extended Range One Arm Press On Floor",
+      "muscle": "pectorals",
+      "file": "pectorals/kettlebell-extended-range-one-arm-press-on-floor.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/kettlebell-extended-range-one-arm-press-on-floor.gif"
+    },
+    {
+      "id": "pectorals/kettlebell-one-arm-floor-press",
+      "slug": "kettlebell-one-arm-floor-press",
+      "name": "Kettlebell One Arm Floor Press",
+      "muscle": "pectorals",
+      "file": "pectorals/kettlebell-one-arm-floor-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/kettlebell-one-arm-floor-press.gif"
+    },
+    {
+      "id": "pectorals/kettlebell-plyo-push-up",
+      "slug": "kettlebell-plyo-push-up",
+      "name": "Kettlebell Plyo Push Up",
+      "muscle": "pectorals",
+      "file": "pectorals/kettlebell-plyo-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/kettlebell-plyo-push-up.gif"
+    },
+    {
+      "id": "pectorals/kneeling-push-up-male",
+      "slug": "kneeling-push-up-male",
+      "name": "Kneeling Push Up Male",
+      "muscle": "pectorals",
+      "file": "pectorals/kneeling-push-up-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/kneeling-push-up-male.gif"
+    },
+    {
+      "id": "pectorals/korean-dips",
+      "slug": "korean-dips",
+      "name": "Korean Dips",
+      "muscle": "pectorals",
+      "file": "pectorals/korean-dips.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/korean-dips.gif"
+    },
+    {
+      "id": "pectorals/lever-chest-press-0577",
+      "slug": "lever-chest-press-0577",
+      "name": "Lever Chest Press 0577",
+      "muscle": "pectorals",
+      "file": "pectorals/lever-chest-press-0577.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/lever-chest-press-0577.gif"
+    },
+    {
+      "id": "pectorals/lever-chest-press",
+      "slug": "lever-chest-press",
+      "name": "Lever Chest Press",
+      "muscle": "pectorals",
+      "file": "pectorals/lever-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/lever-chest-press.gif"
+    },
+    {
+      "id": "pectorals/lever-decline-chest-press",
+      "slug": "lever-decline-chest-press",
+      "name": "Lever Decline Chest Press",
+      "muscle": "pectorals",
+      "file": "pectorals/lever-decline-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/lever-decline-chest-press.gif"
+    },
+    {
+      "id": "pectorals/lever-incline-chest-press-v-2",
+      "slug": "lever-incline-chest-press-v-2",
+      "name": "Lever Incline Chest Press v2",
+      "muscle": "pectorals",
+      "file": "pectorals/lever-incline-chest-press-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/lever-incline-chest-press-v-2.gif"
+    },
+    {
+      "id": "pectorals/lever-incline-chest-press",
+      "slug": "lever-incline-chest-press",
+      "name": "Lever Incline Chest Press",
+      "muscle": "pectorals",
+      "file": "pectorals/lever-incline-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/lever-incline-chest-press.gif"
+    },
+    {
+      "id": "pectorals/lever-seated-fly",
+      "slug": "lever-seated-fly",
+      "name": "Lever Seated Fly",
+      "muscle": "pectorals",
+      "file": "pectorals/lever-seated-fly.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/lever-seated-fly.gif"
+    },
+    {
+      "id": "pectorals/lever-standing-chest-press",
+      "slug": "lever-standing-chest-press",
+      "name": "Lever Standing Chest Press",
+      "muscle": "pectorals",
+      "file": "pectorals/lever-standing-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/lever-standing-chest-press.gif"
+    },
+    {
+      "id": "pectorals/machine-inner-chest-press",
+      "slug": "machine-inner-chest-press",
+      "name": "Machine Inner Chest Press",
+      "muscle": "pectorals",
+      "file": "pectorals/machine-inner-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/machine-inner-chest-press.gif"
+    },
+    {
+      "id": "pectorals/medicine-ball-chest-pass",
+      "slug": "medicine-ball-chest-pass",
+      "name": "Medicine Ball Chest Pass",
+      "muscle": "pectorals",
+      "file": "pectorals/medicine-ball-chest-pass.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/medicine-ball-chest-pass.gif"
+    },
+    {
+      "id": "pectorals/medicine-ball-chest-push-from-3-point-stance",
+      "slug": "medicine-ball-chest-push-from-3-point-stance",
+      "name": "Medicine Ball Chest Push From 3 Point Stance",
+      "muscle": "pectorals",
+      "file": "pectorals/medicine-ball-chest-push-from-3-point-stance.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/medicine-ball-chest-push-from-3-point-stance.gif"
+    },
+    {
+      "id": "pectorals/medicine-ball-chest-push-multiple-response",
+      "slug": "medicine-ball-chest-push-multiple-response",
+      "name": "Medicine Ball Chest Push Multiple Response",
+      "muscle": "pectorals",
+      "file": "pectorals/medicine-ball-chest-push-multiple-response.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/medicine-ball-chest-push-multiple-response.gif"
+    },
+    {
+      "id": "pectorals/medicine-ball-chest-push-single-response",
+      "slug": "medicine-ball-chest-push-single-response",
+      "name": "Medicine Ball Chest Push Single Response",
+      "muscle": "pectorals",
+      "file": "pectorals/medicine-ball-chest-push-single-response.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/medicine-ball-chest-push-single-response.gif"
+    },
+    {
+      "id": "pectorals/medicine-ball-chest-push-with-run-release",
+      "slug": "medicine-ball-chest-push-with-run-release",
+      "name": "Medicine Ball Chest Push With Run Release",
+      "muscle": "pectorals",
+      "file": "pectorals/medicine-ball-chest-push-with-run-release.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/medicine-ball-chest-push-with-run-release.gif"
+    },
+    {
+      "id": "pectorals/modified-hindu-push-up-male",
+      "slug": "modified-hindu-push-up-male",
+      "name": "Modified Hindu Push Up Male",
+      "muscle": "pectorals",
+      "file": "pectorals/modified-hindu-push-up-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/modified-hindu-push-up-male.gif"
+    },
+    {
+      "id": "pectorals/plyo-push-up",
+      "slug": "plyo-push-up",
+      "name": "Plyo Push Up",
+      "muscle": "pectorals",
+      "file": "pectorals/plyo-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/plyo-push-up.gif"
+    },
+    {
+      "id": "pectorals/push-and-pull-bodyweight",
+      "slug": "push-and-pull-bodyweight",
+      "name": "Push And Pull Bodyweight",
+      "muscle": "pectorals",
+      "file": "pectorals/push-and-pull-bodyweight.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/push-and-pull-bodyweight.gif"
+    },
+    {
+      "id": "pectorals/push-up-bosu-ball",
+      "slug": "push-up-bosu-ball",
+      "name": "Push Up Bosu Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/push-up-bosu-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/push-up-bosu-ball.gif"
+    },
+    {
+      "id": "pectorals/push-up-medicine-ball",
+      "slug": "push-up-medicine-ball",
+      "name": "Push Up Medicine Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/push-up-medicine-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/push-up-medicine-ball.gif"
+    },
+    {
+      "id": "pectorals/push-up-on-bosu-ball",
+      "slug": "push-up-on-bosu-ball",
+      "name": "Push Up On Bosu Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/push-up-on-bosu-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/push-up-on-bosu-ball.gif"
+    },
+    {
+      "id": "pectorals/push-up-on-stability-ball-0656",
+      "slug": "push-up-on-stability-ball-0656",
+      "name": "Push Up On Stability Ball 0656",
+      "muscle": "pectorals",
+      "file": "pectorals/push-up-on-stability-ball-0656.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/push-up-on-stability-ball-0656.gif"
+    },
+    {
+      "id": "pectorals/push-up-on-stability-ball",
+      "slug": "push-up-on-stability-ball",
+      "name": "Push Up On Stability Ball",
+      "muscle": "pectorals",
+      "file": "pectorals/push-up-on-stability-ball.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/push-up-on-stability-ball.gif"
+    },
+    {
+      "id": "pectorals/push-up-plus",
+      "slug": "push-up-plus",
+      "name": "Push Up Plus",
+      "muscle": "pectorals",
+      "file": "pectorals/push-up-plus.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/push-up-plus.gif"
+    },
+    {
+      "id": "pectorals/push-up-wall-v-2",
+      "slug": "push-up-wall-v-2",
+      "name": "Push Up Wall v2",
+      "muscle": "pectorals",
+      "file": "pectorals/push-up-wall-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/push-up-wall-v-2.gif"
+    },
+    {
+      "id": "pectorals/push-up-wall",
+      "slug": "push-up-wall",
+      "name": "Push Up Wall",
+      "muscle": "pectorals",
+      "file": "pectorals/push-up-wall.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/push-up-wall.gif"
+    },
+    {
+      "id": "pectorals/push-up",
+      "slug": "push-up",
+      "name": "Push Up",
+      "muscle": "pectorals",
+      "file": "pectorals/push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/push-up.gif"
+    },
+    {
+      "id": "pectorals/raise-single-arm-push-up",
+      "slug": "raise-single-arm-push-up",
+      "name": "Raise Single Arm Push Up",
+      "muscle": "pectorals",
+      "file": "pectorals/raise-single-arm-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/raise-single-arm-push-up.gif"
+    },
+    {
+      "id": "pectorals/resistance-band-seated-chest-press",
+      "slug": "resistance-band-seated-chest-press",
+      "name": "Resistance Band Seated Chest Press",
+      "muscle": "pectorals",
+      "file": "pectorals/resistance-band-seated-chest-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/resistance-band-seated-chest-press.gif"
+    },
+    {
+      "id": "pectorals/roller-seated-shoulder-flexor-depresor-retractor",
+      "slug": "roller-seated-shoulder-flexor-depresor-retractor",
+      "name": "Roller Seated Shoulder Flexor Depresor Retractor",
+      "muscle": "pectorals",
+      "file": "pectorals/roller-seated-shoulder-flexor-depresor-retractor.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/roller-seated-shoulder-flexor-depresor-retractor.gif"
+    },
+    {
+      "id": "pectorals/roller-seated-single-leg-shoulder-flexor-depresor-retractor",
+      "slug": "roller-seated-single-leg-shoulder-flexor-depresor-retractor",
+      "name": "Roller Seated Single Leg Shoulder Flexor Depresor Retractor",
+      "muscle": "pectorals",
+      "file": "pectorals/roller-seated-single-leg-shoulder-flexor-depresor-retractor.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/roller-seated-single-leg-shoulder-flexor-depresor-retractor.gif"
+    },
+    {
+      "id": "pectorals/shoulder-tap-push-up",
+      "slug": "shoulder-tap-push-up",
+      "name": "Shoulder Tap Push Up",
+      "muscle": "pectorals",
+      "file": "pectorals/shoulder-tap-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/shoulder-tap-push-up.gif"
+    },
+    {
+      "id": "pectorals/single-arm-push-up",
+      "slug": "single-arm-push-up",
+      "name": "Single Arm Push Up",
+      "muscle": "pectorals",
+      "file": "pectorals/single-arm-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/single-arm-push-up.gif"
+    },
+    {
+      "id": "pectorals/smith-bench-press",
+      "slug": "smith-bench-press",
+      "name": "Smith Bench Press",
+      "muscle": "pectorals",
+      "file": "pectorals/smith-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/smith-bench-press.gif"
+    },
+    {
+      "id": "pectorals/smith-decline-bench-press",
+      "slug": "smith-decline-bench-press",
+      "name": "Smith Decline Bench Press",
+      "muscle": "pectorals",
+      "file": "pectorals/smith-decline-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/smith-decline-bench-press.gif"
+    },
+    {
+      "id": "pectorals/smith-decline-reverse-grip-press",
+      "slug": "smith-decline-reverse-grip-press",
+      "name": "Smith Decline Reverse Grip Press",
+      "muscle": "pectorals",
+      "file": "pectorals/smith-decline-reverse-grip-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/smith-decline-reverse-grip-press.gif"
+    },
+    {
+      "id": "pectorals/smith-incline-bench-press",
+      "slug": "smith-incline-bench-press",
+      "name": "Smith Incline Bench Press",
+      "muscle": "pectorals",
+      "file": "pectorals/smith-incline-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/smith-incline-bench-press.gif"
+    },
+    {
+      "id": "pectorals/smith-incline-reverse-grip-press",
+      "slug": "smith-incline-reverse-grip-press",
+      "name": "Smith Incline Reverse Grip Press",
+      "muscle": "pectorals",
+      "file": "pectorals/smith-incline-reverse-grip-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/smith-incline-reverse-grip-press.gif"
+    },
+    {
+      "id": "pectorals/smith-machine-reverse-decline-close-grip-bench-press",
+      "slug": "smith-machine-reverse-decline-close-grip-bench-press",
+      "name": "Smith Machine Reverse Decline Close Grip Bench Press",
+      "muscle": "pectorals",
+      "file": "pectorals/smith-machine-reverse-decline-close-grip-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/smith-machine-reverse-decline-close-grip-bench-press.gif"
+    },
+    {
+      "id": "pectorals/smith-reverse-grip-press",
+      "slug": "smith-reverse-grip-press",
+      "name": "Smith Reverse Grip Press",
+      "muscle": "pectorals",
+      "file": "pectorals/smith-reverse-grip-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/smith-reverse-grip-press.gif"
+    },
+    {
+      "id": "pectorals/smith-wide-grip-bench-press",
+      "slug": "smith-wide-grip-bench-press",
+      "name": "Smith Wide Grip Bench Press",
+      "muscle": "pectorals",
+      "file": "pectorals/smith-wide-grip-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/smith-wide-grip-bench-press.gif"
+    },
+    {
+      "id": "pectorals/smith-wide-grip-decline-bench-press",
+      "slug": "smith-wide-grip-decline-bench-press",
+      "name": "Smith Wide Grip Decline Bench Press",
+      "muscle": "pectorals",
+      "file": "pectorals/smith-wide-grip-decline-bench-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/smith-wide-grip-decline-bench-press.gif"
+    },
+    {
+      "id": "pectorals/superman-push-up",
+      "slug": "superman-push-up",
+      "name": "Superman Push Up",
+      "muscle": "pectorals",
+      "file": "pectorals/superman-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/superman-push-up.gif"
+    },
+    {
+      "id": "pectorals/suspended-push-up",
+      "slug": "suspended-push-up",
+      "name": "Suspended Push Up",
+      "muscle": "pectorals",
+      "file": "pectorals/suspended-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/suspended-push-up.gif"
+    },
+    {
+      "id": "pectorals/weighted-drop-push-up",
+      "slug": "weighted-drop-push-up",
+      "name": "Weighted Drop Push Up",
+      "muscle": "pectorals",
+      "file": "pectorals/weighted-drop-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/weighted-drop-push-up.gif"
+    },
+    {
+      "id": "pectorals/weighted-straight-bar-dip",
+      "slug": "weighted-straight-bar-dip",
+      "name": "Weighted Straight Bar Dip",
+      "muscle": "pectorals",
+      "file": "pectorals/weighted-straight-bar-dip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/weighted-straight-bar-dip.gif"
+    },
+    {
+      "id": "pectorals/weighted-svend-press",
+      "slug": "weighted-svend-press",
+      "name": "Weighted Svend Press",
+      "muscle": "pectorals",
+      "file": "pectorals/weighted-svend-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/weighted-svend-press.gif"
+    },
+    {
+      "id": "pectorals/wide-grip-chest-dip-on-high-parallel-bars",
+      "slug": "wide-grip-chest-dip-on-high-parallel-bars",
+      "name": "Wide Grip Chest Dip On High Parallel Bars",
+      "muscle": "pectorals",
+      "file": "pectorals/wide-grip-chest-dip-on-high-parallel-bars.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/wide-grip-chest-dip-on-high-parallel-bars.gif"
+    },
+    {
+      "id": "pectorals/wide-hand-push-up",
+      "slug": "wide-hand-push-up",
+      "name": "Wide Hand Push Up",
+      "muscle": "pectorals",
+      "file": "pectorals/wide-hand-push-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/pectorals/wide-hand-push-up.gif"
+    }
+  ]
+}

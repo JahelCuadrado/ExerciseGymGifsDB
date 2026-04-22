@@ -1,0 +1,22 @@
+{
+  "muscle": "levator-scapulae",
+  "count": 2,
+  "exercises": [
+    {
+      "id": "levator-scapulae/neck-side-stretch",
+      "slug": "neck-side-stretch",
+      "name": "Neck Side Stretch",
+      "muscle": "levator-scapulae",
+      "file": "levator-scapulae/neck-side-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/levator-scapulae/neck-side-stretch.gif"
+    },
+    {
+      "id": "levator-scapulae/side-push-neck-stretch",
+      "slug": "side-push-neck-stretch",
+      "name": "Side Push Neck Stretch",
+      "muscle": "levator-scapulae",
+      "file": "levator-scapulae/side-push-neck-stretch.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/USER/REPO@main/levator-scapulae/side-push-neck-stretch.gif"
+    }
+  ]
+}
