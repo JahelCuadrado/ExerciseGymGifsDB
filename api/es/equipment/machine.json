@@ -1,11 +1,360 @@
 {
   "equipment": "machine",
-  "count": 2,
+  "count": 19,
   "exercises": [
+    {
+      "id": "abs/sledge-hammer",
+      "slug": "sledge-hammer",
+      "name": "Sledge martillo",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa el core antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "abs/sledge-hammer.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/sledge-hammer.gif"
+    },
+    {
+      "id": "calves/sled-45-calf-press",
+      "slug": "sled-45-calf-press",
+      "name": "Press, sled gemelo",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los gemelos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "calves/sled-45-calf-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/sled-45-calf-press.gif"
+    },
+    {
+      "id": "calves/sled-calf-press-on-leg-press",
+      "slug": "sled-calf-press-on-leg-press",
+      "name": "Prensa de piernas, sled gemelo press",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los gemelos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "calves/sled-calf-press-on-leg-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/sled-calf-press-on-leg-press.gif"
+    },
+    {
+      "id": "calves/sled-forward-angled-calf-raise",
+      "slug": "sled-forward-angled-calf-raise",
+      "name": "Elevación de talones, sled forward angled",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los gemelos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "calves/sled-forward-angled-calf-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/sled-forward-angled-calf-raise.gif"
+    },
+    {
+      "id": "calves/sled-lying-calf-press",
+      "slug": "sled-lying-calf-press",
+      "name": "Press, tumbado, sled gemelo",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los gemelos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "calves/sled-lying-calf-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/sled-lying-calf-press.gif"
+    },
+    {
+      "id": "calves/sled-one-leg-calf-press-on-leg-press",
+      "slug": "sled-one-leg-calf-press-on-leg-press",
+      "name": "Prensa de piernas, a una pierna, sled gemelo press",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los gemelos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "calves/sled-one-leg-calf-press-on-leg-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/sled-one-leg-calf-press-on-leg-press.gif"
+    },
+    {
+      "id": "cardio/cycle-cross-trainer",
+      "slug": "cycle-cross-trainer",
+      "name": "Cycle cross trainer",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/cycle-cross-trainer.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/cycle-cross-trainer.gif"
+    },
+    {
+      "id": "cardio/walk-elliptical-cross-trainer",
+      "slug": "walk-elliptical-cross-trainer",
+      "name": "Caminata elíptica cross trainer",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/walk-elliptical-cross-trainer.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/walk-elliptical-cross-trainer.gif"
+    },
+    {
+      "id": "cardio/walking-on-incline-treadmill",
+      "slug": "walking-on-incline-treadmill",
+      "name": "Caminando cinta inclinado",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/walking-on-incline-treadmill.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/walking-on-incline-treadmill.gif"
+    },
+    {
+      "id": "cardio/walking-on-stepmill",
+      "slug": "walking-on-stepmill",
+      "name": "Caminando stepmill",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Mantén un ritmo constante adaptado a tu nivel.",
+        "Activa el core y mantén una postura erguida durante todo el ejercicio.",
+        "Continúa el tiempo o las repeticiones planificadas."
+      ],
+      "file": "cardio/walking-on-stepmill.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/cardio/walking-on-stepmill.gif"
+    },
+    {
+      "id": "glutes/sled-45-degrees-one-leg-press",
+      "slug": "sled-45-degrees-one-leg-press",
+      "name": "Press, a una pierna, sled degrees",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los glúteos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "glutes/sled-45-degrees-one-leg-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/sled-45-degrees-one-leg-press.gif"
+    },
+    {
+      "id": "glutes/sled-45-leg-press-back-pov",
+      "slug": "sled-45-leg-press-back-pov",
+      "name": "Prensa de piernas, sled espalda",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los glúteos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "glutes/sled-45-leg-press-back-pov.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/sled-45-leg-press-back-pov.gif"
+    },
+    {
+      "id": "glutes/sled-45-leg-press-side-pov",
+      "slug": "sled-45-leg-press-side-pov",
+      "name": "Prensa de piernas, lateral, sled",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los glúteos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "glutes/sled-45-leg-press-side-pov.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/sled-45-leg-press-side-pov.gif"
+    },
+    {
+      "id": "glutes/sled-45-leg-press",
+      "slug": "sled-45-leg-press",
+      "name": "Prensa de piernas, sled",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los glúteos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "glutes/sled-45-leg-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/sled-45-leg-press.gif"
+    },
+    {
+      "id": "glutes/sled-45-leg-wide-press",
+      "slug": "sled-45-leg-wide-press",
+      "name": "Press, ancho, sled pierna",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los glúteos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "glutes/sled-45-leg-wide-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/sled-45-leg-wide-press.gif"
+    },
+    {
+      "id": "glutes/sled-lying-squat",
+      "slug": "sled-lying-squat",
+      "name": "Sentadilla, tumbado, sled",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los glúteos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "glutes/sled-lying-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/sled-lying-squat.gif"
+    },
+    {
+      "id": "hamstrings/single-leg-platform-slide",
+      "slug": "single-leg-platform-slide",
+      "name": "Plataforma slide, a una pierna",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los isquiotibiales antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "hamstrings/single-leg-platform-slide.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/single-leg-platform-slide.gif"
+    },
     {
       "id": "lats/reverse-grip-machine-lat-pulldown",
       "slug": "reverse-grip-machine-lat-pulldown",
-      "name": "Jalón en máquina, con agarre invertido, dorsal",
+      "name": "Jalón al pecho en máquina, con agarre invertido",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "machine",
@@ -17,7 +366,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el lats antes de iniciar el movimiento.",
+        "Activa los dorsales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -39,7 +388,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el pectorals antes de iniciar el movimiento.",
+        "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."

@@ -1,11 +1,11 @@
 {
   "equipment": "barbell",
-  "count": 144,
+  "count": 148,
   "exercises": [
     {
       "id": "abs/barbell-press-sit-up",
       "slug": "barbell-press-sit-up",
-      "name": "Abdominal con barra, press",
+      "name": "Abdominal con press con barra",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "barbell",
@@ -16,7 +16,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -27,7 +27,7 @@
     {
       "id": "abs/barbell-rollerout-from-bench",
       "slug": "barbell-rollerout-from-bench",
-      "name": "Con barra, rollerout banco",
+      "name": "Rollerout banco con barra",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "barbell",
@@ -35,7 +35,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -46,7 +46,7 @@
     {
       "id": "abs/barbell-rollerout",
       "slug": "barbell-rollerout",
-      "name": "Con barra, rollerout",
+      "name": "Rollerout con barra",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "barbell",
@@ -54,7 +54,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -73,7 +73,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -84,7 +84,7 @@
     {
       "id": "abs/barbell-side-bent-v-2",
       "slug": "barbell-side-bent-v-2",
-      "name": "Con barra, lateral v2, doblado",
+      "name": "Doblado con barra, lateral",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "barbell",
@@ -92,7 +92,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -103,7 +103,7 @@
     {
       "id": "abs/barbell-sitted-alternate-leg-raise-female",
       "slug": "barbell-sitted-alternate-leg-raise-female",
-      "name": "Elevación de piernas con barra, alternado, sitted female",
+      "name": "Elevación de piernas con barra, alternado, sitted",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "barbell",
@@ -111,7 +111,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -130,7 +130,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -141,7 +141,7 @@
     {
       "id": "abs/barbell-standing-ab-rollerout",
       "slug": "barbell-standing-ab-rollerout",
-      "name": "Con barra, de pie, ab rollerout",
+      "name": "Ab rollerout con barra, de pie",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "barbell",
@@ -149,7 +149,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -168,13 +168,32 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
       ],
       "file": "abs/barbell-standing-twist.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/barbell-standing-twist.gif"
+    },
+    {
+      "id": "abs/landmine-180",
+      "slug": "landmine-180",
+      "name": "Landmine 180",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa el core antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "abs/landmine-180.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/landmine-180.gif"
     },
     {
       "id": "biceps/barbell-alternate-biceps-curl",
@@ -189,7 +208,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -210,7 +229,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -231,7 +250,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -252,7 +271,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -273,7 +292,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -294,7 +313,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -315,7 +334,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -336,7 +355,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -347,7 +366,7 @@
     {
       "id": "biceps/barbell-reverse-preacher-curl",
       "slug": "barbell-reverse-preacher-curl",
-      "name": "Curl invertido predicador con barra",
+      "name": "Curl predicador invertido con barra",
       "muscle": "biceps",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -357,7 +376,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -378,7 +397,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -399,7 +418,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -420,7 +439,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -441,7 +460,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -462,7 +481,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -483,7 +502,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -504,7 +523,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -523,7 +542,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el calves antes de iniciar el movimiento.",
+        "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -534,7 +553,7 @@
     {
       "id": "calves/barbell-seated-calf-raise-1371",
       "slug": "barbell-seated-calf-raise-1371",
-      "name": "Elevación de talones con barra, sentado, 1371",
+      "name": "Elevación de talones con barra, sentado",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -542,7 +561,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el calves antes de iniciar el movimiento.",
+        "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -561,7 +580,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el calves antes de iniciar el movimiento.",
+        "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -580,7 +599,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el calves antes de iniciar el movimiento.",
+        "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -599,7 +618,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el calves antes de iniciar el movimiento.",
+        "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -618,7 +637,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el calves antes de iniciar el movimiento.",
+        "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -639,7 +658,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -664,7 +683,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -675,7 +694,7 @@
     {
       "id": "delts/barbell-rear-delt-raise",
       "slug": "barbell-rear-delt-raise",
-      "name": "Elevación posterior de deltoides con barra",
+      "name": "Pájaros con barra",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "barbell",
@@ -685,7 +704,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -707,7 +726,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -728,7 +747,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -749,7 +768,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -770,7 +789,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -781,7 +800,7 @@
     {
       "id": "delts/barbell-skier",
       "slug": "barbell-skier",
-      "name": "Con barra, skier",
+      "name": "Skier con barra",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "barbell",
@@ -789,7 +808,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -810,7 +829,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -831,7 +850,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -852,7 +871,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -873,7 +892,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -892,7 +911,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -903,7 +922,7 @@
     {
       "id": "delts/barbell-upright-row-v-2",
       "slug": "barbell-upright-row-v-2",
-      "name": "Remo al mentón con barra, v2",
+      "name": "Remo al mentón con barra",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "barbell",
@@ -914,7 +933,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -925,7 +944,7 @@
     {
       "id": "delts/barbell-upright-row-v-3",
       "slug": "barbell-upright-row-v-3",
-      "name": "Remo al mentón con barra, v3",
+      "name": "Remo al mentón con barra",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "barbell",
@@ -936,7 +955,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -958,7 +977,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -980,13 +999,34 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
       ],
       "file": "delts/barbell-wide-grip-upright-row.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-wide-grip-upright-row.gif"
+    },
+    {
+      "id": "delts/landmine-lateral-raise",
+      "slug": "landmine-lateral-raise",
+      "name": "Elevación lateral, landmine",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa los hombros antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "delts/landmine-lateral-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/landmine-lateral-raise.gif"
     },
     {
       "id": "forearms/barbell-palms-down-wrist-curl-over-a-bench",
@@ -999,7 +1039,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el forearms antes de iniciar el movimiento.",
+        "Activa los antebrazos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1018,7 +1058,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el forearms antes de iniciar el movimiento.",
+        "Activa los antebrazos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1029,7 +1069,7 @@
     {
       "id": "forearms/barbell-revers-wrist-curl-v-2",
       "slug": "barbell-revers-wrist-curl-v-2",
-      "name": "Curl de muñeca con barra, v2, revers",
+      "name": "Curl de muñeca con barra, revers",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -1037,7 +1077,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el forearms antes de iniciar el movimiento.",
+        "Activa los antebrazos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1056,7 +1096,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el forearms antes de iniciar el movimiento.",
+        "Activa los antebrazos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1075,7 +1115,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el forearms antes de iniciar el movimiento.",
+        "Activa los antebrazos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1086,7 +1126,7 @@
     {
       "id": "forearms/barbell-wrist-curl-v-2",
       "slug": "barbell-wrist-curl-v-2",
-      "name": "Curl de muñeca con barra, v2",
+      "name": "Curl de muñeca con barra",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -1094,7 +1134,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el forearms antes de iniciar el movimiento.",
+        "Activa los antebrazos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1113,7 +1153,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el forearms antes de iniciar el movimiento.",
+        "Activa los antebrazos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1139,7 +1179,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1164,7 +1204,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1186,7 +1226,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1208,7 +1248,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1219,7 +1259,7 @@
     {
       "id": "glutes/barbell-full-squat-back-pov",
       "slug": "barbell-full-squat-back-pov",
-      "name": "Sentadilla con barra, completo espalda pov",
+      "name": "Sentadilla con barra, completo espalda",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1230,7 +1270,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1241,7 +1281,7 @@
     {
       "id": "glutes/barbell-full-squat-side-pov",
       "slug": "barbell-full-squat-side-pov",
-      "name": "Sentadilla con barra, lateral, completo pov",
+      "name": "Sentadilla con barra, lateral, completo",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1252,7 +1292,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1274,7 +1314,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1296,7 +1336,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1307,7 +1347,7 @@
     {
       "id": "glutes/barbell-glute-bridge-two-legs-on-bench-male",
       "slug": "barbell-glute-bridge-two-legs-on-bench-male",
-      "name": "Puente con barra, glúteo two piernas banco male",
+      "name": "Puente de glúteos con barra, a dos piernas, banco",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1318,7 +1358,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1329,7 +1369,7 @@
     {
       "id": "glutes/barbell-glute-bridge",
       "slug": "barbell-glute-bridge",
-      "name": "Puente con barra, glúteo",
+      "name": "Puente de glúteos con barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1340,7 +1380,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1351,7 +1391,7 @@
     {
       "id": "glutes/barbell-hack-squat",
       "slug": "barbell-hack-squat",
-      "name": "Sentadilla con barra, hack",
+      "name": "Hack squat con barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1362,7 +1402,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1373,7 +1413,7 @@
     {
       "id": "glutes/barbell-high-bar-squat",
       "slug": "barbell-high-bar-squat",
-      "name": "Sentadilla con barra, alto, barra",
+      "name": "Sentadilla con barra, alto",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1384,7 +1424,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1406,7 +1446,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1449,7 +1489,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1460,7 +1500,7 @@
     {
       "id": "glutes/barbell-low-bar-squat",
       "slug": "barbell-low-bar-squat",
-      "name": "Sentadilla con barra, bajo, barra",
+      "name": "Sentadilla con barra, bajo",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1471,7 +1511,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1493,7 +1533,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1504,7 +1544,7 @@
     {
       "id": "glutes/barbell-lying-lifting-on-hip",
       "slug": "barbell-lying-lifting-on-hip",
-      "name": "Con barra, tumbado, lifting cadera",
+      "name": "Lifting cadera con barra, tumbado",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1512,7 +1552,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1534,7 +1574,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1545,7 +1585,7 @@
     {
       "id": "glutes/barbell-one-arm-side-deadlift",
       "slug": "barbell-one-arm-side-deadlift",
-      "name": "Peso muerto con barra, a una mano lateral",
+      "name": "Peso muerto con barra, lateral, a una mano",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1559,7 +1599,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1570,7 +1610,7 @@
     {
       "id": "glutes/barbell-rack-pull",
       "slug": "barbell-rack-pull",
-      "name": "Con barra, rack pull",
+      "name": "Rack pull con barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1578,7 +1618,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1589,7 +1629,7 @@
     {
       "id": "glutes/barbell-rear-lunge-v-2",
       "slug": "barbell-rear-lunge-v-2",
-      "name": "Zancada con barra, posterior v2",
+      "name": "Zancada con barra, posterior",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1600,7 +1640,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1622,7 +1662,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1647,7 +1687,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1666,7 +1706,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1691,7 +1731,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1713,7 +1753,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1732,7 +1772,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1751,7 +1791,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1776,7 +1816,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1798,13 +1838,38 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
       ],
       "file": "glutes/barbell-zercher-squat.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/barbell-zercher-squat.gif"
+    },
+    {
+      "id": "glutes/trap-bar-deadlift",
+      "slug": "trap-bar-deadlift",
+      "name": "Peso muerto con barra hexagonal",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa los glúteos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "glutes/trap-bar-deadlift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/trap-bar-deadlift.gif"
     },
     {
       "id": "hamstrings/barbell-good-morning",
@@ -1817,7 +1882,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el hamstrings antes de iniciar el movimiento.",
+        "Activa los isquiotibiales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1828,7 +1893,7 @@
     {
       "id": "hamstrings/barbell-straight-leg-deadlift",
       "slug": "barbell-straight-leg-deadlift",
-      "name": "Peso muerto con barra, recto pierna",
+      "name": "Peso muerto con barra, con piernas rectas",
       "muscle": "hamstrings",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1842,7 +1907,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el hamstrings antes de iniciar el movimiento.",
+        "Activa los isquiotibiales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1861,7 +1926,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el lats antes de iniciar el movimiento.",
+        "Activa los dorsales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1880,7 +1945,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el lats antes de iniciar el movimiento.",
+        "Activa los dorsales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1899,7 +1964,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el lats antes de iniciar el movimiento.",
+        "Activa los dorsales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1921,7 +1986,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el lats antes de iniciar el movimiento.",
+        "Activa los dorsales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1940,7 +2005,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el lats antes de iniciar el movimiento.",
+        "Activa los dorsales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1962,7 +2027,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el pectorals antes de iniciar el movimiento.",
+        "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1984,7 +2049,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el pectorals antes de iniciar el movimiento.",
+        "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2003,7 +2068,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el pectorals antes de iniciar el movimiento.",
+        "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2025,7 +2090,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el pectorals antes de iniciar el movimiento.",
+        "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2044,7 +2109,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el pectorals antes de iniciar el movimiento.",
+        "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2066,7 +2131,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el pectorals antes de iniciar el movimiento.",
+        "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2088,7 +2153,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el pectorals antes de iniciar el movimiento.",
+        "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2110,7 +2175,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el pectorals antes de iniciar el movimiento.",
+        "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2132,7 +2197,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el pectorals antes de iniciar el movimiento.",
+        "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2154,7 +2219,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el pectorals antes de iniciar el movimiento.",
+        "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2176,7 +2241,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el pectorals antes de iniciar el movimiento.",
+        "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2195,7 +2260,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el pectorals antes de iniciar el movimiento.",
+        "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2218,7 +2283,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2241,7 +2306,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2268,7 +2333,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2291,7 +2356,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2314,7 +2379,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2325,7 +2390,7 @@
     {
       "id": "quads/barbell-side-split-squat-v-2",
       "slug": "barbell-side-split-squat-v-2",
-      "name": "Split squat con barra, lateral v2",
+      "name": "Split squat con barra, lateral",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -2337,7 +2402,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2360,7 +2425,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2383,7 +2448,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2394,7 +2459,7 @@
     {
       "id": "quads/barbell-split-squat-v-2",
       "slug": "barbell-split-squat-v-2",
-      "name": "Split squat con barra, v2",
+      "name": "Split squat con barra",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -2406,7 +2471,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2451,7 +2516,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2474,7 +2539,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2485,7 +2550,7 @@
     {
       "id": "serratus-anterior/barbell-incline-shoulder-raise",
       "slug": "barbell-incline-shoulder-raise",
-      "name": "Elevación inclinado con barra, hombro",
+      "name": "Elevación de hombros inclinado con barra",
       "muscle": "serratus-anterior",
       "bodyPart": "chest",
       "equipment": "barbell",
@@ -2493,7 +2558,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el serratus-anterior antes de iniciar el movimiento.",
+        "Activa el serrato anterior antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2512,7 +2577,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el traps antes de iniciar el movimiento.",
+        "Activa los trapecios antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2533,7 +2598,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2554,7 +2619,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2575,7 +2640,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2596,7 +2661,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2617,7 +2682,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2628,7 +2693,7 @@
     {
       "id": "triceps/barbell-lying-back-of-the-head-tricep-extension",
       "slug": "barbell-lying-back-of-the-head-tricep-extension",
-      "name": "Extensión con barra, tumbado, espalda head tríceps",
+      "name": "Extensión de tríceps con barra, tumbado, espalda head",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -2636,7 +2701,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2657,7 +2722,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2668,7 +2733,7 @@
     {
       "id": "triceps/barbell-lying-close-grip-triceps-extension",
       "slug": "barbell-lying-close-grip-triceps-extension",
-      "name": "Extensión con barra, tumbado, con agarre cerrado, tríceps",
+      "name": "Extensión de tríceps con barra, tumbado, con agarre cerrado",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -2676,7 +2741,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2695,7 +2760,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2706,7 +2771,7 @@
     {
       "id": "triceps/barbell-lying-triceps-extension-skull-crusher",
       "slug": "barbell-lying-triceps-extension-skull-crusher",
-      "name": "Rompecráneos con barra, tumbado, tríceps extension",
+      "name": "Extensión de tríceps con barra, tumbado, skull-crusher",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -2714,7 +2779,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2725,7 +2790,7 @@
     {
       "id": "triceps/barbell-lying-triceps-extension",
       "slug": "barbell-lying-triceps-extension",
-      "name": "Extensión con barra, tumbado, tríceps",
+      "name": "Extensión de tríceps con barra, tumbado",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -2733,7 +2798,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2754,7 +2819,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2765,7 +2830,7 @@
     {
       "id": "triceps/barbell-pin-presses",
       "slug": "barbell-pin-presses",
-      "name": "Con barra, pin presses",
+      "name": "Pin presses con barra",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -2775,7 +2840,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2796,7 +2861,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2807,7 +2872,7 @@
     {
       "id": "triceps/barbell-reverse-grip-skullcrusher",
       "slug": "barbell-reverse-grip-skullcrusher",
-      "name": "Con barra, con agarre invertido, skullcrusher",
+      "name": "Skullcrusher con barra, con agarre invertido",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -2815,7 +2880,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2826,7 +2891,7 @@
     {
       "id": "triceps/barbell-seated-close-grip-behind-neck-triceps-extension",
       "slug": "barbell-seated-close-grip-behind-neck-triceps-extension",
-      "name": "Extensión con barra, sentado, con agarre cerrado, behind neck tríceps",
+      "name": "Extensión de tríceps con barra, sentado, con agarre cerrado, behind cuello",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -2834,7 +2899,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2845,7 +2910,7 @@
     {
       "id": "triceps/barbell-seated-overhead-triceps-extension",
       "slug": "barbell-seated-overhead-triceps-extension",
-      "name": "Extensión sobre la cabeza con barra, sentado, tríceps",
+      "name": "Extensión de tríceps sobre la cabeza con barra, sentado",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -2853,7 +2918,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2864,7 +2929,7 @@
     {
       "id": "triceps/barbell-standing-overhead-triceps-extension",
       "slug": "barbell-standing-overhead-triceps-extension",
-      "name": "Extensión sobre la cabeza con barra, de pie, tríceps",
+      "name": "Extensión de tríceps sobre la cabeza con barra, de pie",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -2872,7 +2937,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2883,7 +2948,7 @@
     {
       "id": "triceps/olympic-barbell-triceps-extension",
       "slug": "olympic-barbell-triceps-extension",
-      "name": "Extensión con barra olímpica, tríceps",
+      "name": "Extensión de tríceps con barra olímpica",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -2891,7 +2956,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2914,7 +2979,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2937,7 +3002,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2960,7 +3025,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2983,7 +3048,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -3006,7 +3071,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -3029,13 +3094,36 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
       ],
       "file": "upper-back/barbell-reverse-grip-incline-bench-row.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/barbell-reverse-grip-incline-bench-row.gif"
+    },
+    {
+      "id": "upper-back/cambered-bar-lying-row",
+      "slug": "cambered-bar-lying-row",
+      "name": "Remo, tumbado, cambered barra",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "upper-back/cambered-bar-lying-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cambered-bar-lying-row.gif"
     }
   ]
 }

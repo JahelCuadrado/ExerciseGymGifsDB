@@ -5,7 +5,7 @@
     {
       "id": "abductors/lever-seated-hip-abduction",
       "slug": "lever-seated-hip-abduction",
-      "name": "En máquina, sentado, cadera abduction",
+      "name": "Abducción de cadera en máquina, sentado",
       "muscle": "abductors",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -13,7 +13,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el abductors antes de iniciar el movimiento.",
+        "Activa los abductores antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -24,7 +24,7 @@
     {
       "id": "abductors/resistance-band-seated-hip-abduction",
       "slug": "resistance-band-seated-hip-abduction",
-      "name": "Con banda elástica, sentado, cadera abduction",
+      "name": "Abducción de cadera con banda elástica, sentado",
       "muscle": "abductors",
       "bodyPart": "legs",
       "equipment": "band",
@@ -32,7 +32,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el abductors antes de iniciar el movimiento.",
+        "Activa los abductores antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -43,18 +43,18 @@
     {
       "id": "abductors/side-bridge-hip-abduction",
       "slug": "side-bridge-hip-abduction",
-      "name": "Puente, lateral, cadera abduction",
+      "name": "Abducción de cadera en puente lateral",
       "muscle": "abductors",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "hamstrings",
         "abs"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el abductors antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los abductores antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -65,15 +65,15 @@
     {
       "id": "abductors/side-hip-abduction",
       "slug": "side-hip-abduction",
-      "name": "Cadera abduction, lateral, cadera abduction",
+      "name": "Abducción de cadera, lateral",
       "muscle": "abductors",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el abductors antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los abductores antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -84,15 +84,15 @@
     {
       "id": "abductors/straight-leg-outer-hip-abductor",
       "slug": "straight-leg-outer-hip-abductor",
-      "name": "Recto pierna cadera abductor, externo, recto pierna cadera abductor",
+      "name": "Abductores, con piernas rectas externo, cadera",
       "muscle": "abductors",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el abductors antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los abductores antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."

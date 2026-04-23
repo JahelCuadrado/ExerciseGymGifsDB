@@ -1,17 +1,17 @@
 [
   {
     "equipment": "band",
-    "count": 61,
+    "count": 62,
     "endpoint": "equipment/band.json"
   },
   {
     "equipment": "barbell",
-    "count": 144,
+    "count": 148,
     "endpoint": "equipment/barbell.json"
   },
   {
     "equipment": "bodyweight",
-    "count": 52,
+    "count": 415,
     "endpoint": "equipment/bodyweight.json"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "equipment": "dumbbell",
-    "count": 286,
+    "count": 287,
     "endpoint": "equipment/dumbbell.json"
   },
   {
@@ -36,17 +36,17 @@
   },
   {
     "equipment": "lever",
-    "count": 74,
+    "count": 78,
     "endpoint": "equipment/lever.json"
   },
   {
     "equipment": "machine",
-    "count": 2,
+    "count": 19,
     "endpoint": "equipment/machine.json"
   },
   {
     "equipment": "other",
-    "count": 436,
+    "count": 46,
     "endpoint": "equipment/other.json"
   },
   {

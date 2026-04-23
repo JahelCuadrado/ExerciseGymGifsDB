@@ -2,7 +2,7 @@
   "name": "Exercise GIF API",
   "language": "en",
   "baseUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main",
-  "generatedAt": "2026-04-22T09:21:12.177Z",
+  "generatedAt": "2026-04-23T15:36:52.580Z",
   "totals": {
     "muscles": 19,
     "exercises": 1323,
@@ -20,7 +20,8 @@
     "bodyPartList": "en/bodyparts.json",
     "bodyPartDetail": "en/bodyparts/{bodyPart}.json",
     "categoryList": "en/categories.json",
-    "categoryDetail": "en/categories/{category}.json"
+    "categoryDetail": "en/categories/{category}.json",
+    "search": "en/search.json"
   },
   "muscles": [
     {

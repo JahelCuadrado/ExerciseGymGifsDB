@@ -3,18 +3,32 @@
  */
 
 // Orden importa: las claves más específicas van primero.
+// Notas:
+//  - "lever" y "machine" comparten semántica (máquina guiada). Mantenemos
+//    "lever" como preferente porque engloba la mayoría de los GIFs de gimnasio.
+//  - "bodyweight" cubre tanto peso corporal puro como movimientos con balón
+//    medicinal / bosu / fitball / foam roller (todos asistidos pero sin carga
+//    externa convencional). Se mantienen como "bodyweight" para poder filtrar
+//    todo lo que NO requiere peso libre ni máquina.
 const EQUIPMENT_RULES = [
 	{ key: "smith", match: /(^|-)smith(-|$)/ },
 	{ key: "ez-bar", match: /(^|-)ez-(bar|barbell)(-|$)/ },
 	{ key: "olympic-barbell", match: /(^|-)olympic-barbell(-|$)/ },
-	{ key: "barbell", match: /(^|-)barbell(-|$)/ },
-	{ key: "dumbbell", match: /(^|-)dumbbell(-|$)/ },
-	{ key: "kettlebell", match: /(^|-)kettlebell(-|$)/ },
-	{ key: "cable", match: /(^|-)cable(-|$)/ },
-	{ key: "lever", match: /(^|-)lever(-|$)/ },
-	{ key: "band", match: /(^|-)(band|resistance-band)(-|$)/ },
-	{ key: "machine", match: /(^|-)machine(-|$)/ },
-	{ key: "bodyweight", match: /(^|-)(bodyweight|self|weighted)(-|$)/ },
+	{ key: "barbell", match: /(^|-)(barbell|trap-bar|cambered-bar|landmine)(-|$)/ },
+	{ key: "dumbbell", match: /(^|-)dumbbells?(-|$)/ },
+	{ key: "kettlebell", match: /(^|-)kettlebells?(-|$)/ },
+	{ key: "cable", match: /(^|-)(cable|pulley|rope-attachment|rope-crossover|rope-extension)(-|$)/ },
+	{ key: "lever", match: /(^|-)(lever|hack)(-|$)/ },
+	{ key: "band", match: /(^|-)(band|resistance-band|tubing|battling-ropes|battle-rope)(-|$)/ },
+	{ key: "machine", match: /(^|-)(machine|sled|sledge|platform-slide|stepmill|cross-trainer|elliptical|treadmill)(-|$)/ },
+	// Movimientos con accesorios livianos que no son peso libre ni máquina:
+	// balón medicinal, bosu, fitball/stability-ball, foam roller, silla, caja,
+	// pared, toalla, anillas, barra fija, suspensión, yoga, boxing.
+	{
+		key: "bodyweight",
+		match:
+			/(^|-)(bodyweight|self|weighted|medicine-ball|bosu|stability-ball|exercise-ball|swiss-ball|fitball|foam-roller|roller|chair|captains-chair|wall|towel|ring|rings|suspended|suspension|box|bench|vertical-bar|parallel-bars|dip-cage|dip|chin|pull-up|push-up|sit-up|crunch|plank|bridge|squat|lunge|stretch|jump|hop|burpee|mountain-climber|handstand|muscle-up|v-up|v-ups|v-sit|sit-ups|push-ups|pull-ups|chin-ups|knee-raise|leg-raise|hip-raise|hip-abduction|hip-abductor|hanging|hyperextension|back-extension|russian-twist|bicycle|flutter|scissor|cocoon|cocoons|inchworm|frog|maltese|planche|flag|l-sit|toe-touch|heel-touch|heel-toucher|heel-touchers|butt-up|bottoms-up|pelvic-tilt|clamshell|fire-hydrant|donkey-kick|donkey|glute-bridge|side-lying|side-bend|side-plank|side-hip|dead-bug|bird-dog|superman|otis-up|sphinx|cobra|landmine-180|jumping-jack|high-knees|butt-kicks|arm-slingers|world-greatest|skip|run|walk|jog|air-bike|ski-erg|rowing-machine|calf-raise|calf-raises|calves|shoulder-tap|shoulder-taps|spell-caster|spine-twist|wheel-roller|wheel-rollerout|wind-sprint|wind-sprints|sprint|skater|ski-step|swing|butterfly|yoga|ankle-circle|ankle-circles|curl-up|elbow-to-knee|concentration|step-to|back-and-forth|bear-crawl|crawl|boxing|hook|cross-punch|jab|uppercut|astride-jumps|half-knee-bends|behind-neck-press|posterior-step)(-|$)/,
+	},
 ];
 
 // "olympic-barbell" lo mapeamos a "barbell" para cumplir el enum del usuario.

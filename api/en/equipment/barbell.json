@@ -1,6 +1,6 @@
 {
   "equipment": "barbell",
-  "count": 144,
+  "count": 148,
   "exercises": [
     {
       "id": "abs/barbell-press-sit-up",
@@ -16,7 +16,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the abs before initiating the movement.",
+        "Pre-engage the core before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -35,7 +35,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the abs before initiating the movement.",
+        "Pre-engage the core before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -54,7 +54,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the abs before initiating the movement.",
+        "Pre-engage the core before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -73,7 +73,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the abs before initiating the movement.",
+        "Pre-engage the core before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -92,7 +92,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the abs before initiating the movement.",
+        "Pre-engage the core before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -111,7 +111,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the abs before initiating the movement.",
+        "Pre-engage the core before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -130,7 +130,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the abs before initiating the movement.",
+        "Pre-engage the core before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -149,7 +149,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the abs before initiating the movement.",
+        "Pre-engage the core before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -168,13 +168,32 @@
       "secondaryMuscles": [],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the abs before initiating the movement.",
+        "Pre-engage the core before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
       ],
       "file": "abs/barbell-standing-twist.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/barbell-standing-twist.gif"
+    },
+    {
+      "id": "abs/landmine-180",
+      "slug": "landmine-180",
+      "name": "Landmine 180",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Load the bar with an appropriate weight and adopt the starting position.",
+        "Pre-engage the core before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "abs/landmine-180.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/landmine-180.gif"
     },
     {
       "id": "biceps/barbell-alternate-biceps-curl",
@@ -639,7 +658,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -664,7 +683,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -685,7 +704,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -707,7 +726,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -728,7 +747,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -749,7 +768,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -770,7 +789,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -789,7 +808,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -810,7 +829,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -831,7 +850,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -852,7 +871,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -873,7 +892,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -892,7 +911,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -914,7 +933,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -936,7 +955,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -958,7 +977,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -980,13 +999,34 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
       ],
       "file": "delts/barbell-wide-grip-upright-row.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-wide-grip-upright-row.gif"
+    },
+    {
+      "id": "delts/landmine-lateral-raise",
+      "slug": "landmine-lateral-raise",
+      "name": "Landmine Lateral Raise",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Load the bar with an appropriate weight and adopt the starting position.",
+        "Pre-engage the shoulders before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "delts/landmine-lateral-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/landmine-lateral-raise.gif"
     },
     {
       "id": "forearms/barbell-palms-down-wrist-curl-over-a-bench",
@@ -1807,6 +1847,31 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/barbell-zercher-squat.gif"
     },
     {
+      "id": "glutes/trap-bar-deadlift",
+      "slug": "trap-bar-deadlift",
+      "name": "Trap Bar Deadlift",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Load the bar with an appropriate weight and adopt the starting position.",
+        "Pre-engage the glutes before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "glutes/trap-bar-deadlift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/trap-bar-deadlift.gif"
+    },
+    {
       "id": "hamstrings/barbell-good-morning",
       "slug": "barbell-good-morning",
       "name": "Barbell Good Morning",
@@ -1962,7 +2027,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the pectorals before initiating the movement.",
+        "Pre-engage the chest before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -1984,7 +2049,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the pectorals before initiating the movement.",
+        "Pre-engage the chest before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2003,7 +2068,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the pectorals before initiating the movement.",
+        "Pre-engage the chest before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2025,7 +2090,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the pectorals before initiating the movement.",
+        "Pre-engage the chest before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2044,7 +2109,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the pectorals before initiating the movement.",
+        "Pre-engage the chest before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2066,7 +2131,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the pectorals before initiating the movement.",
+        "Pre-engage the chest before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2088,7 +2153,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the pectorals before initiating the movement.",
+        "Pre-engage the chest before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2110,7 +2175,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the pectorals before initiating the movement.",
+        "Pre-engage the chest before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2132,7 +2197,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the pectorals before initiating the movement.",
+        "Pre-engage the chest before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2154,7 +2219,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the pectorals before initiating the movement.",
+        "Pre-engage the chest before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2176,7 +2241,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the pectorals before initiating the movement.",
+        "Pre-engage the chest before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2195,7 +2260,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the pectorals before initiating the movement.",
+        "Pre-engage the chest before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2218,7 +2283,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the quads before initiating the movement.",
+        "Pre-engage the quadriceps before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2241,7 +2306,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the quads before initiating the movement.",
+        "Pre-engage the quadriceps before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2268,7 +2333,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the quads before initiating the movement.",
+        "Pre-engage the quadriceps before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2291,7 +2356,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the quads before initiating the movement.",
+        "Pre-engage the quadriceps before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2314,7 +2379,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the quads before initiating the movement.",
+        "Pre-engage the quadriceps before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2337,7 +2402,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the quads before initiating the movement.",
+        "Pre-engage the quadriceps before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2360,7 +2425,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the quads before initiating the movement.",
+        "Pre-engage the quadriceps before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2383,7 +2448,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the quads before initiating the movement.",
+        "Pre-engage the quadriceps before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2406,7 +2471,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the quads before initiating the movement.",
+        "Pre-engage the quadriceps before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2451,7 +2516,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the quads before initiating the movement.",
+        "Pre-engage the quadriceps before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2474,7 +2539,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the quads before initiating the movement.",
+        "Pre-engage the quadriceps before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2493,7 +2558,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the serratus-anterior before initiating the movement.",
+        "Pre-engage the serratus anterior before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2914,7 +2979,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the upper-back before initiating the movement.",
+        "Pre-engage the upper back before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2937,7 +3002,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the upper-back before initiating the movement.",
+        "Pre-engage the upper back before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2960,7 +3025,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the upper-back before initiating the movement.",
+        "Pre-engage the upper back before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -2983,7 +3048,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the upper-back before initiating the movement.",
+        "Pre-engage the upper back before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -3006,7 +3071,7 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the upper-back before initiating the movement.",
+        "Pre-engage the upper back before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -3029,13 +3094,36 @@
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
-        "Pre-engage the upper-back before initiating the movement.",
+        "Pre-engage the upper back before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
       ],
       "file": "upper-back/barbell-reverse-grip-incline-bench-row.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/barbell-reverse-grip-incline-bench-row.gif"
+    },
+    {
+      "id": "upper-back/cambered-bar-lying-row",
+      "slug": "cambered-bar-lying-row",
+      "name": "Cambered Bar Lying Row",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Load the bar with an appropriate weight and adopt the starting position.",
+        "Pre-engage the upper back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/cambered-bar-lying-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cambered-bar-lying-row.gif"
     }
   ]
 }

@@ -5,7 +5,7 @@
     {
       "id": "serratus-anterior/barbell-incline-shoulder-raise",
       "slug": "barbell-incline-shoulder-raise",
-      "name": "Elevación inclinado con barra, hombro",
+      "name": "Elevación de hombros inclinado con barra",
       "muscle": "serratus-anterior",
       "bodyPart": "chest",
       "equipment": "barbell",
@@ -13,7 +13,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el serratus-anterior antes de iniciar el movimiento.",
+        "Activa el serrato anterior antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -24,7 +24,7 @@
     {
       "id": "serratus-anterior/dumbbell-incline-shoulder-raise",
       "slug": "dumbbell-incline-shoulder-raise",
-      "name": "Elevación inclinado con mancuerna, hombro",
+      "name": "Elevación de hombros inclinado con mancuerna",
       "muscle": "serratus-anterior",
       "bodyPart": "chest",
       "equipment": "dumbbell",
@@ -32,7 +32,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
-        "Activa el serratus-anterior antes de iniciar el movimiento.",
+        "Activa el serrato anterior antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -46,15 +46,15 @@
       "name": "Flexión inclinado, scapula",
       "muscle": "serratus-anterior",
       "bodyPart": "chest",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el serratus-anterior antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa el serrato anterior antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -68,15 +68,15 @@
       "name": "Flexión, scapula",
       "muscle": "serratus-anterior",
       "bodyPart": "chest",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el serratus-anterior antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa el serrato anterior antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -87,7 +87,7 @@
     {
       "id": "serratus-anterior/smith-incline-shoulder-raises",
       "slug": "smith-incline-shoulder-raises",
-      "name": "Elevaciones inclinado en máquina Smith, hombro",
+      "name": "Elevaciones de hombros inclinado en máquina Smith",
       "muscle": "serratus-anterior",
       "bodyPart": "chest",
       "equipment": "smith",
@@ -95,7 +95,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
-        "Activa el serratus-anterior antes de iniciar el movimiento.",
+        "Activa el serrato anterior antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."

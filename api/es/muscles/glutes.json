@@ -5,15 +5,15 @@
     {
       "id": "glutes/arms-apart-circular-toe-touch-male",
       "slug": "arms-apart-circular-toe-touch-male",
-      "name": "Brazos apart circular toe touch male, brazos apart circular toe touch male",
+      "name": "Tocar punta del pie, brazos apart circular",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -24,15 +24,15 @@
     {
       "id": "glutes/assisted-lying-glutes-stretch",
       "slug": "assisted-lying-glutes-stretch",
-      "name": "Estiramiento, tumbado, assisted glúteos",
+      "name": "Estiramiento, tumbado, asistido, glúteos",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "stretching",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Lleva el cuerpo a la posición de estiramiento del glutes.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Lleva el cuerpo a la posición de estiramiento de los glúteos.",
         "Mantén entre 20 y 40 segundos respirando de forma profunda.",
         "Vuelve a la posición inicial lentamente y repite si lo deseas."
       ],
@@ -42,15 +42,15 @@
     {
       "id": "glutes/assisted-lying-gluteus-and-piriformis-stretch",
       "slug": "assisted-lying-gluteus-and-piriformis-stretch",
-      "name": "Estiramiento, tumbado, assisted gluteus piriformis",
+      "name": "Estiramiento, tumbado, asistido, gluteus piriformis",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "stretching",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Lleva el cuerpo a la posición de estiramiento del glutes.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Lleva el cuerpo a la posición de estiramiento de los glúteos.",
         "Mantén entre 20 y 40 segundos respirando de forma profunda.",
         "Vuelve a la posición inicial lentamente y repite si lo deseas."
       ],
@@ -68,7 +68,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -79,7 +79,7 @@
     {
       "id": "glutes/band-hip-lift",
       "slug": "band-hip-lift",
-      "name": "Con banda, cadera lift",
+      "name": "Cadera lift con banda",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -87,7 +87,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -98,7 +98,7 @@
     {
       "id": "glutes/band-lying-hip-internal-rotation",
       "slug": "band-lying-hip-internal-rotation",
-      "name": "Con banda, tumbado, cadera internal rotation",
+      "name": "Cadera internal rotation con banda, tumbado",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -106,7 +106,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -117,7 +117,7 @@
     {
       "id": "glutes/band-pull-through",
       "slug": "band-pull-through",
-      "name": "Con banda, pull through",
+      "name": "Pull through con banda",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -125,7 +125,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -136,7 +136,7 @@
     {
       "id": "glutes/band-seated-hip-internal-rotation",
       "slug": "band-seated-hip-internal-rotation",
-      "name": "Con banda, sentado, cadera internal rotation",
+      "name": "Cadera internal rotation con banda, sentado",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -144,7 +144,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -169,7 +169,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -191,7 +191,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -210,7 +210,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -235,7 +235,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -260,7 +260,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -286,7 +286,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -311,7 +311,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -333,7 +333,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -355,7 +355,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -366,7 +366,7 @@
     {
       "id": "glutes/barbell-full-squat-back-pov",
       "slug": "barbell-full-squat-back-pov",
-      "name": "Sentadilla con barra, completo espalda pov",
+      "name": "Sentadilla con barra, completo espalda",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -377,7 +377,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -388,7 +388,7 @@
     {
       "id": "glutes/barbell-full-squat-side-pov",
       "slug": "barbell-full-squat-side-pov",
-      "name": "Sentadilla con barra, lateral, completo pov",
+      "name": "Sentadilla con barra, lateral, completo",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -399,7 +399,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -421,7 +421,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -443,7 +443,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -454,7 +454,7 @@
     {
       "id": "glutes/barbell-glute-bridge-two-legs-on-bench-male",
       "slug": "barbell-glute-bridge-two-legs-on-bench-male",
-      "name": "Puente con barra, glúteo two piernas banco male",
+      "name": "Puente de glúteos con barra, a dos piernas, banco",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -465,7 +465,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -476,7 +476,7 @@
     {
       "id": "glutes/barbell-glute-bridge",
       "slug": "barbell-glute-bridge",
-      "name": "Puente con barra, glúteo",
+      "name": "Puente de glúteos con barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -487,7 +487,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -498,7 +498,7 @@
     {
       "id": "glutes/barbell-hack-squat",
       "slug": "barbell-hack-squat",
-      "name": "Sentadilla con barra, hack",
+      "name": "Hack squat con barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -509,7 +509,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -520,7 +520,7 @@
     {
       "id": "glutes/barbell-high-bar-squat",
       "slug": "barbell-high-bar-squat",
-      "name": "Sentadilla con barra, alto, barra",
+      "name": "Sentadilla con barra, alto",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -531,7 +531,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -553,7 +553,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -596,7 +596,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -607,7 +607,7 @@
     {
       "id": "glutes/barbell-low-bar-squat",
       "slug": "barbell-low-bar-squat",
-      "name": "Sentadilla con barra, bajo, barra",
+      "name": "Sentadilla con barra, bajo",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -618,7 +618,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -640,7 +640,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -651,7 +651,7 @@
     {
       "id": "glutes/barbell-lying-lifting-on-hip",
       "slug": "barbell-lying-lifting-on-hip",
-      "name": "Con barra, tumbado, lifting cadera",
+      "name": "Lifting cadera con barra, tumbado",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -659,7 +659,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -681,7 +681,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -692,7 +692,7 @@
     {
       "id": "glutes/barbell-one-arm-side-deadlift",
       "slug": "barbell-one-arm-side-deadlift",
-      "name": "Peso muerto con barra, a una mano lateral",
+      "name": "Peso muerto con barra, lateral, a una mano",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -706,7 +706,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -717,7 +717,7 @@
     {
       "id": "glutes/barbell-rack-pull",
       "slug": "barbell-rack-pull",
-      "name": "Con barra, rack pull",
+      "name": "Rack pull con barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -725,7 +725,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -736,7 +736,7 @@
     {
       "id": "glutes/barbell-rear-lunge-v-2",
       "slug": "barbell-rear-lunge-v-2",
-      "name": "Zancada con barra, posterior v2",
+      "name": "Zancada con barra, posterior",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -747,7 +747,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -769,7 +769,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -794,7 +794,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -813,7 +813,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -838,7 +838,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -860,7 +860,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -879,7 +879,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -898,7 +898,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -923,7 +923,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -945,7 +945,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -956,15 +956,15 @@
     {
       "id": "glutes/basic-toe-touch-male",
       "slug": "basic-toe-touch-male",
-      "name": "Basic toe touch male, basic toe touch male",
+      "name": "Tocar punta del pie, basic",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -978,12 +978,12 @@
       "name": "Extensión, banco cadera",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -994,7 +994,7 @@
     {
       "id": "glutes/bent-knee-lying-twist-male",
       "slug": "bent-knee-lying-twist-male",
-      "name": "Giro, tumbado, doblado rodilla male",
+      "name": "Giro, tumbado, con rodillas flexionadas",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "other",
@@ -1002,7 +1002,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1048,7 +1048,7 @@
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1059,7 +1059,7 @@
     {
       "id": "glutes/cable-pull-through-with-rope",
       "slug": "cable-pull-through-with-rope",
-      "name": "En polea, con cuerda, pull through",
+      "name": "Pull through en polea, con cuerda",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "cable",
@@ -1067,7 +1067,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1086,7 +1086,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1100,15 +1100,15 @@
       "name": "Sentadilla, curtsey",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "hamstrings",
         "calves"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1130,7 +1130,7 @@
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1155,7 +1155,7 @@
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1177,7 +1177,7 @@
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1202,7 +1202,7 @@
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1224,7 +1224,7 @@
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1249,7 +1249,7 @@
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1292,7 +1292,7 @@
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1317,7 +1317,7 @@
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1342,7 +1342,7 @@
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1367,7 +1367,7 @@
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1389,7 +1389,7 @@
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1411,7 +1411,7 @@
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1430,7 +1430,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1455,7 +1455,7 @@
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1466,7 +1466,7 @@
     {
       "id": "glutes/dumbbell-straight-leg-deadlift",
       "slug": "dumbbell-straight-leg-deadlift",
-      "name": "Peso muerto con mancuerna, recto pierna",
+      "name": "Peso muerto con mancuerna, con piernas rectas",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -1480,7 +1480,7 @@
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1491,7 +1491,7 @@
     {
       "id": "glutes/dumbbell-sumo-pull-through",
       "slug": "dumbbell-sumo-pull-through",
-      "name": "Con mancuerna, sumo pull through",
+      "name": "Sumo pull through con mancuerna",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -1499,7 +1499,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1513,12 +1513,12 @@
       "name": "Estiramiento en fitball, cadera flexor",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "stretching",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Lleva el cuerpo a la posición de estiramiento del glutes.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Lleva el cuerpo a la posición de estiramiento de los glúteos.",
         "Mantén entre 20 y 40 segundos respirando de forma profunda.",
         "Vuelve a la posición inicial lentamente y repite si lo deseas."
       ],
@@ -1528,15 +1528,15 @@
     {
       "id": "glutes/exercise-ball-one-leg-prone-lower-body-rotation",
       "slug": "exercise-ball-one-leg-prone-lower-body-rotation",
-      "name": "Tumbado boca abajo en fitball, a una pierna, inferior body rotation",
+      "name": "Inferior body rotation tumbado boca abajo en fitball, a una pierna",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1550,12 +1550,12 @@
       "name": "Curl en fitball, one legged diagonal kick isquiotibial",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1566,15 +1566,15 @@
     {
       "id": "glutes/flutter-kicks",
       "slug": "flutter-kicks",
-      "name": "Flutter kicks, flutter kicks",
+      "name": "Tijeras",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1585,18 +1585,18 @@
     {
       "id": "glutes/forward-lunge-male",
       "slug": "forward-lunge-male",
-      "name": "Zancada, forward male",
+      "name": "Zancada, forward",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "hamstrings",
         "calves"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1610,15 +1610,15 @@
       "name": "Sentadilla, frankenstein",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "hamstrings",
         "calves"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1629,18 +1629,18 @@
     {
       "id": "glutes/glute-bridge-march",
       "slug": "glute-bridge-march",
-      "name": "Puente, glúteo march",
+      "name": "Puente de glúteos, march",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "hamstrings",
         "abs"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1651,18 +1651,18 @@
     {
       "id": "glutes/glute-bridge-two-legs-on-bench-male",
       "slug": "glute-bridge-two-legs-on-bench-male",
-      "name": "Puente, glúteo two piernas banco male",
+      "name": "Puente de glúteos, a dos piernas, banco",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "hamstrings",
         "abs"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1673,15 +1673,15 @@
     {
       "id": "glutes/hands-clasped-circular-toe-touch-male",
       "slug": "hands-clasped-circular-toe-touch-male",
-      "name": "Hands clasped circular toe touch male, hands clasped circular toe touch male",
+      "name": "Tocar punta del pie, hands clasped circular",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1692,15 +1692,15 @@
     {
       "id": "glutes/hands-reversed-clasped-circular-toe-touch-male",
       "slug": "hands-reversed-clasped-circular-toe-touch-male",
-      "name": "Hands reversed clasped circular toe touch male, hands reversed clasped circular toe touch male",
+      "name": "Tocar punta del pie, hands reversed clasped circular",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1711,7 +1711,7 @@
     {
       "id": "glutes/hug-keens-to-chest",
       "slug": "hug-keens-to-chest",
-      "name": "Hug keens pecho, hug keens pecho",
+      "name": "Hug keens pecho",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "other",
@@ -1719,7 +1719,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1733,12 +1733,12 @@
       "name": "Estiramiento, iron cross",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "stretching",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Lleva el cuerpo a la posición de estiramiento del glutes.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Lleva el cuerpo a la posición de estiramiento de los glúteos.",
         "Mantén entre 20 y 40 segundos respirando de forma profunda.",
         "Vuelve a la posición inicial lentamente y repite si lo deseas."
       ],
@@ -1748,17 +1748,17 @@
     {
       "id": "glutes/jump-squat-v-2",
       "slug": "jump-squat-v-2",
-      "name": "Sentadilla con salto, v2",
+      "name": "Sentadilla con salto",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "plyometrics",
       "secondaryMuscles": [
         "hamstrings",
         "calves"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Realiza una breve flexión para acumular tensión.",
         "Ejecuta el movimiento de forma explosiva y aterriza con control.",
         "Aterriza suave amortiguando con piernas y core, y encadena la siguiente repetición."
@@ -1772,14 +1772,14 @@
       "name": "Sentadilla con salto",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "plyometrics",
       "secondaryMuscles": [
         "hamstrings",
         "calves"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Realiza una breve flexión para acumular tensión.",
         "Ejecuta el movimiento de forma explosiva y aterriza con control.",
         "Aterriza suave amortiguando con piernas y core, y encadena la siguiente repetición."
@@ -1801,7 +1801,7 @@
       ],
       "instructions": [
         "Coge la kettlebell con un peso adecuado y adopta la postura.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1823,7 +1823,7 @@
       ],
       "instructions": [
         "Coge la kettlebell con un peso adecuado y adopta la postura.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1845,7 +1845,7 @@
       ],
       "instructions": [
         "Coge la kettlebell con un peso adecuado y adopta la postura.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1856,7 +1856,7 @@
     {
       "id": "glutes/kettlebell-pistol-squat",
       "slug": "kettlebell-pistol-squat",
-      "name": "Sentadilla con kettlebell, pistol",
+      "name": "Sentadilla pistol con kettlebell",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "kettlebell",
@@ -1867,7 +1867,7 @@
       ],
       "instructions": [
         "Coge la kettlebell con un peso adecuado y adopta la postura.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1892,7 +1892,7 @@
       ],
       "instructions": [
         "Coge la kettlebell con un peso adecuado y adopta la postura.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1914,7 +1914,7 @@
       ],
       "instructions": [
         "Coge la kettlebell con un peso adecuado y adopta la postura.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1928,14 +1928,14 @@
       "name": "Sentadilla con salto, de rodillas",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "plyometrics",
       "secondaryMuscles": [
         "hamstrings",
         "calves"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Realiza una breve flexión para acumular tensión.",
         "Ejecuta el movimiento de forma explosiva y aterriza con control.",
         "Aterriza suave amortiguando con piernas y core, y encadena la siguiente repetición."
@@ -1960,7 +1960,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1971,7 +1971,7 @@
     {
       "id": "glutes/lever-hip-extension-v-2",
       "slug": "lever-hip-extension-v-2",
-      "name": "Extensión en máquina, v2, cadera",
+      "name": "Extensión en máquina, cadera",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -1979,7 +1979,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1990,7 +1990,7 @@
     {
       "id": "glutes/lever-horizontal-one-leg-press",
       "slug": "lever-horizontal-one-leg-press",
-      "name": "Press en máquina, a una pierna, horizontal",
+      "name": "Press en máquina, horizontal a una pierna",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -2001,7 +2001,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2012,7 +2012,7 @@
     {
       "id": "glutes/lever-reverse-hyperextension",
       "slug": "lever-reverse-hyperextension",
-      "name": "Invertido en máquina, hyperextension",
+      "name": "Hyperextension invertido en máquina",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -2020,7 +2020,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2039,7 +2039,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2050,18 +2050,18 @@
     {
       "id": "glutes/low-glute-bridge-on-floor",
       "slug": "low-glute-bridge-on-floor",
-      "name": "Puente, bajo, glúteo suelo",
+      "name": "Puente de glúteos, bajo, suelo",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "hamstrings",
         "abs"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2075,14 +2075,14 @@
       "name": "Zancada, jump",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "plyometrics",
       "secondaryMuscles": [
         "hamstrings",
         "calves"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Realiza una breve flexión para acumular tensión.",
         "Ejecuta el movimiento de forma explosiva y aterriza con control.",
         "Aterriza suave amortiguando con piernas y core, y encadena la siguiente repetición."
@@ -2093,15 +2093,15 @@
     {
       "id": "glutes/march-sit-wall",
       "slug": "march-sit-wall",
-      "name": "March sit pared, march sit pared",
+      "name": "March sit pared",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2112,15 +2112,15 @@
     {
       "id": "glutes/monster-walk",
       "slug": "monster-walk",
-      "name": "Monster caminar, monster caminar",
+      "name": "Monster caminata",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2134,15 +2134,15 @@
       "name": "Sentadilla, a una pierna",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "hamstrings",
         "calves"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2156,15 +2156,15 @@
       "name": "Flexión, externo pierna kick",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2175,18 +2175,18 @@
     {
       "id": "glutes/pelvic-tilt-into-bridge",
       "slug": "pelvic-tilt-into-bridge",
-      "name": "Puente, pelvic tilt into",
+      "name": "Inclinación pélvica, into puente",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "hamstrings",
         "abs"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2200,15 +2200,15 @@
       "name": "Flexión, pike cobra",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2222,15 +2222,15 @@
       "name": "Sentadilla, potty support",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "hamstrings",
         "calves"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2244,15 +2244,15 @@
       "name": "Flexión, interno pierna kick",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2266,15 +2266,15 @@
       "name": "Puente declinado, posterior",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "hamstrings",
         "abs"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2285,7 +2285,7 @@
     {
       "id": "glutes/resistance-band-hip-thrusts-on-knees-female",
       "slug": "resistance-band-hip-thrusts-on-knees-female",
-      "name": "Hip thrust con banda elástica, rodillas female",
+      "name": "Hip thrust con banda elástica, rodillas",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -2296,7 +2296,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2310,12 +2310,12 @@
       "name": "Extensión invertido, en fitball, hyper",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2326,15 +2326,15 @@
     {
       "id": "glutes/reverse-hyper-on-flat-bench",
       "slug": "reverse-hyper-on-flat-bench",
-      "name": "Invertido plano, hyper banco",
+      "name": "Hyper banco invertido plano",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2348,12 +2348,12 @@
       "name": "Estiramiento, rocking frog",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "stretching",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Lleva el cuerpo a la posición de estiramiento del glutes.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Lleva el cuerpo a la posición de estiramiento de los glúteos.",
         "Mantén entre 20 y 40 segundos respirando de forma profunda.",
         "Vuelve a la posición inicial lentamente y repite si lo deseas."
       ],
@@ -2366,12 +2366,12 @@
       "name": "Estiramiento, roller cadera dorsal",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "stretching",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Lleva el cuerpo a la posición de estiramiento del glutes.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Lleva el cuerpo a la posición de estiramiento de los glúteos.",
         "Mantén entre 20 y 40 segundos respirando de forma profunda.",
         "Vuelve a la posición inicial lentamente y repite si lo deseas."
       ],
@@ -2384,12 +2384,12 @@
       "name": "Estiramiento, roller cadera",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "stretching",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Lleva el cuerpo a la posición de estiramiento del glutes.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Lleva el cuerpo a la posición de estiramiento de los glúteos.",
         "Mantén entre 20 y 40 segundos respirando de forma profunda.",
         "Vuelve a la posición inicial lentamente y repite si lo deseas."
       ],
@@ -2402,12 +2402,12 @@
       "name": "Estiramiento, sentado, glúteo",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "stretching",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Lleva el cuerpo a la posición de estiramiento del glutes.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Lleva el cuerpo a la posición de estiramiento de los glúteos.",
         "Mantén entre 20 y 40 segundos respirando de forma profunda.",
         "Vuelve a la posición inicial lentamente y repite si lo deseas."
       ],
@@ -2420,12 +2420,12 @@
       "name": "Estiramiento, sentado, piriformis",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "stretching",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Lleva el cuerpo a la posición de estiramiento del glutes.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Lleva el cuerpo a la posición de estiramiento de los glúteos.",
         "Mantén entre 20 y 40 segundos respirando de forma profunda.",
         "Vuelve a la posición inicial lentamente y repite si lo deseas."
       ],
@@ -2438,15 +2438,15 @@
       "name": "Puente, a una pierna, outstretched pierna",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "hamstrings",
         "abs"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2457,18 +2457,18 @@
     {
       "id": "glutes/single-leg-squat-pistol-male",
       "slug": "single-leg-squat-pistol-male",
-      "name": "Sentadilla, a una pierna, pistol male",
+      "name": "Sentadilla, a una pierna, pistol",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "hamstrings",
         "calves"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2479,18 +2479,18 @@
     {
       "id": "glutes/sled-45-degrees-one-leg-press",
       "slug": "sled-45-degrees-one-leg-press",
-      "name": "Press, a una pierna, sled 45 degrees",
+      "name": "Press, a una pierna, sled degrees",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "machine",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2501,18 +2501,18 @@
     {
       "id": "glutes/sled-45-leg-press-back-pov",
       "slug": "sled-45-leg-press-back-pov",
-      "name": "Prensa de piernas, sled 45 espalda pov",
+      "name": "Prensa de piernas, sled espalda",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "machine",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2523,18 +2523,18 @@
     {
       "id": "glutes/sled-45-leg-press-side-pov",
       "slug": "sled-45-leg-press-side-pov",
-      "name": "Prensa de piernas, lateral, sled 45 pov",
+      "name": "Prensa de piernas, lateral, sled",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "machine",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2545,18 +2545,18 @@
     {
       "id": "glutes/sled-45-leg-press",
       "slug": "sled-45-leg-press",
-      "name": "Prensa de piernas, sled 45",
+      "name": "Prensa de piernas, sled",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "machine",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2567,18 +2567,18 @@
     {
       "id": "glutes/sled-45-leg-wide-press",
       "slug": "sled-45-leg-wide-press",
-      "name": "Press, ancho, sled 45 pierna",
+      "name": "Press, ancho, sled pierna",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "machine",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2589,18 +2589,18 @@
     {
       "id": "glutes/sled-closer-hack-squat",
       "slug": "sled-closer-hack-squat",
-      "name": "Sentadilla, sled closer hack",
+      "name": "Hack squat, sled closer",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "lever",
       "category": "strength",
       "secondaryMuscles": [
         "hamstrings",
         "calves"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2611,18 +2611,18 @@
     {
       "id": "glutes/sled-hack-squat",
       "slug": "sled-hack-squat",
-      "name": "Sentadilla, sled hack",
+      "name": "Hack squat, sled",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "lever",
       "category": "strength",
       "secondaryMuscles": [
         "hamstrings",
         "calves"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2636,15 +2636,15 @@
       "name": "Sentadilla, tumbado, sled",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "machine",
       "category": "strength",
       "secondaryMuscles": [
         "hamstrings",
         "calves"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2655,7 +2655,7 @@
     {
       "id": "glutes/smith-bent-knee-good-morning",
       "slug": "smith-bent-knee-good-morning",
-      "name": "Good morning en máquina Smith, doblado rodilla",
+      "name": "Good morning en máquina Smith, con rodillas flexionadas",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "smith",
@@ -2663,7 +2663,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2688,7 +2688,7 @@
       ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2714,7 +2714,7 @@
       ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2736,7 +2736,7 @@
       ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2747,7 +2747,7 @@
     {
       "id": "glutes/smith-hack-squat",
       "slug": "smith-hack-squat",
-      "name": "Sentadilla en máquina Smith, hack",
+      "name": "Hack squat en máquina Smith",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "smith",
@@ -2758,7 +2758,7 @@
       ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2780,7 +2780,7 @@
       ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2802,7 +2802,7 @@
       ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2824,7 +2824,7 @@
       ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2846,7 +2846,7 @@
       ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2868,7 +2868,7 @@
       ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2882,15 +2882,15 @@
       "name": "Flexión spider, crawl",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2901,7 +2901,7 @@
     {
       "id": "glutes/swimmer-kicks-v-2-male",
       "slug": "swimmer-kicks-v-2-male",
-      "name": "Swimmer kicks male, v2, swimmer kicks male",
+      "name": "Swimmer kicks",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "other",
@@ -2909,7 +2909,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2920,7 +2920,7 @@
     {
       "id": "glutes/tire-flip",
       "slug": "tire-flip",
-      "name": "Tire flip, tire flip",
+      "name": "Tire flip",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "other",
@@ -2928,7 +2928,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2942,7 +2942,7 @@
       "name": "Peso muerto con barra hexagonal",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "barbell",
       "category": "strength",
       "secondaryMuscles": [
         "hamstrings",
@@ -2952,8 +2952,8 @@
         "spine"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Carga el peso adecuado en la barra y adopta la postura inicial.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2972,7 +2972,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -2986,15 +2986,15 @@
       "name": "Zancada, caminando",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "hamstrings",
         "calves"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -3005,7 +3005,7 @@
     {
       "id": "glutes/weighted-cossack-squats-male",
       "slug": "weighted-cossack-squats-male",
-      "name": "Sentadillas, weighted cossack male",
+      "name": "Sentadillas, con peso, cossack",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3016,7 +3016,7 @@
       ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -3027,7 +3027,7 @@
     {
       "id": "glutes/weighted-lunge-with-swing",
       "slug": "weighted-lunge-with-swing",
-      "name": "Zancada, weighted swing",
+      "name": "Zancada, con peso, swing",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3042,7 +3042,7 @@
       ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -3053,7 +3053,7 @@
     {
       "id": "glutes/weighted-squat",
       "slug": "weighted-squat",
-      "name": "Sentadilla, weighted",
+      "name": "Sentadilla, con peso",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3064,7 +3064,7 @@
       ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -3075,7 +3075,7 @@
     {
       "id": "glutes/weighted-stretch-lunge",
       "slug": "weighted-stretch-lunge",
-      "name": "Zancada, weighted stretch",
+      "name": "Zancada, con peso, stretch",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3086,7 +3086,7 @@
       ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
-        "Lleva el cuerpo a la posición de estiramiento del glutes.",
+        "Lleva el cuerpo a la posición de estiramiento de los glúteos.",
         "Mantén entre 20 y 40 segundos respirando de forma profunda.",
         "Vuelve a la posición inicial lentamente y repite si lo deseas."
       ],

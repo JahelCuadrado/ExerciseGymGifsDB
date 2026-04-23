@@ -5,15 +5,15 @@
     {
       "id": "adductors/assisted-side-lying-adductor-stretch",
       "slug": "assisted-side-lying-adductor-stretch",
-      "name": "Estiramiento, tumbado, lateral, assisted aductor",
+      "name": "Aductores, tumbado de lado, asistido, stretch",
       "muscle": "adductors",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "stretching",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Lleva el cuerpo a la posición de estiramiento del adductors.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Lleva el cuerpo a la posición de estiramiento de los aductores.",
         "Mantén entre 20 y 40 segundos respirando de forma profunda.",
         "Vuelve a la posición inicial lentamente y repite si lo deseas."
       ],
@@ -23,15 +23,15 @@
     {
       "id": "adductors/butterfly-yoga-pose",
       "slug": "butterfly-yoga-pose",
-      "name": "Butterfly yoga pose, butterfly yoga pose",
+      "name": "Butterfly yoga pose",
       "muscle": "adductors",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el adductors antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los aductores antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -42,7 +42,7 @@
     {
       "id": "adductors/cable-hip-adduction",
       "slug": "cable-hip-adduction",
-      "name": "En polea, cadera adduction",
+      "name": "Aducción de cadera en polea",
       "muscle": "adductors",
       "bodyPart": "legs",
       "equipment": "cable",
@@ -50,7 +50,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
-        "Activa el adductors antes de iniciar el movimiento.",
+        "Activa los aductores antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -61,7 +61,7 @@
     {
       "id": "adductors/lever-seated-hip-adduction",
       "slug": "lever-seated-hip-adduction",
-      "name": "En máquina, sentado, cadera adduction",
+      "name": "Aducción de cadera en máquina, sentado",
       "muscle": "adductors",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -69,7 +69,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el adductors antes de iniciar el movimiento.",
+        "Activa los aductores antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -80,15 +80,15 @@
     {
       "id": "adductors/side-lying-hip-adduction-male",
       "slug": "side-lying-hip-adduction-male",
-      "name": "Cadera adduction male, tumbado, lateral, cadera adduction male",
+      "name": "Aducción de cadera, tumbado de lado",
       "muscle": "adductors",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el adductors antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los aductores antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -99,10 +99,10 @@
     {
       "id": "adductors/side-plank-hip-adduction",
       "slug": "side-plank-hip-adduction",
-      "name": "Plancha, lateral, cadera adduction",
+      "name": "Aducción de cadera en plancha lateral",
       "muscle": "adductors",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "abs",
@@ -110,8 +110,8 @@
         "glutes"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el adductors antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los aductores antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."

@@ -26,6 +26,7 @@
 
 const fs = require("fs");
 const path = require("path");
+const { buildSearchIndex } = require("./search-index");
 const { inferEquipment, inferBodyPart, inferCategory } = require("./enrich");
 const {
 	translateSlug,
@@ -269,6 +270,10 @@ function main() {
 			count: allExercises.length,
 			exercises: allExercises,
 		});
+		writeJson(
+			path.join(langOut, "search.json"),
+			buildSearchIndex(lang, allExercises)
+		);
 		writeJson(path.join(langOut, "index.json"), {
 			name: "Exercise GIF API",
 			language: lang,
@@ -292,6 +297,7 @@ function main() {
 				bodyPartDetail: `${lang}/bodyparts/{bodyPart}.json`,
 				categoryList: `${lang}/categories.json`,
 				categoryDetail: `${lang}/categories/{category}.json`,
+				search: `${lang}/search.json`,
 			},
 			muscles: muscleSummaries,
 		});

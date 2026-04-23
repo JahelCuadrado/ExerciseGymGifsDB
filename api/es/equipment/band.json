@@ -1,11 +1,11 @@
 {
   "equipment": "band",
-  "count": 61,
+  "count": 62,
   "exercises": [
     {
       "id": "abductors/resistance-band-seated-hip-abduction",
       "slug": "resistance-band-seated-hip-abduction",
-      "name": "Con banda elástica, sentado, cadera abduction",
+      "name": "Abducción de cadera con banda elástica, sentado",
       "muscle": "abductors",
       "bodyPart": "legs",
       "equipment": "band",
@@ -13,7 +13,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el abductors antes de iniciar el movimiento.",
+        "Activa los abductores antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -32,7 +32,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -43,7 +43,7 @@
     {
       "id": "abs/band-assisted-wheel-rollerout",
       "slug": "band-assisted-wheel-rollerout",
-      "name": "Con banda, assisted wheel rollerout",
+      "name": "Wheel rollerout con banda, asistido",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "band",
@@ -51,7 +51,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -70,7 +70,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -81,7 +81,7 @@
     {
       "id": "abs/band-horizontal-pallof-press",
       "slug": "band-horizontal-pallof-press",
-      "name": "Press con banda, horizontal pallof",
+      "name": "Pallof press horizontal con banda",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "band",
@@ -92,7 +92,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -103,7 +103,7 @@
     {
       "id": "abs/band-jack-knife-sit-up",
       "slug": "band-jack-knife-sit-up",
-      "name": "Abdominal con banda, jack knife",
+      "name": "Abdominal navaja con banda",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "band",
@@ -111,7 +111,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -122,7 +122,7 @@
     {
       "id": "abs/band-kneeling-twisting-crunch",
       "slug": "band-kneeling-twisting-crunch",
-      "name": "Crunch con banda, de rodillas, twisting",
+      "name": "Crunch con banda, de rodillas, con giro",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "band",
@@ -130,7 +130,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -141,7 +141,7 @@
     {
       "id": "abs/band-lying-straight-leg-raise",
       "slug": "band-lying-straight-leg-raise",
-      "name": "Elevación de piernas con banda, tumbado, recto",
+      "name": "Elevación con banda, tumbado, con piernas rectas",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "band",
@@ -149,7 +149,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -160,7 +160,7 @@
     {
       "id": "abs/band-push-sit-up",
       "slug": "band-push-sit-up",
-      "name": "Abdominal con banda, push",
+      "name": "Abdominal con empuje con banda",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "band",
@@ -168,7 +168,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -187,7 +187,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -206,7 +206,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -217,7 +217,7 @@
     {
       "id": "abs/band-standing-twisting-crunch",
       "slug": "band-standing-twisting-crunch",
-      "name": "Crunch con banda, de pie, twisting",
+      "name": "Crunch con banda, de pie, con giro",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "band",
@@ -225,7 +225,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -244,7 +244,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -255,7 +255,7 @@
     {
       "id": "abs/band-vertical-pallof-press",
       "slug": "band-vertical-pallof-press",
-      "name": "Press con banda, vertical pallof",
+      "name": "Pallof press vertical con banda",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "band",
@@ -266,7 +266,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -287,7 +287,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -308,7 +308,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -329,7 +329,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -350,7 +350,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -369,7 +369,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el calves antes de iniciar el movimiento.",
+        "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -388,7 +388,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el calves antes de iniciar el movimiento.",
+        "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -399,7 +399,7 @@
     {
       "id": "calves/band-two-legs-calf-raise-band-under-both-legs-v-2",
       "slug": "band-two-legs-calf-raise-band-under-both-legs-v-2",
-      "name": "Elevación de talones con banda, v2, two piernas under both piernas",
+      "name": "Elevación de talones con banda, a dos piernas, under both piernas",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "band",
@@ -407,7 +407,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el calves antes de iniciar el movimiento.",
+        "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -428,7 +428,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -449,7 +449,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -460,7 +460,7 @@
     {
       "id": "delts/band-reverse-fly",
       "slug": "band-reverse-fly",
-      "name": "Apertura invertido con banda",
+      "name": "Apertura inversa con banda",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "band",
@@ -468,7 +468,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -489,7 +489,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -511,7 +511,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -522,7 +522,7 @@
     {
       "id": "delts/band-twisting-overhead-press",
       "slug": "band-twisting-overhead-press",
-      "name": "Press sobre la cabeza con banda, twisting",
+      "name": "Press sobre la cabeza con banda, con giro",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "band",
@@ -532,7 +532,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -543,7 +543,7 @@
     {
       "id": "delts/band-y-raise",
       "slug": "band-y-raise",
-      "name": "Elevación con banda, y",
+      "name": "Y-raise con banda",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "band",
@@ -553,13 +553,32 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
       ],
       "file": "delts/band-y-raise.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/band-y-raise.gif"
+    },
+    {
+      "id": "delts/battling-ropes",
+      "slug": "battling-ropes",
+      "name": "Battling ropes",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fija la banda elástica y mantén la tensión inicial.",
+        "Activa los hombros antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "delts/battling-ropes.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/battling-ropes.gif"
     },
     {
       "id": "delts/resistance-band-seated-shoulder-press",
@@ -574,7 +593,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -593,7 +612,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el forearms antes de iniciar el movimiento.",
+        "Activa los antebrazos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -612,7 +631,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el forearms antes de iniciar el movimiento.",
+        "Activa los antebrazos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -631,7 +650,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -642,7 +661,7 @@
     {
       "id": "glutes/band-hip-lift",
       "slug": "band-hip-lift",
-      "name": "Con banda, cadera lift",
+      "name": "Cadera lift con banda",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -650,7 +669,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -661,7 +680,7 @@
     {
       "id": "glutes/band-lying-hip-internal-rotation",
       "slug": "band-lying-hip-internal-rotation",
-      "name": "Con banda, tumbado, cadera internal rotation",
+      "name": "Cadera internal rotation con banda, tumbado",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -669,7 +688,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -680,7 +699,7 @@
     {
       "id": "glutes/band-pull-through",
       "slug": "band-pull-through",
-      "name": "Con banda, pull through",
+      "name": "Pull through con banda",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -688,7 +707,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -699,7 +718,7 @@
     {
       "id": "glutes/band-seated-hip-internal-rotation",
       "slug": "band-seated-hip-internal-rotation",
-      "name": "Con banda, sentado, cadera internal rotation",
+      "name": "Cadera internal rotation con banda, sentado",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -707,7 +726,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -732,7 +751,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -754,7 +773,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -773,7 +792,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -798,7 +817,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -823,7 +842,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -834,7 +853,7 @@
     {
       "id": "glutes/resistance-band-hip-thrusts-on-knees-female",
       "slug": "resistance-band-hip-thrusts-on-knees-female",
-      "name": "Hip thrust con banda elástica, rodillas female",
+      "name": "Hip thrust con banda elástica, rodillas",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -845,7 +864,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -856,7 +875,7 @@
     {
       "id": "lats/band-assisted-pull-up",
       "slug": "band-assisted-pull-up",
-      "name": "Dominada con banda, assisted",
+      "name": "Dominada con banda, asistido",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "band",
@@ -868,7 +887,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el lats antes de iniciar el movimiento.",
+        "Activa los dorsales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -879,7 +898,7 @@
     {
       "id": "lats/band-close-grip-pulldown",
       "slug": "band-close-grip-pulldown",
-      "name": "Jalón con banda, con agarre cerrado",
+      "name": "Jalón al pecho con banda, con agarre cerrado",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "band",
@@ -891,7 +910,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el lats antes de iniciar el movimiento.",
+        "Activa los dorsales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -902,7 +921,7 @@
     {
       "id": "lats/band-fixed-back-close-grip-pulldown",
       "slug": "band-fixed-back-close-grip-pulldown",
-      "name": "Jalón con banda, con agarre cerrado, fixed espalda",
+      "name": "Jalón al pecho con banda, con agarre cerrado, fixed espalda",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "band",
@@ -914,7 +933,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el lats antes de iniciar el movimiento.",
+        "Activa los dorsales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -925,7 +944,7 @@
     {
       "id": "lats/band-fixed-back-underhand-pulldown",
       "slug": "band-fixed-back-underhand-pulldown",
-      "name": "Jalón con banda, fixed espalda underhand",
+      "name": "Jalón al pecho con banda, fixed espalda underhand",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "band",
@@ -937,7 +956,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el lats antes de iniciar el movimiento.",
+        "Activa los dorsales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -948,7 +967,7 @@
     {
       "id": "lats/band-kneeling-one-arm-pulldown",
       "slug": "band-kneeling-one-arm-pulldown",
-      "name": "Jalón con banda, de rodillas, a una mano",
+      "name": "Jalón al pecho con banda, de rodillas, a una mano",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "band",
@@ -960,7 +979,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el lats antes de iniciar el movimiento.",
+        "Activa los dorsales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -971,7 +990,7 @@
     {
       "id": "lats/band-underhand-pulldown",
       "slug": "band-underhand-pulldown",
-      "name": "Jalón con banda, underhand",
+      "name": "Jalón al pecho con banda, underhand",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "band",
@@ -983,7 +1002,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el lats antes de iniciar el movimiento.",
+        "Activa los dorsales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1005,7 +1024,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el pectorals antes de iniciar el movimiento.",
+        "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1016,7 +1035,7 @@
     {
       "id": "pectorals/band-one-arm-twisting-chest-press",
       "slug": "band-one-arm-twisting-chest-press",
-      "name": "Press de pecho con banda, a una mano, twisting",
+      "name": "Press de pecho con banda, a una mano con giro",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "band",
@@ -1027,7 +1046,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el pectorals antes de iniciar el movimiento.",
+        "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1049,7 +1068,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el pectorals antes de iniciar el movimiento.",
+        "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1060,7 +1079,7 @@
     {
       "id": "quads/band-one-arm-single-leg-split-squat",
       "slug": "band-one-arm-single-leg-split-squat",
-      "name": "Split squat con banda, a una mano a una pierna",
+      "name": "Split squat con banda, a una mano a pierna",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "band",
@@ -1072,7 +1091,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1095,7 +1114,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1114,7 +1133,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1125,7 +1144,7 @@
     {
       "id": "spine/band-straight-leg-deadlift",
       "slug": "band-straight-leg-deadlift",
-      "name": "Peso muerto con banda, recto pierna",
+      "name": "Peso muerto con banda, con piernas rectas",
       "muscle": "spine",
       "bodyPart": "back",
       "equipment": "band",
@@ -1139,7 +1158,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el spine antes de iniciar el movimiento.",
+        "Activa la zona lumbar antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1158,7 +1177,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el traps antes de iniciar el movimiento.",
+        "Activa los trapecios antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1169,7 +1188,7 @@
     {
       "id": "triceps/band-close-grip-push-up",
       "slug": "band-close-grip-push-up",
-      "name": "Flexión con banda, con agarre cerrado",
+      "name": "Flexión con agarre cerrado con banda",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "band",
@@ -1179,7 +1198,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1190,7 +1209,7 @@
     {
       "id": "triceps/band-side-triceps-extension",
       "slug": "band-side-triceps-extension",
-      "name": "Extensión con banda, lateral, tríceps",
+      "name": "Extensión de tríceps con banda, lateral",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "band",
@@ -1198,7 +1217,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1209,7 +1228,7 @@
     {
       "id": "upper-back/band-one-arm-standing-low-row",
       "slug": "band-one-arm-standing-low-row",
-      "name": "Remo con banda, de pie, a una mano bajo",
+      "name": "Remo bajo con banda, de pie, a una mano",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "band",
@@ -1221,7 +1240,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1232,7 +1251,7 @@
     {
       "id": "upper-back/band-one-arm-twisting-seated-row",
       "slug": "band-one-arm-twisting-seated-row",
-      "name": "Remo con banda, sentado, a una mano, twisting",
+      "name": "Remo sentado con banda, a una mano con giro",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "band",
@@ -1244,7 +1263,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1267,7 +1286,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."

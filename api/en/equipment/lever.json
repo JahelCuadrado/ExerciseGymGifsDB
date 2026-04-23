@@ -1,6 +1,6 @@
 {
   "equipment": "lever",
-  "count": 74,
+  "count": 78,
   "exercises": [
     {
       "id": "abductors/lever-seated-hip-abduction",
@@ -32,7 +32,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the abs before initiating the movement.",
+        "Pre-engage the core before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -51,7 +51,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the abs before initiating the movement.",
+        "Pre-engage the core before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -70,7 +70,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the abs before initiating the movement.",
+        "Pre-engage the core before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -89,7 +89,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the abs before initiating the movement.",
+        "Pre-engage the core before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -108,7 +108,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the abs before initiating the movement.",
+        "Pre-engage the core before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -127,7 +127,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the abs before initiating the movement.",
+        "Pre-engage the core before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -258,6 +258,44 @@
       ],
       "file": "biceps/lever-reverse-grip-preacher-curl.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/lever-reverse-grip-preacher-curl.gif"
+    },
+    {
+      "id": "calves/hack-calf-raise",
+      "slug": "hack-calf-raise",
+      "name": "Hack Calf Raise",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the calves before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "calves/hack-calf-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/hack-calf-raise.gif"
+    },
+    {
+      "id": "calves/hack-one-leg-calf-raise",
+      "slug": "hack-one-leg-calf-raise",
+      "name": "Hack One Leg Calf Raise",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the calves before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "calves/hack-one-leg-calf-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/hack-one-leg-calf-raise.gif"
     },
     {
       "id": "calves/lever-calf-press",
@@ -416,7 +454,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -437,7 +475,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -458,7 +496,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -477,7 +515,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -496,7 +534,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -517,7 +555,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -538,7 +576,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -559,7 +597,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the delts before initiating the movement.",
+        "Pre-engage the shoulders before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -689,6 +727,50 @@
       ],
       "file": "glutes/lever-seated-good-morning.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/lever-seated-good-morning.gif"
+    },
+    {
+      "id": "glutes/sled-closer-hack-squat",
+      "slug": "sled-closer-hack-squat",
+      "name": "Sled Closer Hack Squat",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the glutes before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "glutes/sled-closer-hack-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/sled-closer-hack-squat.gif"
+    },
+    {
+      "id": "glutes/sled-hack-squat",
+      "slug": "sled-hack-squat",
+      "name": "Sled Hack Squat",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Adjust the machine to your size and select the load.",
+        "Pre-engage the glutes before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "glutes/sled-hack-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/sled-hack-squat.gif"
     },
     {
       "id": "hamstrings/lever-kneeling-leg-curl",
@@ -891,7 +973,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the pectorals before initiating the movement.",
+        "Pre-engage the chest before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -913,7 +995,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the pectorals before initiating the movement.",
+        "Pre-engage the chest before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -935,7 +1017,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the pectorals before initiating the movement.",
+        "Pre-engage the chest before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -957,7 +1039,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the pectorals before initiating the movement.",
+        "Pre-engage the chest before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -979,7 +1061,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the pectorals before initiating the movement.",
+        "Pre-engage the chest before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -998,7 +1080,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the pectorals before initiating the movement.",
+        "Pre-engage the chest before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -1020,7 +1102,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the pectorals before initiating the movement.",
+        "Pre-engage the chest before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -1042,7 +1124,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the quads before initiating the movement.",
+        "Pre-engage the quadriceps before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -1061,7 +1143,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the quads before initiating the movement.",
+        "Pre-engage the quadriceps before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -1080,7 +1162,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the spine before initiating the movement.",
+        "Pre-engage the lower back before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -1219,7 +1301,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the upper-back before initiating the movement.",
+        "Pre-engage the upper back before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -1238,7 +1320,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the upper-back before initiating the movement.",
+        "Pre-engage the upper back before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -1261,7 +1343,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the upper-back before initiating the movement.",
+        "Pre-engage the upper back before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -1284,7 +1366,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the upper-back before initiating the movement.",
+        "Pre-engage the upper back before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -1307,7 +1389,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the upper-back before initiating the movement.",
+        "Pre-engage the upper back before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -1330,7 +1412,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the upper-back before initiating the movement.",
+        "Pre-engage the upper back before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -1353,7 +1435,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the upper-back before initiating the movement.",
+        "Pre-engage the upper back before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -1376,7 +1458,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the upper-back before initiating the movement.",
+        "Pre-engage the upper back before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -1399,7 +1481,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the upper-back before initiating the movement.",
+        "Pre-engage the upper back before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -1422,7 +1504,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the upper-back before initiating the movement.",
+        "Pre-engage the upper back before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -1445,7 +1527,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the upper-back before initiating the movement.",
+        "Pre-engage the upper back before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -1468,7 +1550,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the upper-back before initiating the movement.",
+        "Pre-engage the upper back before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -1491,7 +1573,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the upper-back before initiating the movement.",
+        "Pre-engage the upper back before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -1514,7 +1596,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the upper-back before initiating the movement.",
+        "Pre-engage the upper back before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."
@@ -1537,7 +1619,7 @@
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
-        "Pre-engage the upper-back before initiating the movement.",
+        "Pre-engage the upper back before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
         "Breathe: exhale on effort, inhale on the way back."

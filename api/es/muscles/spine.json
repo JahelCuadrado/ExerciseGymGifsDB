@@ -8,12 +8,12 @@
       "name": "Extensión, en fitball, espalda",
       "muscle": "spine",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el spine antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa la zona lumbar antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -24,7 +24,7 @@
     {
       "id": "spine/band-straight-leg-deadlift",
       "slug": "band-straight-leg-deadlift",
-      "name": "Peso muerto con banda, recto pierna",
+      "name": "Peso muerto con banda, con piernas rectas",
       "muscle": "spine",
       "bodyPart": "back",
       "equipment": "band",
@@ -38,7 +38,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el spine antes de iniciar el movimiento.",
+        "Activa la zona lumbar antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -52,12 +52,12 @@
       "name": "Extensión en fitball, espalda brazos extended",
       "muscle": "spine",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el spine antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa la zona lumbar antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -71,12 +71,12 @@
       "name": "Extensión en fitball, espalda hands behind head",
       "muscle": "spine",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el spine antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa la zona lumbar antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -90,12 +90,12 @@
       "name": "Extensión en fitball, espalda rodillas off ground",
       "muscle": "spine",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el spine antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa la zona lumbar antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -109,12 +109,12 @@
       "name": "Extensión en fitball, espalda rotation",
       "muscle": "spine",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el spine antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa la zona lumbar antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -125,15 +125,15 @@
     {
       "id": "spine/exercise-ball-hug",
       "slug": "exercise-ball-hug",
-      "name": "En fitball, hug",
+      "name": "Hug en fitball",
       "muscle": "spine",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el spine antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa la zona lumbar antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -147,12 +147,12 @@
       "name": "Elevación de piernas tumbado boca abajo en fitball",
       "muscle": "spine",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el spine antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa la zona lumbar antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -163,15 +163,15 @@
     {
       "id": "spine/hyperextension-on-bench",
       "slug": "hyperextension-on-bench",
-      "name": "Hyperextension banco, hyperextension banco",
+      "name": "Hyperextension banco",
       "muscle": "spine",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el spine antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa la zona lumbar antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -182,15 +182,15 @@
     {
       "id": "spine/hyperextension",
       "slug": "hyperextension",
-      "name": "Hyperextension, hyperextension",
+      "name": "Hyperextension",
       "muscle": "spine",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el spine antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa la zona lumbar antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -209,7 +209,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el spine antes de iniciar el movimiento.",
+        "Activa la zona lumbar antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -228,7 +228,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Prepara el equipo y adopta la postura inicial.",
-        "Activa el spine antes de iniciar el movimiento.",
+        "Activa la zona lumbar antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -242,12 +242,12 @@
       "name": "Estiramiento, roller espalda",
       "muscle": "spine",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "stretching",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Lleva el cuerpo a la posición de estiramiento del spine.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Lleva el cuerpo a la posición de estiramiento de la zona lumbar.",
         "Mantén entre 20 y 40 segundos respirando de forma profunda.",
         "Vuelve a la posición inicial lentamente y repite si lo deseas."
       ],
@@ -257,15 +257,15 @@
     {
       "id": "spine/sphinx",
       "slug": "sphinx",
-      "name": "Sphinx, sphinx",
+      "name": "Esfinge",
       "muscle": "spine",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el spine antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa la zona lumbar antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -279,12 +279,12 @@
       "name": "Estiramiento, columna",
       "muscle": "spine",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "stretching",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Lleva el cuerpo a la posición de estiramiento del spine.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Lleva el cuerpo a la posición de estiramiento de la zona lumbar.",
         "Mantén entre 20 y 40 segundos respirando de forma profunda.",
         "Vuelve a la posición inicial lentamente y repite si lo deseas."
       ],
@@ -294,15 +294,15 @@
     {
       "id": "spine/standing-pelvic-tilt",
       "slug": "standing-pelvic-tilt",
-      "name": "Pelvic tilt, de pie, pelvic tilt",
+      "name": "Inclinación pélvica, de pie",
       "muscle": "spine",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el spine antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa la zona lumbar antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -313,15 +313,15 @@
     {
       "id": "spine/two-toe-touch-male",
       "slug": "two-toe-touch-male",
-      "name": "Two toe touch male, two toe touch male",
+      "name": "Toques de dos puntas",
       "muscle": "spine",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el spine antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa la zona lumbar antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -332,7 +332,7 @@
     {
       "id": "spine/upward-facing-dog",
       "slug": "upward-facing-dog",
-      "name": "Upward facing dog, upward facing dog",
+      "name": "Upward facing dog",
       "muscle": "spine",
       "bodyPart": "back",
       "equipment": "other",
@@ -340,7 +340,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Prepara el equipo y adopta la postura inicial.",
-        "Activa el spine antes de iniciar el movimiento.",
+        "Activa la zona lumbar antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -351,7 +351,7 @@
     {
       "id": "spine/weighted-hyperextension-on-stability-ball",
       "slug": "weighted-hyperextension-on-stability-ball",
-      "name": "Weighted hyperextension, en fitball, weighted hyperextension",
+      "name": "Hyperextension, con peso en fitball",
       "muscle": "spine",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -359,7 +359,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
-        "Activa el spine antes de iniciar el movimiento.",
+        "Activa la zona lumbar antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."

@@ -1,11 +1,11 @@
 {
   "equipment": "lever",
-  "count": 74,
+  "count": 78,
   "exercises": [
     {
       "id": "abductors/lever-seated-hip-abduction",
       "slug": "lever-seated-hip-abduction",
-      "name": "En máquina, sentado, cadera abduction",
+      "name": "Abducción de cadera en máquina, sentado",
       "muscle": "abductors",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -13,7 +13,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el abductors antes de iniciar el movimiento.",
+        "Activa los abductores antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -24,7 +24,7 @@
     {
       "id": "abs/front-lever",
       "slug": "front-lever",
-      "name": "En máquina, frontal",
+      "name": "Front lever",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "lever",
@@ -32,7 +32,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -51,7 +51,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -70,7 +70,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -81,7 +81,7 @@
     {
       "id": "abs/lever-seated-crunch-v-2",
       "slug": "lever-seated-crunch-v-2",
-      "name": "Crunch en máquina, sentado, v2",
+      "name": "Crunch en máquina, sentado",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "lever",
@@ -89,7 +89,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -108,7 +108,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -127,7 +127,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el abs antes de iniciar el movimiento.",
+        "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -138,7 +138,7 @@
     {
       "id": "adductors/lever-seated-hip-adduction",
       "slug": "lever-seated-hip-adduction",
-      "name": "En máquina, sentado, cadera adduction",
+      "name": "Aducción de cadera en máquina, sentado",
       "muscle": "adductors",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -146,7 +146,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el adductors antes de iniciar el movimiento.",
+        "Activa los aductores antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -167,7 +167,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -188,7 +188,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -199,7 +199,7 @@
     {
       "id": "biceps/lever-preacher-curl-v-2",
       "slug": "lever-preacher-curl-v-2",
-      "name": "Curl predicador en máquina, v2",
+      "name": "Curl predicador en máquina",
       "muscle": "biceps",
       "bodyPart": "arms",
       "equipment": "lever",
@@ -209,7 +209,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -230,7 +230,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -251,13 +251,51 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el biceps antes de iniciar el movimiento.",
+        "Activa los bíceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
       ],
       "file": "biceps/lever-reverse-grip-preacher-curl.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/lever-reverse-grip-preacher-curl.gif"
+    },
+    {
+      "id": "calves/hack-calf-raise",
+      "slug": "hack-calf-raise",
+      "name": "Elevación de talones, hack",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los gemelos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "calves/hack-calf-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/hack-calf-raise.gif"
+    },
+    {
+      "id": "calves/hack-one-leg-calf-raise",
+      "slug": "hack-one-leg-calf-raise",
+      "name": "Elevación de talones, a una pierna, hack",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los gemelos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "calves/hack-one-leg-calf-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/hack-one-leg-calf-raise.gif"
     },
     {
       "id": "calves/lever-calf-press",
@@ -273,7 +311,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el calves antes de iniciar el movimiento.",
+        "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -292,7 +330,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el calves antes de iniciar el movimiento.",
+        "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -303,7 +341,7 @@
     {
       "id": "calves/lever-rotary-calf",
       "slug": "lever-rotary-calf",
-      "name": "En máquina, rotary gemelo",
+      "name": "Rotary gemelo en máquina",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -311,7 +349,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el calves antes de iniciar el movimiento.",
+        "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -333,7 +371,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el calves antes de iniciar el movimiento.",
+        "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -352,7 +390,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el calves antes de iniciar el movimiento.",
+        "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -376,7 +414,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el calves antes de iniciar el movimiento.",
+        "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -395,7 +433,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el calves antes de iniciar el movimiento.",
+        "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -416,7 +454,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -437,7 +475,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -458,7 +496,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -469,7 +507,7 @@
     {
       "id": "delts/lever-seated-reverse-fly-parallel-grip",
       "slug": "lever-seated-reverse-fly-parallel-grip",
-      "name": "Apertura invertido en máquina, sentado, parallel",
+      "name": "Apertura inversa en máquina, sentado, parallel",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "lever",
@@ -477,7 +515,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -488,7 +526,7 @@
     {
       "id": "delts/lever-seated-reverse-fly",
       "slug": "lever-seated-reverse-fly",
-      "name": "Apertura invertido en máquina, sentado",
+      "name": "Apertura inversa en máquina, sentado",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "lever",
@@ -496,7 +534,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -507,7 +545,7 @@
     {
       "id": "delts/lever-shoulder-press-v-2",
       "slug": "lever-shoulder-press-v-2",
-      "name": "Press de hombros en máquina, v2",
+      "name": "Press de hombros en máquina",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "lever",
@@ -517,7 +555,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -528,7 +566,7 @@
     {
       "id": "delts/lever-shoulder-press-v-3",
       "slug": "lever-shoulder-press-v-3",
-      "name": "Press de hombros en máquina, v3",
+      "name": "Press de hombros en máquina",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "lever",
@@ -538,7 +576,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -559,7 +597,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el delts antes de iniciar el movimiento.",
+        "Activa los hombros antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -570,7 +608,7 @@
     {
       "id": "forearms/lever-gripper-hands",
       "slug": "lever-gripper-hands",
-      "name": "En máquina, gripper hands",
+      "name": "Gripper hands en máquina",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "lever",
@@ -578,7 +616,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el forearms antes de iniciar el movimiento.",
+        "Activa los antebrazos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -603,7 +641,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -614,7 +652,7 @@
     {
       "id": "glutes/lever-hip-extension-v-2",
       "slug": "lever-hip-extension-v-2",
-      "name": "Extensión en máquina, v2, cadera",
+      "name": "Extensión en máquina, cadera",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -622,7 +660,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -633,7 +671,7 @@
     {
       "id": "glutes/lever-horizontal-one-leg-press",
       "slug": "lever-horizontal-one-leg-press",
-      "name": "Press en máquina, a una pierna, horizontal",
+      "name": "Press en máquina, horizontal a una pierna",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -644,7 +682,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -655,7 +693,7 @@
     {
       "id": "glutes/lever-reverse-hyperextension",
       "slug": "lever-reverse-hyperextension",
-      "name": "Invertido en máquina, hyperextension",
+      "name": "Hyperextension invertido en máquina",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -663,7 +701,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -682,13 +720,57 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el glutes antes de iniciar el movimiento.",
+        "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
       ],
       "file": "glutes/lever-seated-good-morning.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/lever-seated-good-morning.gif"
+    },
+    {
+      "id": "glutes/sled-closer-hack-squat",
+      "slug": "sled-closer-hack-squat",
+      "name": "Hack squat, sled closer",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los glúteos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "glutes/sled-closer-hack-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/sled-closer-hack-squat.gif"
+    },
+    {
+      "id": "glutes/sled-hack-squat",
+      "slug": "sled-hack-squat",
+      "name": "Hack squat, sled",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Activa los glúteos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "glutes/sled-hack-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/sled-hack-squat.gif"
     },
     {
       "id": "hamstrings/lever-kneeling-leg-curl",
@@ -701,7 +783,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el hamstrings antes de iniciar el movimiento.",
+        "Activa los isquiotibiales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -720,7 +802,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el hamstrings antes de iniciar el movimiento.",
+        "Activa los isquiotibiales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -739,7 +821,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el hamstrings antes de iniciar el movimiento.",
+        "Activa los isquiotibiales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -758,7 +840,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el hamstrings antes de iniciar el movimiento.",
+        "Activa los isquiotibiales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -769,7 +851,7 @@
     {
       "id": "lats/lever-assisted-chin-up",
       "slug": "lever-assisted-chin-up",
-      "name": "Dominada supina en máquina, assisted",
+      "name": "Dominada supina en máquina, asistido",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "lever",
@@ -781,7 +863,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el lats antes de iniciar el movimiento.",
+        "Activa los dorsales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -792,7 +874,7 @@
     {
       "id": "lats/lever-front-pulldown",
       "slug": "lever-front-pulldown",
-      "name": "Jalón en máquina, frontal",
+      "name": "Jalón al pecho en máquina, frontal",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "lever",
@@ -804,7 +886,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el lats antes de iniciar el movimiento.",
+        "Activa los dorsales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -815,7 +897,7 @@
     {
       "id": "lats/lever-one-arm-lateral-wide-pulldown",
       "slug": "lever-one-arm-lateral-wide-pulldown",
-      "name": "Jalón en máquina, a una mano ancho, lateral",
+      "name": "Jalón al pecho en máquina, a una mano ancho, lateral",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "lever",
@@ -827,7 +909,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el lats antes de iniciar el movimiento.",
+        "Activa los dorsales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -846,7 +928,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el lats antes de iniciar el movimiento.",
+        "Activa los dorsales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -857,7 +939,7 @@
     {
       "id": "lats/lever-reverse-grip-lateral-pulldown",
       "slug": "lever-reverse-grip-lateral-pulldown",
-      "name": "Jalón en máquina, con agarre invertido, lateral",
+      "name": "Jalón al pecho en máquina, con agarre invertido, lateral",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "lever",
@@ -869,7 +951,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el lats antes de iniciar el movimiento.",
+        "Activa los dorsales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -880,7 +962,7 @@
     {
       "id": "pectorals/lever-chest-press-0577",
       "slug": "lever-chest-press-0577",
-      "name": "Press de pecho en máquina, 0577",
+      "name": "Press de pecho en máquina",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "lever",
@@ -891,7 +973,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el pectorals antes de iniciar el movimiento.",
+        "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -913,7 +995,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el pectorals antes de iniciar el movimiento.",
+        "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -935,7 +1017,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el pectorals antes de iniciar el movimiento.",
+        "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -946,7 +1028,7 @@
     {
       "id": "pectorals/lever-incline-chest-press-v-2",
       "slug": "lever-incline-chest-press-v-2",
-      "name": "Press de pecho inclinado en máquina, v2",
+      "name": "Press de pecho inclinado en máquina",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "lever",
@@ -957,7 +1039,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el pectorals antes de iniciar el movimiento.",
+        "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -979,7 +1061,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el pectorals antes de iniciar el movimiento.",
+        "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -998,7 +1080,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el pectorals antes de iniciar el movimiento.",
+        "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1020,7 +1102,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el pectorals antes de iniciar el movimiento.",
+        "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1042,7 +1124,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1061,7 +1143,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1080,7 +1162,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el spine antes de iniciar el movimiento.",
+        "Activa la zona lumbar antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1091,7 +1173,7 @@
     {
       "id": "traps/lever-gripless-shrug-v-2",
       "slug": "lever-gripless-shrug-v-2",
-      "name": "Encogimiento en máquina, v2, gripless",
+      "name": "Encogimiento en máquina, gripless",
       "muscle": "traps",
       "bodyPart": "back",
       "equipment": "lever",
@@ -1099,7 +1181,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el traps antes de iniciar el movimiento.",
+        "Activa los trapecios antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1118,7 +1200,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el traps antes de iniciar el movimiento.",
+        "Activa los trapecios antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1137,7 +1219,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el traps antes de iniciar el movimiento.",
+        "Activa los trapecios antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1148,7 +1230,7 @@
     {
       "id": "triceps/lever-overhand-triceps-dip",
       "slug": "lever-overhand-triceps-dip",
-      "name": "Fondo en máquina, overhand tríceps",
+      "name": "Fondo de tríceps en máquina, overhand",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "lever",
@@ -1159,7 +1241,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1181,7 +1263,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1192,7 +1274,7 @@
     {
       "id": "triceps/lever-triceps-extension",
       "slug": "lever-triceps-extension",
-      "name": "Extensión en máquina, tríceps",
+      "name": "Extensión de tríceps en máquina",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "lever",
@@ -1200,7 +1282,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el triceps antes de iniciar el movimiento.",
+        "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1211,7 +1293,7 @@
     {
       "id": "upper-back/back-lever",
       "slug": "back-lever",
-      "name": "En máquina, espalda",
+      "name": "Back lever",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "lever",
@@ -1219,7 +1301,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1230,7 +1312,7 @@
     {
       "id": "upper-back/front-lever-reps",
       "slug": "front-lever-reps",
-      "name": "En máquina, frontal, reps",
+      "name": "Front lever, reps",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "lever",
@@ -1238,7 +1320,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1249,7 +1331,7 @@
     {
       "id": "upper-back/lever-alternating-narrow-grip-seated-row",
       "slug": "lever-alternating-narrow-grip-seated-row",
-      "name": "Remo en máquina, sentado, con agarre estrecho, alternado",
+      "name": "Remo sentado en máquina, con agarre estrecho, alternado",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "lever",
@@ -1261,7 +1343,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1284,7 +1366,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1307,7 +1389,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1318,7 +1400,7 @@
     {
       "id": "upper-back/lever-high-row",
       "slug": "lever-high-row",
-      "name": "Remo en máquina, alto",
+      "name": "Remo alto en máquina",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "lever",
@@ -1330,7 +1412,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1341,7 +1423,7 @@
     {
       "id": "upper-back/lever-narrow-grip-seated-row",
       "slug": "lever-narrow-grip-seated-row",
-      "name": "Remo en máquina, sentado, con agarre estrecho",
+      "name": "Remo sentado en máquina, con agarre estrecho",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "lever",
@@ -1353,7 +1435,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1376,7 +1458,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1387,7 +1469,7 @@
     {
       "id": "upper-back/lever-one-arm-lateral-high-row",
       "slug": "lever-one-arm-lateral-high-row",
-      "name": "Remo en máquina, a una mano alto, lateral",
+      "name": "Remo alto en máquina, a una mano, lateral",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "lever",
@@ -1399,7 +1481,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1422,7 +1504,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1445,7 +1527,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1456,7 +1538,7 @@
     {
       "id": "upper-back/lever-seated-row",
       "slug": "lever-seated-row",
-      "name": "Remo en máquina, sentado",
+      "name": "Remo sentado en máquina",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "lever",
@@ -1468,7 +1550,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1491,7 +1573,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1514,7 +1596,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -1537,7 +1619,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el upper-back antes de iniciar el movimiento.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."

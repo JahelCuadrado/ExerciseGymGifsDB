@@ -8,12 +8,12 @@
       "name": "Estiramiento, all fours squad",
       "muscle": "quads",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "stretching",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Lleva el cuerpo a la posición de estiramiento del quads.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Lleva el cuerpo a la posición de estiramiento de los cuádriceps.",
         "Mantén entre 20 y 40 segundos respirando de forma profunda.",
         "Vuelve a la posición inicial lentamente y repite si lo deseas."
       ],
@@ -23,15 +23,15 @@
     {
       "id": "quads/assisted-prone-lying-quads-stretch",
       "slug": "assisted-prone-lying-quads-stretch",
-      "name": "Estiramiento tumbado boca abajo, tumbado, assisted cuádriceps",
+      "name": "Estiramiento tumbado boca abajo, asistido, cuádriceps",
       "muscle": "quads",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "stretching",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Lleva el cuerpo a la posición de estiramiento del quads.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Lleva el cuerpo a la posición de estiramiento de los cuádriceps.",
         "Mantén entre 20 y 40 segundos respirando de forma profunda.",
         "Vuelve a la posición inicial lentamente y repite si lo deseas."
       ],
@@ -44,11 +44,11 @@
       "name": "Salto, backward",
       "muscle": "quads",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "plyometrics",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Realiza una breve flexión para acumular tensión.",
         "Ejecuta el movimiento de forma explosiva y aterriza con control.",
         "Aterriza suave amortiguando con piernas y core, y encadena la siguiente repetición."
@@ -59,7 +59,7 @@
     {
       "id": "quads/balance-board",
       "slug": "balance-board",
-      "name": "Equilibrio board, equilibrio board",
+      "name": "Equilibrio board",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "other",
@@ -67,7 +67,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Prepara el equipo y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -78,7 +78,7 @@
     {
       "id": "quads/band-one-arm-single-leg-split-squat",
       "slug": "band-one-arm-single-leg-split-squat",
-      "name": "Split squat con banda, a una mano a una pierna",
+      "name": "Split squat con banda, a una mano a pierna",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "band",
@@ -90,7 +90,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -113,7 +113,7 @@
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -136,7 +136,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -159,7 +159,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -186,7 +186,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -209,7 +209,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -232,7 +232,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -243,7 +243,7 @@
     {
       "id": "quads/barbell-side-split-squat-v-2",
       "slug": "barbell-side-split-squat-v-2",
-      "name": "Split squat con barra, lateral v2",
+      "name": "Split squat con barra, lateral",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -255,7 +255,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -278,7 +278,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -301,7 +301,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -312,7 +312,7 @@
     {
       "id": "quads/barbell-split-squat-v-2",
       "slug": "barbell-split-squat-v-2",
-      "name": "Split squat con barra, v2",
+      "name": "Split squat con barra",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -324,7 +324,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -369,7 +369,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -392,7 +392,7 @@
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -406,12 +406,12 @@
       "name": "Estiramiento, silla pierna extended",
       "muscle": "quads",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "stretching",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Lleva el cuerpo a la posición de estiramiento del quads.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Lleva el cuerpo a la posición de estiramiento de los cuádriceps.",
         "Mantén entre 20 y 40 segundos respirando de forma profunda.",
         "Vuelve a la posición inicial lentamente y repite si lo deseas."
       ],
@@ -433,7 +433,7 @@
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -456,7 +456,7 @@
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -479,7 +479,7 @@
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -502,7 +502,7 @@
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -525,7 +525,7 @@
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -536,15 +536,15 @@
     {
       "id": "quads/farmers-walk",
       "slug": "farmers-walk",
-      "name": "Farmers caminar, farmers caminar",
+      "name": "Farmers caminata",
       "muscle": "quads",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -558,11 +558,11 @@
       "name": "Salto, forward",
       "muscle": "quads",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "plyometrics",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Realiza una breve flexión para acumular tensión.",
         "Ejecuta el movimiento de forma explosiva y aterriza con control.",
         "Aterriza suave amortiguando con piernas y core, y encadena la siguiente repetición."
@@ -576,12 +576,12 @@
       "name": "Estiramiento, intermediate cadera flexor cuádriceps",
       "muscle": "quads",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "stretching",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Lleva el cuerpo a la posición de estiramiento del quads.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Lleva el cuerpo a la posición de estiramiento de los cuádriceps.",
         "Mantén entre 20 y 40 segundos respirando de forma profunda.",
         "Vuelve a la posición inicial lentamente y repite si lo deseas."
       ],
@@ -602,7 +602,7 @@
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -621,7 +621,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -632,15 +632,15 @@
     {
       "id": "quads/lying-side-quads-stretch",
       "slug": "lying-side-quads-stretch",
-      "name": "Estiramiento, tumbado, lateral, cuádriceps",
+      "name": "Estiramiento, tumbado lateral, cuádriceps",
       "muscle": "quads",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "stretching",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Lleva el cuerpo a la posición de estiramiento del quads.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Lleva el cuerpo a la posición de estiramiento de los cuádriceps.",
         "Mantén entre 20 y 40 segundos respirando de forma profunda.",
         "Vuelve a la posición inicial lentamente y repite si lo deseas."
       ],
@@ -650,7 +650,7 @@
     {
       "id": "quads/quads",
       "slug": "quads",
-      "name": "Cuádriceps, cuádriceps",
+      "name": "Cuádriceps",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "other",
@@ -658,7 +658,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Prepara el equipo y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -669,7 +669,7 @@
     {
       "id": "quads/quick-feet-v-2",
       "slug": "quick-feet-v-2",
-      "name": "Quick feet, v2, quick feet",
+      "name": "Quick feet",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "other",
@@ -677,7 +677,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Prepara el equipo y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -696,7 +696,7 @@
       "secondaryMuscles": [],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -707,10 +707,10 @@
     {
       "id": "quads/sissy-squat",
       "slug": "sissy-squat",
-      "name": "Sentadilla, sissy",
+      "name": "Sissy squat",
       "muscle": "quads",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "glutes",
@@ -718,8 +718,8 @@
         "calves"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -742,7 +742,7 @@
       ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -765,7 +765,7 @@
       ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -776,7 +776,7 @@
     {
       "id": "quads/snatch-pull",
       "slug": "snatch-pull",
-      "name": "Arrancada, pull",
+      "name": "Snatch pull",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "other",
@@ -791,7 +791,7 @@
       ],
       "instructions": [
         "Prepara el equipo y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -814,7 +814,7 @@
       ],
       "instructions": [
         "Prepara el equipo y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -828,7 +828,7 @@
       "name": "Envión, squat",
       "muscle": "quads",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "glutes",
@@ -840,8 +840,8 @@
         "forearms"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -855,7 +855,7 @@
       "name": "Sentadilla, en bosu",
       "muscle": "quads",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "glutes",
@@ -863,8 +863,8 @@
         "calves"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -878,7 +878,7 @@
       "name": "Sentadilla sobre la cabeza, reach twist",
       "muscle": "quads",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "glutes",
@@ -886,8 +886,8 @@
         "calves"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -901,7 +901,7 @@
       "name": "Sentadilla sobre la cabeza, reach",
       "muscle": "quads",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "glutes",
@@ -909,8 +909,8 @@
         "calves"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
@@ -921,30 +921,7 @@
     {
       "id": "quads/suspended-split-squat",
       "slug": "suspended-split-squat",
-      "name": "Split squat, suspended",
-      "muscle": "quads",
-      "bodyPart": "legs",
-      "equipment": "other",
-      "category": "strength",
-      "secondaryMuscles": [
-        "glutes",
-        "hamstrings",
-        "calves"
-      ],
-      "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
-        "Activa el quads antes de iniciar el movimiento.",
-        "Realiza el movimiento de forma controlada manteniendo la técnica.",
-        "Vuelve a la posición inicial controlando la fase excéntrica.",
-        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
-      ],
-      "file": "quads/suspended-split-squat.gif",
-      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/suspended-split-squat.gif"
-    },
-    {
-      "id": "quads/weighted-sissy-squat",
-      "slug": "weighted-sissy-squat",
-      "name": "Sentadilla, weighted sissy",
+      "name": "Split squat, suspendido",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -956,7 +933,30 @@
       ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
-        "Activa el quads antes de iniciar el movimiento.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "quads/suspended-split-squat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/suspended-split-squat.gif"
+    },
+    {
+      "id": "quads/weighted-sissy-squat",
+      "slug": "weighted-sissy-squat",
+      "name": "Sissy squat, con peso",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
         "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
