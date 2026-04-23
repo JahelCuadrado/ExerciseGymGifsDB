@@ -40,31 +40,37 @@ const OUT = path.join(ROOT, "api");
 const OVERRIDES = path.join(ROOT, "overrides");
 
 /**
- * Resuelve el ref de Git actual para anclar URLs absolutas a la versión que
- * se está construyendo. Prioriza (en orden):
- *   1. `API_BASE_URL` (override explícito).
- *   2. `API_REF` (ref de git: tag o branch).
- *   3. Branch actual detectada vía `git symbolic-ref` (mantiene aislamiento
- *      por versión: cada rama publica URLs apuntando a sí misma).
- *   4. `main` como fallback.
+ * Resuelve el ref de Git para anclar URLs absolutas a una versión cacheable
+ * por jsDelivr. Prioridad:
+ *   1. `API_BASE_URL` (override total).
+ *   2. `API_REF` (tag o ref explícito; ej. `v1.1.0`).
+ *   3. Tag SemVer exacto en HEAD (`vX.Y.Z`) → URL pública estable.
+ *   4. SHA corto del commit actual → URL inmutable y siempre resoluble.
+ *   5. `main` como último recurso.
  *
- * Esto evita que la API de `version-1.1.0` exponga GIFs apuntando a `@main`,
- * lo que rompería el versionado si `main` se mueve.
+ * Nota: jsDelivr NO resuelve nombres de rama arbitrarios como `version-1.1.0`
+ * en `cdn.jsdelivr.net/gh/<repo>@<ref>`; sólo tags, commits y la default
+ * branch. Por eso no usamos el nombre de la rama como ref.
  */
 function detectGitRef() {
 	if (process.env.API_REF) return process.env.API_REF;
-	try {
-		const { execSync } = require("child_process");
-		const ref = execSync("git symbolic-ref --short HEAD", {
-			cwd: ROOT,
-			stdio: ["ignore", "pipe", "ignore"],
-		})
-			.toString()
-			.trim();
-		if (ref) return ref;
-	} catch {
-		/* ignore */
-	}
+	const { execSync } = require("child_process");
+	const tryGit = (cmd) => {
+		try {
+			return execSync(cmd, {
+				cwd: ROOT,
+				stdio: ["ignore", "pipe", "ignore"],
+			})
+				.toString()
+				.trim();
+		} catch {
+			return "";
+		}
+	};
+	const tag = tryGit("git describe --tags --exact-match HEAD");
+	if (/^v\d+\.\d+\.\d+/.test(tag)) return tag;
+	const sha = tryGit("git rev-parse --short=12 HEAD");
+	if (sha) return sha;
 	return "main";
 }
 
