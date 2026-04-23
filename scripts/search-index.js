@@ -148,7 +148,9 @@ function buildTerms(lang, exercise) {
 	for (const w of exercise.slug.split("-")) {
 		if (w.length >= 2) terms.add(w);
 	}
-	// Alias del músculo principal y secundarios
+	// Alias del músculo principal. NO incluimos los secundarios para que una
+	// búsqueda como "antebrazo" devuelva sólo ejercicios de antebrazo y no
+	// todos los curls de bíceps que activan el antebrazo de forma secundaria.
 	const muscleMap = MUSCLE_ALIASES[lang] || {};
 	const pushAlias = (map, key) => {
 		for (const a of map[key] || []) {
@@ -158,9 +160,6 @@ function buildTerms(lang, exercise) {
 		}
 	};
 	pushAlias(muscleMap, exercise.muscle);
-	for (const m of exercise.secondaryMuscles || []) {
-		pushAlias(muscleMap, m);
-	}
 	pushAlias(EQUIPMENT_ALIASES[lang] || {}, exercise.equipment);
 	pushAlias(BODYPART_ALIASES[lang] || {}, exercise.bodyPart);
 	pushAlias(CATEGORY_ALIASES[lang] || {}, exercise.category);
