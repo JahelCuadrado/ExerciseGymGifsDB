@@ -6,7 +6,9 @@
   "bodyPart": "arms",
   "equipment": "band",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "biceps"
+  ],
   "instructions": [
     "Anchor the resistance band and maintain initial tension.",
     "Pre-engage the forearms before initiating the movement.",

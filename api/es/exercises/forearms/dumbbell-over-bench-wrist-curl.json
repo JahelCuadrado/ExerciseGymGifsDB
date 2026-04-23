@@ -6,7 +6,9 @@
   "bodyPart": "arms",
   "equipment": "dumbbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "biceps"
+  ],
   "instructions": [
     "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
     "Activa los antebrazos antes de iniciar el movimiento.",

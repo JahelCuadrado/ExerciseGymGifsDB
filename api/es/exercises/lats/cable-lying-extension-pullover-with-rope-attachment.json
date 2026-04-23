@@ -6,7 +6,11 @@
   "bodyPart": "back",
   "equipment": "cable",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "pectorals",
+    "triceps",
+    "abs"
+  ],
   "instructions": [
     "Ajusta la polea a la altura indicada y selecciona el peso.",
     "Activa los dorsales antes de iniciar el movimiento.",

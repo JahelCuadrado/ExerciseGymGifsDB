@@ -293,7 +293,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Set the bar on the Smith machine at the right height.",
@@ -313,7 +314,9 @@
       "bodyPart": "arms",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Set the bar on the Smith machine at the right height.",
         "Pre-engage the forearms before initiating the movement.",
@@ -332,7 +335,9 @@
       "bodyPart": "arms",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Set the bar on the Smith machine at the right height.",
         "Pre-engage the forearms before initiating the movement.",
@@ -838,7 +843,10 @@
       "bodyPart": "back",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Set the bar on the Smith machine at the right height.",
         "Pre-engage the traps before initiating the movement.",
@@ -857,7 +865,10 @@
       "bodyPart": "back",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Set the bar on the Smith machine at the right height.",
         "Pre-engage the traps before initiating the movement.",
@@ -918,7 +929,9 @@
       "bodyPart": "arms",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the bar on the Smith machine at the right height.",
         "Pre-engage the triceps before initiating the movement.",
@@ -940,7 +953,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the bar on the Smith machine at the right height.",
@@ -963,7 +977,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the bar on the Smith machine at the right height.",
@@ -986,7 +1001,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the bar on the Smith machine at the right height.",
@@ -1009,7 +1025,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the bar on the Smith machine at the right height.",

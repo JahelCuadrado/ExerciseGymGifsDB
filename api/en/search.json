@@ -2123,7 +2123,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/frog-planche.gif",
       "terms": [
         "abdominals",
@@ -2135,7 +2138,11 @@
         "frog",
         "no",
         "planche",
-        "strength"
+        "strength",
+        "trapezius",
+        "traps",
+        "tricep",
+        "triceps"
       ]
     },
     {
@@ -2226,7 +2233,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/full-planche.gif",
       "terms": [
         "abdominals",
@@ -2238,7 +2248,11 @@
         "full",
         "no",
         "planche",
-        "strength"
+        "strength",
+        "trapezius",
+        "traps",
+        "tricep",
+        "triceps"
       ]
     },
     {
@@ -2394,7 +2408,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/hanging-pike.gif",
       "terms": [
         "abdominals",
@@ -2406,7 +2423,11 @@
         "hanging",
         "no",
         "pike",
-        "strength"
+        "strength",
+        "trapezius",
+        "traps",
+        "tricep",
+        "triceps"
       ]
     },
     {
@@ -2878,7 +2899,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/lean-planche.gif",
       "terms": [
         "abdominals",
@@ -2890,7 +2914,11 @@
         "lean",
         "no",
         "planche",
-        "strength"
+        "strength",
+        "trapezius",
+        "traps",
+        "tricep",
+        "triceps"
       ]
     },
     {
@@ -3871,7 +3899,7 @@
       "name": "Sledge Hammer",
       "muscle": "abs",
       "bodyPart": "core",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/sledge-hammer.gif",
@@ -3880,7 +3908,6 @@
         "abs",
         "core",
         "hammer",
-        "machine",
         "sledge",
         "strength"
       ]
@@ -4036,7 +4063,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/straddle-planche.gif",
       "terms": [
         "abdominals",
@@ -4048,7 +4078,11 @@
         "no",
         "planche",
         "straddle",
-        "strength"
+        "strength",
+        "trapezius",
+        "traps",
+        "tricep",
+        "triceps"
       ]
     },
     {
@@ -10011,7 +10045,7 @@
       "name": "Sled 45 Calf Press",
       "muscle": "calves",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
@@ -10026,7 +10060,6 @@
         "deltoid",
         "delts",
         "legs",
-        "machine",
         "press",
         "shoulder",
         "shoulders",
@@ -10043,7 +10076,7 @@
       "name": "Sled Calf Press On Leg Press",
       "muscle": "calves",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
@@ -10058,7 +10091,6 @@
         "delts",
         "leg",
         "legs",
-        "machine",
         "on",
         "press",
         "shoulder",
@@ -10076,7 +10108,7 @@
       "name": "Sled Forward Angled Calf Raise",
       "muscle": "calves",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/calves/sled-forward-angled-calf-raise.gif",
@@ -10086,7 +10118,6 @@
         "calves",
         "forward",
         "legs",
-        "machine",
         "raise",
         "sled",
         "soleus",
@@ -10099,7 +10130,7 @@
       "name": "Sled Lying Calf Press",
       "muscle": "calves",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
@@ -10114,7 +10145,6 @@
         "delts",
         "legs",
         "lying",
-        "machine",
         "press",
         "shoulder",
         "shoulders",
@@ -10131,7 +10161,7 @@
       "name": "Sled One Leg Calf Press On Leg Press",
       "muscle": "calves",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
@@ -10146,7 +10176,6 @@
         "delts",
         "leg",
         "legs",
-        "machine",
         "on",
         "one",
         "press",
@@ -11196,9 +11225,13 @@
       "bodyPart": "shoulders",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/band-reverse-fly.gif",
       "terms": [
+        "back",
         "band",
         "delt",
         "deltoid",
@@ -11208,7 +11241,10 @@
         "reverse",
         "shoulder",
         "shoulders",
-        "strength"
+        "strength",
+        "trapezius",
+        "traps",
+        "upper"
       ]
     },
     {
@@ -11546,18 +11582,29 @@
       "bodyPart": "shoulders",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "abs",
+        "lats",
+        "triceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-skier.gif",
       "terms": [
+        "abdominals",
+        "abs",
         "barbell",
+        "core",
         "delt",
         "deltoid",
         "delts",
+        "latissimus",
+        "lats",
         "olympic",
         "shoulder",
         "shoulders",
         "skier",
-        "strength"
+        "strength",
+        "tricep",
+        "triceps"
       ]
     },
     {
@@ -11685,18 +11732,35 @@
       "bodyPart": "shoulders",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "quads",
+        "triceps",
+        "abs"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-thruster.gif",
       "terms": [
+        "abdominals",
+        "abs",
         "barbell",
+        "butt",
+        "buttocks",
+        "core",
         "delt",
         "deltoid",
         "delts",
+        "glute",
+        "glutes",
         "olympic",
+        "quad",
+        "quadriceps",
+        "quads",
         "shoulder",
         "shoulders",
         "strength",
-        "thruster"
+        "thruster",
+        "tricep",
+        "triceps"
       ]
     },
     {
@@ -11709,7 +11773,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-upright-row-v-2.gif",
       "terms": [
@@ -11726,6 +11791,8 @@
         "shoulder",
         "shoulders",
         "strength",
+        "trapezius",
+        "traps",
         "upright",
         "v2"
       ]
@@ -11740,7 +11807,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-upright-row-v-3.gif",
       "terms": [
@@ -11757,6 +11825,8 @@
         "shoulder",
         "shoulders",
         "strength",
+        "trapezius",
+        "traps",
         "upright",
         "v3"
       ]
@@ -11771,7 +11841,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-upright-row.gif",
       "terms": [
@@ -11788,6 +11859,8 @@
         "shoulder",
         "shoulders",
         "strength",
+        "trapezius",
+        "traps",
         "upright"
       ]
     },
@@ -11801,7 +11874,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/barbell-wide-grip-upright-row.gif",
       "terms": [
@@ -11819,6 +11893,8 @@
         "shoulder",
         "shoulders",
         "strength",
+        "trapezius",
+        "traps",
         "upright",
         "wide"
       ]
@@ -11831,19 +11907,30 @@
       "bodyPart": "shoulders",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "abs",
+        "forearms",
+        "traps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/battling-ropes.gif",
       "terms": [
+        "abdominals",
+        "abs",
         "band",
         "battling",
+        "core",
         "delt",
         "deltoid",
         "delts",
+        "forearm",
+        "forearms",
         "resistance",
         "ropes",
         "shoulder",
         "shoulders",
-        "strength"
+        "strength",
+        "trapezius",
+        "traps"
       ]
     },
     {
@@ -11881,9 +11968,13 @@
       "bodyPart": "shoulders",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/cable-cross-over-revers-fly.gif",
       "terms": [
+        "back",
         "cable",
         "cross",
         "delt",
@@ -11895,7 +11986,10 @@
         "revers",
         "shoulder",
         "shoulders",
-        "strength"
+        "strength",
+        "trapezius",
+        "traps",
+        "upper"
       ]
     },
     {
@@ -12219,9 +12313,13 @@
       "bodyPart": "shoulders",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/cable-standing-cross-over-high-reverse-fly.gif",
       "terms": [
+        "back",
         "cable",
         "cross",
         "delt",
@@ -12235,7 +12333,10 @@
         "shoulder",
         "shoulders",
         "standing",
-        "strength"
+        "strength",
+        "trapezius",
+        "traps",
+        "upper"
       ]
     },
     {
@@ -12303,9 +12404,13 @@
       "bodyPart": "shoulders",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/cable-supine-reverse-fly.gif",
       "terms": [
+        "back",
         "cable",
         "delt",
         "deltoid",
@@ -12316,7 +12421,10 @@
         "shoulder",
         "shoulders",
         "strength",
-        "supine"
+        "supine",
+        "trapezius",
+        "traps",
+        "upper"
       ]
     },
     {
@@ -12329,7 +12437,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/cable-upright-row.gif",
       "terms": [
@@ -12346,6 +12455,8 @@
         "shoulder",
         "shoulders",
         "strength",
+        "trapezius",
+        "traps",
         "upright"
       ]
     },
@@ -12720,9 +12831,17 @@
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "lats",
+        "abs"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-iron-cross.gif",
       "terms": [
+        "abdominals",
+        "abs",
+        "chest",
+        "core",
         "cross",
         "delt",
         "deltoid",
@@ -12730,6 +12849,11 @@
         "dumbbell",
         "dumbbells",
         "iron",
+        "latissimus",
+        "lats",
+        "pec",
+        "pecs",
+        "pectorals",
         "shoulder",
         "shoulders",
         "strength"
@@ -12998,10 +13122,14 @@
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-one-arm-reverse-fly-with-support.gif",
       "terms": [
         "arm",
+        "back",
         "delt",
         "deltoid",
         "delts",
@@ -13014,6 +13142,9 @@
         "shoulders",
         "strength",
         "support",
+        "trapezius",
+        "traps",
+        "upper",
         "with"
       ]
     },
@@ -13084,7 +13215,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-one-arm-upright-row.gif",
       "terms": [
@@ -13103,6 +13235,8 @@
         "shoulder",
         "shoulders",
         "strength",
+        "trapezius",
+        "traps",
         "upright"
       ]
     },
@@ -13224,9 +13358,13 @@
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-rear-fly.gif",
       "terms": [
+        "back",
         "delt",
         "deltoid",
         "delts",
@@ -13236,7 +13374,10 @@
         "rear",
         "shoulder",
         "shoulders",
-        "strength"
+        "strength",
+        "trapezius",
+        "traps",
+        "upper"
       ]
     },
     {
@@ -13305,9 +13446,13 @@
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-reverse-fly.gif",
       "terms": [
+        "back",
         "delt",
         "deltoid",
         "delts",
@@ -13317,7 +13462,10 @@
         "reverse",
         "shoulder",
         "shoulders",
-        "strength"
+        "strength",
+        "trapezius",
+        "traps",
+        "upper"
       ]
     },
     {
@@ -13328,9 +13476,13 @@
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-rotation-reverse-fly.gif",
       "terms": [
+        "back",
         "delt",
         "deltoid",
         "delts",
@@ -13341,7 +13493,10 @@
         "rotation",
         "shoulder",
         "shoulders",
-        "strength"
+        "strength",
+        "trapezius",
+        "traps",
+        "upper"
       ]
     },
     {
@@ -13886,7 +14041,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-upright-row-back-pov.gif",
       "terms": [
@@ -13905,6 +14061,8 @@
         "shoulder",
         "shoulders",
         "strength",
+        "trapezius",
+        "traps",
         "upright"
       ]
     },
@@ -13918,7 +14076,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/dumbbell-upright-row.gif",
       "terms": [
@@ -13935,6 +14094,8 @@
         "shoulder",
         "shoulders",
         "strength",
+        "trapezius",
+        "traps",
         "upright"
       ]
     },
@@ -14488,17 +14649,34 @@
       "bodyPart": "shoulders",
       "equipment": "kettlebell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "quads",
+        "triceps",
+        "abs"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/kettlebell-thruster.gif",
       "terms": [
+        "abdominals",
+        "abs",
+        "butt",
+        "buttocks",
+        "core",
         "delt",
         "deltoid",
         "delts",
+        "glute",
+        "glutes",
         "kettlebell",
+        "quad",
+        "quadriceps",
+        "quads",
         "shoulder",
         "shoulders",
         "strength",
-        "thruster"
+        "thruster",
+        "tricep",
+        "triceps"
       ]
     },
     {
@@ -14717,9 +14895,13 @@
       "bodyPart": "shoulders",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/lever-seated-reverse-fly-parallel-grip.gif",
       "terms": [
+        "back",
         "delt",
         "deltoid",
         "delts",
@@ -14732,7 +14914,10 @@
         "seated",
         "shoulder",
         "shoulders",
-        "strength"
+        "strength",
+        "trapezius",
+        "traps",
+        "upper"
       ]
     },
     {
@@ -14743,9 +14928,13 @@
       "bodyPart": "shoulders",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/lever-seated-reverse-fly.gif",
       "terms": [
+        "back",
         "delt",
         "deltoid",
         "delts",
@@ -14756,7 +14945,10 @@
         "seated",
         "shoulder",
         "shoulders",
-        "strength"
+        "strength",
+        "trapezius",
+        "traps",
+        "upper"
       ]
     },
     {
@@ -15071,7 +15263,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/smith-upright-row.gif",
       "terms": [
@@ -15088,6 +15281,8 @@
         "shoulders",
         "smith",
         "strength",
+        "trapezius",
+        "traps",
         "upright"
       ]
     },
@@ -15235,11 +15430,15 @@
       "bodyPart": "arms",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/band-reverse-wrist-curl.gif",
       "terms": [
         "arms",
         "band",
+        "bicep",
+        "biceps",
         "curl",
         "forearm",
         "forearms",
@@ -15257,11 +15456,15 @@
       "bodyPart": "arms",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/band-wrist-curl.gif",
       "terms": [
         "arms",
         "band",
+        "bicep",
+        "biceps",
         "curl",
         "forearm",
         "forearms",
@@ -15278,12 +15481,16 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/barbell-palms-down-wrist-curl-over-a-bench.gif",
       "terms": [
         "arms",
         "barbell",
         "bench",
+        "bicep",
+        "biceps",
         "curl",
         "down",
         "forearm",
@@ -15303,12 +15510,16 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/barbell-palms-up-wrist-curl-over-a-bench.gif",
       "terms": [
         "arms",
         "barbell",
         "bench",
+        "bicep",
+        "biceps",
         "curl",
         "forearm",
         "forearms",
@@ -15328,11 +15539,15 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/barbell-revers-wrist-curl-v-2.gif",
       "terms": [
         "arms",
         "barbell",
+        "bicep",
+        "biceps",
         "curl",
         "forearm",
         "forearms",
@@ -15351,11 +15566,15 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/barbell-reverse-wrist-curl.gif",
       "terms": [
         "arms",
         "barbell",
+        "bicep",
+        "biceps",
         "curl",
         "forearm",
         "forearms",
@@ -15373,12 +15592,16 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/barbell-standing-back-wrist-curl.gif",
       "terms": [
         "arms",
         "back",
         "barbell",
+        "bicep",
+        "biceps",
         "curl",
         "forearm",
         "forearms",
@@ -15396,11 +15619,15 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/barbell-wrist-curl-v-2.gif",
       "terms": [
         "arms",
         "barbell",
+        "bicep",
+        "biceps",
         "curl",
         "forearm",
         "forearms",
@@ -15418,11 +15645,15 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/barbell-wrist-curl.gif",
       "terms": [
         "arms",
         "barbell",
+        "bicep",
+        "biceps",
         "curl",
         "forearm",
         "forearms",
@@ -15439,10 +15670,14 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/cable-reverse-wrist-curl.gif",
       "terms": [
         "arms",
+        "bicep",
+        "biceps",
         "cable",
         "curl",
         "forearm",
@@ -15461,11 +15696,15 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/cable-standing-back-wrist-curl.gif",
       "terms": [
         "arms",
         "back",
+        "bicep",
+        "biceps",
         "cable",
         "curl",
         "forearm",
@@ -15484,10 +15723,14 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/cable-wrist-curl.gif",
       "terms": [
         "arms",
+        "bicep",
+        "biceps",
         "cable",
         "curl",
         "forearm",
@@ -15614,11 +15857,15 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/dumbbell-one-arm-reverse-wrist-curl.gif",
       "terms": [
         "arm",
         "arms",
+        "bicep",
+        "biceps",
         "curl",
         "dumbbell",
         "dumbbells",
@@ -15638,11 +15885,15 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/dumbbell-one-arm-seated-neutral-wrist-curl.gif",
       "terms": [
         "arm",
         "arms",
+        "bicep",
+        "biceps",
         "curl",
         "dumbbell",
         "dumbbells",
@@ -15663,11 +15914,15 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/dumbbell-one-arm-wrist-curl.gif",
       "terms": [
         "arm",
         "arms",
+        "bicep",
+        "biceps",
         "curl",
         "dumbbell",
         "dumbbells",
@@ -15686,12 +15941,16 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/dumbbell-over-bench-one-arm-reverse-wrist-curl.gif",
       "terms": [
         "arm",
         "arms",
         "bench",
+        "bicep",
+        "biceps",
         "curl",
         "dumbbell",
         "dumbbells",
@@ -15712,12 +15971,16 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/dumbbell-over-bench-one-arm-wrist-curl.gif",
       "terms": [
         "arm",
         "arms",
         "bench",
+        "bicep",
+        "biceps",
         "curl",
         "dumbbell",
         "dumbbells",
@@ -15737,11 +16000,15 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/dumbbell-over-bench-revers-wrist-curl.gif",
       "terms": [
         "arms",
         "bench",
+        "bicep",
+        "biceps",
         "curl",
         "dumbbell",
         "dumbbells",
@@ -15761,11 +16028,15 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/dumbbell-over-bench-wrist-curl.gif",
       "terms": [
         "arms",
         "bench",
+        "bicep",
+        "biceps",
         "curl",
         "dumbbell",
         "dumbbells",
@@ -15784,10 +16055,14 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/dumbbell-reverse-wrist-curl.gif",
       "terms": [
         "arms",
+        "bicep",
+        "biceps",
         "curl",
         "dumbbell",
         "dumbbells",
@@ -15829,10 +16104,14 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/dumbbell-seated-palms-up-wrist-curl.gif",
       "terms": [
         "arms",
+        "bicep",
+        "biceps",
         "curl",
         "dumbbell",
         "dumbbells",
@@ -15921,10 +16200,14 @@
       "bodyPart": "arms",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/lever-gripper-hands.gif",
       "terms": [
         "arms",
+        "bicep",
+        "biceps",
         "forearm",
         "forearms",
         "gripper",
@@ -15978,10 +16261,14 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "stretching",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/side-wrist-pull-stretch.gif",
       "terms": [
         "arms",
+        "bicep",
+        "biceps",
         "bodyweight",
         "calisthenics",
         "equipment",
@@ -16004,10 +16291,14 @@
       "bodyPart": "arms",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/smith-seated-wrist-curl.gif",
       "terms": [
         "arms",
+        "bicep",
+        "biceps",
         "curl",
         "forearm",
         "forearms",
@@ -16026,11 +16317,15 @@
       "bodyPart": "arms",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/smith-standing-back-wrist-curl.gif",
       "terms": [
         "arms",
         "back",
+        "bicep",
+        "biceps",
         "curl",
         "forearm",
         "forearms",
@@ -16074,10 +16369,14 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/wrist-circles.gif",
       "terms": [
         "arms",
+        "bicep",
+        "biceps",
         "bodyweight",
         "calisthenics",
         "circles",
@@ -16097,10 +16396,14 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/wrist-rollerer.gif",
       "terms": [
         "arms",
+        "bicep",
+        "biceps",
         "bodyweight",
         "calisthenics",
         "equipment",
@@ -16206,9 +16509,13 @@
       "bodyPart": "legs",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/band-bent-over-hip-extension.gif",
       "terms": [
+        "back",
         "band",
         "bent",
         "butt",
@@ -16216,10 +16523,16 @@
         "extension",
         "glute",
         "glutes",
+        "hammies",
+        "hamstring",
+        "hamstrings",
         "hip",
         "legs",
+        "lower",
+        "lumbar",
         "over",
         "resistance",
+        "spine",
         "strength"
       ]
     },
@@ -16279,17 +16592,27 @@
       "bodyPart": "legs",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/band-pull-through.gif",
       "terms": [
+        "back",
         "band",
         "butt",
         "buttocks",
         "glute",
         "glutes",
+        "hammies",
+        "hamstring",
+        "hamstrings",
         "legs",
+        "lower",
+        "lumbar",
         "pull",
         "resistance",
+        "spine",
         "strength",
         "through"
       ]
@@ -17574,9 +17897,13 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/bench-hip-extension.gif",
       "terms": [
+        "back",
         "bench",
         "bodyweight",
         "butt",
@@ -17586,9 +17913,15 @@
         "extension",
         "glute",
         "glutes",
+        "hammies",
+        "hamstring",
+        "hamstrings",
         "hip",
         "legs",
+        "lower",
+        "lumbar",
         "no",
+        "spine",
         "strength"
       ]
     },
@@ -17705,18 +18038,28 @@
       "bodyPart": "legs",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/cable-pull-through-with-rope.gif",
       "terms": [
+        "back",
         "butt",
         "buttocks",
         "cable",
         "glute",
         "glutes",
+        "hammies",
+        "hamstring",
+        "hamstrings",
         "legs",
+        "lower",
+        "lumbar",
         "pull",
         "pulley",
         "rope",
+        "spine",
         "strength",
         "through",
         "with"
@@ -17730,18 +18073,28 @@
       "bodyPart": "legs",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/cable-standing-hip-extension.gif",
       "terms": [
+        "back",
         "butt",
         "buttocks",
         "cable",
         "extension",
         "glute",
         "glutes",
+        "hammies",
+        "hamstring",
+        "hamstrings",
         "hip",
         "legs",
+        "lower",
+        "lumbar",
         "pulley",
+        "spine",
         "standing",
         "strength"
       ]
@@ -18383,17 +18736,27 @@
       "bodyPart": "legs",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/dumbbell-sumo-pull-through.gif",
       "terms": [
+        "back",
         "butt",
         "buttocks",
         "dumbbell",
         "dumbbells",
         "glute",
         "glutes",
+        "hammies",
+        "hamstring",
+        "hamstrings",
         "legs",
+        "lower",
+        "lumbar",
         "pull",
+        "spine",
         "strength",
         "sumo",
         "through"
@@ -18749,21 +19112,34 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "stretching",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "lats",
+        "abs"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/iron-cross-stretch.gif",
       "terms": [
+        "abdominals",
+        "abs",
         "bodyweight",
         "butt",
         "buttocks",
         "calisthenics",
+        "chest",
+        "core",
         "cross",
         "equipment",
         "flexibility",
         "glute",
         "glutes",
         "iron",
+        "latissimus",
+        "lats",
         "legs",
         "no",
+        "pec",
+        "pecs",
+        "pectorals",
         "stretch",
         "stretching"
       ]
@@ -19126,18 +19502,28 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/lever-hip-extension-v-2.gif",
       "terms": [
+        "back",
         "butt",
         "buttocks",
         "extension",
         "glute",
         "glutes",
+        "hammies",
+        "hamstring",
+        "hamstrings",
         "hip",
         "legs",
         "lever",
+        "lower",
+        "lumbar",
         "machine",
+        "spine",
         "strength",
         "v2"
       ]
@@ -19185,18 +19571,28 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/lever-reverse-hyperextension.gif",
       "terms": [
+        "back",
         "butt",
         "buttocks",
         "glute",
         "glutes",
+        "hammies",
+        "hamstring",
+        "hamstrings",
         "hyperextension",
         "legs",
         "lever",
+        "lower",
+        "lumbar",
         "machine",
         "reverse",
+        "spine",
         "strength"
       ]
     },
@@ -19466,15 +19862,20 @@
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
-        "delts"
+        "delts",
+        "abs",
+        "traps"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/pike-to-cobra-push-up.gif",
       "terms": [
+        "abdominals",
+        "abs",
         "bodyweight",
         "butt",
         "buttocks",
         "calisthenics",
         "cobra",
+        "core",
         "delt",
         "deltoid",
         "delts",
@@ -19489,6 +19890,8 @@
         "shoulders",
         "strength",
         "to",
+        "trapezius",
+        "traps",
         "tricep",
         "triceps",
         "up"
@@ -19910,7 +20313,7 @@
       "name": "Sled 45 Degrees One Leg Press",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
@@ -19929,7 +20332,6 @@
         "glutes",
         "leg",
         "legs",
-        "machine",
         "one",
         "press",
         "shoulder",
@@ -19946,7 +20348,7 @@
       "name": "Sled 45 Leg Press Back Pov",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
@@ -19965,7 +20367,6 @@
         "glutes",
         "leg",
         "legs",
-        "machine",
         "pov",
         "press",
         "shoulder",
@@ -19982,7 +20383,7 @@
       "name": "Sled 45 Leg Press Side Pov",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
@@ -20000,7 +20401,6 @@
         "glutes",
         "leg",
         "legs",
-        "machine",
         "pov",
         "press",
         "shoulder",
@@ -20018,7 +20418,7 @@
       "name": "Sled 45 Leg Press",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
@@ -20036,7 +20436,6 @@
         "glutes",
         "leg",
         "legs",
-        "machine",
         "press",
         "shoulder",
         "shoulders",
@@ -20052,7 +20451,7 @@
       "name": "Sled 45 Leg Wide Press",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
@@ -20070,7 +20469,6 @@
         "glutes",
         "leg",
         "legs",
-        "machine",
         "press",
         "shoulder",
         "shoulders",
@@ -20154,7 +20552,7 @@
       "name": "Sled Lying Squat",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "hamstrings",
@@ -20173,7 +20571,6 @@
         "hamstrings",
         "legs",
         "lying",
-        "machine",
         "sled",
         "soleus",
         "squat",
@@ -20905,10 +21302,19 @@
       "bodyPart": "legs",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/barbell-good-morning.gif",
       "terms": [
         "barbell",
+        "butt",
+        "buttocks",
+        "calf",
+        "calves",
+        "glute",
+        "glutes",
         "good",
         "hammies",
         "hamstring",
@@ -20916,6 +21322,7 @@
         "legs",
         "morning",
         "olympic",
+        "soleus",
         "strength"
       ]
     },
@@ -20970,12 +21377,21 @@
       "bodyPart": "legs",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/cable-assisted-inverse-leg-curl.gif",
       "terms": [
         "assisted",
+        "butt",
+        "buttocks",
         "cable",
+        "calf",
+        "calves",
         "curl",
+        "glute",
+        "glutes",
         "hammies",
         "hamstring",
         "hamstrings",
@@ -20983,6 +21399,7 @@
         "leg",
         "legs",
         "pulley",
+        "soleus",
         "strength"
       ]
     },
@@ -21092,14 +21509,23 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/inverse-leg-curl-bench-support.gif",
       "terms": [
         "bench",
         "bodyweight",
+        "butt",
+        "buttocks",
+        "calf",
         "calisthenics",
+        "calves",
         "curl",
         "equipment",
+        "glute",
+        "glutes",
         "hammies",
         "hamstring",
         "hamstrings",
@@ -21107,6 +21533,7 @@
         "leg",
         "legs",
         "no",
+        "soleus",
         "strength",
         "support"
       ]
@@ -21122,19 +21549,27 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "glutes",
+        "calves"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/inverse-leg-curl-on-pull-up-cable-machine.gif",
       "terms": [
         "bicep",
         "biceps",
+        "butt",
+        "buttocks",
         "cable",
+        "calf",
+        "calves",
         "curl",
         "delt",
         "deltoid",
         "delts",
         "forearm",
         "forearms",
+        "glute",
+        "glutes",
         "hammies",
         "hamstring",
         "hamstrings",
@@ -21147,6 +21582,7 @@
         "pulley",
         "shoulder",
         "shoulders",
+        "soleus",
         "strength",
         "up"
       ]
@@ -21254,10 +21690,19 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/lever-kneeling-leg-curl.gif",
       "terms": [
+        "butt",
+        "buttocks",
+        "calf",
+        "calves",
         "curl",
+        "glute",
+        "glutes",
         "hammies",
         "hamstring",
         "hamstrings",
@@ -21266,6 +21711,7 @@
         "legs",
         "lever",
         "machine",
+        "soleus",
         "strength"
       ]
     },
@@ -21277,10 +21723,19 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/lever-lying-leg-curl.gif",
       "terms": [
+        "butt",
+        "buttocks",
+        "calf",
+        "calves",
         "curl",
+        "glute",
+        "glutes",
         "hammies",
         "hamstring",
         "hamstrings",
@@ -21289,6 +21744,7 @@
         "lever",
         "lying",
         "machine",
+        "soleus",
         "strength"
       ]
     },
@@ -21300,10 +21756,19 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/lever-lying-two-one-leg-curl.gif",
       "terms": [
+        "butt",
+        "buttocks",
+        "calf",
+        "calves",
         "curl",
+        "glute",
+        "glutes",
         "hammies",
         "hamstring",
         "hamstrings",
@@ -21313,6 +21778,7 @@
         "lying",
         "machine",
         "one",
+        "soleus",
         "strength",
         "two"
       ]
@@ -21325,10 +21791,19 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/lever-seated-leg-curl.gif",
       "terms": [
+        "butt",
+        "buttocks",
+        "calf",
+        "calves",
         "curl",
+        "glute",
+        "glutes",
         "hammies",
         "hamstring",
         "hamstrings",
@@ -21337,6 +21812,7 @@
         "lever",
         "machine",
         "seated",
+        "soleus",
         "strength"
       ]
     },
@@ -21475,15 +21951,24 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/self-assisted-inverse-leg-curl-1766.gif",
       "terms": [
         "1766",
         "assisted",
         "bodyweight",
+        "butt",
+        "buttocks",
+        "calf",
         "calisthenics",
+        "calves",
         "curl",
         "equipment",
+        "glute",
+        "glutes",
         "hammies",
         "hamstring",
         "hamstrings",
@@ -21492,6 +21977,7 @@
         "legs",
         "no",
         "self",
+        "soleus",
         "strength"
       ]
     },
@@ -21503,15 +21989,24 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/self-assisted-inverse-leg-curl-on-floor.gif",
       "terms": [
         "assisted",
         "bodyweight",
+        "butt",
+        "buttocks",
+        "calf",
         "calisthenics",
+        "calves",
         "curl",
         "equipment",
         "floor",
+        "glute",
+        "glutes",
         "hammies",
         "hamstring",
         "hamstrings",
@@ -21521,6 +22016,7 @@
         "no",
         "on",
         "self",
+        "soleus",
         "strength"
       ]
     },
@@ -21532,14 +22028,23 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/self-assisted-inverse-leg-curl.gif",
       "terms": [
         "assisted",
         "bodyweight",
+        "butt",
+        "buttocks",
+        "calf",
         "calisthenics",
+        "calves",
         "curl",
         "equipment",
+        "glute",
+        "glutes",
         "hammies",
         "hamstring",
         "hamstrings",
@@ -21548,6 +22053,7 @@
         "legs",
         "no",
         "self",
+        "soleus",
         "strength"
       ]
     },
@@ -21611,10 +22117,19 @@
       "bodyPart": "legs",
       "equipment": "other",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/standing-single-leg-curl.gif",
       "terms": [
+        "butt",
+        "buttocks",
+        "calf",
+        "calves",
         "curl",
+        "glute",
+        "glutes",
         "hammies",
         "hamstring",
         "hamstrings",
@@ -21622,6 +22137,7 @@
         "legs",
         "other",
         "single",
+        "soleus",
         "standing",
         "strength"
       ]
@@ -22122,18 +22638,31 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/barbell-bent-arm-pullover.gif",
       "terms": [
+        "abdominals",
+        "abs",
         "arm",
         "back",
         "barbell",
         "bent",
+        "chest",
+        "core",
         "latissimus",
         "lats",
         "olympic",
+        "pec",
+        "pecs",
+        "pectorals",
         "pullover",
-        "strength"
+        "strength",
+        "tricep",
+        "triceps"
       ]
     },
     {
@@ -22144,19 +22673,32 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/barbell-decline-bent-arm-pullover.gif",
       "terms": [
+        "abdominals",
+        "abs",
         "arm",
         "back",
         "barbell",
         "bent",
+        "chest",
+        "core",
         "decline",
         "latissimus",
         "lats",
         "olympic",
+        "pec",
+        "pecs",
+        "pectorals",
         "pullover",
-        "strength"
+        "strength",
+        "tricep",
+        "triceps"
       ]
     },
     {
@@ -22167,18 +22709,31 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/barbell-decline-wide-grip-pullover.gif",
       "terms": [
+        "abdominals",
+        "abs",
         "back",
         "barbell",
+        "chest",
+        "core",
         "decline",
         "grip",
         "latissimus",
         "lats",
         "olympic",
+        "pec",
+        "pecs",
+        "pectorals",
         "pullover",
         "strength",
+        "tricep",
+        "triceps",
         "wide"
       ]
     },
@@ -22192,18 +22747,27 @@
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
-        "delts"
+        "delts",
+        "pectorals",
+        "abs"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/barbell-pullover-to-press.gif",
       "terms": [
+        "abdominals",
+        "abs",
         "back",
         "barbell",
+        "chest",
+        "core",
         "delt",
         "deltoid",
         "delts",
         "latissimus",
         "lats",
         "olympic",
+        "pec",
+        "pecs",
+        "pectorals",
         "press",
         "pullover",
         "shoulder",
@@ -22222,16 +22786,29 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/barbell-pullover.gif",
       "terms": [
+        "abdominals",
+        "abs",
         "back",
         "barbell",
+        "chest",
+        "core",
         "latissimus",
         "lats",
         "olympic",
+        "pec",
+        "pecs",
+        "pectorals",
         "pullover",
-        "strength"
+        "strength",
+        "tricep",
+        "triceps"
       ]
     },
     {
@@ -22482,20 +23059,33 @@
       "bodyPart": "back",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/cable-lying-extension-pullover-with-rope-attachment.gif",
       "terms": [
+        "abdominals",
+        "abs",
         "attachment",
         "back",
         "cable",
+        "chest",
+        "core",
         "extension",
         "latissimus",
         "lats",
         "lying",
+        "pec",
+        "pecs",
+        "pectorals",
         "pulley",
         "pullover",
         "rope",
         "strength",
+        "tricep",
+        "triceps",
         "with"
       ]
     },
@@ -23135,20 +23725,33 @@
       "bodyPart": "back",
       "equipment": "ez-bar",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/ez-bar-lying-bent-arms-pullover.gif",
       "terms": [
+        "abdominals",
+        "abs",
         "arms",
         "back",
         "bar",
         "bent",
+        "chest",
+        "core",
         "ez",
         "ez-bar",
         "latissimus",
         "lats",
         "lying",
+        "pec",
+        "pecs",
+        "pectorals",
         "pullover",
-        "strength"
+        "strength",
+        "tricep",
+        "triceps"
       ]
     },
     {
@@ -23374,16 +23977,29 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/lever-pullover.gif",
       "terms": [
+        "abdominals",
+        "abs",
         "back",
+        "chest",
+        "core",
         "latissimus",
         "lats",
         "lever",
         "machine",
+        "pec",
+        "pecs",
+        "pectorals",
         "pullover",
-        "strength"
+        "strength",
+        "tricep",
+        "triceps"
       ]
     },
     {
@@ -24949,17 +25565,24 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/cable-cross-over-variation.gif",
       "terms": [
         "cable",
         "chest",
         "cross",
+        "delt",
+        "deltoid",
+        "delts",
         "over",
         "pec",
         "pecs",
         "pectorals",
         "pulley",
+        "shoulder",
+        "shoulders",
         "strength",
         "variation"
       ]
@@ -24972,17 +25595,24 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/cable-decline-fly.gif",
       "terms": [
         "cable",
         "chest",
         "decline",
+        "delt",
+        "deltoid",
+        "delts",
         "fly",
         "pec",
         "pecs",
         "pectorals",
         "pulley",
+        "shoulder",
+        "shoulders",
         "strength"
       ]
     },
@@ -25093,12 +25723,17 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/cable-incline-fly-on-stability-ball.gif",
       "terms": [
         "ball",
         "cable",
         "chest",
+        "delt",
+        "deltoid",
+        "delts",
         "fly",
         "incline",
         "on",
@@ -25106,6 +25741,8 @@
         "pecs",
         "pectorals",
         "pulley",
+        "shoulder",
+        "shoulders",
         "stability",
         "strength"
       ]
@@ -25118,17 +25755,24 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/cable-incline-fly.gif",
       "terms": [
         "cable",
         "chest",
+        "delt",
+        "deltoid",
+        "delts",
         "fly",
         "incline",
         "pec",
         "pecs",
         "pectorals",
         "pulley",
+        "shoulder",
+        "shoulders",
         "strength"
       ]
     },
@@ -25140,17 +25784,24 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/cable-low-fly.gif",
       "terms": [
         "cable",
         "chest",
+        "delt",
+        "deltoid",
+        "delts",
         "fly",
         "low",
         "pec",
         "pecs",
         "pectorals",
         "pulley",
+        "shoulder",
+        "shoulders",
         "strength"
       ]
     },
@@ -25162,17 +25813,24 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/cable-lying-fly.gif",
       "terms": [
         "cable",
         "chest",
+        "delt",
+        "deltoid",
+        "delts",
         "fly",
         "lying",
         "pec",
         "pecs",
         "pectorals",
         "pulley",
+        "shoulder",
+        "shoulders",
         "strength"
       ]
     },
@@ -25184,17 +25842,24 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/cable-middle-fly.gif",
       "terms": [
         "cable",
         "chest",
+        "delt",
+        "deltoid",
+        "delts",
         "fly",
         "middle",
         "pec",
         "pecs",
         "pectorals",
         "pulley",
+        "shoulder",
+        "shoulders",
         "strength"
       ]
     },
@@ -25206,19 +25871,26 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/cable-one-arm-decline-chest-fly.gif",
       "terms": [
         "arm",
         "cable",
         "chest",
         "decline",
+        "delt",
+        "deltoid",
+        "delts",
         "fly",
         "one",
         "pec",
         "pecs",
         "pectorals",
         "pulley",
+        "shoulder",
+        "shoulders",
         "strength"
       ]
     },
@@ -25230,13 +25902,18 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/cable-one-arm-fly-on-exercise-ball.gif",
       "terms": [
         "arm",
         "ball",
         "cable",
         "chest",
+        "delt",
+        "deltoid",
+        "delts",
         "exercise",
         "fly",
         "on",
@@ -25245,6 +25922,8 @@
         "pecs",
         "pectorals",
         "pulley",
+        "shoulder",
+        "shoulders",
         "strength"
       ]
     },
@@ -25256,13 +25935,18 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/cable-one-arm-incline-fly-on-exercise-ball.gif",
       "terms": [
         "arm",
         "ball",
         "cable",
         "chest",
+        "delt",
+        "deltoid",
+        "delts",
         "exercise",
         "fly",
         "incline",
@@ -25272,6 +25956,8 @@
         "pecs",
         "pectorals",
         "pulley",
+        "shoulder",
+        "shoulders",
         "strength"
       ]
     },
@@ -25481,16 +26167,23 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/cable-standing-fly.gif",
       "terms": [
         "cable",
         "chest",
+        "delt",
+        "deltoid",
+        "delts",
         "fly",
         "pec",
         "pecs",
         "pectorals",
         "pulley",
+        "shoulder",
+        "shoulders",
         "standing",
         "strength"
       ]
@@ -25503,16 +26196,23 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/cable-standing-up-straight-crossovers.gif",
       "terms": [
         "cable",
         "chest",
         "crossovers",
+        "delt",
+        "deltoid",
+        "delts",
         "pec",
         "pecs",
         "pectorals",
         "pulley",
+        "shoulder",
+        "shoulders",
         "standing",
         "straight",
         "strength",
@@ -25527,16 +26227,23 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/cable-upper-chest-crossovers.gif",
       "terms": [
         "cable",
         "chest",
         "crossovers",
+        "delt",
+        "deltoid",
+        "delts",
         "pec",
         "pecs",
         "pectorals",
         "pulley",
+        "shoulder",
+        "shoulders",
         "strength",
         "upper"
       ]
@@ -26014,17 +26721,24 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/dumbbell-decline-fly.gif",
       "terms": [
         "chest",
         "decline",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "fly",
         "pec",
         "pecs",
         "pectorals",
+        "shoulder",
+        "shoulders",
         "strength"
       ]
     },
@@ -26069,12 +26783,17 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/dumbbell-decline-one-arm-fly.gif",
       "terms": [
         "arm",
         "chest",
         "decline",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "fly",
@@ -26082,6 +26801,8 @@
         "pec",
         "pecs",
         "pectorals",
+        "shoulder",
+        "shoulders",
         "strength"
       ]
     },
@@ -26093,17 +26814,24 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/dumbbell-decline-twist-fly.gif",
       "terms": [
         "chest",
         "decline",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "fly",
         "pec",
         "pecs",
         "pectorals",
+        "shoulder",
+        "shoulders",
         "strength",
         "twist"
       ]
@@ -26116,11 +26844,16 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/dumbbell-fly-on-exercise-ball.gif",
       "terms": [
         "ball",
         "chest",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "exercise",
@@ -26129,6 +26862,8 @@
         "pec",
         "pecs",
         "pectorals",
+        "shoulder",
+        "shoulders",
         "strength"
       ]
     },
@@ -26140,16 +26875,23 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/dumbbell-fly.gif",
       "terms": [
         "chest",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "fly",
         "pec",
         "pecs",
         "pectorals",
+        "shoulder",
+        "shoulders",
         "strength"
       ]
     },
@@ -26249,11 +26991,16 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/dumbbell-incline-fly-on-exercise-ball.gif",
       "terms": [
         "ball",
         "chest",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "exercise",
@@ -26263,6 +27010,8 @@
         "pec",
         "pecs",
         "pectorals",
+        "shoulder",
+        "shoulders",
         "strength"
       ]
     },
@@ -26274,10 +27023,15 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/dumbbell-incline-fly.gif",
       "terms": [
         "chest",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "fly",
@@ -26285,6 +27039,8 @@
         "pec",
         "pecs",
         "pectorals",
+        "shoulder",
+        "shoulders",
         "strength"
       ]
     },
@@ -26329,12 +27085,17 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/dumbbell-incline-one-arm-fly-on-exercise-ball.gif",
       "terms": [
         "arm",
         "ball",
         "chest",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "exercise",
@@ -26345,6 +27106,8 @@
         "pec",
         "pecs",
         "pectorals",
+        "shoulder",
+        "shoulders",
         "strength"
       ]
     },
@@ -26356,11 +27119,16 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/dumbbell-incline-one-arm-fly.gif",
       "terms": [
         "arm",
         "chest",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "fly",
@@ -26369,6 +27137,8 @@
         "pec",
         "pecs",
         "pectorals",
+        "shoulder",
+        "shoulders",
         "strength"
       ]
     },
@@ -26520,10 +27290,15 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/dumbbell-incline-twisted-flyes.gif",
       "terms": [
         "chest",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "flyes",
@@ -26531,6 +27306,8 @@
         "pec",
         "pecs",
         "pectorals",
+        "shoulder",
+        "shoulders",
         "strength",
         "twisted"
       ]
@@ -26670,12 +27447,17 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/dumbbell-one-arm-bench-fly.gif",
       "terms": [
         "arm",
         "bench",
         "chest",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "fly",
@@ -26683,6 +27465,8 @@
         "pec",
         "pecs",
         "pectorals",
+        "shoulder",
+        "shoulders",
         "strength"
       ]
     },
@@ -26694,12 +27478,17 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/dumbbell-one-arm-chest-fly-on-exercise-ball.gif",
       "terms": [
         "arm",
         "ball",
         "chest",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "exercise",
@@ -26709,6 +27498,8 @@
         "pec",
         "pecs",
         "pectorals",
+        "shoulder",
+        "shoulders",
         "strength"
       ]
     },
@@ -26754,12 +27545,17 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/dumbbell-one-arm-fly-on-exercise-ball.gif",
       "terms": [
         "arm",
         "ball",
         "chest",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "exercise",
@@ -26769,6 +27565,8 @@
         "pec",
         "pecs",
         "pectorals",
+        "shoulder",
+        "shoulders",
         "strength"
       ]
     },
@@ -26911,11 +27709,16 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/dumbbell-one-leg-fly-on-exercise-ball.gif",
       "terms": [
         "ball",
         "chest",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "exercise",
@@ -26926,6 +27729,8 @@
         "pec",
         "pecs",
         "pectorals",
+        "shoulder",
+        "shoulders",
         "strength"
       ]
     },
@@ -27126,14 +27931,19 @@
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
-        "delts"
+        "delts",
+        "abs",
+        "traps"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/exercise-ball-pike-push-up.gif",
       "terms": [
+        "abdominals",
+        "abs",
         "ball",
         "bodyweight",
         "calisthenics",
         "chest",
+        "core",
         "delt",
         "deltoid",
         "delts",
@@ -27148,6 +27958,8 @@
         "shoulder",
         "shoulders",
         "strength",
+        "trapezius",
+        "traps",
         "tricep",
         "triceps",
         "up"
@@ -27161,17 +27973,24 @@
       "bodyPart": "chest",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/floor-fly-with-barbell.gif",
       "terms": [
         "barbell",
         "chest",
+        "delt",
+        "deltoid",
+        "delts",
         "floor",
         "fly",
         "olympic",
         "pec",
         "pecs",
         "pectorals",
+        "shoulder",
+        "shoulders",
         "strength",
         "with"
       ]
@@ -27186,13 +28005,18 @@
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
-        "delts"
+        "delts",
+        "abs",
+        "traps"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/full-planche-push-up.gif",
       "terms": [
+        "abdominals",
+        "abs",
         "bodyweight",
         "calisthenics",
         "chest",
+        "core",
         "delt",
         "deltoid",
         "delts",
@@ -27207,6 +28031,8 @@
         "shoulder",
         "shoulders",
         "strength",
+        "trapezius",
+        "traps",
         "tricep",
         "triceps",
         "up"
@@ -27244,10 +28070,15 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/hyght-dumbbell-fly.gif",
       "terms": [
         "chest",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "fly",
@@ -27255,6 +28086,8 @@
         "pec",
         "pecs",
         "pectorals",
+        "shoulder",
+        "shoulders",
         "strength"
       ]
     },
@@ -27825,10 +28658,15 @@
       "bodyPart": "chest",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/lever-seated-fly.gif",
       "terms": [
         "chest",
+        "delt",
+        "deltoid",
+        "delts",
         "fly",
         "lever",
         "machine",
@@ -27836,6 +28674,8 @@
         "pecs",
         "pectorals",
         "seated",
+        "shoulder",
+        "shoulders",
         "strength"
       ]
     },
@@ -30185,10 +31025,20 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/lever-leg-extension.gif",
       "terms": [
+        "butt",
+        "buttocks",
         "extension",
+        "glute",
+        "glutes",
+        "hammies",
+        "hamstring",
+        "hamstrings",
         "leg",
         "legs",
         "lever",
@@ -30280,11 +31130,21 @@
       "bodyPart": "legs",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/resistance-band-leg-extension.gif",
       "terms": [
         "band",
+        "butt",
+        "buttocks",
         "extension",
+        "glute",
+        "glutes",
+        "hammies",
+        "hamstring",
+        "hamstrings",
         "leg",
         "legs",
         "quad",
@@ -30893,16 +31753,26 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/spine/back-extension-on-exercise-ball.gif",
       "terms": [
         "back",
         "ball",
         "bodyweight",
+        "butt",
+        "buttocks",
         "calisthenics",
         "equipment",
         "exercise",
         "extension",
+        "glute",
+        "glutes",
+        "hammies",
+        "hamstring",
+        "hamstrings",
         "lower",
         "lumbar",
         "no",
@@ -30961,18 +31831,28 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/spine/exercise-ball-back-extension-with-arms-extended.gif",
       "terms": [
         "arms",
         "back",
         "ball",
         "bodyweight",
+        "butt",
+        "buttocks",
         "calisthenics",
         "equipment",
         "exercise",
         "extended",
         "extension",
+        "glute",
+        "glutes",
+        "hammies",
+        "hamstring",
+        "hamstrings",
         "lower",
         "lumbar",
         "no",
@@ -30989,17 +31869,27 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/spine/exercise-ball-back-extension-with-hands-behind-head.gif",
       "terms": [
         "back",
         "ball",
         "behind",
         "bodyweight",
+        "butt",
+        "buttocks",
         "calisthenics",
         "equipment",
         "exercise",
         "extension",
+        "glute",
+        "glutes",
+        "hammies",
+        "hamstring",
+        "hamstrings",
         "hands",
         "head",
         "lower",
@@ -31018,17 +31908,27 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/spine/exercise-ball-back-extension-with-knees-off-ground.gif",
       "terms": [
         "back",
         "ball",
         "bodyweight",
+        "butt",
+        "buttocks",
         "calisthenics",
         "equipment",
         "exercise",
         "extension",
+        "glute",
+        "glutes",
         "ground",
+        "hammies",
+        "hamstring",
+        "hamstrings",
         "knees",
         "lower",
         "lumbar",
@@ -31047,16 +31947,26 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/spine/exercise-ball-back-extension-with-rotation.gif",
       "terms": [
         "back",
         "ball",
         "bodyweight",
+        "butt",
+        "buttocks",
         "calisthenics",
         "equipment",
         "exercise",
         "extension",
+        "glute",
+        "glutes",
+        "hammies",
+        "hamstring",
+        "hamstrings",
         "lower",
         "lumbar",
         "no",
@@ -31126,14 +32036,24 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/spine/hyperextension-on-bench.gif",
       "terms": [
         "back",
         "bench",
         "bodyweight",
+        "butt",
+        "buttocks",
         "calisthenics",
         "equipment",
+        "glute",
+        "glutes",
+        "hammies",
+        "hamstring",
+        "hamstrings",
         "hyperextension",
         "lower",
         "lumbar",
@@ -31151,13 +32071,23 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/spine/hyperextension.gif",
       "terms": [
         "back",
         "bodyweight",
+        "butt",
+        "buttocks",
         "calisthenics",
         "equipment",
+        "glute",
+        "glutes",
+        "hammies",
+        "hamstring",
+        "hamstrings",
         "hyperextension",
         "lower",
         "lumbar",
@@ -31174,11 +32104,21 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/spine/lever-back-extension.gif",
       "terms": [
         "back",
+        "butt",
+        "buttocks",
         "extension",
+        "glute",
+        "glutes",
+        "hammies",
+        "hamstring",
+        "hamstrings",
         "lever",
         "lower",
         "lumbar",
@@ -31366,14 +32306,24 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/spine/weighted-hyperextension-on-stability-ball.gif",
       "terms": [
         "back",
         "ball",
         "bodyweight",
+        "butt",
+        "buttocks",
         "calisthenics",
         "equipment",
+        "glute",
+        "glutes",
+        "hammies",
+        "hamstring",
+        "hamstrings",
         "hyperextension",
         "lower",
         "lumbar",
@@ -31393,12 +32343,22 @@
       "bodyPart": "back",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/traps/band-shrug.gif",
       "terms": [
         "back",
         "band",
+        "delt",
+        "deltoid",
+        "delts",
+        "forearm",
+        "forearms",
         "resistance",
+        "shoulder",
+        "shoulders",
         "shrug",
         "strength",
         "trapezius",
@@ -31413,12 +32373,22 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/traps/barbell-shrug.gif",
       "terms": [
         "back",
         "barbell",
+        "delt",
+        "deltoid",
+        "delts",
+        "forearm",
+        "forearms",
         "olympic",
+        "shoulder",
+        "shoulders",
         "shrug",
         "strength",
         "trapezius",
@@ -31433,12 +32403,22 @@
       "bodyPart": "back",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/traps/cable-shrug.gif",
       "terms": [
         "back",
         "cable",
+        "delt",
+        "deltoid",
+        "delts",
+        "forearm",
+        "forearms",
         "pulley",
+        "shoulder",
+        "shoulders",
         "shrug",
         "strength",
         "trapezius",
@@ -31453,13 +32433,23 @@
       "bodyPart": "back",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/traps/dumbbell-decline-shrug-v-2.gif",
       "terms": [
         "back",
         "decline",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
+        "forearm",
+        "forearms",
+        "shoulder",
+        "shoulders",
         "shrug",
         "strength",
         "trapezius",
@@ -31475,13 +32465,23 @@
       "bodyPart": "back",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/traps/dumbbell-decline-shrug.gif",
       "terms": [
         "back",
         "decline",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
+        "forearm",
+        "forearms",
+        "shoulder",
+        "shoulders",
         "shrug",
         "strength",
         "trapezius",
@@ -31496,13 +32496,23 @@
       "bodyPart": "back",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/traps/dumbbell-incline-shrug.gif",
       "terms": [
         "back",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
+        "forearm",
+        "forearms",
         "incline",
+        "shoulder",
+        "shoulders",
         "shrug",
         "strength",
         "trapezius",
@@ -31517,12 +32527,22 @@
       "bodyPart": "back",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/traps/dumbbell-shrug.gif",
       "terms": [
         "back",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
+        "forearm",
+        "forearms",
+        "shoulder",
+        "shoulders",
         "shrug",
         "strength",
         "trapezius",
@@ -31558,13 +32578,23 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/traps/lever-gripless-shrug-v-2.gif",
       "terms": [
         "back",
+        "delt",
+        "deltoid",
+        "delts",
+        "forearm",
+        "forearms",
         "gripless",
         "lever",
         "machine",
+        "shoulder",
+        "shoulders",
         "shrug",
         "strength",
         "trapezius",
@@ -31580,13 +32610,23 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/traps/lever-gripless-shrug.gif",
       "terms": [
         "back",
+        "delt",
+        "deltoid",
+        "delts",
+        "forearm",
+        "forearms",
         "gripless",
         "lever",
         "machine",
+        "shoulder",
+        "shoulders",
         "shrug",
         "strength",
         "trapezius",
@@ -31601,12 +32641,22 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/traps/lever-shrug.gif",
       "terms": [
         "back",
+        "delt",
+        "deltoid",
+        "delts",
+        "forearm",
+        "forearms",
         "lever",
         "machine",
+        "shoulder",
+        "shoulders",
         "shrug",
         "strength",
         "trapezius",
@@ -31696,11 +32746,21 @@
       "bodyPart": "back",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/traps/smith-back-shrug.gif",
       "terms": [
         "back",
+        "delt",
+        "deltoid",
+        "delts",
+        "forearm",
+        "forearms",
         "machine",
+        "shoulder",
+        "shoulders",
         "shrug",
         "smith",
         "strength",
@@ -31716,11 +32776,21 @@
       "bodyPart": "back",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/traps/smith-shrug.gif",
       "terms": [
         "back",
+        "delt",
+        "deltoid",
+        "delts",
+        "forearm",
+        "forearms",
         "machine",
+        "shoulder",
+        "shoulders",
         "shrug",
         "smith",
         "strength",
@@ -31736,16 +32806,23 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/assisted-standing-triceps-extension-with-towel.gif",
       "terms": [
         "arms",
         "assisted",
         "bodyweight",
         "calisthenics",
+        "delt",
+        "deltoid",
+        "delts",
         "equipment",
         "extension",
         "no",
+        "shoulder",
+        "shoulders",
         "standing",
         "strength",
         "towel",
@@ -31828,13 +32905,20 @@
       "bodyPart": "arms",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/band-side-triceps-extension.gif",
       "terms": [
         "arms",
         "band",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "resistance",
+        "shoulder",
+        "shoulders",
         "side",
         "strength",
         "tricep",
@@ -32001,17 +33085,24 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-lying-back-of-the-head-tricep-extension.gif",
       "terms": [
         "arms",
         "back",
         "barbell",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "head",
         "lying",
         "of",
         "olympic",
+        "shoulder",
+        "shoulders",
         "strength",
         "the",
         "tricep",
@@ -32056,16 +33147,23 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-lying-close-grip-triceps-extension.gif",
       "terms": [
         "arms",
         "barbell",
         "close",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "grip",
         "lying",
         "olympic",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -32079,14 +33177,21 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-lying-extension.gif",
       "terms": [
         "arms",
         "barbell",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "lying",
         "olympic",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -32100,15 +33205,22 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-lying-triceps-extension-skull-crusher.gif",
       "terms": [
         "arms",
         "barbell",
         "crusher",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "lying",
         "olympic",
+        "shoulder",
+        "shoulders",
         "skull",
         "strength",
         "tricep",
@@ -32123,14 +33235,21 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-lying-triceps-extension.gif",
       "terms": [
         "arms",
         "barbell",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "lying",
         "olympic",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -32233,14 +33352,21 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-reverse-grip-skullcrusher.gif",
       "terms": [
         "arms",
         "barbell",
+        "delt",
+        "deltoid",
+        "delts",
         "grip",
         "olympic",
         "reverse",
+        "shoulder",
+        "shoulders",
         "skullcrusher",
         "strength",
         "tricep",
@@ -32255,18 +33381,25 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-seated-close-grip-behind-neck-triceps-extension.gif",
       "terms": [
         "arms",
         "barbell",
         "behind",
         "close",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "grip",
         "neck",
         "olympic",
         "seated",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -32280,15 +33413,22 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-seated-overhead-triceps-extension.gif",
       "terms": [
         "arms",
         "barbell",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "olympic",
         "overhead",
         "seated",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -32302,14 +33442,21 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/barbell-standing-overhead-triceps-extension.gif",
       "terms": [
         "arms",
         "barbell",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "olympic",
         "overhead",
+        "shoulder",
+        "shoulders",
         "standing",
         "strength",
         "tricep",
@@ -32421,16 +33568,23 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/bodyweight-kneeling-triceps-extension.gif",
       "terms": [
         "arms",
         "bodyweight",
         "calisthenics",
+        "delt",
+        "deltoid",
+        "delts",
         "equipment",
         "extension",
         "kneeling",
         "no",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -32444,14 +33598,21 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-alternate-triceps-extension.gif",
       "terms": [
         "alternate",
         "arms",
         "cable",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "pulley",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -32465,16 +33626,23 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-concentration-extension-on-knee.gif",
       "terms": [
         "arms",
         "cable",
         "concentration",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "knee",
         "on",
         "pulley",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -32488,15 +33656,22 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-high-pulley-overhead-tricep-extension.gif",
       "terms": [
         "arms",
         "cable",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "high",
         "overhead",
         "pulley",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -32510,14 +33685,21 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-incline-triceps-extension.gif",
       "terms": [
         "arms",
         "cable",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "incline",
         "pulley",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -32531,13 +33713,20 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-kickback.gif",
       "terms": [
         "arms",
         "cable",
+        "delt",
+        "deltoid",
+        "delts",
         "kickback",
         "pulley",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -32551,14 +33740,21 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-kneeling-triceps-extension.gif",
       "terms": [
         "arms",
         "cable",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "kneeling",
         "pulley",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -32572,14 +33768,21 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-lying-triceps-extension-v-2.gif",
       "terms": [
         "arms",
         "cable",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "lying",
         "pulley",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps",
@@ -32594,15 +33797,22 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-one-arm-tricep-pushdown.gif",
       "terms": [
         "arm",
         "arms",
         "cable",
+        "delt",
+        "deltoid",
+        "delts",
         "one",
         "pulley",
         "pushdown",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -32616,16 +33826,23 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-overhead-triceps-extension-rope-attachment.gif",
       "terms": [
         "arms",
         "attachment",
         "cable",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "overhead",
         "pulley",
         "rope",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -32639,15 +33856,22 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-pushdown-with-rope-attachment.gif",
       "terms": [
         "arms",
         "attachment",
         "cable",
+        "delt",
+        "deltoid",
+        "delts",
         "pulley",
         "pushdown",
         "rope",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps",
@@ -32662,13 +33886,20 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-pushdown.gif",
       "terms": [
         "arms",
         "cable",
+        "delt",
+        "deltoid",
+        "delts",
         "pulley",
         "pushdown",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -32703,15 +33934,22 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-reverse-grip-pushdown.gif",
       "terms": [
         "arms",
         "cable",
+        "delt",
+        "deltoid",
+        "delts",
         "grip",
         "pulley",
         "pushdown",
         "reverse",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -32725,7 +33963,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-reverse-grip-triceps-pushdown-sz-bar-with-arm-blaster.gif",
       "terms": [
         "arm",
@@ -32733,10 +33973,15 @@
         "bar",
         "blaster",
         "cable",
+        "delt",
+        "deltoid",
+        "delts",
         "grip",
         "pulley",
         "pushdown",
         "reverse",
+        "shoulder",
+        "shoulders",
         "strength",
         "sz",
         "tricep",
@@ -32752,16 +33997,23 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-rope-high-pulley-overhead-tricep-extension.gif",
       "terms": [
         "arms",
         "cable",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "high",
         "overhead",
         "pulley",
         "rope",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -32775,15 +34027,22 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-rope-incline-tricep-extension.gif",
       "terms": [
         "arms",
         "cable",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "incline",
         "pulley",
         "rope",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -32797,17 +34056,24 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-rope-lying-on-floor-tricep-extension.gif",
       "terms": [
         "arms",
         "cable",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "floor",
         "lying",
         "on",
         "pulley",
         "rope",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -32821,15 +34087,22 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-standing-one-arm-triceps-extension.gif",
       "terms": [
         "arm",
         "arms",
         "cable",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "one",
         "pulley",
+        "shoulder",
+        "shoulders",
         "standing",
         "strength",
         "tricep",
@@ -32844,18 +34117,25 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-standing-reverse-grip-one-arm-overhead-tricep-extension.gif",
       "terms": [
         "arm",
         "arms",
         "cable",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "grip",
         "one",
         "overhead",
         "pulley",
         "reverse",
+        "shoulder",
+        "shoulders",
         "standing",
         "strength",
         "tricep",
@@ -32870,7 +34150,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-triceps-pushdown-v-bar-with-arm-blaster.gif",
       "terms": [
         "arm",
@@ -32878,8 +34160,13 @@
         "bar",
         "blaster",
         "cable",
+        "delt",
+        "deltoid",
+        "delts",
         "pulley",
         "pushdown",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps",
@@ -32894,14 +34181,21 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-triceps-pushdown-v-bar.gif",
       "terms": [
         "arms",
         "bar",
         "cable",
+        "delt",
+        "deltoid",
+        "delts",
         "pulley",
         "pushdown",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -32915,14 +34209,21 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/cable-two-arm-tricep-kickback.gif",
       "terms": [
         "arm",
         "arms",
         "cable",
+        "delt",
+        "deltoid",
+        "delts",
         "kickback",
         "pulley",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps",
@@ -33124,14 +34425,21 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-decline-triceps-extension.gif",
       "terms": [
         "arms",
         "decline",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "extension",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -33148,7 +34456,8 @@
       "secondaryMuscles": [
         "glutes",
         "hamstrings",
-        "calves"
+        "calves",
+        "delts"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-forward-lunge-triceps-extension.gif",
       "terms": [
@@ -33157,6 +34466,9 @@
         "buttocks",
         "calf",
         "calves",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "extension",
@@ -33167,6 +34479,8 @@
         "hamstring",
         "hamstrings",
         "lunge",
+        "shoulder",
+        "shoulders",
         "soleus",
         "strength",
         "tricep",
@@ -33278,14 +34592,21 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-incline-triceps-extension.gif",
       "terms": [
         "arms",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "extension",
         "incline",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -33299,15 +34620,22 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-incline-two-arm-extension.gif",
       "terms": [
         "arm",
         "arms",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "extension",
         "incline",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps",
@@ -33322,13 +34650,20 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-kickback.gif",
       "terms": [
         "arms",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "kickback",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -33342,16 +34677,23 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-kickbacks-on-exercise-ball.gif",
       "terms": [
         "arms",
         "ball",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "exercise",
         "kickbacks",
         "on",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -33365,15 +34707,22 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-lying-alternate-extension.gif",
       "terms": [
         "alternate",
         "arms",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "extension",
         "lying",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -33416,16 +34765,23 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-lying-extension-across-face.gif",
       "terms": [
         "across",
         "arms",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "extension",
         "face",
         "lying",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -33439,17 +34795,24 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-lying-one-arm-pronated-triceps-extension.gif",
       "terms": [
         "arm",
         "arms",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "extension",
         "lying",
         "one",
         "pronated",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -33463,16 +34826,23 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-lying-one-arm-supinated-triceps-extension.gif",
       "terms": [
         "arm",
         "arms",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "extension",
         "lying",
         "one",
+        "shoulder",
+        "shoulders",
         "strength",
         "supinated",
         "tricep",
@@ -33487,14 +34857,21 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-lying-single-extension.gif",
       "terms": [
         "arms",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "extension",
         "lying",
+        "shoulder",
+        "shoulders",
         "single",
         "strength",
         "tricep",
@@ -33509,14 +34886,21 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-lying-triceps-extension.gif",
       "terms": [
         "arms",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "extension",
         "lying",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -33626,15 +35010,22 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-one-arm-kickback.gif",
       "terms": [
         "arm",
         "arms",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "kickback",
         "one",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -33648,17 +35039,24 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-one-arm-triceps-extension-on-bench.gif",
       "terms": [
         "arm",
         "arms",
         "bench",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "extension",
         "on",
         "one",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -33703,15 +35101,22 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-pronate-grip-triceps-extension.gif",
       "terms": [
         "arms",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "extension",
         "grip",
         "pronate",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -33725,15 +35130,22 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-seated-bench-extension.gif",
       "terms": [
         "arms",
         "bench",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "extension",
         "seated",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -33747,17 +35159,24 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-seated-bent-over-alternate-kickback.gif",
       "terms": [
         "alternate",
         "arms",
         "bent",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "kickback",
         "over",
         "seated",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -33771,16 +35190,23 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-seated-bent-over-triceps-extension.gif",
       "terms": [
         "arms",
         "bent",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "extension",
         "over",
         "seated",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -33794,14 +35220,21 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-seated-kickback.gif",
       "terms": [
         "arms",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "kickback",
         "seated",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -33815,16 +35248,23 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-seated-one-arm-kickback.gif",
       "terms": [
         "arm",
         "arms",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "kickback",
         "one",
         "seated",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -33838,11 +35278,16 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-seated-reverse-grip-one-arm-overhead-tricep-extension.gif",
       "terms": [
         "arm",
         "arms",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "extension",
@@ -33851,6 +35296,8 @@
         "overhead",
         "reverse",
         "seated",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -33864,14 +35311,21 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-seated-triceps-extension.gif",
       "terms": [
         "arms",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "extension",
         "seated",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -33885,14 +35339,21 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-standing-alternating-tricep-kickback.gif",
       "terms": [
         "alternating",
         "arms",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "kickback",
+        "shoulder",
+        "shoulders",
         "standing",
         "strength",
         "tricep",
@@ -33907,17 +35368,24 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-standing-bent-over-one-arm-triceps-extension.gif",
       "terms": [
         "arm",
         "arms",
         "bent",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "extension",
         "one",
         "over",
+        "shoulder",
+        "shoulders",
         "standing",
         "strength",
         "tricep",
@@ -33932,16 +35400,23 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-standing-bent-over-two-arm-triceps-extension.gif",
       "terms": [
         "arm",
         "arms",
         "bent",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "extension",
         "over",
+        "shoulder",
+        "shoulders",
         "standing",
         "strength",
         "tricep",
@@ -33957,13 +35432,20 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-standing-kickback.gif",
       "terms": [
         "arms",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "kickback",
+        "shoulder",
+        "shoulders",
         "standing",
         "strength",
         "tricep",
@@ -33978,15 +35460,22 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-standing-one-arm-extension.gif",
       "terms": [
         "arm",
         "arms",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "extension",
         "one",
+        "shoulder",
+        "shoulders",
         "standing",
         "strength",
         "tricep",
@@ -34001,13 +35490,20 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-standing-triceps-extension.gif",
       "terms": [
         "arms",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "extension",
+        "shoulder",
+        "shoulders",
         "standing",
         "strength",
         "tricep",
@@ -34050,13 +35546,20 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbell-tricep-kickback-with-stork-stance.gif",
       "terms": [
         "arms",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "kickback",
+        "shoulder",
+        "shoulders",
         "stance",
         "stork",
         "strength",
@@ -34102,14 +35605,21 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/dumbbells-seated-triceps-extension.gif",
       "terms": [
         "arms",
+        "delt",
+        "deltoid",
+        "delts",
         "dumbbell",
         "dumbbells",
         "extension",
         "seated",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -34220,17 +35730,24 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/exercise-ball-supine-triceps-extension.gif",
       "terms": [
         "arms",
         "ball",
         "bodyweight",
         "calisthenics",
+        "delt",
+        "deltoid",
+        "delts",
         "equipment",
         "exercise",
         "extension",
         "no",
+        "shoulder",
+        "shoulders",
         "strength",
         "supine",
         "tricep",
@@ -34308,19 +35825,26 @@
       "bodyPart": "arms",
       "equipment": "ez-bar",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/ez-bar-lying-close-grip-triceps-extension-behind-head.gif",
       "terms": [
         "arms",
         "bar",
         "behind",
         "close",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "ez",
         "ez-bar",
         "grip",
         "head",
         "lying",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -34397,16 +35921,23 @@
       "bodyPart": "arms",
       "equipment": "ez-bar",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/ez-barbell-decline-triceps-extension.gif",
       "terms": [
         "arms",
         "bar",
         "barbell",
         "decline",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "ez",
         "ez-bar",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -34420,16 +35951,23 @@
       "bodyPart": "arms",
       "equipment": "ez-bar",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/ez-barbell-incline-triceps-extension.gif",
       "terms": [
         "arms",
         "bar",
         "barbell",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "ez",
         "ez-bar",
         "incline",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -34474,16 +36012,23 @@
       "bodyPart": "arms",
       "equipment": "ez-bar",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/ez-barbell-seated-triceps-extension.gif",
       "terms": [
         "arms",
         "bar",
         "barbell",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "ez",
         "ez-bar",
         "seated",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -34498,13 +36043,18 @@
       "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
-        "delts"
+        "delts",
+        "abs",
+        "traps"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/handstand-push-up.gif",
       "terms": [
+        "abdominals",
+        "abs",
         "arms",
         "bodyweight",
         "calisthenics",
+        "core",
         "delt",
         "deltoid",
         "delts",
@@ -34515,6 +36065,8 @@
         "shoulder",
         "shoulders",
         "strength",
+        "trapezius",
+        "traps",
         "tricep",
         "triceps",
         "up"
@@ -34528,16 +36080,24 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "abs",
+        "traps"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/handstand.gif",
       "terms": [
+        "abdominals",
+        "abs",
         "arms",
         "bodyweight",
         "calisthenics",
+        "core",
         "equipment",
         "handstand",
         "no",
         "strength",
+        "trapezius",
+        "traps",
         "tricep",
         "triceps"
       ]
@@ -34684,13 +36244,20 @@
       "bodyPart": "arms",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/lever-triceps-extension.gif",
       "terms": [
         "arms",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "lever",
         "machine",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -34798,13 +36365,20 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/olympic-barbell-triceps-extension.gif",
       "terms": [
         "arms",
         "barbell",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "olympic",
+        "shoulder",
+        "shoulders",
         "strength",
         "tricep",
         "triceps"
@@ -34854,16 +36428,23 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "stretching",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/overhead-triceps-stretch.gif",
       "terms": [
         "arms",
         "bodyweight",
         "calisthenics",
+        "delt",
+        "deltoid",
+        "delts",
         "equipment",
         "flexibility",
         "no",
         "overhead",
+        "shoulder",
+        "shoulders",
         "stretch",
         "stretching",
         "tricep",
@@ -35126,13 +36707,20 @@
       "bodyPart": "arms",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/smith-machine-incline-tricep-extension.gif",
       "terms": [
         "arms",
+        "delt",
+        "deltoid",
+        "delts",
         "extension",
         "incline",
         "machine",
+        "shoulder",
+        "shoulders",
         "smith",
         "strength",
         "tricep",
@@ -35574,7 +37162,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/band-one-arm-standing-low-row.gif",
       "terms": [
@@ -35588,6 +37177,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "low",
         "one",
         "resistance",
@@ -35610,7 +37201,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/band-one-arm-twisting-seated-row.gif",
       "terms": [
@@ -35624,6 +37216,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "one",
         "resistance",
         "row",
@@ -35646,7 +37240,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/barbell-bent-over-row.gif",
       "terms": [
@@ -35660,6 +37255,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "olympic",
         "over",
         "row",
@@ -35680,7 +37277,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/barbell-incline-row.gif",
       "terms": [
@@ -35694,6 +37292,8 @@
         "forearm",
         "forearms",
         "incline",
+        "latissimus",
+        "lats",
         "olympic",
         "row",
         "shoulder",
@@ -35713,7 +37313,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/barbell-one-arm-bent-over-row.gif",
       "terms": [
@@ -35728,6 +37329,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "olympic",
         "one",
         "over",
@@ -35749,7 +37352,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/barbell-pendlay-row.gif",
       "terms": [
@@ -35762,6 +37366,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "olympic",
         "pendlay",
         "row",
@@ -35782,7 +37388,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/barbell-reverse-grip-bent-over-row.gif",
       "terms": [
@@ -35797,6 +37404,8 @@
         "forearm",
         "forearms",
         "grip",
+        "latissimus",
+        "lats",
         "olympic",
         "over",
         "reverse",
@@ -35818,7 +37427,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/barbell-reverse-grip-incline-bench-row.gif",
       "terms": [
@@ -35834,6 +37444,8 @@
         "forearms",
         "grip",
         "incline",
+        "latissimus",
+        "lats",
         "olympic",
         "reverse",
         "row",
@@ -35857,7 +37469,8 @@
         "calves",
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/bodyweight-squatting-row-with-towel.gif",
       "terms": [
@@ -35881,6 +37494,8 @@
         "hammies",
         "hamstring",
         "hamstrings",
+        "latissimus",
+        "lats",
         "no",
         "row",
         "shoulder",
@@ -35907,7 +37522,8 @@
         "calves",
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/bodyweight-squatting-row.gif",
       "terms": [
@@ -35931,6 +37547,8 @@
         "hammies",
         "hamstring",
         "hamstrings",
+        "latissimus",
+        "lats",
         "no",
         "row",
         "shoulder",
@@ -35952,7 +37570,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/bodyweight-standing-close-grip-one-arm-row.gif",
       "terms": [
@@ -35970,6 +37589,8 @@
         "forearm",
         "forearms",
         "grip",
+        "latissimus",
+        "lats",
         "no",
         "one",
         "row",
@@ -35991,7 +37612,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/bodyweight-standing-close-grip-row.gif",
       "terms": [
@@ -36008,6 +37630,8 @@
         "forearm",
         "forearms",
         "grip",
+        "latissimus",
+        "lats",
         "no",
         "row",
         "shoulder",
@@ -36028,7 +37652,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/bodyweight-standing-one-arm-row-with-towel.gif",
       "terms": [
@@ -36044,6 +37669,8 @@
         "equipment",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "no",
         "one",
         "row",
@@ -36067,7 +37694,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/bodyweight-standing-one-arm-row.gif",
       "terms": [
@@ -36083,6 +37711,8 @@
         "equipment",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "no",
         "one",
         "row",
@@ -36104,7 +37734,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/bodyweight-standing-row-with-towel.gif",
       "terms": [
@@ -36119,6 +37750,8 @@
         "equipment",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "no",
         "row",
         "shoulder",
@@ -36141,7 +37774,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/bodyweight-standing-row.gif",
       "terms": [
@@ -36156,6 +37790,8 @@
         "equipment",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "no",
         "row",
         "shoulder",
@@ -36176,7 +37812,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cable-decline-seated-wide-grip-row.gif",
       "terms": [
@@ -36191,6 +37828,8 @@
         "forearm",
         "forearms",
         "grip",
+        "latissimus",
+        "lats",
         "pulley",
         "row",
         "seated",
@@ -36212,7 +37851,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cable-floor-seated-wide-grip-row.gif",
       "terms": [
@@ -36227,6 +37867,8 @@
         "forearm",
         "forearms",
         "grip",
+        "latissimus",
+        "lats",
         "pulley",
         "row",
         "seated",
@@ -36248,7 +37890,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cable-high-row-kneeling.gif",
       "terms": [
@@ -36263,6 +37906,8 @@
         "forearms",
         "high",
         "kneeling",
+        "latissimus",
+        "lats",
         "pulley",
         "row",
         "shoulder",
@@ -36282,7 +37927,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cable-incline-bench-row.gif",
       "terms": [
@@ -36297,6 +37943,8 @@
         "forearm",
         "forearms",
         "incline",
+        "latissimus",
+        "lats",
         "pulley",
         "row",
         "shoulder",
@@ -36316,7 +37964,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cable-low-seated-row.gif",
       "terms": [
@@ -36329,6 +37978,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "low",
         "pulley",
         "row",
@@ -36350,7 +38001,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cable-one-arm-bent-over-row.gif",
       "terms": [
@@ -36365,6 +38017,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "one",
         "over",
         "pulley",
@@ -36386,7 +38040,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cable-one-arm-straight-back-high-row-kneeling.gif",
       "terms": [
@@ -36402,6 +38057,8 @@
         "forearms",
         "high",
         "kneeling",
+        "latissimus",
+        "lats",
         "one",
         "pulley",
         "row",
@@ -36423,7 +38080,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cable-palm-rotational-row.gif",
       "terms": [
@@ -36436,6 +38094,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "palm",
         "pulley",
         "rotational",
@@ -36457,7 +38117,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cable-reverse-grip-straight-back-seated-high-row.gif",
       "terms": [
@@ -36472,6 +38133,8 @@
         "forearms",
         "grip",
         "high",
+        "latissimus",
+        "lats",
         "pulley",
         "reverse",
         "row",
@@ -36494,7 +38157,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cable-rope-crossover-seated-row.gif",
       "terms": [
@@ -36508,6 +38172,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "pulley",
         "rope",
         "row",
@@ -36529,7 +38195,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cable-rope-elevated-seated-row.gif",
       "terms": [
@@ -36543,6 +38210,8 @@
         "elevated",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "pulley",
         "rope",
         "row",
@@ -36564,7 +38233,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cable-rope-extension-incline-bench-row.gif",
       "terms": [
@@ -36580,6 +38250,8 @@
         "forearm",
         "forearms",
         "incline",
+        "latissimus",
+        "lats",
         "pulley",
         "rope",
         "row",
@@ -36600,7 +38272,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cable-rope-seated-row.gif",
       "terms": [
@@ -36613,6 +38286,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "pulley",
         "rope",
         "row",
@@ -36634,7 +38309,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cable-seated-one-arm-alternate-row.gif",
       "terms": [
@@ -36649,6 +38325,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "one",
         "pulley",
         "row",
@@ -36670,7 +38348,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cable-seated-row.gif",
       "terms": [
@@ -36683,6 +38362,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "pulley",
         "row",
         "seated",
@@ -36703,7 +38384,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cable-seated-wide-grip-row.gif",
       "terms": [
@@ -36717,6 +38399,8 @@
         "forearm",
         "forearms",
         "grip",
+        "latissimus",
+        "lats",
         "pulley",
         "row",
         "seated",
@@ -36738,7 +38422,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cable-standing-row-v-bar.gif",
       "terms": [
@@ -36752,6 +38437,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "pulley",
         "row",
         "shoulder",
@@ -36772,7 +38459,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cable-standing-twist-row-v-bar.gif",
       "terms": [
@@ -36786,6 +38474,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "pulley",
         "row",
         "shoulder",
@@ -36807,7 +38497,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cable-straight-back-seated-row.gif",
       "terms": [
@@ -36820,6 +38511,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "pulley",
         "row",
         "seated",
@@ -36841,7 +38534,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cable-upper-row.gif",
       "terms": [
@@ -36854,6 +38548,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "pulley",
         "row",
         "shoulder",
@@ -36873,7 +38569,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/cambered-bar-lying-row.gif",
       "terms": [
@@ -36888,6 +38585,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "lying",
         "olympic",
         "row",
@@ -36905,18 +38604,34 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "lats",
+        "biceps",
+        "forearms",
+        "delts"
+      ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/chin-ups-narrow-parallel-grip.gif",
       "terms": [
         "back",
+        "bicep",
+        "biceps",
         "bodyweight",
         "calisthenics",
         "chin",
+        "delt",
+        "deltoid",
+        "delts",
         "equipment",
+        "forearm",
+        "forearms",
         "grip",
+        "latissimus",
+        "lats",
         "narrow",
         "no",
         "parallel",
+        "shoulder",
+        "shoulders",
         "strength",
         "upper",
         "ups"
@@ -36933,7 +38648,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/dumbbell-bent-over-row.gif",
       "terms": [
@@ -36948,6 +38664,8 @@
         "dumbbells",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "over",
         "row",
         "shoulder",
@@ -36967,7 +38685,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/dumbbell-incline-row.gif",
       "terms": [
@@ -36982,6 +38701,8 @@
         "forearm",
         "forearms",
         "incline",
+        "latissimus",
+        "lats",
         "row",
         "shoulder",
         "shoulders",
@@ -37020,7 +38741,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/dumbbell-lying-rear-delt-row.gif",
       "terms": [
@@ -37034,6 +38756,8 @@
         "dumbbells",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "lying",
         "rear",
         "row",
@@ -37054,7 +38778,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/dumbbell-one-arm-bent-over-row.gif",
       "terms": [
@@ -37070,6 +38795,8 @@
         "dumbbells",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "one",
         "over",
         "row",
@@ -37090,7 +38817,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/dumbbell-palm-rotational-bent-over-row.gif",
       "terms": [
@@ -37105,6 +38833,8 @@
         "dumbbells",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "over",
         "palm",
         "rotational",
@@ -37126,7 +38856,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/dumbbell-reverse-grip-incline-bench-one-arm-row.gif",
       "terms": [
@@ -37144,6 +38875,8 @@
         "forearms",
         "grip",
         "incline",
+        "latissimus",
+        "lats",
         "one",
         "reverse",
         "row",
@@ -37164,7 +38897,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/dumbbell-reverse-grip-incline-bench-two-arm-row.gif",
       "terms": [
@@ -37182,6 +38916,8 @@
         "forearms",
         "grip",
         "incline",
+        "latissimus",
+        "lats",
         "reverse",
         "row",
         "shoulder",
@@ -37202,7 +38938,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/dumbbell-reverse-grip-row-female.gif",
       "terms": [
@@ -37218,6 +38955,8 @@
         "forearm",
         "forearms",
         "grip",
+        "latissimus",
+        "lats",
         "reverse",
         "row",
         "shoulder",
@@ -37237,7 +38976,8 @@
       "secondaryMuscles": [
         "abs",
         "delts",
-        "glutes"
+        "glutes",
+        "traps"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/dumbbell-side-plank-with-rear-fly.gif",
       "terms": [
@@ -37261,6 +39001,8 @@
         "shoulders",
         "side",
         "strength",
+        "trapezius",
+        "traps",
         "upper",
         "with"
       ]
@@ -37329,7 +39071,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/ez-bar-reverse-grip-bent-over-row.gif",
       "terms": [
@@ -37346,6 +39089,8 @@
         "forearm",
         "forearms",
         "grip",
+        "latissimus",
+        "lats",
         "over",
         "reverse",
         "row",
@@ -37386,7 +39131,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/inverted-row-bent-knees.gif",
       "terms": [
@@ -37404,6 +39150,8 @@
         "forearms",
         "inverted",
         "knees",
+        "latissimus",
+        "lats",
         "no",
         "row",
         "shoulder",
@@ -37423,7 +39171,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/inverted-row-on-bench.gif",
       "terms": [
@@ -37440,6 +39189,8 @@
         "forearm",
         "forearms",
         "inverted",
+        "latissimus",
+        "lats",
         "no",
         "on",
         "row",
@@ -37460,7 +39211,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/inverted-row-v-2.gif",
       "terms": [
@@ -37476,6 +39228,8 @@
         "forearm",
         "forearms",
         "inverted",
+        "latissimus",
+        "lats",
         "no",
         "row",
         "shoulder",
@@ -37496,7 +39250,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/inverted-row-with-straps.gif",
       "terms": [
@@ -37512,6 +39267,8 @@
         "forearm",
         "forearms",
         "inverted",
+        "latissimus",
+        "lats",
         "no",
         "row",
         "shoulder",
@@ -37533,7 +39290,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/inverted-row.gif",
       "terms": [
@@ -37549,6 +39307,8 @@
         "forearm",
         "forearms",
         "inverted",
+        "latissimus",
+        "lats",
         "no",
         "row",
         "shoulder",
@@ -37568,7 +39328,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/kettlebell-alternating-renegade-row.gif",
       "terms": [
@@ -37582,6 +39343,8 @@
         "forearm",
         "forearms",
         "kettlebell",
+        "latissimus",
+        "lats",
         "renegade",
         "row",
         "shoulder",
@@ -37601,7 +39364,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/kettlebell-alternating-row.gif",
       "terms": [
@@ -37615,6 +39379,8 @@
         "forearm",
         "forearms",
         "kettlebell",
+        "latissimus",
+        "lats",
         "row",
         "shoulder",
         "shoulders",
@@ -37633,7 +39399,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/kettlebell-one-arm-row.gif",
       "terms": [
@@ -37647,6 +39414,8 @@
         "forearm",
         "forearms",
         "kettlebell",
+        "latissimus",
+        "lats",
         "one",
         "row",
         "shoulder",
@@ -37666,7 +39435,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/kettlebell-two-arm-row.gif",
       "terms": [
@@ -37680,6 +39450,8 @@
         "forearm",
         "forearms",
         "kettlebell",
+        "latissimus",
+        "lats",
         "row",
         "shoulder",
         "shoulders",
@@ -37699,7 +39471,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-alternating-narrow-grip-seated-row.gif",
       "terms": [
@@ -37713,6 +39486,8 @@
         "forearm",
         "forearms",
         "grip",
+        "latissimus",
+        "lats",
         "lever",
         "machine",
         "narrow",
@@ -37735,7 +39510,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-bent-over-row-with-v-bar.gif",
       "terms": [
@@ -37749,6 +39525,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "lever",
         "machine",
         "over",
@@ -37771,7 +39549,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-bent-over-row.gif",
       "terms": [
@@ -37784,6 +39563,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "lever",
         "machine",
         "over",
@@ -37805,7 +39586,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-high-row.gif",
       "terms": [
@@ -37818,6 +39600,8 @@
         "forearm",
         "forearms",
         "high",
+        "latissimus",
+        "lats",
         "lever",
         "machine",
         "row",
@@ -37838,7 +39622,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-narrow-grip-seated-row.gif",
       "terms": [
@@ -37851,6 +39636,8 @@
         "forearm",
         "forearms",
         "grip",
+        "latissimus",
+        "lats",
         "lever",
         "machine",
         "narrow",
@@ -37873,7 +39660,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-one-arm-bent-over-row.gif",
       "terms": [
@@ -37887,6 +39675,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "lever",
         "machine",
         "one",
@@ -37909,7 +39699,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-one-arm-lateral-high-row.gif",
       "terms": [
@@ -37924,6 +39715,8 @@
         "forearms",
         "high",
         "lateral",
+        "latissimus",
+        "lats",
         "lever",
         "machine",
         "one",
@@ -37945,7 +39738,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-reverse-grip-vertical-row.gif",
       "terms": [
@@ -37958,6 +39752,8 @@
         "forearm",
         "forearms",
         "grip",
+        "latissimus",
+        "lats",
         "lever",
         "machine",
         "reverse",
@@ -37980,7 +39776,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-reverse-t-bar-row.gif",
       "terms": [
@@ -37993,6 +39790,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "lever",
         "machine",
         "reverse",
@@ -38014,7 +39813,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-seated-row.gif",
       "terms": [
@@ -38026,6 +39826,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "lever",
         "machine",
         "row",
@@ -38047,7 +39849,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-t-bar-reverse-grip-row.gif",
       "terms": [
@@ -38061,6 +39864,8 @@
         "forearm",
         "forearms",
         "grip",
+        "latissimus",
+        "lats",
         "lever",
         "machine",
         "reverse",
@@ -38082,7 +39887,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-t-bar-row.gif",
       "terms": [
@@ -38095,6 +39901,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "lever",
         "machine",
         "row",
@@ -38115,7 +39923,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/lever-unilateral-row.gif",
       "terms": [
@@ -38127,6 +39936,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "lever",
         "machine",
         "row",
@@ -38172,7 +39983,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/one-arm-towel-row.gif",
       "terms": [
@@ -38188,6 +40000,8 @@
         "equipment",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "no",
         "one",
         "row",
@@ -38209,7 +40023,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/resistance-band-seated-straight-back-row.gif",
       "terms": [
@@ -38222,6 +40037,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "resistance",
         "row",
         "seated",
@@ -38288,7 +40105,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/smith-bent-over-row.gif",
       "terms": [
@@ -38301,6 +40119,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "machine",
         "over",
         "row",
@@ -38322,7 +40142,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/smith-narrow-row.gif",
       "terms": [
@@ -38334,6 +40155,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "machine",
         "narrow",
         "row",
@@ -38355,7 +40178,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/smith-one-arm-row.gif",
       "terms": [
@@ -38368,6 +40192,8 @@
         "delts",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "machine",
         "one",
         "row",
@@ -38389,7 +40215,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/smith-reverse-grip-bent-over-row.gif",
       "terms": [
@@ -38403,6 +40230,8 @@
         "forearm",
         "forearms",
         "grip",
+        "latissimus",
+        "lats",
         "machine",
         "over",
         "reverse",
@@ -38444,7 +40273,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/suspended-row.gif",
       "terms": [
@@ -38459,6 +40289,8 @@
         "equipment",
         "forearm",
         "forearms",
+        "latissimus",
+        "lats",
         "no",
         "row",
         "shoulder",

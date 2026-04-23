@@ -6,7 +6,10 @@
   "bodyPart": "back",
   "equipment": "dumbbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
   "instructions": [
     "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
     "Activa los trapecios antes de iniciar el movimiento.",

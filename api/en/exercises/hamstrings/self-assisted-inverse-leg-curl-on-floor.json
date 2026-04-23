@@ -6,7 +6,10 @@
   "bodyPart": "legs",
   "equipment": "bodyweight",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "glutes",
+    "calves"
+  ],
   "instructions": [
     "Adopt the starting position with proper body alignment.",
     "Pre-engage the hamstrings before initiating the movement.",

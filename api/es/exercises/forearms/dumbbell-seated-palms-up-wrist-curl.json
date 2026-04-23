@@ -1,12 +1,14 @@
 {
   "id": "forearms/dumbbell-seated-palms-up-wrist-curl",
   "slug": "dumbbell-seated-palms-up-wrist-curl",
-  "name": "Curl de muñeca con mancuerna, sentado, palms up",
+  "name": "Curl de muñeca con mancuerna, sentado, con palmas hacia arriba",
   "muscle": "forearms",
   "bodyPart": "arms",
   "equipment": "dumbbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "biceps"
+  ],
   "instructions": [
     "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
     "Activa los antebrazos antes de iniciar el movimiento.",

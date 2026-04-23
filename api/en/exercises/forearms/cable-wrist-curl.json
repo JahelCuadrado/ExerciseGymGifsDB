@@ -6,7 +6,9 @@
   "bodyPart": "arms",
   "equipment": "cable",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "biceps"
+  ],
   "instructions": [
     "Set the pulley at the required height and select the weight.",
     "Pre-engage the forearms before initiating the movement.",

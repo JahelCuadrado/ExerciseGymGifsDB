@@ -6,7 +6,10 @@
   "bodyPart": "shoulders",
   "equipment": "dumbbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "traps",
+    "upper-back"
+  ],
   "instructions": [
     "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
     "Activa los hombros antes de iniciar el movimiento.",

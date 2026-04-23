@@ -6,7 +6,11 @@
   "bodyPart": "back",
   "equipment": "lever",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "pectorals",
+    "triceps",
+    "abs"
+  ],
   "instructions": [
     "Ajusta la máquina a tu medida y selecciona la carga.",
     "Activa los dorsales antes de iniciar el movimiento.",

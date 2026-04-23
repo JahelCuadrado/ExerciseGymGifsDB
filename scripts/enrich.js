@@ -20,7 +20,8 @@ const EQUIPMENT_RULES = [
 	{ key: "cable", match: /(^|-)(cable|pulley|rope-attachment|rope-crossover|rope-extension)(-|$)/ },
 	{ key: "lever", match: /(^|-)(lever|hack)(-|$)/ },
 	{ key: "band", match: /(^|-)(band|resistance-band|tubing|battling-ropes|battle-rope)(-|$)/ },
-	{ key: "machine", match: /(^|-)(machine|sled|sledge|platform-slide|stepmill|cross-trainer|elliptical|treadmill)(-|$)/ },
+	{ key: "sled", match: /(^|-)(sled|sledge)(-|$)/ },
+	{ key: "machine", match: /(^|-)(machine|platform-slide|stepmill|cross-trainer|elliptical|treadmill)(-|$)/ },
 	// Movimientos con accesorios livianos que no son peso libre ni máquina:
 	// balón medicinal, bosu, fitball/stability-ball, foam roller, silla, caja,
 	// pared, toalla, anillas, barra fija, suspensión, yoga, boxing.

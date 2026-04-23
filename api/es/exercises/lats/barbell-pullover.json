@@ -6,7 +6,11 @@
   "bodyPart": "back",
   "equipment": "barbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "pectorals",
+    "triceps",
+    "abs"
+  ],
   "instructions": [
     "Carga el peso adecuado en la barra y adopta la postura inicial.",
     "Activa los dorsales antes de iniciar el movimiento.",

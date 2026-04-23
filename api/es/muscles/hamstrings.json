@@ -29,7 +29,10 @@
       "bodyPart": "legs",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -43,7 +46,7 @@
     {
       "id": "hamstrings/barbell-straight-leg-deadlift",
       "slug": "barbell-straight-leg-deadlift",
-      "name": "Peso muerto con barra, con piernas rectas",
+      "name": "Peso muerto con barra, con pierna recta",
       "muscle": "hamstrings",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -73,7 +76,10 @@
       "bodyPart": "legs",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -161,12 +167,15 @@
     {
       "id": "hamstrings/inverse-leg-curl-bench-support",
       "slug": "inverse-leg-curl-bench-support",
-      "name": "Curl femoral nórdico, banco support",
+      "name": "Curl femoral nórdico con apoyo de banco",
       "muscle": "hamstrings",
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -180,7 +189,7 @@
     {
       "id": "hamstrings/inverse-leg-curl-on-pull-up-cable-machine",
       "slug": "inverse-leg-curl-on-pull-up-cable-machine",
-      "name": "Dominada en polea en máquina, inverse-leg-curl",
+      "name": "Curl femoral nórdico en máquina de dominadas con polea",
       "muscle": "hamstrings",
       "bodyPart": "legs",
       "equipment": "cable",
@@ -188,7 +197,9 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "glutes",
+        "calves"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -270,7 +281,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -289,7 +303,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -303,12 +320,15 @@
     {
       "id": "hamstrings/lever-lying-two-one-leg-curl",
       "slug": "lever-lying-two-one-leg-curl",
-      "name": "Curl en máquina, tumbado, a una pierna, two",
+      "name": "Curl femoral en máquina, tumbado, a una o dos piernas",
       "muscle": "hamstrings",
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -327,7 +347,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -427,7 +450,10 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -446,7 +472,10 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -465,7 +494,10 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -521,7 +553,10 @@
       "bodyPart": "legs",
       "equipment": "other",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Prepara el equipo y adopta la postura inicial.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",

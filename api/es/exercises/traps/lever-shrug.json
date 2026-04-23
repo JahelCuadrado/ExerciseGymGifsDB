@@ -6,7 +6,10 @@
   "bodyPart": "back",
   "equipment": "lever",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
   "instructions": [
     "Ajusta la máquina a tu medida y selecciona la carga.",
     "Activa los trapecios antes de iniciar el movimiento.",

@@ -6,7 +6,11 @@
   "bodyPart": "back",
   "equipment": "lever",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "pectorals",
+    "triceps",
+    "abs"
+  ],
   "instructions": [
     "Adjust the machine to your size and select the load.",
     "Pre-engage the lats before initiating the movement.",

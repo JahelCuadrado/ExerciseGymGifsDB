@@ -1,12 +1,14 @@
 {
   "id": "triceps/cable-triceps-pushdown-v-bar-with-arm-blaster",
   "slug": "cable-triceps-pushdown-v-bar-with-arm-blaster",
-  "name": "Pushdown en polea con barra en V, con arm blaster, tríceps",
+  "name": "Pushdown de tríceps con barra en V y arm blaster, en polea",
   "muscle": "triceps",
   "bodyPart": "arms",
   "equipment": "cable",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts"
+  ],
   "instructions": [
     "Ajusta la polea a la altura indicada y selecciona el peso.",
     "Activa los tríceps antes de iniciar el movimiento.",

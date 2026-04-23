@@ -6,7 +6,9 @@
   "bodyPart": "chest",
   "equipment": "cable",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts"
+  ],
   "instructions": [
     "Set the pulley at the required height and select the weight.",
     "Pre-engage the chest before initiating the movement.",

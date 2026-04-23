@@ -6,7 +6,9 @@
   "bodyPart": "arms",
   "equipment": "bodyweight",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "biceps"
+  ],
   "instructions": [
     "Adopta la postura inicial con buena alineación corporal.",
     "Activa los antebrazos antes de iniciar el movimiento.",

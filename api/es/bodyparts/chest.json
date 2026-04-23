@@ -237,7 +237,7 @@
     {
       "id": "pectorals/barbell-guillotine-bench-press",
       "slug": "barbell-guillotine-bench-press",
-      "name": "Press de banca con barra, guillotine",
+      "name": "Press de banca guillotina con barra",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "barbell",
@@ -414,7 +414,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -433,7 +435,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -518,7 +522,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -537,7 +543,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -556,7 +564,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -575,7 +585,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -594,7 +606,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -613,7 +627,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -632,7 +648,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -651,7 +669,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -709,7 +729,7 @@
     {
       "id": "pectorals/cable-one-arm-lateral-bent-over",
       "slug": "cable-one-arm-lateral-bent-over",
-      "name": "Lateral doblado sobre en polea, a una mano",
+      "name": "Lateral en polea, a una mano inclinado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "cable",
@@ -799,7 +819,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -818,7 +840,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -837,7 +861,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -869,7 +895,7 @@
     {
       "id": "pectorals/chest-dip-on-dip-pull-up-cage",
       "slug": "chest-dip-on-dip-pull-up-cage",
-      "name": "Dominada, pecho dip cage",
+      "name": "Fondos de pecho en jaula de dominadas",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "bodyweight",
@@ -955,7 +981,7 @@
     {
       "id": "pectorals/chest-tap-push-up-male",
       "slug": "chest-tap-push-up-male",
-      "name": "Flexión, pecho tap",
+      "name": "Flexión con toque en el pecho",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "bodyweight",
@@ -999,7 +1025,7 @@
     {
       "id": "pectorals/clock-push-up",
       "slug": "clock-push-up",
-      "name": "Flexión, clock",
+      "name": "Reloj",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "bodyweight",
@@ -1043,7 +1069,7 @@
     {
       "id": "pectorals/deep-push-up",
       "slug": "deep-push-up",
-      "name": "Flexión, deep",
+      "name": "Flexión profunda",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "bodyweight",
@@ -1087,7 +1113,7 @@
     {
       "id": "pectorals/dumbbell-around-pullover",
       "slug": "dumbbell-around-pullover",
-      "name": "Pullover con mancuerna, around",
+      "name": "Pullover circular con mancuerna",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "dumbbell",
@@ -1155,7 +1181,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -1196,7 +1224,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -1210,12 +1240,14 @@
     {
       "id": "pectorals/dumbbell-decline-twist-fly",
       "slug": "dumbbell-decline-twist-fly",
-      "name": "Apertura declinado con mancuerna, twist",
+      "name": "Apertura declinada con giro, con mancuerna",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -1234,7 +1266,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -1253,7 +1287,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -1335,7 +1371,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -1354,7 +1392,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -1395,7 +1435,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -1414,7 +1456,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -1472,7 +1516,7 @@
     {
       "id": "pectorals/dumbbell-incline-palm-in-press",
       "slug": "dumbbell-incline-palm-in-press",
-      "name": "Press inclinado con mancuerna, palm",
+      "name": "Press inclinado con mancuerna, con palma hacia dentro",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "dumbbell",
@@ -1521,7 +1565,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -1625,7 +1671,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -1644,7 +1692,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -1685,7 +1735,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -1789,7 +1841,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -1923,7 +1977,7 @@
     {
       "id": "pectorals/dynamic-chest-stretch-male",
       "slug": "dynamic-chest-stretch-male",
-      "name": "Estiramiento, dynamic pecho",
+      "name": "Estiramiento dinámico de pecho",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "bodyweight",
@@ -1941,14 +1995,16 @@
     {
       "id": "pectorals/exercise-ball-pike-push-up",
       "slug": "exercise-ball-pike-push-up",
-      "name": "Flexión en fitball, pike",
+      "name": "Flexión en fitball, en pike",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
-        "delts"
+        "delts",
+        "abs",
+        "traps"
       ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
@@ -1968,7 +2024,9 @@
       "bodyPart": "chest",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -1982,14 +2040,16 @@
     {
       "id": "pectorals/full-planche-push-up",
       "slug": "full-planche-push-up",
-      "name": "Flexión, full-planche",
+      "name": "Flexión plancha completa",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
-        "delts"
+        "delts",
+        "abs",
+        "traps"
       ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
@@ -2028,7 +2088,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -2413,7 +2475,9 @@
       "bodyPart": "chest",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -2490,7 +2554,7 @@
     {
       "id": "pectorals/medicine-ball-chest-push-from-3-point-stance",
       "slug": "medicine-ball-chest-push-from-3-point-stance",
-      "name": "Pecho push punto con balón medicinal",
+      "name": "Empuje de pecho con balón medicinal desde postura de 3 apoyos",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "bodyweight",
@@ -2509,7 +2573,7 @@
     {
       "id": "pectorals/medicine-ball-chest-push-multiple-response",
       "slug": "medicine-ball-chest-push-multiple-response",
-      "name": "Pecho push multiple response con balón medicinal",
+      "name": "Empuje de pecho con balón medicinal, respuesta múltiple",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "bodyweight",
@@ -2528,7 +2592,7 @@
     {
       "id": "pectorals/medicine-ball-chest-push-single-response",
       "slug": "medicine-ball-chest-push-single-response",
-      "name": "Pecho push individual response con balón medicinal",
+      "name": "Empuje de pecho con balón medicinal, respuesta simple",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "bodyweight",
@@ -2547,7 +2611,7 @@
     {
       "id": "pectorals/medicine-ball-chest-push-with-run-release",
       "slug": "medicine-ball-chest-push-with-run-release",
-      "name": "Pecho push correr release con balón medicinal",
+      "name": "Empuje de pecho con balón medicinal en carrera",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "bodyweight",
@@ -2609,7 +2673,7 @@
     {
       "id": "pectorals/push-and-pull-bodyweight",
       "slug": "push-and-pull-bodyweight",
-      "name": "Push pull con peso corporal",
+      "name": "Empuje y tracción con peso corporal",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "bodyweight",
@@ -2826,7 +2890,7 @@
     {
       "id": "pectorals/raise-single-arm-push-up",
       "slug": "raise-single-arm-push-up",
-      "name": "Flexión a una mano, raise",
+      "name": "Flexión a una mano con elevación",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "bodyweight",

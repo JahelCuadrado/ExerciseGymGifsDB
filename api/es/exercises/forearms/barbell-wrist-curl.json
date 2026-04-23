@@ -6,7 +6,9 @@
   "bodyPart": "arms",
   "equipment": "barbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "biceps"
+  ],
   "instructions": [
     "Carga el peso adecuado en la barra y adopta la postura inicial.",
     "Activa los antebrazos antes de iniciar el movimiento.",

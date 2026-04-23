@@ -6,7 +6,9 @@
   "bodyPart": "arms",
   "equipment": "bodyweight",
   "category": "stretching",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts"
+  ],
   "instructions": [
     "Adopta la postura inicial con buena alineación corporal.",
     "Lleva el cuerpo a la posición de estiramiento de los tríceps.",

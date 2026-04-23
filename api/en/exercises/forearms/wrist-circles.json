@@ -6,7 +6,9 @@
   "bodyPart": "arms",
   "equipment": "bodyweight",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "biceps"
+  ],
   "instructions": [
     "Adopt the starting position with proper body alignment.",
     "Pre-engage the forearms before initiating the movement.",

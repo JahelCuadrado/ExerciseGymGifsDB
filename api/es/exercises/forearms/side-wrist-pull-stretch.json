@@ -1,12 +1,14 @@
 {
   "id": "forearms/side-wrist-pull-stretch",
   "slug": "side-wrist-pull-stretch",
-  "name": "Estiramiento, lateral, muñeca pull",
+  "name": "Estiramiento de muñeca lateral",
   "muscle": "forearms",
   "bodyPart": "arms",
   "equipment": "bodyweight",
   "category": "stretching",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "biceps"
+  ],
   "instructions": [
     "Adopta la postura inicial con buena alineación corporal.",
     "Lleva el cuerpo a la posición de estiramiento de los antebrazos.",

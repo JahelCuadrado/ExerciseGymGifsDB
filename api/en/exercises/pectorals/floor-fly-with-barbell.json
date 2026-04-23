@@ -6,7 +6,9 @@
   "bodyPart": "chest",
   "equipment": "barbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts"
+  ],
   "instructions": [
     "Load the bar with an appropriate weight and adopt the starting position.",
     "Pre-engage the chest before initiating the movement.",

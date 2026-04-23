@@ -6,7 +6,9 @@
   "bodyPart": "arms",
   "equipment": "cable",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "biceps"
+  ],
   "instructions": [
     "Ajusta la polea a la altura indicada y selecciona el peso.",
     "Activa los antebrazos antes de iniciar el movimiento.",

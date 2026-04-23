@@ -6,7 +6,10 @@
   "bodyPart": "core",
   "equipment": "bodyweight",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "triceps",
+    "traps"
+  ],
   "instructions": [
     "Adopt the starting position with proper body alignment.",
     "Pre-engage the core before initiating the movement.",

@@ -6,7 +6,12 @@
   "bodyPart": "shoulders",
   "equipment": "kettlebell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "glutes",
+    "quads",
+    "triceps",
+    "abs"
+  ],
   "instructions": [
     "Coge la kettlebell con un peso adecuado y adopta la postura.",
     "Activa los hombros antes de iniciar el movimiento.",

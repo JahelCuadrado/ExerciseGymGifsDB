@@ -6,7 +6,10 @@
   "bodyPart": "back",
   "equipment": "smith",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
   "instructions": [
     "Set the bar on the Smith machine at the right height.",
     "Pre-engage the traps before initiating the movement.",

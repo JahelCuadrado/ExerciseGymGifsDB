@@ -6,7 +6,10 @@
   "bodyPart": "legs",
   "equipment": "lever",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "hamstrings",
+    "spine"
+  ],
   "instructions": [
     "Adjust the machine to your size and select the load.",
     "Pre-engage the glutes before initiating the movement.",

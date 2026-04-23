@@ -6,7 +6,9 @@
   "bodyPart": "chest",
   "equipment": "cable",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts"
+  ],
   "instructions": [
     "Ajusta la polea a la altura indicada y selecciona el peso.",
     "Activa el pectoral antes de iniciar el movimiento.",

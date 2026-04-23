@@ -1490,7 +1490,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the core before initiating the movement.",
@@ -1569,7 +1572,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the core before initiating the movement.",
@@ -1702,7 +1708,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the core before initiating the movement.",
@@ -2088,7 +2097,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the core before initiating the movement.",
@@ -2828,11 +2840,11 @@
       "name": "Sledge Hammer",
       "muscle": "abs",
       "bodyPart": "core",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Adjust the machine to your size and select the load.",
+        "Prepare the equipment and adopt the starting position.",
         "Pre-engage the core before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
@@ -2963,7 +2975,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the core before initiating the movement.",
@@ -7320,14 +7335,14 @@
       "name": "Sled 45 Calf Press",
       "muscle": "calves",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Adjust the machine to your size and select the load.",
+        "Prepare the equipment and adopt the starting position.",
         "Pre-engage the calves before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
@@ -7342,14 +7357,14 @@
       "name": "Sled Calf Press On Leg Press",
       "muscle": "calves",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Adjust the machine to your size and select the load.",
+        "Prepare the equipment and adopt the starting position.",
         "Pre-engage the calves before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
@@ -7364,11 +7379,11 @@
       "name": "Sled Forward Angled Calf Raise",
       "muscle": "calves",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Adjust the machine to your size and select the load.",
+        "Prepare the equipment and adopt the starting position.",
         "Pre-engage the calves before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
@@ -7383,14 +7398,14 @@
       "name": "Sled Lying Calf Press",
       "muscle": "calves",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Adjust the machine to your size and select the load.",
+        "Prepare the equipment and adopt the starting position.",
         "Pre-engage the calves before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
@@ -7405,14 +7420,14 @@
       "name": "Sled One Leg Calf Press On Leg Press",
       "muscle": "calves",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Adjust the machine to your size and select the load.",
+        "Prepare the equipment and adopt the starting position.",
         "Pre-engage the calves before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
@@ -7642,7 +7657,10 @@
       "bodyPart": "shoulders",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -7898,7 +7916,11 @@
       "bodyPart": "shoulders",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "abs",
+        "lats",
+        "triceps"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -8001,7 +8023,12 @@
       "bodyPart": "shoulders",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "quads",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -8022,7 +8049,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -8044,7 +8072,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -8066,7 +8095,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -8088,7 +8118,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -8108,7 +8139,11 @@
       "bodyPart": "shoulders",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "abs",
+        "forearms",
+        "traps"
+      ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -8148,7 +8183,10 @@
       "bodyPart": "shoulders",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -8399,7 +8437,10 @@
       "bodyPart": "shoulders",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -8459,7 +8500,10 @@
       "bodyPart": "shoulders",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -8480,7 +8524,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -8773,7 +8818,11 @@
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "lats",
+        "abs"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -8977,7 +9026,10 @@
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -9040,7 +9092,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
@@ -9145,7 +9198,10 @@
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -9206,7 +9262,10 @@
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -9225,7 +9284,10 @@
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -9639,7 +9701,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
@@ -9661,7 +9724,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
@@ -10054,7 +10118,12 @@
       "bodyPart": "shoulders",
       "equipment": "kettlebell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "quads",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Grab the kettlebell with an appropriate weight and adopt the position.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -10222,7 +10291,10 @@
       "bodyPart": "shoulders",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -10241,7 +10313,10 @@
       "bodyPart": "shoulders",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -10473,7 +10548,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Set the bar on the Smith machine at the right height.",
@@ -10579,7 +10655,9 @@
       "bodyPart": "arms",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
         "Pre-engage the forearms before initiating the movement.",
@@ -10598,7 +10676,9 @@
       "bodyPart": "arms",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
         "Pre-engage the forearms before initiating the movement.",
@@ -10617,7 +10697,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the forearms before initiating the movement.",
@@ -10636,7 +10718,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the forearms before initiating the movement.",
@@ -10655,7 +10739,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the forearms before initiating the movement.",
@@ -10674,7 +10760,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the forearms before initiating the movement.",
@@ -10693,7 +10781,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the forearms before initiating the movement.",
@@ -10712,7 +10802,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the forearms before initiating the movement.",
@@ -10731,7 +10823,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the forearms before initiating the movement.",
@@ -10750,7 +10844,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the forearms before initiating the movement.",
@@ -10769,7 +10865,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the forearms before initiating the movement.",
@@ -10788,7 +10886,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the forearms before initiating the movement.",
@@ -10902,7 +11002,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the forearms before initiating the movement.",
@@ -10921,7 +11023,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the forearms before initiating the movement.",
@@ -10940,7 +11044,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the forearms before initiating the movement.",
@@ -10959,7 +11065,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the forearms before initiating the movement.",
@@ -10978,7 +11086,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the forearms before initiating the movement.",
@@ -10997,7 +11107,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the forearms before initiating the movement.",
@@ -11016,7 +11128,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the forearms before initiating the movement.",
@@ -11035,7 +11149,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the forearms before initiating the movement.",
@@ -11073,7 +11189,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the forearms before initiating the movement.",
@@ -11136,7 +11254,9 @@
       "bodyPart": "arms",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the forearms before initiating the movement.",
@@ -11177,7 +11297,9 @@
       "bodyPart": "arms",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Set the bar on the Smith machine at the right height.",
         "Pre-engage the forearms before initiating the movement.",
@@ -11196,7 +11318,9 @@
       "bodyPart": "arms",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Set the bar on the Smith machine at the right height.",
         "Pre-engage the forearms before initiating the movement.",
@@ -11234,7 +11358,9 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the forearms before initiating the movement.",
@@ -11253,7 +11379,9 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the forearms before initiating the movement.",
@@ -11291,7 +11419,10 @@
       "bodyPart": "legs",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
         "Pre-engage the glutes before initiating the movement.",
@@ -11348,7 +11479,10 @@
       "bodyPart": "legs",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
         "Pre-engage the glutes before initiating the movement.",
@@ -12185,7 +12319,10 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the glutes before initiating the movement.",
@@ -12248,7 +12385,10 @@
       "bodyPart": "legs",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the glutes before initiating the movement.",
@@ -12267,7 +12407,10 @@
       "bodyPart": "legs",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the glutes before initiating the movement.",
@@ -12659,7 +12802,10 @@
       "bodyPart": "legs",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the glutes before initiating the movement.",
@@ -13040,7 +13186,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the glutes before initiating the movement.",
@@ -13081,7 +13230,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the glutes before initiating the movement.",
@@ -13247,7 +13399,9 @@
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
-        "delts"
+        "delts",
+        "abs",
+        "traps"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -13435,14 +13589,14 @@
       "name": "Sled 45 Degrees One Leg Press",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Adjust the machine to your size and select the load.",
+        "Prepare the equipment and adopt the starting position.",
         "Pre-engage the glutes before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
@@ -13457,14 +13611,14 @@
       "name": "Sled 45 Leg Press Back Pov",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Adjust the machine to your size and select the load.",
+        "Prepare the equipment and adopt the starting position.",
         "Pre-engage the glutes before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
@@ -13479,14 +13633,14 @@
       "name": "Sled 45 Leg Press Side Pov",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Adjust the machine to your size and select the load.",
+        "Prepare the equipment and adopt the starting position.",
         "Pre-engage the glutes before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
@@ -13501,14 +13655,14 @@
       "name": "Sled 45 Leg Press",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Adjust the machine to your size and select the load.",
+        "Prepare the equipment and adopt the starting position.",
         "Pre-engage the glutes before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
@@ -13523,14 +13677,14 @@
       "name": "Sled 45 Leg Wide Press",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Adjust the machine to your size and select the load.",
+        "Prepare the equipment and adopt the starting position.",
         "Pre-engage the glutes before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
@@ -13589,14 +13743,14 @@
       "name": "Sled Lying Squat",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "hamstrings",
         "calves"
       ],
       "instructions": [
-        "Adjust the machine to your size and select the load.",
+        "Prepare the equipment and adopt the starting position.",
         "Pre-engage the glutes before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
@@ -14052,7 +14206,10 @@
       "bodyPart": "legs",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -14096,7 +14253,10 @@
       "bodyPart": "legs",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -14153,7 +14313,10 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -14175,7 +14338,9 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "glutes",
+        "calves"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -14239,7 +14404,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -14258,7 +14426,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -14277,7 +14448,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -14296,7 +14470,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -14378,7 +14555,10 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -14397,7 +14577,10 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -14416,7 +14599,10 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -14454,7 +14640,10 @@
       "bodyPart": "legs",
       "equipment": "other",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Prepare the equipment and adopt the starting position.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -14749,7 +14938,11 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the lats before initiating the movement.",
@@ -14768,7 +14961,11 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the lats before initiating the movement.",
@@ -14787,7 +14984,11 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the lats before initiating the movement.",
@@ -14808,7 +15009,9 @@
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
-        "delts"
+        "delts",
+        "pectorals",
+        "abs"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -14828,7 +15031,11 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the lats before initiating the movement.",
@@ -15004,7 +15211,11 @@
       "bodyPart": "back",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the lats before initiating the movement.",
@@ -15382,7 +15593,11 @@
       "bodyPart": "back",
       "equipment": "ez-bar",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Load the EZ-bar with an appropriate weight and grip it firmly.",
         "Pre-engage the lats before initiating the movement.",
@@ -15531,7 +15746,11 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the lats before initiating the movement.",
@@ -16421,7 +16640,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -16440,7 +16661,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -16525,7 +16748,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -16544,7 +16769,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -16563,7 +16790,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -16582,7 +16811,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -16601,7 +16832,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -16620,7 +16853,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -16639,7 +16874,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -16658,7 +16895,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -16806,7 +17045,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -16825,7 +17066,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -16844,7 +17087,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -17126,7 +17371,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -17167,7 +17414,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -17186,7 +17435,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -17205,7 +17456,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -17224,7 +17477,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -17306,7 +17561,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -17325,7 +17582,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -17366,7 +17625,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -17385,7 +17646,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -17492,7 +17755,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -17596,7 +17861,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -17615,7 +17882,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -17656,7 +17925,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -17760,7 +18031,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -17901,7 +18174,9 @@
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
-        "delts"
+        "delts",
+        "abs",
+        "traps"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -17921,7 +18196,9 @@
       "bodyPart": "chest",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the chest before initiating the movement.",
@@ -17942,7 +18219,9 @@
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
-        "delts"
+        "delts",
+        "abs",
+        "traps"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -17981,7 +18260,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -18324,7 +18605,9 @@
       "bodyPart": "chest",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the chest before initiating the movement.",
@@ -19677,7 +19960,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the quadriceps before initiating the movement.",
@@ -19734,7 +20020,10 @@
       "bodyPart": "legs",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
         "Pre-engage the quadriceps before initiating the movement.",
@@ -20114,7 +20403,10 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the lower back before initiating the movement.",
@@ -20158,7 +20450,10 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the lower back before initiating the movement.",
@@ -20177,7 +20472,10 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the lower back before initiating the movement.",
@@ -20196,7 +20494,10 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the lower back before initiating the movement.",
@@ -20215,7 +20516,10 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the lower back before initiating the movement.",
@@ -20272,7 +20576,10 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the lower back before initiating the movement.",
@@ -20291,7 +20598,10 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the lower back before initiating the movement.",
@@ -20310,7 +20620,10 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the lower back before initiating the movement.",
@@ -20424,7 +20737,10 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the lower back before initiating the movement.",
@@ -20443,7 +20759,10 @@
       "bodyPart": "back",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
         "Pre-engage the traps before initiating the movement.",
@@ -20462,7 +20781,10 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the traps before initiating the movement.",
@@ -20481,7 +20803,10 @@
       "bodyPart": "back",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the traps before initiating the movement.",
@@ -20500,7 +20825,10 @@
       "bodyPart": "back",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the traps before initiating the movement.",
@@ -20519,7 +20847,10 @@
       "bodyPart": "back",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the traps before initiating the movement.",
@@ -20538,7 +20869,10 @@
       "bodyPart": "back",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the traps before initiating the movement.",
@@ -20557,7 +20891,10 @@
       "bodyPart": "back",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the traps before initiating the movement.",
@@ -20595,7 +20932,10 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the traps before initiating the movement.",
@@ -20614,7 +20954,10 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the traps before initiating the movement.",
@@ -20633,7 +20976,10 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the traps before initiating the movement.",
@@ -20698,7 +21044,10 @@
       "bodyPart": "back",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Set the bar on the Smith machine at the right height.",
         "Pre-engage the traps before initiating the movement.",
@@ -20717,7 +21066,10 @@
       "bodyPart": "back",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Set the bar on the Smith machine at the right height.",
         "Pre-engage the traps before initiating the movement.",
@@ -20736,7 +21088,9 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the triceps before initiating the movement.",
@@ -20798,7 +21152,9 @@
       "bodyPart": "arms",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
         "Pre-engage the triceps before initiating the movement.",
@@ -20922,7 +21278,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the triceps before initiating the movement.",
@@ -20962,7 +21320,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the triceps before initiating the movement.",
@@ -20981,7 +21341,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21000,7 +21362,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21019,7 +21383,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21101,7 +21467,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21120,7 +21488,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21139,7 +21509,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21158,7 +21530,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21240,7 +21614,9 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21259,7 +21635,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21278,7 +21656,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21297,7 +21677,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21316,7 +21698,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21335,7 +21719,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21354,7 +21740,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21373,7 +21761,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21392,7 +21782,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21411,7 +21803,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21430,7 +21824,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21449,7 +21845,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21487,7 +21885,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21506,7 +21906,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21525,7 +21927,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21544,7 +21948,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21563,7 +21969,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21582,7 +21990,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21601,7 +22011,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21620,7 +22032,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21639,7 +22053,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21658,7 +22074,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21803,7 +22221,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21825,7 +22245,8 @@
       "secondaryMuscles": [
         "glutes",
         "hamstrings",
-        "calves"
+        "calves",
+        "delts"
       ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
@@ -21908,7 +22329,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21927,7 +22350,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21946,7 +22371,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21965,7 +22392,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -21984,7 +22413,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22024,7 +22455,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22043,7 +22476,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22062,7 +22497,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22081,7 +22518,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22100,7 +22539,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22182,7 +22623,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22201,7 +22644,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22241,7 +22686,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22260,7 +22707,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22279,7 +22728,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22298,7 +22749,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22317,7 +22770,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22336,7 +22791,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22355,7 +22812,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22374,7 +22833,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22393,7 +22854,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22412,7 +22875,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22431,7 +22896,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22450,7 +22917,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22469,7 +22938,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22488,7 +22959,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22528,7 +23001,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22568,7 +23043,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22631,7 +23108,9 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22692,7 +23171,9 @@
       "bodyPart": "arms",
       "equipment": "ez-bar",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the EZ-bar with an appropriate weight and grip it firmly.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22753,7 +23234,9 @@
       "bodyPart": "arms",
       "equipment": "ez-bar",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the EZ-bar with an appropriate weight and grip it firmly.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22772,7 +23255,9 @@
       "bodyPart": "arms",
       "equipment": "ez-bar",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the EZ-bar with an appropriate weight and grip it firmly.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22812,7 +23297,9 @@
       "bodyPart": "arms",
       "equipment": "ez-bar",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the EZ-bar with an appropriate weight and grip it firmly.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22832,7 +23319,9 @@
       "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
-        "delts"
+        "delts",
+        "abs",
+        "traps"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -22852,7 +23341,10 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "abs",
+        "traps"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the triceps before initiating the movement.",
@@ -22958,7 +23450,9 @@
       "bodyPart": "arms",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the triceps before initiating the movement.",
@@ -23038,7 +23532,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the triceps before initiating the movement.",
@@ -23247,7 +23743,9 @@
       "bodyPart": "arms",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the bar on the Smith machine at the right height.",
         "Pre-engage the triceps before initiating the movement.",
@@ -23528,7 +24026,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
@@ -23551,7 +24050,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
@@ -23574,7 +24074,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -23597,7 +24098,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -23620,7 +24122,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -23643,7 +24146,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -23666,7 +24170,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -23689,7 +24194,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -23715,7 +24221,8 @@
         "calves",
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -23741,7 +24248,8 @@
         "calves",
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -23764,7 +24272,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -23787,7 +24296,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -23810,7 +24320,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -23833,7 +24344,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -23856,7 +24368,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -23879,7 +24392,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -23902,7 +24416,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -23925,7 +24440,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -23948,7 +24464,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -23971,7 +24488,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -23994,7 +24512,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -24017,7 +24536,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -24040,7 +24560,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -24063,7 +24584,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -24086,7 +24608,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -24109,7 +24632,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -24132,7 +24656,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -24155,7 +24680,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -24178,7 +24704,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -24201,7 +24728,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -24224,7 +24752,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -24247,7 +24776,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -24270,7 +24800,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -24293,7 +24824,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -24316,7 +24848,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -24339,7 +24872,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -24362,7 +24896,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -24382,7 +24917,12 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "lats",
+        "biceps",
+        "forearms",
+        "delts"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the upper back before initiating the movement.",
@@ -24404,7 +24944,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
@@ -24427,7 +24968,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
@@ -24469,7 +25011,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
@@ -24492,7 +25035,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
@@ -24515,7 +25059,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
@@ -24538,7 +25083,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
@@ -24561,7 +25107,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
@@ -24584,7 +25131,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
@@ -24607,7 +25155,8 @@
       "secondaryMuscles": [
         "abs",
         "delts",
-        "glutes"
+        "glutes",
+        "traps"
       ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
@@ -24671,7 +25220,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Load the EZ-bar with an appropriate weight and grip it firmly.",
@@ -24713,7 +25263,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -24736,7 +25287,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -24759,7 +25311,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -24782,7 +25335,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -24805,7 +25359,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -24828,7 +25383,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Grab the kettlebell with an appropriate weight and adopt the position.",
@@ -24851,7 +25407,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Grab the kettlebell with an appropriate weight and adopt the position.",
@@ -24874,7 +25431,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Grab the kettlebell with an appropriate weight and adopt the position.",
@@ -24897,7 +25455,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Grab the kettlebell with an appropriate weight and adopt the position.",
@@ -24920,7 +25479,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -24943,7 +25503,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -24966,7 +25527,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -24989,7 +25551,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -25012,7 +25575,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -25035,7 +25599,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -25058,7 +25623,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -25081,7 +25647,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -25104,7 +25671,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -25127,7 +25695,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -25150,7 +25719,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -25173,7 +25743,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -25196,7 +25767,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -25238,7 +25810,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -25261,7 +25834,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
@@ -25322,7 +25896,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the bar on the Smith machine at the right height.",
@@ -25345,7 +25920,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the bar on the Smith machine at the right height.",
@@ -25368,7 +25944,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the bar on the Smith machine at the right height.",
@@ -25391,7 +25968,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the bar on the Smith machine at the right height.",
@@ -25433,7 +26011,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",

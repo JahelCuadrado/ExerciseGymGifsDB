@@ -65,7 +65,10 @@
       "bodyPart": "legs",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
         "Pre-engage the glutes before initiating the movement.",
@@ -122,7 +125,10 @@
       "bodyPart": "legs",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
         "Pre-engage the glutes before initiating the movement.",
@@ -980,7 +986,10 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the glutes before initiating the movement.",
@@ -1064,7 +1073,10 @@
       "bodyPart": "legs",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the glutes before initiating the movement.",
@@ -1083,7 +1095,10 @@
       "bodyPart": "legs",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the glutes before initiating the movement.",
@@ -1496,7 +1511,10 @@
       "bodyPart": "legs",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
         "Pre-engage the glutes before initiating the movement.",
@@ -1735,7 +1753,11 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "stretching",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "lats",
+        "abs"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Move into the the glutes stretch position.",
@@ -1976,7 +1998,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the glutes before initiating the movement.",
@@ -2017,7 +2042,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the glutes before initiating the movement.",
@@ -2204,7 +2232,9 @@
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
-        "delts"
+        "delts",
+        "abs",
+        "traps"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -2482,14 +2512,14 @@
       "name": "Sled 45 Degrees One Leg Press",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Adjust the machine to your size and select the load.",
+        "Prepare the equipment and adopt the starting position.",
         "Pre-engage the glutes before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
@@ -2504,14 +2534,14 @@
       "name": "Sled 45 Leg Press Back Pov",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Adjust the machine to your size and select the load.",
+        "Prepare the equipment and adopt the starting position.",
         "Pre-engage the glutes before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
@@ -2526,14 +2556,14 @@
       "name": "Sled 45 Leg Press Side Pov",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Adjust the machine to your size and select the load.",
+        "Prepare the equipment and adopt the starting position.",
         "Pre-engage the glutes before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
@@ -2548,14 +2578,14 @@
       "name": "Sled 45 Leg Press",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Adjust the machine to your size and select the load.",
+        "Prepare the equipment and adopt the starting position.",
         "Pre-engage the glutes before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
@@ -2570,14 +2600,14 @@
       "name": "Sled 45 Leg Wide Press",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Adjust the machine to your size and select the load.",
+        "Prepare the equipment and adopt the starting position.",
         "Pre-engage the glutes before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
@@ -2636,14 +2666,14 @@
       "name": "Sled Lying Squat",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "hamstrings",
         "calves"
       ],
       "instructions": [
-        "Adjust the machine to your size and select the load.",
+        "Prepare the equipment and adopt the starting position.",
         "Pre-engage the glutes before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",

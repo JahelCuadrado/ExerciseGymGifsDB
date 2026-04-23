@@ -6,7 +6,10 @@
   "bodyPart": "back",
   "equipment": "dumbbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
   "instructions": [
     "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
     "Pre-engage the traps before initiating the movement.",

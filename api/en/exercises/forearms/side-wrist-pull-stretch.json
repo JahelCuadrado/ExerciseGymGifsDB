@@ -6,7 +6,9 @@
   "bodyPart": "arms",
   "equipment": "bodyweight",
   "category": "stretching",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "biceps"
+  ],
   "instructions": [
     "Adopt the starting position with proper body alignment.",
     "Move into the the forearms stretch position.",

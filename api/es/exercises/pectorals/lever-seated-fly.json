@@ -6,7 +6,9 @@
   "bodyPart": "chest",
   "equipment": "lever",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts"
+  ],
   "instructions": [
     "Ajusta la máquina a tu medida y selecciona la carga.",
     "Activa el pectoral antes de iniciar el movimiento.",

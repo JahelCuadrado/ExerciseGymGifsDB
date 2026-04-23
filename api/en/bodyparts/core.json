@@ -1410,7 +1410,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the core before initiating the movement.",
@@ -1489,7 +1492,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the core before initiating the movement.",
@@ -1622,7 +1628,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the core before initiating the movement.",
@@ -2008,7 +2017,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the core before initiating the movement.",
@@ -2748,11 +2760,11 @@
       "name": "Sledge Hammer",
       "muscle": "abs",
       "bodyPart": "core",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Adjust the machine to your size and select the load.",
+        "Prepare the equipment and adopt the starting position.",
         "Pre-engage the core before initiating the movement.",
         "Perform the movement in a controlled manner, keeping good form.",
         "Return to the starting position controlling the eccentric phase.",
@@ -2883,7 +2895,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the core before initiating the movement.",

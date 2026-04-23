@@ -6,7 +6,9 @@
   "bodyPart": "arms",
   "equipment": "dumbbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "biceps"
+  ],
   "instructions": [
     "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
     "Pre-engage the forearms before initiating the movement.",

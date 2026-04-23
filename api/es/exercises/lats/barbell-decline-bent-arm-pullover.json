@@ -1,12 +1,16 @@
 {
   "id": "lats/barbell-decline-bent-arm-pullover",
   "slug": "barbell-decline-bent-arm-pullover",
-  "name": "Pullover declinado con barra, doblado brazo",
+  "name": "Pullover declinado con barra, con brazo doblado",
   "muscle": "lats",
   "bodyPart": "back",
   "equipment": "barbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "pectorals",
+    "triceps",
+    "abs"
+  ],
   "instructions": [
     "Carga el peso adecuado en la barra y adopta la postura inicial.",
     "Activa los dorsales antes de iniciar el movimiento.",

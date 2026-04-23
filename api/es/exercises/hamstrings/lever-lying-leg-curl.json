@@ -6,7 +6,10 @@
   "bodyPart": "legs",
   "equipment": "lever",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "glutes",
+    "calves"
+  ],
   "instructions": [
     "Ajusta la máquina a tu medida y selecciona la carga.",
     "Activa los isquiotibiales antes de iniciar el movimiento.",

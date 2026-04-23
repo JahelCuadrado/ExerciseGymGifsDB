@@ -6,7 +6,9 @@
   "bodyPart": "arms",
   "equipment": "barbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts"
+  ],
   "instructions": [
     "Carga el peso adecuado en la barra y adopta la postura inicial.",
     "Activa los tríceps antes de iniciar el movimiento.",

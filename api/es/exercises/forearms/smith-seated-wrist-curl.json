@@ -6,7 +6,9 @@
   "bodyPart": "arms",
   "equipment": "smith",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "biceps"
+  ],
   "instructions": [
     "Coloca la barra en la máquina Smith a la altura adecuada.",
     "Activa los antebrazos antes de iniciar el movimiento.",

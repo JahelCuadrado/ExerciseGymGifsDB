@@ -6,7 +6,9 @@
   "bodyPart": "arms",
   "equipment": "lever",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "biceps"
+  ],
   "instructions": [
     "Ajusta la máquina a tu medida y selecciona la carga.",
     "Activa los antebrazos antes de iniciar el movimiento.",

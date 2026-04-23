@@ -6,7 +6,10 @@
   "bodyPart": "back",
   "equipment": "band",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
   "instructions": [
     "Anchor the resistance band and maintain initial tension.",
     "Pre-engage the traps before initiating the movement.",

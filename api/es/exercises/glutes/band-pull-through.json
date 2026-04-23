@@ -6,7 +6,10 @@
   "bodyPart": "legs",
   "equipment": "band",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "hamstrings",
+    "spine"
+  ],
   "instructions": [
     "Fija la banda elástica y mantén la tensión inicial.",
     "Activa los glúteos antes de iniciar el movimiento.",

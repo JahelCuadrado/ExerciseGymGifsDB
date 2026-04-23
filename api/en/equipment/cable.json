@@ -924,7 +924,10 @@
       "bodyPart": "shoulders",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -1175,7 +1178,10 @@
       "bodyPart": "shoulders",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -1235,7 +1241,10 @@
       "bodyPart": "shoulders",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -1256,7 +1265,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -1276,7 +1286,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the forearms before initiating the movement.",
@@ -1295,7 +1307,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the forearms before initiating the movement.",
@@ -1314,7 +1328,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the forearms before initiating the movement.",
@@ -1358,7 +1374,10 @@
       "bodyPart": "legs",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the glutes before initiating the movement.",
@@ -1377,7 +1396,10 @@
       "bodyPart": "legs",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the glutes before initiating the movement.",
@@ -1396,7 +1418,10 @@
       "bodyPart": "legs",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -1418,7 +1443,9 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "glutes",
+        "calves"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -1572,7 +1599,11 @@
       "bodyPart": "back",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the lats before initiating the movement.",
@@ -1907,7 +1938,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -1926,7 +1959,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -2011,7 +2046,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -2030,7 +2067,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -2049,7 +2088,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -2068,7 +2109,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -2087,7 +2130,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -2106,7 +2151,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -2125,7 +2172,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -2144,7 +2193,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -2292,7 +2343,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -2311,7 +2364,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -2330,7 +2385,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the chest before initiating the movement.",
@@ -2349,7 +2406,10 @@
       "bodyPart": "back",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the traps before initiating the movement.",
@@ -2368,7 +2428,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2387,7 +2449,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2406,7 +2470,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2425,7 +2491,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2444,7 +2512,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2463,7 +2533,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2482,7 +2554,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2501,7 +2575,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2520,7 +2596,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2539,7 +2617,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2558,7 +2638,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2596,7 +2678,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2615,7 +2699,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2634,7 +2720,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2653,7 +2741,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2672,7 +2762,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2691,7 +2783,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2710,7 +2804,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2729,7 +2825,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2748,7 +2846,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2767,7 +2867,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2789,7 +2891,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -2812,7 +2915,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -2835,7 +2939,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -2858,7 +2963,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -2881,7 +2987,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -2904,7 +3011,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -2927,7 +3035,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -2950,7 +3059,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -2973,7 +3083,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -2996,7 +3107,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -3019,7 +3131,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -3042,7 +3155,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -3065,7 +3179,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -3088,7 +3203,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -3111,7 +3227,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -3134,7 +3251,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -3157,7 +3275,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -3180,7 +3299,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -3203,7 +3323,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -3226,7 +3347,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",

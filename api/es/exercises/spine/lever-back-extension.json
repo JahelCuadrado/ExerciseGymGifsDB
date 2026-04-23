@@ -6,7 +6,10 @@
   "bodyPart": "back",
   "equipment": "lever",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
   "instructions": [
     "Ajusta la máquina a tu medida y selecciona la carga.",
     "Activa la zona lumbar antes de iniciar el movimiento.",

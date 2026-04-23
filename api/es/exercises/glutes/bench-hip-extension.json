@@ -6,7 +6,10 @@
   "bodyPart": "legs",
   "equipment": "bodyweight",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "hamstrings",
+    "spine"
+  ],
   "instructions": [
     "Adopta la postura inicial con buena alineación corporal.",
     "Activa los glúteos antes de iniciar el movimiento.",

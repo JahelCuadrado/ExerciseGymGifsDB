@@ -6,7 +6,10 @@
   "bodyPart": "core",
   "equipment": "bodyweight",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "triceps",
+    "traps"
+  ],
   "instructions": [
     "Adopta la postura inicial con buena alineación corporal.",
     "Activa el core antes de iniciar el movimiento.",

@@ -6,7 +6,9 @@
   "bodyPart": "arms",
   "equipment": "ez-bar",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts"
+  ],
   "instructions": [
     "Load the EZ-bar with an appropriate weight and grip it firmly.",
     "Pre-engage the triceps before initiating the movement.",

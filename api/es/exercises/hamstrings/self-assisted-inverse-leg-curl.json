@@ -6,7 +6,10 @@
   "bodyPart": "legs",
   "equipment": "bodyweight",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "glutes",
+    "calves"
+  ],
   "instructions": [
     "Adopta la postura inicial con buena alineación corporal.",
     "Activa los isquiotibiales antes de iniciar el movimiento.",

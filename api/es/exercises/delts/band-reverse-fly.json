@@ -6,7 +6,10 @@
   "bodyPart": "shoulders",
   "equipment": "band",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "traps",
+    "upper-back"
+  ],
   "instructions": [
     "Fija la banda elástica y mantén la tensión inicial.",
     "Activa los hombros antes de iniciar el movimiento.",

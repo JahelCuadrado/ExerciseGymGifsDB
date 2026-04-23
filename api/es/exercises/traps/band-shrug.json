@@ -6,7 +6,10 @@
   "bodyPart": "back",
   "equipment": "band",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
   "instructions": [
     "Fija la banda elástica y mantén la tensión inicial.",
     "Activa los trapecios antes de iniciar el movimiento.",

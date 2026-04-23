@@ -6,7 +6,10 @@
   "bodyPart": "legs",
   "equipment": "band",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "hamstrings",
+    "spine"
+  ],
   "instructions": [
     "Anchor the resistance band and maintain initial tension.",
     "Pre-engage the glutes before initiating the movement.",

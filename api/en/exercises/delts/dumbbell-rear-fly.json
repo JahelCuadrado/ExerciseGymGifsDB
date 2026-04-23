@@ -6,7 +6,10 @@
   "bodyPart": "shoulders",
   "equipment": "dumbbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "traps",
+    "upper-back"
+  ],
   "instructions": [
     "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
     "Pre-engage the shoulders before initiating the movement.",

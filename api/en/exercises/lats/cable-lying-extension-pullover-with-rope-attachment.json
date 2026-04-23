@@ -6,7 +6,11 @@
   "bodyPart": "back",
   "equipment": "cable",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "pectorals",
+    "triceps",
+    "abs"
+  ],
   "instructions": [
     "Set the pulley at the required height and select the weight.",
     "Pre-engage the lats before initiating the movement.",

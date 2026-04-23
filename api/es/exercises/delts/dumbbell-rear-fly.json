@@ -1,12 +1,15 @@
 {
   "id": "delts/dumbbell-rear-fly",
   "slug": "dumbbell-rear-fly",
-  "name": "Apertura con mancuerna, posterior",
+  "name": "Apertura posterior con mancuerna",
   "muscle": "delts",
   "bodyPart": "shoulders",
   "equipment": "dumbbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "traps",
+    "upper-back"
+  ],
   "instructions": [
     "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
     "Activa los hombros antes de iniciar el movimiento.",

@@ -5,7 +5,7 @@
     {
       "id": "quads/all-fours-squad-stretch",
       "slug": "all-fours-squad-stretch",
-      "name": "Estiramiento, all fours squad",
+      "name": "Estiramiento de cuádriceps en cuadrupedia",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -618,7 +618,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los cuádriceps antes de iniciar el movimiento.",
@@ -693,7 +696,10 @@
       "bodyPart": "legs",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
         "Activa los cuádriceps antes de iniciar el movimiento.",
@@ -875,7 +881,7 @@
     {
       "id": "quads/squat-to-overhead-reach-with-twist",
       "slug": "squat-to-overhead-reach-with-twist",
-      "name": "Sentadilla, con alcance sobre la cabeza, twist",
+      "name": "Sentadilla con alcance sobre la cabeza y giro",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",

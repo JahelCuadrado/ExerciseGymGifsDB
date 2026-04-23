@@ -304,7 +304,11 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the lats before initiating the movement.",
@@ -323,7 +327,11 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the lats before initiating the movement.",
@@ -342,7 +350,11 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the lats before initiating the movement.",
@@ -363,7 +375,9 @@
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
-        "delts"
+        "delts",
+        "pectorals",
+        "abs"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -383,7 +397,11 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the lats before initiating the movement.",
@@ -559,7 +577,11 @@
       "bodyPart": "back",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the lats before initiating the movement.",
@@ -991,7 +1013,11 @@
       "bodyPart": "back",
       "equipment": "ez-bar",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Load the EZ-bar with an appropriate weight and grip it firmly.",
         "Pre-engage the lats before initiating the movement.",
@@ -1158,7 +1184,11 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the lats before initiating the movement.",

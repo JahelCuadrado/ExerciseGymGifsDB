@@ -6,7 +6,10 @@
   "bodyPart": "back",
   "equipment": "bodyweight",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
   "instructions": [
     "Adopt the starting position with proper body alignment.",
     "Pre-engage the lower back before initiating the movement.",

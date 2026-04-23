@@ -6,7 +6,10 @@
   "bodyPart": "legs",
   "equipment": "dumbbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "hamstrings",
+    "spine"
+  ],
   "instructions": [
     "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
     "Pre-engage the glutes before initiating the movement.",

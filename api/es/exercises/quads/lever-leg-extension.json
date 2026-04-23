@@ -6,7 +6,10 @@
   "bodyPart": "legs",
   "equipment": "lever",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
   "instructions": [
     "Ajusta la máquina a tu medida y selecciona la carga.",
     "Activa los cuádriceps antes de iniciar el movimiento.",

@@ -1,12 +1,14 @@
 {
   "id": "triceps/dumbbell-standing-bent-over-two-arm-triceps-extension",
   "slug": "dumbbell-standing-bent-over-two-arm-triceps-extension",
-  "name": "Extensión de tríceps con mancuerna, de pie, a dos manos, doblado sobre",
+  "name": "Extensión de tríceps con mancuerna, de pie, inclinado a dos manos",
   "muscle": "triceps",
   "bodyPart": "arms",
   "equipment": "dumbbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts"
+  ],
   "instructions": [
     "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
     "Activa los tríceps antes de iniciar el movimiento.",

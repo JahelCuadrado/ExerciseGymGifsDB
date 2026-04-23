@@ -41,13 +41,18 @@
   },
   {
     "equipment": "machine",
-    "count": 19,
+    "count": 7,
     "endpoint": "equipment/machine.json"
   },
   {
     "equipment": "other",
     "count": 3,
     "endpoint": "equipment/other.json"
+  },
+  {
+    "equipment": "sled",
+    "count": 12,
+    "endpoint": "equipment/sled.json"
   },
   {
     "equipment": "smith",

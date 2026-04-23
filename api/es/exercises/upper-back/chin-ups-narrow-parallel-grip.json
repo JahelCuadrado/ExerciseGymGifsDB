@@ -6,7 +6,12 @@
   "bodyPart": "back",
   "equipment": "bodyweight",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "lats",
+    "biceps",
+    "forearms",
+    "delts"
+  ],
   "instructions": [
     "Adopta la postura inicial con buena alineación corporal.",
     "Activa la espalda alta antes de iniciar el movimiento.",

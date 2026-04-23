@@ -6,7 +6,10 @@
   "bodyPart": "back",
   "equipment": "smith",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
   "instructions": [
     "Coloca la barra en la máquina Smith a la altura adecuada.",
     "Activa los trapecios antes de iniciar el movimiento.",

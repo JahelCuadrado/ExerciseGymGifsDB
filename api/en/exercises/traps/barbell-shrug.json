@@ -6,7 +6,10 @@
   "bodyPart": "back",
   "equipment": "barbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
   "instructions": [
     "Load the bar with an appropriate weight and adopt the starting position.",
     "Pre-engage the traps before initiating the movement.",

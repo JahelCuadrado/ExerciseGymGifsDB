@@ -236,7 +236,7 @@
     {
       "id": "delts/ez-barbell-anti-gravity-press",
       "slug": "ez-barbell-anti-gravity-press",
-      "name": "Press con barra Z, anti gravity",
+      "name": "Press antigravedad con barra Z",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "ez-bar",
@@ -257,12 +257,16 @@
     {
       "id": "lats/ez-bar-lying-bent-arms-pullover",
       "slug": "ez-bar-lying-bent-arms-pullover",
-      "name": "Pullover con barra Z, tumbado, doblado brazos",
+      "name": "Pullover con barra Z, tumbado, con brazos doblados",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "ez-bar",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Carga la barra Z con un peso adecuado y agárrala con firmeza.",
         "Activa los dorsales antes de iniciar el movimiento.",
@@ -323,7 +327,9 @@
       "bodyPart": "arms",
       "equipment": "ez-bar",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga la barra Z con un peso adecuado y agárrala con firmeza.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -384,7 +390,9 @@
       "bodyPart": "arms",
       "equipment": "ez-bar",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga la barra Z con un peso adecuado y agárrala con firmeza.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -403,7 +411,9 @@
       "bodyPart": "arms",
       "equipment": "ez-bar",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga la barra Z con un peso adecuado y agárrala con firmeza.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -443,7 +453,9 @@
       "bodyPart": "arms",
       "equipment": "ez-bar",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga la barra Z con un peso adecuado y agárrala con firmeza.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -465,7 +477,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Carga la barra Z con un peso adecuado y agárrala con firmeza.",

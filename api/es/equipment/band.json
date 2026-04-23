@@ -141,7 +141,7 @@
     {
       "id": "abs/band-lying-straight-leg-raise",
       "slug": "band-lying-straight-leg-raise",
-      "name": "Elevación con banda, tumbado, con piernas rectas",
+      "name": "Elevación con banda, tumbado, con pierna recta",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "band",
@@ -418,7 +418,7 @@
     {
       "id": "delts/band-front-lateral-raise",
       "slug": "band-front-lateral-raise",
-      "name": "Elevación lateral con banda, frontal",
+      "name": "Elevación lateral y frontal con banda",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "band",
@@ -465,7 +465,10 @@
       "bodyPart": "shoulders",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -500,7 +503,7 @@
     {
       "id": "delts/band-standing-rear-delt-row",
       "slug": "band-standing-rear-delt-row",
-      "name": "Remo con banda, de pie, posterior, deltoides",
+      "name": "Remo de deltoides posterior con banda, de pie",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "band",
@@ -564,12 +567,16 @@
     {
       "id": "delts/battling-ropes",
       "slug": "battling-ropes",
-      "name": "Cuerdas de batalla",
+      "name": "Con cuerdas de batalla",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "abs",
+        "forearms",
+        "traps"
+      ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -609,7 +616,9 @@
       "bodyPart": "arms",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -628,7 +637,9 @@
       "bodyPart": "arms",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -642,12 +653,15 @@
     {
       "id": "glutes/band-bent-over-hip-extension",
       "slug": "band-bent-over-hip-extension",
-      "name": "Extensión con banda, doblado sobre cadera",
+      "name": "Extensión de cadera inclinada con banda",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
         "Activa los glúteos antes de iniciar el movimiento.",
@@ -661,7 +675,7 @@
     {
       "id": "glutes/band-hip-lift",
       "slug": "band-hip-lift",
-      "name": "Cadera lift con banda",
+      "name": "Elevación de cadera con banda",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -704,7 +718,10 @@
       "bodyPart": "legs",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
         "Activa los glúteos antes de iniciar el movimiento.",
@@ -737,7 +754,7 @@
     {
       "id": "glutes/band-squat-row",
       "slug": "band-squat-row",
-      "name": "Sentadilla con banda, row",
+      "name": "Sentadilla con remo en banda",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -828,7 +845,7 @@
     {
       "id": "glutes/band-straight-back-stiff-leg-deadlift",
       "slug": "band-straight-back-stiff-leg-deadlift",
-      "name": "Peso muerto a piernas rígidas con banda, recto espalda",
+      "name": "Peso muerto a piernas rígidas con banda, con espalda recta",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -853,7 +870,7 @@
     {
       "id": "glutes/resistance-band-hip-thrusts-on-knees-female",
       "slug": "resistance-band-hip-thrusts-on-knees-female",
-      "name": "Hip thrust con banda elástica, rodillas",
+      "name": "Hip thrust con banda elástica, de rodillas",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -1130,7 +1147,10 @@
       "bodyPart": "legs",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
         "Activa los cuádriceps antes de iniciar el movimiento.",
@@ -1144,7 +1164,7 @@
     {
       "id": "spine/band-straight-leg-deadlift",
       "slug": "band-straight-leg-deadlift",
-      "name": "Peso muerto con banda, con piernas rectas",
+      "name": "Peso muerto con banda, con pierna recta",
       "muscle": "spine",
       "bodyPart": "back",
       "equipment": "band",
@@ -1174,7 +1194,10 @@
       "bodyPart": "back",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
         "Activa los trapecios antes de iniciar el movimiento.",
@@ -1214,7 +1237,9 @@
       "bodyPart": "arms",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -1236,7 +1261,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
@@ -1259,7 +1285,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
@@ -1274,7 +1301,7 @@
     {
       "id": "upper-back/resistance-band-seated-straight-back-row",
       "slug": "resistance-band-seated-straight-back-row",
-      "name": "Remo con banda elástica, sentado, recto espalda",
+      "name": "Remo con banda elástica, sentado, con espalda recta",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "band",
@@ -1282,7 +1309,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",

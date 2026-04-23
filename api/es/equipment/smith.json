@@ -159,7 +159,7 @@
     {
       "id": "delts/smith-behind-neck-press",
       "slug": "smith-behind-neck-press",
-      "name": "Press en máquina Smith, tras la nuca",
+      "name": "Press tras la nuca en máquina Smith",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "smith",
@@ -180,7 +180,7 @@
     {
       "id": "delts/smith-rear-delt-row",
       "slug": "smith-rear-delt-row",
-      "name": "Remo en máquina Smith, posterior, deltoides",
+      "name": "Remo de deltoides posterior en máquina Smith",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "smith",
@@ -293,7 +293,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
@@ -313,7 +314,9 @@
       "bodyPart": "arms",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -332,7 +335,9 @@
       "bodyPart": "arms",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -416,7 +421,7 @@
     {
       "id": "glutes/smith-full-squat",
       "slug": "smith-full-squat",
-      "name": "Sentadilla en máquina Smith, completo",
+      "name": "Sentadilla completa en máquina Smith",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "smith",
@@ -838,7 +843,10 @@
       "bodyPart": "back",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
         "Activa los trapecios antes de iniciar el movimiento.",
@@ -857,7 +865,10 @@
       "bodyPart": "back",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
         "Activa los trapecios antes de iniciar el movimiento.",
@@ -918,7 +929,9 @@
       "bodyPart": "arms",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -940,7 +953,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
@@ -963,7 +977,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
@@ -986,7 +1001,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
@@ -1009,7 +1025,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",

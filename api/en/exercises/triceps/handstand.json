@@ -6,7 +6,10 @@
   "bodyPart": "arms",
   "equipment": "bodyweight",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "abs",
+    "traps"
+  ],
   "instructions": [
     "Adopt the starting position with proper body alignment.",
     "Pre-engage the triceps before initiating the movement.",

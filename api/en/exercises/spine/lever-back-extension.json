@@ -6,7 +6,10 @@
   "bodyPart": "back",
   "equipment": "lever",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
   "instructions": [
     "Adjust the machine to your size and select the load.",
     "Pre-engage the lower back before initiating the movement.",

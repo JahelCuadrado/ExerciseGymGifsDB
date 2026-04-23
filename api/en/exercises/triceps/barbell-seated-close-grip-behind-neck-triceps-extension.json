@@ -6,7 +6,9 @@
   "bodyPart": "arms",
   "equipment": "barbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts"
+  ],
   "instructions": [
     "Load the bar with an appropriate weight and adopt the starting position.",
     "Pre-engage the triceps before initiating the movement.",

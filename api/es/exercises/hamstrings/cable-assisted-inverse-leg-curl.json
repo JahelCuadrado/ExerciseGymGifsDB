@@ -6,7 +6,10 @@
   "bodyPart": "legs",
   "equipment": "cable",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "glutes",
+    "calves"
+  ],
   "instructions": [
     "Ajusta la polea a la altura indicada y selecciona el peso.",
     "Activa los isquiotibiales antes de iniciar el movimiento.",

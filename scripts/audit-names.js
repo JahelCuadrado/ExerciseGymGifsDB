@@ -36,8 +36,11 @@ const repeat = data.filter((d) => {
 	return Object.values(c).some((v) => v > 1);
 });
 
+// Palabras 100% inglesas que NO se usan en español en este contexto.
+// Excluimos "lateral", "posterior", "frontal", "rear", "front" porque son
+// correctas en español. También palabras como "press", "curl", "crunch"...
 const eng =
-	/\b(with|and|press|row|push|pull|fly|hold|bench|cable|dumbbell|barbell|machine|stretch|extension|abduction|adduction|hip|arm|chest|back|shoulder|knee|standing|seated|lying|kneeling|incline|decline|reverse|wide|close|grip|side|front|over|under|alternate|alternating|male|female|elbow|toes|legs|knees|bend|slingers|hanging|pike|brazo|recto|doblado|completo)\b/i;
+	/\b(with|and|the|of|to|for|in|on|at|from|by|under|over|behind|above|below|between|through|across|into|onto|against|beside|during|around|one|two|three|four|five|six|seven|eight|nine|ten|both|all|each|every|any|some|male|female|bent|straight|stretched|outstretched|standing|seated|sitting|lying|kneeling|squatting|prone|supine|pronated|supinated|shoulder|shoulders|elbow|elbows|knee|knees|arm|arms|leg|legs|hip|hips|chest|back|head|hand|hands|foot|feet|wrist|wrists|ankle|ankles|stretch|bend|reach|tap|taps|throw|throws|walk|run|jog|kick|kicks|hop|hops|twist|twists|lift|lifts|dip|dips|hold|raise|raises|fly|flies|flye|flyes|waist|thigh|thighs|palm|palms|groin|waiter|saw|kayak|thibadea|tennis|racquet|dynamic|static|runner|guillotine|piriformis|peroneal|span|wing|kettle|close|wide|narrow|neutral|reverse|diagonal|vertical|horizontal|medial|anterior|inner|outer|upper|lower|full|half|partial|empty|deep|shallow|heavy|light|slow|fast|hard|soft|high|low|tall|short|long|big|small|huge|tiny|round|square|wide|tight|loose|strong|weak|active|passive|pov|stirrups|support|squeeze|can|weighted|alternate|alternating|assisted|suspended|isometric|motion|position|version|gluteus|deltoid)\b/i;
 const mixed = data.filter((d) => eng.test(d.name));
 
 console.log("Total ejercicios:", data.length);

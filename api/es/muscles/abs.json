@@ -214,7 +214,7 @@
     {
       "id": "abs/assisted-motion-russian-twist",
       "slug": "assisted-motion-russian-twist",
-      "name": "Russian twist, asistido",
+      "name": "Russian twist asistido",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -387,7 +387,7 @@
     {
       "id": "abs/band-lying-straight-leg-raise",
       "slug": "band-lying-straight-leg-raise",
-      "name": "Elevación con banda, tumbado, con piernas rectas",
+      "name": "Elevación con banda, tumbado, con pierna recta",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "band",
@@ -892,7 +892,7 @@
     {
       "id": "abs/cable-side-bend-crunch-bosu-ball",
       "slug": "cable-side-bend-crunch-bosu-ball",
-      "name": "Inclinación lateral en polea en bosu, crunch",
+      "name": "Crunch con inclinación lateral en polea sobre bosu",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "cable",
@@ -987,7 +987,7 @@
     {
       "id": "abs/cable-standing-lift",
       "slug": "cable-standing-lift",
-      "name": "Lift en polea, de pie",
+      "name": "Elevación en polea de pie",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "cable",
@@ -1101,7 +1101,7 @@
     {
       "id": "abs/crab-twist-toe-touch",
       "slug": "crab-twist-toe-touch",
-      "name": "Tocar punta del pie, crab twist",
+      "name": "Tocar la punta del pie con giro de cangrejo",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -1410,7 +1410,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Activa el core antes de iniciar el movimiento.",
@@ -1443,7 +1446,7 @@
     {
       "id": "abs/front-plank-with-twist",
       "slug": "front-plank-with-twist",
-      "name": "Plancha, frontal, twist",
+      "name": "Plancha frontal con giro",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -1489,7 +1492,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Activa el core antes de iniciar el movimiento.",
@@ -1522,7 +1528,7 @@
     {
       "id": "abs/groin-crunch",
       "slug": "groin-crunch",
-      "name": "Crunch, groin",
+      "name": "Crunch para ingle",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -1622,7 +1628,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Activa el core antes de iniciar el movimiento.",
@@ -1636,7 +1645,7 @@
     {
       "id": "abs/hanging-straight-leg-hip-raise",
       "slug": "hanging-straight-leg-hip-raise",
-      "name": "Elevación de cadera, colgado, con piernas rectas",
+      "name": "Elevación de cadera, colgado, con pierna recta",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -1655,7 +1664,7 @@
     {
       "id": "abs/hanging-straight-leg-raise",
       "slug": "hanging-straight-leg-raise",
-      "name": "Elevación, colgado, con piernas rectas",
+      "name": "Elevación, colgado, con pierna recta",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -1826,7 +1835,7 @@
     {
       "id": "abs/kettlebell-advanced-windmill",
       "slug": "kettlebell-advanced-windmill",
-      "name": "Advanced windmill con kettlebell",
+      "name": "Windmill avanzado con kettlebell",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "kettlebell",
@@ -1867,7 +1876,7 @@
     {
       "id": "abs/kettlebell-double-windmill",
       "slug": "kettlebell-double-windmill",
-      "name": "Doble windmill con kettlebell",
+      "name": "Windmill doble con kettlebell",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "kettlebell",
@@ -1943,7 +1952,7 @@
     {
       "id": "abs/kneeling-plank-tap-shoulder-male",
       "slug": "kneeling-plank-tap-shoulder-male",
-      "name": "Plancha, de rodillas, tap hombro",
+      "name": "Plancha de rodillas con toque de hombro",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2008,7 +2017,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Activa el core antes de iniciar el movimiento.",
@@ -2022,7 +2034,7 @@
     {
       "id": "abs/leg-pull-in-flat-bench",
       "slug": "leg-pull-in-flat-bench",
-      "name": "Pull-in de piernas, en banco plano",
+      "name": "Pull-in de piernas en banco plano",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2136,7 +2148,7 @@
     {
       "id": "abs/lunge-with-twist",
       "slug": "lunge-with-twist",
-      "name": "Zancada, twist",
+      "name": "Zancada con giro",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2349,7 +2361,7 @@
     {
       "id": "abs/potty-squat",
       "slug": "potty-squat",
-      "name": "Sentadilla, potty",
+      "name": "Sentadilla potty",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2432,7 +2444,7 @@
     {
       "id": "abs/pull-in-on-stability-ball",
       "slug": "pull-in-on-stability-ball",
-      "name": "Pull-in, en fitball",
+      "name": "Pull-in en fitball",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2451,7 +2463,7 @@
     {
       "id": "abs/push-up-to-side-plank",
       "slug": "push-up-to-side-plank",
-      "name": "Plancha lateral, push-up",
+      "name": "Flexión a plancha lateral",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2512,7 +2524,7 @@
     {
       "id": "abs/reverse-plank-with-leg-lift",
       "slug": "reverse-plank-with-leg-lift",
-      "name": "Plancha invertido, pierna lift",
+      "name": "Plancha invertida con elevación de pierna",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2534,7 +2546,7 @@
     {
       "id": "abs/roller-body-saw",
       "slug": "roller-body-saw",
-      "name": "Roller body saw",
+      "name": "Sierra abdominal con rueda",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2610,7 +2622,7 @@
     {
       "id": "abs/seated-side-crunch-wall",
       "slug": "seated-side-crunch-wall",
-      "name": "Crunch, sentado lateral, pared",
+      "name": "Crunch lateral sentado contra la pared",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2669,7 +2681,7 @@
     {
       "id": "abs/side-hip-on-parallel-bars",
       "slug": "side-hip-on-parallel-bars",
-      "name": "Cadera parallel bars, lateral",
+      "name": "Cadera lateral en barras paralelas",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2748,11 +2760,11 @@
       "name": "Martillo",
       "muscle": "abs",
       "bodyPart": "core",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Prepara el equipo y adopta la postura inicial.",
         "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -2821,7 +2833,7 @@
     {
       "id": "abs/stability-ball-crunch-full-range-hands-behind-head",
       "slug": "stability-ball-crunch-full-range-hands-behind-head",
-      "name": "Crunch en fitball, en rango completo con manos detrás de la cabeza",
+      "name": "Crunch en fitball en rango completo, con manos detrás de la cabeza",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2883,7 +2895,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Activa el core antes de iniciar el movimiento.",
@@ -3011,7 +3026,7 @@
     {
       "id": "abs/vertical-leg-raise-on-parallel-bars",
       "slug": "vertical-leg-raise-on-parallel-bars",
-      "name": "Elevación de piernas, vertical, parallel bars",
+      "name": "Elevación vertical de piernas en barras paralelas",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -3128,7 +3143,7 @@
     {
       "id": "abs/weighted-russian-twist-legs-up",
       "slug": "weighted-russian-twist-legs-up",
-      "name": "Russian twist, con peso con piernas arriba",
+      "name": "Russian twist con peso y piernas arriba",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",

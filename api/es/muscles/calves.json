@@ -288,7 +288,7 @@
     {
       "id": "calves/calf-push-stretch-with-hands-against-wall",
       "slug": "calf-push-stretch-with-hands-against-wall",
-      "name": "Estiramiento, con manos en la pared, gemelo push",
+      "name": "Estiramiento de gemelo con manos en la pared",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -417,7 +417,7 @@
     {
       "id": "calves/dumbbell-seated-one-leg-calf-raise-palm-up",
       "slug": "dumbbell-seated-one-leg-calf-raise-palm-up",
-      "name": "Elevación de talones con mancuerna, sentado, a una pierna, palm up",
+      "name": "Elevación de talones con mancuerna, sentado, a una pierna con palma hacia arriba",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -493,7 +493,7 @@
     {
       "id": "calves/exercise-ball-on-the-wall-calf-raise-tennis-ball-between-ankles",
       "slug": "exercise-ball-on-the-wall-calf-raise-tennis-ball-between-ankles",
-      "name": "Elevación de talones en fitball, pared tennis ball between ankles",
+      "name": "Elevación de talones en fitball contra la pared, con pelota de tenis entre los tobillos",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -512,7 +512,7 @@
     {
       "id": "calves/exercise-ball-on-the-wall-calf-raise-tennis-ball-between-knees",
       "slug": "exercise-ball-on-the-wall-calf-raise-tennis-ball-between-knees",
-      "name": "Elevación de talones en fitball, pared tennis ball between rodillas",
+      "name": "Elevación de talones en fitball contra la pared, con pelota de tenis entre las rodillas",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -588,7 +588,7 @@
     {
       "id": "calves/lever-calf-press",
       "slug": "lever-calf-press",
-      "name": "Press en máquina, gemelo",
+      "name": "Press de gemelo en máquina",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -648,7 +648,7 @@
     {
       "id": "calves/lever-seated-calf-press",
       "slug": "lever-seated-calf-press",
-      "name": "Press en máquina, sentado, gemelo",
+      "name": "Press de gemelo en máquina, sentado",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -788,7 +788,7 @@
     {
       "id": "calves/posterior-tibialis-stretch",
       "slug": "posterior-tibialis-stretch",
-      "name": "Estiramiento, posterior tibialis",
+      "name": "Estiramiento del tibial posterior",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -843,17 +843,17 @@
     {
       "id": "calves/sled-45-calf-press",
       "slug": "sled-45-calf-press",
-      "name": "Press, sled gemelo",
+      "name": "Press de gemelo a 45° con trineo",
       "muscle": "calves",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Prepara el equipo y adopta la postura inicial.",
         "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -865,17 +865,17 @@
     {
       "id": "calves/sled-calf-press-on-leg-press",
       "slug": "sled-calf-press-on-leg-press",
-      "name": "Press, en prensa de piernas, sled gemelo",
+      "name": "Press de gemelo en prensa con trineo",
       "muscle": "calves",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Prepara el equipo y adopta la postura inicial.",
         "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -887,14 +887,14 @@
     {
       "id": "calves/sled-forward-angled-calf-raise",
       "slug": "sled-forward-angled-calf-raise",
-      "name": "Elevación de talones, sled hacia adelante angled",
+      "name": "Elevación de talones en trineo, hacia adelante angled",
       "muscle": "calves",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Prepara el equipo y adopta la postura inicial.",
         "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -906,17 +906,17 @@
     {
       "id": "calves/sled-lying-calf-press",
       "slug": "sled-lying-calf-press",
-      "name": "Press, tumbado, sled gemelo",
+      "name": "Press de gemelo tumbado con trineo",
       "muscle": "calves",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Prepara el equipo y adopta la postura inicial.",
         "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -928,17 +928,17 @@
     {
       "id": "calves/sled-one-leg-calf-press-on-leg-press",
       "slug": "sled-one-leg-calf-press-on-leg-press",
-      "name": "Press, a una pierna en prensa de piernas, sled gemelo",
+      "name": "Press de gemelo a una pierna en prensa con trineo",
       "muscle": "calves",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Prepara el equipo y adopta la postura inicial.",
         "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",

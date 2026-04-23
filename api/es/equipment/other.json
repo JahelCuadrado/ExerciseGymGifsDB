@@ -10,7 +10,10 @@
       "bodyPart": "legs",
       "equipment": "other",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Prepara el equipo y adopta la postura inicial.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",

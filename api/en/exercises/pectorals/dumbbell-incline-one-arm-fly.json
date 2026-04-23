@@ -6,7 +6,9 @@
   "bodyPart": "chest",
   "equipment": "dumbbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts"
+  ],
   "instructions": [
     "Grab a dumbbell in each hand (or the indicated one) with an appropriate weight.",
     "Pre-engage the chest before initiating the movement.",

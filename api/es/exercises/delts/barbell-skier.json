@@ -6,7 +6,11 @@
   "bodyPart": "shoulders",
   "equipment": "barbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "abs",
+    "lats",
+    "triceps"
+  ],
   "instructions": [
     "Carga el peso adecuado en la barra y adopta la postura inicial.",
     "Activa los hombros antes de iniciar el movimiento.",

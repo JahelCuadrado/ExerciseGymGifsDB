@@ -805,7 +805,11 @@
       "bodyPart": "shoulders",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "abs",
+        "lats",
+        "triceps"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -908,7 +912,12 @@
       "bodyPart": "shoulders",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "quads",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -929,7 +938,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -951,7 +961,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -973,7 +984,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -995,7 +1007,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -1036,7 +1049,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the forearms before initiating the movement.",
@@ -1055,7 +1070,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the forearms before initiating the movement.",
@@ -1074,7 +1091,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the forearms before initiating the movement.",
@@ -1093,7 +1112,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the forearms before initiating the movement.",
@@ -1112,7 +1133,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the forearms before initiating the movement.",
@@ -1131,7 +1154,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the forearms before initiating the movement.",
@@ -1150,7 +1175,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the forearms before initiating the movement.",
@@ -1879,7 +1906,10 @@
       "bodyPart": "legs",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -1923,7 +1953,11 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the lats before initiating the movement.",
@@ -1942,7 +1976,11 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the lats before initiating the movement.",
@@ -1961,7 +1999,11 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the lats before initiating the movement.",
@@ -1982,7 +2024,9 @@
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
-        "delts"
+        "delts",
+        "pectorals",
+        "abs"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -2002,7 +2046,11 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the lats before initiating the movement.",
@@ -2257,7 +2305,9 @@
       "bodyPart": "chest",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the chest before initiating the movement.",
@@ -2574,7 +2624,10 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the traps before initiating the movement.",
@@ -2698,7 +2751,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2738,7 +2793,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2757,7 +2814,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2776,7 +2835,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2795,7 +2856,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2877,7 +2940,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2896,7 +2961,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2915,7 +2982,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2934,7 +3003,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2953,7 +3024,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the triceps before initiating the movement.",
@@ -2975,7 +3048,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -2998,7 +3072,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -3021,7 +3096,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -3044,7 +3120,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -3067,7 +3144,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -3090,7 +3168,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
@@ -3113,7 +3192,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",

@@ -1,12 +1,14 @@
 {
   "id": "triceps/dumbbell-lying-one-arm-pronated-triceps-extension",
   "slug": "dumbbell-lying-one-arm-pronated-triceps-extension",
-  "name": "Extensión de tríceps con mancuerna, tumbado, a una mano, pronated",
+  "name": "Extensión de tríceps con agarre prono, tumbado, a una mano, con mancuerna",
   "muscle": "triceps",
   "bodyPart": "arms",
   "equipment": "dumbbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts"
+  ],
   "instructions": [
     "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
     "Activa los tríceps antes de iniciar el movimiento.",

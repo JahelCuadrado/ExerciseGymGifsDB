@@ -465,7 +465,10 @@
       "bodyPart": "shoulders",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -569,7 +572,11 @@
       "bodyPart": "shoulders",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "abs",
+        "forearms",
+        "traps"
+      ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -609,7 +616,9 @@
       "bodyPart": "arms",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
         "Pre-engage the forearms before initiating the movement.",
@@ -628,7 +637,9 @@
       "bodyPart": "arms",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
         "Pre-engage the forearms before initiating the movement.",
@@ -647,7 +658,10 @@
       "bodyPart": "legs",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
         "Pre-engage the glutes before initiating the movement.",
@@ -704,7 +718,10 @@
       "bodyPart": "legs",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
         "Pre-engage the glutes before initiating the movement.",
@@ -1130,7 +1147,10 @@
       "bodyPart": "legs",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
         "Pre-engage the quadriceps before initiating the movement.",
@@ -1174,7 +1194,10 @@
       "bodyPart": "back",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
         "Pre-engage the traps before initiating the movement.",
@@ -1214,7 +1237,9 @@
       "bodyPart": "arms",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
         "Pre-engage the triceps before initiating the movement.",
@@ -1236,7 +1261,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
@@ -1259,7 +1285,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
@@ -1282,7 +1309,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",

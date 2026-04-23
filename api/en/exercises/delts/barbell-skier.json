@@ -6,7 +6,11 @@
   "bodyPart": "shoulders",
   "equipment": "barbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "abs",
+    "lats",
+    "triceps"
+  ],
   "instructions": [
     "Load the bar with an appropriate weight and adopt the starting position.",
     "Pre-engage the shoulders before initiating the movement.",

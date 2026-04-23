@@ -6,7 +6,9 @@
   "bodyPart": "arms",
   "equipment": "smith",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts"
+  ],
   "instructions": [
     "Set the bar on the Smith machine at the right height.",
     "Pre-engage the triceps before initiating the movement.",

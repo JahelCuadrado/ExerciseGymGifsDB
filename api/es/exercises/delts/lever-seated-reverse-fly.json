@@ -6,7 +6,10 @@
   "bodyPart": "shoulders",
   "equipment": "lever",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "traps",
+    "upper-back"
+  ],
   "instructions": [
     "Ajusta la máquina a tu medida y selecciona la carga.",
     "Activa los hombros antes de iniciar el movimiento.",

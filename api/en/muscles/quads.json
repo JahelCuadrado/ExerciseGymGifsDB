@@ -618,7 +618,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the quadriceps before initiating the movement.",
@@ -693,7 +696,10 @@
       "bodyPart": "legs",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Anchor the resistance band and maintain initial tension.",
         "Pre-engage the quadriceps before initiating the movement.",

@@ -6,7 +6,10 @@
   "bodyPart": "shoulders",
   "equipment": "band",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "traps",
+    "upper-back"
+  ],
   "instructions": [
     "Anchor the resistance band and maintain initial tension.",
     "Pre-engage the shoulders before initiating the movement.",

@@ -300,7 +300,7 @@
     {
       "id": "calves/lever-calf-press",
       "slug": "lever-calf-press",
-      "name": "Press en máquina, gemelo",
+      "name": "Press de gemelo en máquina",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -360,7 +360,7 @@
     {
       "id": "calves/lever-seated-calf-press",
       "slug": "lever-seated-calf-press",
-      "name": "Press en máquina, sentado, gemelo",
+      "name": "Press de gemelo en máquina, sentado",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -512,7 +512,10 @@
       "bodyPart": "shoulders",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -531,7 +534,10 @@
       "bodyPart": "shoulders",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -613,7 +619,9 @@
       "bodyPart": "arms",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -657,7 +665,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los glúteos antes de iniciar el movimiento.",
@@ -671,7 +682,7 @@
     {
       "id": "glutes/lever-horizontal-one-leg-press",
       "slug": "lever-horizontal-one-leg-press",
-      "name": "Press en máquina, horizontal a una pierna",
+      "name": "Prensa horizontal a una pierna en máquina",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -698,7 +709,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los glúteos antes de iniciar el movimiento.",
@@ -731,7 +745,7 @@
     {
       "id": "glutes/sled-closer-hack-squat",
       "slug": "sled-closer-hack-squat",
-      "name": "Hack squat, sled closer",
+      "name": "Hack squat en trineo, closer",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -753,7 +767,7 @@
     {
       "id": "glutes/sled-hack-squat",
       "slug": "sled-hack-squat",
-      "name": "Hack squat, sled",
+      "name": "Hack squat en trineo",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -780,7 +794,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -799,7 +816,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -813,12 +833,15 @@
     {
       "id": "hamstrings/lever-lying-two-one-leg-curl",
       "slug": "lever-lying-two-one-leg-curl",
-      "name": "Curl en máquina, tumbado, a una pierna, two",
+      "name": "Curl femoral en máquina, tumbado, a una o dos piernas",
       "muscle": "hamstrings",
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -837,7 +860,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -925,7 +951,11 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los dorsales antes de iniciar el movimiento.",
@@ -1077,7 +1107,9 @@
       "bodyPart": "chest",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -1140,7 +1172,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los cuádriceps antes de iniciar el movimiento.",
@@ -1159,7 +1194,10 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa la zona lumbar antes de iniciar el movimiento.",
@@ -1178,7 +1216,10 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los trapecios antes de iniciar el movimiento.",
@@ -1197,7 +1238,10 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los trapecios antes de iniciar el movimiento.",
@@ -1216,7 +1260,10 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los trapecios antes de iniciar el movimiento.",
@@ -1279,7 +1326,9 @@
       "bodyPart": "arms",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -1339,7 +1388,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
@@ -1362,7 +1412,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
@@ -1385,7 +1436,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
@@ -1408,7 +1460,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
@@ -1431,7 +1484,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
@@ -1454,7 +1508,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
@@ -1477,7 +1532,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
@@ -1492,7 +1548,7 @@
     {
       "id": "upper-back/lever-reverse-grip-vertical-row",
       "slug": "lever-reverse-grip-vertical-row",
-      "name": "Remo en máquina, con agarre invertido, vertical",
+      "name": "Remo vertical con agarre invertido en máquina",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "lever",
@@ -1500,7 +1556,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
@@ -1523,7 +1580,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
@@ -1546,7 +1604,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
@@ -1569,7 +1628,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
@@ -1592,7 +1652,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
@@ -1615,7 +1676,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",

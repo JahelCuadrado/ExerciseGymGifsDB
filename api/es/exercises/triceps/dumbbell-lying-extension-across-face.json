@@ -1,12 +1,14 @@
 {
   "id": "triceps/dumbbell-lying-extension-across-face",
   "slug": "dumbbell-lying-extension-across-face",
-  "name": "Extensión con mancuerna, tumbado, across face",
+  "name": "Extensión cruzando la cara con mancuerna, tumbado",
   "muscle": "triceps",
   "bodyPart": "arms",
   "equipment": "dumbbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts"
+  ],
   "instructions": [
     "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
     "Activa los tríceps antes de iniciar el movimiento.",

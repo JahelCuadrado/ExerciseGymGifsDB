@@ -6,7 +6,9 @@
   "bodyPart": "arms",
   "equipment": "lever",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts"
+  ],
   "instructions": [
     "Adjust the machine to your size and select the load.",
     "Pre-engage the triceps before initiating the movement.",

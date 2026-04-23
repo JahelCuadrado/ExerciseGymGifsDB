@@ -2650,7 +2650,7 @@
     {
       "id": "biceps/dumbbell-waiter-biceps-curl",
       "slug": "dumbbell-waiter-biceps-curl",
-      "name": "Curl de bíceps con mancuerna, waiter",
+      "name": "Curl de bíceps del camarero con mancuerna",
       "muscle": "biceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -3211,7 +3211,9 @@
       "bodyPart": "arms",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3230,7 +3232,9 @@
       "bodyPart": "arms",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3244,12 +3248,14 @@
     {
       "id": "forearms/barbell-palms-down-wrist-curl-over-a-bench",
       "slug": "barbell-palms-down-wrist-curl-over-a-bench",
-      "name": "Curl de muñeca con barra, palms down sobre banco",
+      "name": "Curl de muñeca con barra, con palmas hacia abajo, sobre banco",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3263,12 +3269,14 @@
     {
       "id": "forearms/barbell-palms-up-wrist-curl-over-a-bench",
       "slug": "barbell-palms-up-wrist-curl-over-a-bench",
-      "name": "Curl de muñeca con barra, palms up sobre banco",
+      "name": "Curl de muñeca con barra, con palmas hacia arriba, sobre banco",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3287,7 +3295,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3306,7 +3316,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3325,7 +3337,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3344,7 +3358,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3363,7 +3379,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3382,7 +3400,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3401,7 +3421,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3420,7 +3442,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3534,7 +3558,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3553,7 +3579,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3572,7 +3600,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3591,7 +3621,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3610,7 +3642,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3629,7 +3663,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3648,7 +3684,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3667,7 +3705,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3700,12 +3740,14 @@
     {
       "id": "forearms/dumbbell-seated-palms-up-wrist-curl",
       "slug": "dumbbell-seated-palms-up-wrist-curl",
-      "name": "Curl de muñeca con mancuerna, sentado, palms up",
+      "name": "Curl de muñeca con mancuerna, sentado, con palmas hacia arriba",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3768,7 +3810,9 @@
       "bodyPart": "arms",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3804,12 +3848,14 @@
     {
       "id": "forearms/side-wrist-pull-stretch",
       "slug": "side-wrist-pull-stretch",
-      "name": "Estiramiento, lateral, muñeca pull",
+      "name": "Estiramiento de muñeca lateral",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "stretching",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Lleva el cuerpo a la posición de estiramiento de los antebrazos.",
@@ -3827,7 +3873,9 @@
       "bodyPart": "arms",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3846,7 +3894,9 @@
       "bodyPart": "arms",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3860,7 +3910,7 @@
     {
       "id": "forearms/weighted-standing-hand-squeeze",
       "slug": "weighted-standing-hand-squeeze",
-      "name": "Hand squeeze, de pie, con peso",
+      "name": "Apretón de mano de pie con peso",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "bodyweight",
@@ -3884,7 +3934,9 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3903,7 +3955,9 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3922,7 +3976,9 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -3984,7 +4040,9 @@
       "bodyPart": "arms",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4108,7 +4166,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4148,7 +4208,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4167,7 +4229,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4186,7 +4250,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4205,7 +4271,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4287,7 +4355,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4306,7 +4376,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4325,7 +4397,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4344,7 +4418,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4426,7 +4502,9 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4445,7 +4523,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4464,7 +4544,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4483,7 +4565,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4502,7 +4586,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4521,7 +4607,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4540,7 +4628,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4559,7 +4649,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4578,7 +4670,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4597,7 +4691,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4616,7 +4712,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4635,7 +4733,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4673,7 +4773,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4687,12 +4789,14 @@
     {
       "id": "triceps/cable-reverse-grip-triceps-pushdown-sz-bar-with-arm-blaster",
       "slug": "cable-reverse-grip-triceps-pushdown-sz-bar-with-arm-blaster",
-      "name": "Pushdown en polea, con agarre invertido, con arm blaster, tríceps sz barra",
+      "name": "Pushdown de tríceps con agarre invertido, con barra SZ, arm blaster, en polea",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4711,7 +4815,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4730,7 +4836,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4749,7 +4857,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4768,7 +4878,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4787,7 +4899,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4801,12 +4915,14 @@
     {
       "id": "triceps/cable-triceps-pushdown-v-bar-with-arm-blaster",
       "slug": "cable-triceps-pushdown-v-bar-with-arm-blaster",
-      "name": "Pushdown en polea con barra en V, con arm blaster, tríceps",
+      "name": "Pushdown de tríceps con barra en V y arm blaster, en polea",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4825,7 +4941,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4844,7 +4962,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4989,7 +5109,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5011,7 +5133,8 @@
       "secondaryMuscles": [
         "glutes",
         "hamstrings",
-        "calves"
+        "calves",
+        "delts"
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
@@ -5094,7 +5217,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5113,7 +5238,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5132,7 +5259,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5151,7 +5280,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5170,7 +5301,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5205,12 +5338,14 @@
     {
       "id": "triceps/dumbbell-lying-extension-across-face",
       "slug": "dumbbell-lying-extension-across-face",
-      "name": "Extensión con mancuerna, tumbado, across face",
+      "name": "Extensión cruzando la cara con mancuerna, tumbado",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5224,12 +5359,14 @@
     {
       "id": "triceps/dumbbell-lying-one-arm-pronated-triceps-extension",
       "slug": "dumbbell-lying-one-arm-pronated-triceps-extension",
-      "name": "Extensión de tríceps con mancuerna, tumbado, a una mano, pronated",
+      "name": "Extensión de tríceps con agarre prono, tumbado, a una mano, con mancuerna",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5243,12 +5380,14 @@
     {
       "id": "triceps/dumbbell-lying-one-arm-supinated-triceps-extension",
       "slug": "dumbbell-lying-one-arm-supinated-triceps-extension",
-      "name": "Extensión de tríceps con mancuerna, tumbado, a una mano, supinated",
+      "name": "Extensión de tríceps con agarre supino, tumbado, a una mano, con mancuerna",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5267,7 +5406,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5286,7 +5427,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5368,7 +5511,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5387,7 +5532,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5401,7 +5548,7 @@
     {
       "id": "triceps/dumbbell-palms-in-incline-bench-press",
       "slug": "dumbbell-palms-in-incline-bench-press",
-      "name": "Press con mancuerna, en banco inclinado, palms",
+      "name": "Press con mancuerna, con palmas hacia dentro en banco inclinado",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -5427,7 +5574,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5446,7 +5595,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5460,12 +5611,14 @@
     {
       "id": "triceps/dumbbell-seated-bent-over-alternate-kickback",
       "slug": "dumbbell-seated-bent-over-alternate-kickback",
-      "name": "Patada de tríceps con mancuerna, sentado, alternado, doblado sobre",
+      "name": "Patada de tríceps con mancuerna, sentado, inclinado alternado",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5479,12 +5632,14 @@
     {
       "id": "triceps/dumbbell-seated-bent-over-triceps-extension",
       "slug": "dumbbell-seated-bent-over-triceps-extension",
-      "name": "Extensión de tríceps con mancuerna, sentado, doblado sobre",
+      "name": "Extensión de tríceps con mancuerna, sentado, inclinado",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5503,7 +5658,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5522,7 +5679,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5541,7 +5700,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5560,7 +5721,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5579,7 +5742,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5593,12 +5758,14 @@
     {
       "id": "triceps/dumbbell-standing-bent-over-one-arm-triceps-extension",
       "slug": "dumbbell-standing-bent-over-one-arm-triceps-extension",
-      "name": "Extensión de tríceps con mancuerna, de pie, a una mano, doblado sobre",
+      "name": "Extensión de tríceps con mancuerna, de pie, inclinado a una mano",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5612,12 +5779,14 @@
     {
       "id": "triceps/dumbbell-standing-bent-over-two-arm-triceps-extension",
       "slug": "dumbbell-standing-bent-over-two-arm-triceps-extension",
-      "name": "Extensión de tríceps con mancuerna, de pie, a dos manos, doblado sobre",
+      "name": "Extensión de tríceps con mancuerna, de pie, inclinado a dos manos",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5636,7 +5805,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5655,7 +5826,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5674,7 +5847,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5714,7 +5889,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5754,7 +5931,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5835,7 +6014,9 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5896,7 +6077,9 @@
       "bodyPart": "arms",
       "equipment": "ez-bar",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga la barra Z con un peso adecuado y agárrala con firmeza.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5957,7 +6140,9 @@
       "bodyPart": "arms",
       "equipment": "ez-bar",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga la barra Z con un peso adecuado y agárrala con firmeza.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5976,7 +6161,9 @@
       "bodyPart": "arms",
       "equipment": "ez-bar",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga la barra Z con un peso adecuado y agárrala con firmeza.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -6016,7 +6203,9 @@
       "bodyPart": "arms",
       "equipment": "ez-bar",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga la barra Z con un peso adecuado y agárrala con firmeza.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -6036,7 +6225,9 @@
       "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
-        "delts"
+        "delts",
+        "abs",
+        "traps"
       ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
@@ -6056,7 +6247,10 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "abs",
+        "traps"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -6162,7 +6356,9 @@
       "bodyPart": "arms",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -6197,7 +6393,7 @@
     {
       "id": "triceps/medicine-ball-supine-chest-throw",
       "slug": "medicine-ball-supine-chest-throw",
-      "name": "Pecho throw tumbado boca arriba con balón medicinal",
+      "name": "Lanzamiento de pecho con balón medicinal, tumbado boca arriba",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "bodyweight",
@@ -6242,7 +6438,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -6283,7 +6481,9 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "stretching",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Lleva el cuerpo a la posición de estiramiento de los tríceps.",
@@ -6469,7 +6669,9 @@
       "bodyPart": "arms",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -6504,7 +6706,7 @@
     {
       "id": "triceps/three-bench-dip",
       "slug": "three-bench-dip",
-      "name": "Fondo en banco, three",
+      "name": "Fondos entre tres bancos",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "bodyweight",
@@ -6548,7 +6750,7 @@
     {
       "id": "triceps/triceps-dip-between-benches",
       "slug": "triceps-dip-between-benches",
-      "name": "Fondo de tríceps, between benches",
+      "name": "Fondos de tríceps entre bancos",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "bodyweight",
@@ -6675,7 +6877,7 @@
     {
       "id": "triceps/weighted-three-bench-dips",
       "slug": "weighted-three-bench-dips",
-      "name": "Fondos en banco, con peso, three",
+      "name": "Fondos entre tres bancos con peso",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "bodyweight",

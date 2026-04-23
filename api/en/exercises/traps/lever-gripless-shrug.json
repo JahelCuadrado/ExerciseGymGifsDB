@@ -6,7 +6,10 @@
   "bodyPart": "back",
   "equipment": "lever",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
   "instructions": [
     "Adjust the machine to your size and select the load.",
     "Pre-engage the traps before initiating the movement.",

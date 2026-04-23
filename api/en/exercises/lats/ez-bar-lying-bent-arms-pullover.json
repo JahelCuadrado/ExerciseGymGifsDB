@@ -6,7 +6,11 @@
   "bodyPart": "back",
   "equipment": "ez-bar",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "pectorals",
+    "triceps",
+    "abs"
+  ],
   "instructions": [
     "Load the EZ-bar with an appropriate weight and grip it firmly.",
     "Pre-engage the lats before initiating the movement.",

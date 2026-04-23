@@ -6,7 +6,10 @@
   "bodyPart": "shoulders",
   "equipment": "lever",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "traps",
+    "upper-back"
+  ],
   "instructions": [
     "Adjust the machine to your size and select the load.",
     "Pre-engage the shoulders before initiating the movement.",

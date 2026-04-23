@@ -6,7 +6,10 @@
   "bodyPart": "legs",
   "equipment": "other",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "glutes",
+    "calves"
+  ],
   "instructions": [
     "Prepare the equipment and adopt the starting position.",
     "Pre-engage the hamstrings before initiating the movement.",

@@ -694,7 +694,7 @@
     {
       "id": "delts/barbell-rear-delt-raise",
       "slug": "barbell-rear-delt-raise",
-      "name": "Pájaros con barra",
+      "name": "Elevación posterior de deltoides con barra",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "barbell",
@@ -715,7 +715,7 @@
     {
       "id": "delts/barbell-rear-delt-row",
       "slug": "barbell-rear-delt-row",
-      "name": "Remo con barra, posterior, deltoides",
+      "name": "Remo de deltoides posterior con barra",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "barbell",
@@ -758,7 +758,7 @@
     {
       "id": "delts/barbell-seated-bradford-rocky-press",
       "slug": "barbell-seated-bradford-rocky-press",
-      "name": "Press Bradford Rocky con barra, sentado",
+      "name": "Press Bradford-Rocky con barra, sentado",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "barbell",
@@ -805,7 +805,11 @@
       "bodyPart": "shoulders",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "abs",
+        "lats",
+        "triceps"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -908,7 +912,12 @@
       "bodyPart": "shoulders",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "quads",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -929,7 +938,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
@@ -951,7 +961,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
@@ -973,7 +984,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
@@ -995,7 +1007,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
@@ -1010,7 +1023,7 @@
     {
       "id": "delts/landmine-lateral-raise",
       "slug": "landmine-lateral-raise",
-      "name": "Elevación lateral, landmine",
+      "name": "Elevación lateral en landmine",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "barbell",
@@ -1031,12 +1044,14 @@
     {
       "id": "forearms/barbell-palms-down-wrist-curl-over-a-bench",
       "slug": "barbell-palms-down-wrist-curl-over-a-bench",
-      "name": "Curl de muñeca con barra, palms down sobre banco",
+      "name": "Curl de muñeca con barra, con palmas hacia abajo, sobre banco",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -1050,12 +1065,14 @@
     {
       "id": "forearms/barbell-palms-up-wrist-curl-over-a-bench",
       "slug": "barbell-palms-up-wrist-curl-over-a-bench",
-      "name": "Curl de muñeca con barra, palms up sobre banco",
+      "name": "Curl de muñeca con barra, con palmas hacia arriba, sobre banco",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -1074,7 +1091,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -1093,7 +1112,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -1112,7 +1133,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -1131,7 +1154,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -1150,7 +1175,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -1164,7 +1191,7 @@
     {
       "id": "glutes/barbell-clean-grip-front-squat",
       "slug": "barbell-clean-grip-front-squat",
-      "name": "Cargada con barra, front-squat",
+      "name": "Sentadilla frontal con agarre de cargada con barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1259,7 +1286,7 @@
     {
       "id": "glutes/barbell-full-squat-back-pov",
       "slug": "barbell-full-squat-back-pov",
-      "name": "Sentadilla con barra, completo espalda",
+      "name": "Sentadilla completa con barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1281,7 +1308,7 @@
     {
       "id": "glutes/barbell-full-squat-side-pov",
       "slug": "barbell-full-squat-side-pov",
-      "name": "Sentadilla con barra, lateral, completo",
+      "name": "Sentadilla completa con barra, vista lateral",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1303,7 +1330,7 @@
     {
       "id": "glutes/barbell-full-squat",
       "slug": "barbell-full-squat",
-      "name": "Sentadilla con barra, completo",
+      "name": "Sentadilla completa con barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1325,7 +1352,7 @@
     {
       "id": "glutes/barbell-full-zercher-squat",
       "slug": "barbell-full-zercher-squat",
-      "name": "Sentadilla con barra, completo zercher",
+      "name": "Sentadilla zercher completa con barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1783,7 +1810,7 @@
     {
       "id": "glutes/barbell-stiff-leg-good-morning",
       "slug": "barbell-stiff-leg-good-morning",
-      "name": "Good morning con barra, stiff pierna",
+      "name": "Good morning con barra, a piernas rígidas",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1827,7 +1854,7 @@
     {
       "id": "glutes/barbell-zercher-squat",
       "slug": "barbell-zercher-squat",
-      "name": "Sentadilla con barra, zercher",
+      "name": "Sentadilla zercher con barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1879,7 +1906,10 @@
       "bodyPart": "legs",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -1893,7 +1923,7 @@
     {
       "id": "hamstrings/barbell-straight-leg-deadlift",
       "slug": "barbell-straight-leg-deadlift",
-      "name": "Peso muerto con barra, con piernas rectas",
+      "name": "Peso muerto con barra, con pierna recta",
       "muscle": "hamstrings",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1918,12 +1948,16 @@
     {
       "id": "lats/barbell-bent-arm-pullover",
       "slug": "barbell-bent-arm-pullover",
-      "name": "Pullover con barra, doblado brazo",
+      "name": "Pullover con barra, con brazo doblado",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los dorsales antes de iniciar el movimiento.",
@@ -1937,12 +1971,16 @@
     {
       "id": "lats/barbell-decline-bent-arm-pullover",
       "slug": "barbell-decline-bent-arm-pullover",
-      "name": "Pullover declinado con barra, doblado brazo",
+      "name": "Pullover declinado con barra, con brazo doblado",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los dorsales antes de iniciar el movimiento.",
@@ -1961,7 +1999,11 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los dorsales antes de iniciar el movimiento.",
@@ -1982,7 +2024,9 @@
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
-        "delts"
+        "delts",
+        "pectorals",
+        "abs"
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
@@ -2002,7 +2046,11 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los dorsales antes de iniciar el movimiento.",
@@ -2120,7 +2168,7 @@
     {
       "id": "pectorals/barbell-guillotine-bench-press",
       "slug": "barbell-guillotine-bench-press",
-      "name": "Press de banca con barra, guillotine",
+      "name": "Press de banca guillotina con barra",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "barbell",
@@ -2257,7 +2305,9 @@
       "bodyPart": "chest",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -2574,7 +2624,10 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los trapecios antes de iniciar el movimiento.",
@@ -2698,7 +2751,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2738,7 +2793,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2757,7 +2814,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2776,7 +2835,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2795,7 +2856,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2877,7 +2940,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2896,7 +2961,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2915,7 +2982,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2934,7 +3003,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2953,7 +3024,9 @@
       "bodyPart": "arms",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2975,7 +3048,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
@@ -2998,7 +3072,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
@@ -3021,7 +3096,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
@@ -3044,7 +3120,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
@@ -3067,7 +3144,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
@@ -3090,7 +3168,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
@@ -3105,7 +3184,7 @@
     {
       "id": "upper-back/cambered-bar-lying-row",
       "slug": "cambered-bar-lying-row",
-      "name": "Remo, tumbado, cambered barra",
+      "name": "Remo con barra curva, tumbado",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "barbell",
@@ -3113,7 +3192,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",

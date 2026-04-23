@@ -299,12 +299,16 @@
     {
       "id": "lats/barbell-bent-arm-pullover",
       "slug": "barbell-bent-arm-pullover",
-      "name": "Pullover con barra, doblado brazo",
+      "name": "Pullover con barra, con brazo doblado",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los dorsales antes de iniciar el movimiento.",
@@ -318,12 +322,16 @@
     {
       "id": "lats/barbell-decline-bent-arm-pullover",
       "slug": "barbell-decline-bent-arm-pullover",
-      "name": "Pullover declinado con barra, doblado brazo",
+      "name": "Pullover declinado con barra, con brazo doblado",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los dorsales antes de iniciar el movimiento.",
@@ -342,7 +350,11 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los dorsales antes de iniciar el movimiento.",
@@ -363,7 +375,9 @@
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
-        "delts"
+        "delts",
+        "pectorals",
+        "abs"
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
@@ -383,7 +397,11 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los dorsales antes de iniciar el movimiento.",
@@ -559,7 +577,11 @@
       "bodyPart": "back",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los dorsales antes de iniciar el movimiento.",
@@ -779,7 +801,7 @@
     {
       "id": "lats/cable-thibaudeau-kayak-row",
       "slug": "cable-thibaudeau-kayak-row",
-      "name": "Remo en polea, thibaudeau kayak",
+      "name": "Remo kayak Thibaudeau en polea",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -802,7 +824,7 @@
     {
       "id": "lats/cable-twisting-pull",
       "slug": "cable-twisting-pull",
-      "name": "Pull en polea, con giro",
+      "name": "Tirón con giro en polea",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -986,12 +1008,16 @@
     {
       "id": "lats/ez-bar-lying-bent-arms-pullover",
       "slug": "ez-bar-lying-bent-arms-pullover",
-      "name": "Pullover con barra Z, tumbado, doblado brazos",
+      "name": "Pullover con barra Z, tumbado, con brazos doblados",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "ez-bar",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Carga la barra Z con un peso adecuado y agárrala con firmeza.",
         "Activa los dorsales antes de iniciar el movimiento.",
@@ -1005,7 +1031,7 @@
     {
       "id": "lats/gironda-sternum-chin",
       "slug": "gironda-sternum-chin",
-      "name": "Gironda sternum chin",
+      "name": "Dominada al esternón de Gironda",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -1024,7 +1050,7 @@
     {
       "id": "lats/kipping-muscle-up",
       "slug": "kipping-muscle-up",
-      "name": "Muscle-up, kipping",
+      "name": "Muscle-up con kipping",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -1158,7 +1184,11 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los dorsales antes de iniciar el movimiento.",
@@ -1195,7 +1225,7 @@
     {
       "id": "lats/medicine-ball-catch-and-overhead-throw",
       "slug": "medicine-ball-catch-and-overhead-throw",
-      "name": "Catch throw sobre la cabeza con balón medicinal",
+      "name": "Recepción y lanzamiento sobre la cabeza con balón medicinal",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -1237,7 +1267,7 @@
     {
       "id": "lats/muscle-up-on-vertical-bar",
       "slug": "muscle-up-on-vertical-bar",
-      "name": "Muscle-up, vertical, barra",
+      "name": "Muscle-up en barra vertical",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -1592,7 +1622,7 @@
     {
       "id": "lats/weighted-close-grip-chin-up-on-dip-cage",
       "slug": "weighted-close-grip-chin-up-on-dip-cage",
-      "name": "Dominada supina, con agarre cerrado, con peso, dip cage",
+      "name": "Dominada supina con agarre cerrado y peso en jaula",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -1655,7 +1685,7 @@
     {
       "id": "lats/weighted-one-hand-pull-up",
       "slug": "weighted-one-hand-pull-up",
-      "name": "Dominada, con peso, one hand",
+      "name": "Dominada a una mano con peso",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "bodyweight",

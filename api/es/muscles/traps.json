@@ -10,7 +10,10 @@
       "bodyPart": "back",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
         "Activa los trapecios antes de iniciar el movimiento.",
@@ -29,7 +32,10 @@
       "bodyPart": "back",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los trapecios antes de iniciar el movimiento.",
@@ -48,7 +54,10 @@
       "bodyPart": "back",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los trapecios antes de iniciar el movimiento.",
@@ -67,7 +76,10 @@
       "bodyPart": "back",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los trapecios antes de iniciar el movimiento.",
@@ -86,7 +98,10 @@
       "bodyPart": "back",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los trapecios antes de iniciar el movimiento.",
@@ -105,7 +120,10 @@
       "bodyPart": "back",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los trapecios antes de iniciar el movimiento.",
@@ -124,7 +142,10 @@
       "bodyPart": "back",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los trapecios antes de iniciar el movimiento.",
@@ -138,7 +159,7 @@
     {
       "id": "traps/kettlebell-sumo-high-pull",
       "slug": "kettlebell-sumo-high-pull",
-      "name": "Pull sumo con kettlebell, alto",
+      "name": "Tirón alto sumo con kettlebell",
       "muscle": "traps",
       "bodyPart": "back",
       "equipment": "kettlebell",
@@ -162,7 +183,10 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los trapecios antes de iniciar el movimiento.",
@@ -181,7 +205,10 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los trapecios antes de iniciar el movimiento.",
@@ -200,7 +227,10 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los trapecios antes de iniciar el movimiento.",
@@ -265,7 +295,10 @@
       "bodyPart": "back",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
         "Activa los trapecios antes de iniciar el movimiento.",
@@ -284,7 +317,10 @@
       "bodyPart": "back",
       "equipment": "smith",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
         "Activa los trapecios antes de iniciar el movimiento.",

@@ -6,7 +6,12 @@
   "bodyPart": "shoulders",
   "equipment": "barbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "glutes",
+    "quads",
+    "triceps",
+    "abs"
+  ],
   "instructions": [
     "Load the bar with an appropriate weight and adopt the starting position.",
     "Pre-engage the shoulders before initiating the movement.",

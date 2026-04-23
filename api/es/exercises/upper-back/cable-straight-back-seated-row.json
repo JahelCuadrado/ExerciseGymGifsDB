@@ -1,7 +1,7 @@
 {
   "id": "upper-back/cable-straight-back-seated-row",
   "slug": "cable-straight-back-seated-row",
-  "name": "Remo sentado en polea, recto espalda",
+  "name": "Remo sentado en polea, con espalda recta",
   "muscle": "upper-back",
   "bodyPart": "back",
   "equipment": "cable",
@@ -9,7 +9,8 @@
   "secondaryMuscles": [
     "biceps",
     "forearms",
-    "delts"
+    "delts",
+    "lats"
   ],
   "instructions": [
     "Ajusta la polea a la altura indicada y selecciona el peso.",

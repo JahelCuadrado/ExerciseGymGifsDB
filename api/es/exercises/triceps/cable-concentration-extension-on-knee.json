@@ -6,7 +6,9 @@
   "bodyPart": "arms",
   "equipment": "cable",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts"
+  ],
   "instructions": [
     "Ajusta la polea a la altura indicada y selecciona el peso.",
     "Activa los tríceps antes de iniciar el movimiento.",

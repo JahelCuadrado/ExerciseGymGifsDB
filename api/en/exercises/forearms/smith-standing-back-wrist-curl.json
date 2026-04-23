@@ -6,7 +6,9 @@
   "bodyPart": "arms",
   "equipment": "smith",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "biceps"
+  ],
   "instructions": [
     "Set the bar on the Smith machine at the right height.",
     "Pre-engage the forearms before initiating the movement.",

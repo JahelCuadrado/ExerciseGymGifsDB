@@ -6,7 +6,12 @@
   "bodyPart": "shoulders",
   "equipment": "kettlebell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "glutes",
+    "quads",
+    "triceps",
+    "abs"
+  ],
   "instructions": [
     "Grab the kettlebell with an appropriate weight and adopt the position.",
     "Pre-engage the shoulders before initiating the movement.",

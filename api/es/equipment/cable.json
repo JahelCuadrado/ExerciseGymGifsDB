@@ -119,7 +119,7 @@
     {
       "id": "abs/cable-side-bend-crunch-bosu-ball",
       "slug": "cable-side-bend-crunch-bosu-ball",
-      "name": "Inclinación lateral en polea en bosu, crunch",
+      "name": "Crunch con inclinación lateral en polea sobre bosu",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "cable",
@@ -214,7 +214,7 @@
     {
       "id": "abs/cable-standing-lift",
       "slug": "cable-standing-lift",
-      "name": "Lift en polea, de pie",
+      "name": "Elevación en polea de pie",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "cable",
@@ -924,7 +924,10 @@
       "bodyPart": "shoulders",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -1001,7 +1004,7 @@
     {
       "id": "delts/cable-kneeling-rear-delt-row-with-rope-male",
       "slug": "cable-kneeling-rear-delt-row-with-rope-male",
-      "name": "Remo en polea, de rodillas, posterior con cuerda, deltoides",
+      "name": "Remo de deltoides posterior en polea, de rodillas, con cuerda",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "cable",
@@ -1065,7 +1068,7 @@
     {
       "id": "delts/cable-rear-delt-row-stirrups",
       "slug": "cable-rear-delt-row-stirrups",
-      "name": "Remo en polea, posterior, deltoides stirrups",
+      "name": "Remo de deltoides posterior en polea con estribos",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "cable",
@@ -1087,7 +1090,7 @@
     {
       "id": "delts/cable-rear-delt-row-with-rope",
       "slug": "cable-rear-delt-row-with-rope",
-      "name": "Remo en polea, posterior con cuerda, deltoides",
+      "name": "Remo de deltoides posterior en polea con cuerda",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "cable",
@@ -1109,7 +1112,7 @@
     {
       "id": "delts/cable-seated-rear-lateral-raise",
       "slug": "cable-seated-rear-lateral-raise",
-      "name": "Elevación lateral en polea, sentado, posterior",
+      "name": "Elevación posterior de deltoides en polea, sentado",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "cable",
@@ -1175,7 +1178,10 @@
       "bodyPart": "shoulders",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -1189,7 +1195,7 @@
     {
       "id": "delts/cable-standing-rear-delt-row-with-rope",
       "slug": "cable-standing-rear-delt-row-with-rope",
-      "name": "Remo en polea, de pie, posterior con cuerda, deltoides",
+      "name": "Remo de deltoides posterior en polea, de pie, con cuerda",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "cable",
@@ -1235,7 +1241,10 @@
       "bodyPart": "shoulders",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -1256,7 +1265,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -1276,7 +1286,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -1295,7 +1307,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -1314,7 +1328,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -1358,7 +1374,10 @@
       "bodyPart": "legs",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los glúteos antes de iniciar el movimiento.",
@@ -1377,7 +1396,10 @@
       "bodyPart": "legs",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los glúteos antes de iniciar el movimiento.",
@@ -1396,7 +1418,10 @@
       "bodyPart": "legs",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -1410,7 +1435,7 @@
     {
       "id": "hamstrings/inverse-leg-curl-on-pull-up-cable-machine",
       "slug": "inverse-leg-curl-on-pull-up-cable-machine",
-      "name": "Dominada en polea en máquina, inverse-leg-curl",
+      "name": "Curl femoral nórdico en máquina de dominadas con polea",
       "muscle": "hamstrings",
       "bodyPart": "legs",
       "equipment": "cable",
@@ -1418,7 +1443,9 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "glutes",
+        "calves"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -1572,7 +1599,11 @@
       "bodyPart": "back",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los dorsales antes de iniciar el movimiento.",
@@ -1792,7 +1823,7 @@
     {
       "id": "lats/cable-thibaudeau-kayak-row",
       "slug": "cable-thibaudeau-kayak-row",
-      "name": "Remo en polea, thibaudeau kayak",
+      "name": "Remo kayak Thibaudeau en polea",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -1815,7 +1846,7 @@
     {
       "id": "lats/cable-twisting-pull",
       "slug": "cable-twisting-pull",
-      "name": "Pull en polea, con giro",
+      "name": "Tirón con giro en polea",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -1907,7 +1938,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -1926,7 +1959,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -2011,7 +2046,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -2030,7 +2067,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -2049,7 +2088,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -2068,7 +2109,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -2087,7 +2130,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -2106,7 +2151,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -2125,7 +2172,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -2144,7 +2193,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -2202,7 +2253,7 @@
     {
       "id": "pectorals/cable-one-arm-lateral-bent-over",
       "slug": "cable-one-arm-lateral-bent-over",
-      "name": "Lateral doblado sobre en polea, a una mano",
+      "name": "Lateral en polea, a una mano inclinado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "cable",
@@ -2292,7 +2343,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -2311,7 +2364,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -2330,7 +2385,9 @@
       "bodyPart": "chest",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -2349,7 +2406,10 @@
       "bodyPart": "back",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los trapecios antes de iniciar el movimiento.",
@@ -2368,7 +2428,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2387,7 +2449,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2406,7 +2470,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2425,7 +2491,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2444,7 +2512,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2463,7 +2533,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2482,7 +2554,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2501,7 +2575,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2520,7 +2596,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2539,7 +2617,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2558,7 +2638,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2596,7 +2678,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2610,12 +2694,14 @@
     {
       "id": "triceps/cable-reverse-grip-triceps-pushdown-sz-bar-with-arm-blaster",
       "slug": "cable-reverse-grip-triceps-pushdown-sz-bar-with-arm-blaster",
-      "name": "Pushdown en polea, con agarre invertido, con arm blaster, tríceps sz barra",
+      "name": "Pushdown de tríceps con agarre invertido, con barra SZ, arm blaster, en polea",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2634,7 +2720,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2653,7 +2741,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2672,7 +2762,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2691,7 +2783,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2710,7 +2804,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2724,12 +2820,14 @@
     {
       "id": "triceps/cable-triceps-pushdown-v-bar-with-arm-blaster",
       "slug": "cable-triceps-pushdown-v-bar-with-arm-blaster",
-      "name": "Pushdown en polea con barra en V, con arm blaster, tríceps",
+      "name": "Pushdown de tríceps con barra en V y arm blaster, en polea",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2748,7 +2846,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2767,7 +2867,9 @@
       "bodyPart": "arms",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -2789,7 +2891,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -2812,7 +2915,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -2835,7 +2939,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -2858,7 +2963,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -2881,7 +2987,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -2904,7 +3011,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -2919,7 +3027,7 @@
     {
       "id": "upper-back/cable-one-arm-straight-back-high-row-kneeling",
       "slug": "cable-one-arm-straight-back-high-row-kneeling",
-      "name": "Remo alto en polea, de rodillas, a una mano, recto espalda",
+      "name": "Remo alto en polea, de rodillas, a una mano con espalda recta",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "cable",
@@ -2927,7 +3035,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -2942,7 +3051,7 @@
     {
       "id": "upper-back/cable-palm-rotational-row",
       "slug": "cable-palm-rotational-row",
-      "name": "Remo en polea, palm rotational",
+      "name": "Remo con rotación de palma en polea",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "cable",
@@ -2950,7 +3059,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -2965,7 +3075,7 @@
     {
       "id": "upper-back/cable-reverse-grip-straight-back-seated-high-row",
       "slug": "cable-reverse-grip-straight-back-seated-high-row",
-      "name": "Remo alto en polea, sentado, con agarre invertido, recto espalda",
+      "name": "Remo alto en polea, sentado, con agarre invertido, con espalda recta",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "cable",
@@ -2973,7 +3083,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -2996,7 +3107,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -3019,7 +3131,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -3042,7 +3155,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -3065,7 +3179,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -3088,7 +3203,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -3111,7 +3227,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -3134,7 +3251,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -3157,7 +3275,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -3172,7 +3291,7 @@
     {
       "id": "upper-back/cable-standing-twist-row-v-bar",
       "slug": "cable-standing-twist-row-v-bar",
-      "name": "Remo en polea con barra en V, de pie, twist",
+      "name": "Remo con giro en polea con barra en V, de pie",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "cable",
@@ -3180,7 +3299,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -3195,7 +3315,7 @@
     {
       "id": "upper-back/cable-straight-back-seated-row",
       "slug": "cable-straight-back-seated-row",
-      "name": "Remo sentado en polea, recto espalda",
+      "name": "Remo sentado en polea, con espalda recta",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "cable",
@@ -3203,7 +3323,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -3226,7 +3347,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",

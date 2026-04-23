@@ -739,7 +739,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the core before initiating the movement.",
@@ -799,7 +802,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the core before initiating the movement.",
@@ -932,7 +938,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the core before initiating the movement.",
@@ -1201,7 +1210,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the core before initiating the movement.",
@@ -1943,7 +1955,10 @@
       "bodyPart": "core",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "triceps",
+        "traps"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the core before initiating the movement.",
@@ -3545,7 +3560,9 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "stretching",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Move into the the forearms stretch position.",
@@ -3582,7 +3599,9 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the forearms before initiating the movement.",
@@ -3601,7 +3620,9 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the forearms before initiating the movement.",
@@ -3694,7 +3715,10 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the glutes before initiating the movement.",
@@ -3995,7 +4019,11 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "stretching",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "lats",
+        "abs"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Move into the the glutes stretch position.",
@@ -4225,7 +4253,9 @@
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
-        "delts"
+        "delts",
+        "abs",
+        "traps"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -4749,7 +4779,10 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -4886,7 +4919,10 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -4905,7 +4941,10 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -4924,7 +4963,10 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -6279,7 +6321,9 @@
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
-        "delts"
+        "delts",
+        "abs",
+        "traps"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -6301,7 +6345,9 @@
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
-        "delts"
+        "delts",
+        "abs",
+        "traps"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -7582,7 +7628,10 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the lower back before initiating the movement.",
@@ -7601,7 +7650,10 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the lower back before initiating the movement.",
@@ -7620,7 +7672,10 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the lower back before initiating the movement.",
@@ -7639,7 +7694,10 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the lower back before initiating the movement.",
@@ -7658,7 +7716,10 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the lower back before initiating the movement.",
@@ -7715,7 +7776,10 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the lower back before initiating the movement.",
@@ -7734,7 +7798,10 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the lower back before initiating the movement.",
@@ -7884,7 +7951,10 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the lower back before initiating the movement.",
@@ -7949,7 +8019,9 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the triceps before initiating the movement.",
@@ -8053,7 +8125,9 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the triceps before initiating the movement.",
@@ -8197,7 +8271,9 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the triceps before initiating the movement.",
@@ -8217,7 +8293,9 @@
       "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
-        "delts"
+        "delts",
+        "abs",
+        "traps"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -8237,7 +8315,10 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "abs",
+        "traps"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the triceps before initiating the movement.",
@@ -8382,7 +8463,9 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "stretching",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Move into the the triceps stretch position.",
@@ -8769,7 +8852,8 @@
         "calves",
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -8795,7 +8879,8 @@
         "calves",
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -8818,7 +8903,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -8841,7 +8927,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -8864,7 +8951,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -8887,7 +8975,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -8910,7 +8999,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -8933,7 +9023,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -8953,7 +9044,12 @@
       "bodyPart": "back",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "lats",
+        "biceps",
+        "forearms",
+        "delts"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the upper back before initiating the movement.",
@@ -8997,7 +9093,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -9020,7 +9117,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -9043,7 +9141,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -9066,7 +9165,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -9089,7 +9189,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -9131,7 +9232,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
@@ -9192,7 +9294,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",

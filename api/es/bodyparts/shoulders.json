@@ -5,7 +5,7 @@
     {
       "id": "delts/band-front-lateral-raise",
       "slug": "band-front-lateral-raise",
-      "name": "Elevación lateral con banda, frontal",
+      "name": "Elevación lateral y frontal con banda",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "band",
@@ -52,7 +52,10 @@
       "bodyPart": "shoulders",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -87,7 +90,7 @@
     {
       "id": "delts/band-standing-rear-delt-row",
       "slug": "band-standing-rear-delt-row",
-      "name": "Remo con banda, de pie, posterior, deltoides",
+      "name": "Remo de deltoides posterior con banda, de pie",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "band",
@@ -197,7 +200,7 @@
     {
       "id": "delts/barbell-rear-delt-raise",
       "slug": "barbell-rear-delt-raise",
-      "name": "Pájaros con barra",
+      "name": "Elevación posterior de deltoides con barra",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "barbell",
@@ -218,7 +221,7 @@
     {
       "id": "delts/barbell-rear-delt-row",
       "slug": "barbell-rear-delt-row",
-      "name": "Remo con barra, posterior, deltoides",
+      "name": "Remo de deltoides posterior con barra",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "barbell",
@@ -261,7 +264,7 @@
     {
       "id": "delts/barbell-seated-bradford-rocky-press",
       "slug": "barbell-seated-bradford-rocky-press",
-      "name": "Press Bradford Rocky con barra, sentado",
+      "name": "Press Bradford-Rocky con barra, sentado",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "barbell",
@@ -308,7 +311,11 @@
       "bodyPart": "shoulders",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "abs",
+        "lats",
+        "triceps"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -411,7 +418,12 @@
       "bodyPart": "shoulders",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "quads",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -432,7 +444,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
@@ -454,7 +467,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
@@ -476,7 +490,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
@@ -498,7 +513,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
@@ -513,12 +529,16 @@
     {
       "id": "delts/battling-ropes",
       "slug": "battling-ropes",
-      "name": "Cuerdas de batalla",
+      "name": "Con cuerdas de batalla",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "abs",
+        "forearms",
+        "traps"
+      ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -558,7 +578,10 @@
       "bodyPart": "shoulders",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -635,7 +658,7 @@
     {
       "id": "delts/cable-kneeling-rear-delt-row-with-rope-male",
       "slug": "cable-kneeling-rear-delt-row-with-rope-male",
-      "name": "Remo en polea, de rodillas, posterior con cuerda, deltoides",
+      "name": "Remo de deltoides posterior en polea, de rodillas, con cuerda",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "cable",
@@ -699,7 +722,7 @@
     {
       "id": "delts/cable-rear-delt-row-stirrups",
       "slug": "cable-rear-delt-row-stirrups",
-      "name": "Remo en polea, posterior, deltoides stirrups",
+      "name": "Remo de deltoides posterior en polea con estribos",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "cable",
@@ -721,7 +744,7 @@
     {
       "id": "delts/cable-rear-delt-row-with-rope",
       "slug": "cable-rear-delt-row-with-rope",
-      "name": "Remo en polea, posterior con cuerda, deltoides",
+      "name": "Remo de deltoides posterior en polea con cuerda",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "cable",
@@ -743,7 +766,7 @@
     {
       "id": "delts/cable-seated-rear-lateral-raise",
       "slug": "cable-seated-rear-lateral-raise",
-      "name": "Elevación lateral en polea, sentado, posterior",
+      "name": "Elevación posterior de deltoides en polea, sentado",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "cable",
@@ -809,7 +832,10 @@
       "bodyPart": "shoulders",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -823,7 +849,7 @@
     {
       "id": "delts/cable-standing-rear-delt-row-with-rope",
       "slug": "cable-standing-rear-delt-row-with-rope",
-      "name": "Remo en polea, de pie, posterior con cuerda, deltoides",
+      "name": "Remo de deltoides posterior en polea, de pie, con cuerda",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "cable",
@@ -869,7 +895,10 @@
       "bodyPart": "shoulders",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -890,7 +919,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -1073,7 +1103,7 @@
     {
       "id": "delts/dumbbell-full-can-lateral-raise",
       "slug": "dumbbell-full-can-lateral-raise",
-      "name": "Elevación lateral con mancuerna, full can",
+      "name": "Elevación lateral con mancuerna, estilo full can",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -1136,7 +1166,7 @@
     {
       "id": "delts/dumbbell-incline-rear-lateral-raise",
       "slug": "dumbbell-incline-rear-lateral-raise",
-      "name": "Elevación lateral inclinado con mancuerna, posterior",
+      "name": "Elevación posterior de deltoides inclinado con mancuerna",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -1183,7 +1213,11 @@
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "lats",
+        "abs"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -1218,7 +1252,7 @@
     {
       "id": "delts/dumbbell-lateral-to-front-raise",
       "slug": "dumbbell-lateral-to-front-raise",
-      "name": "Elevación frontal con mancuerna, lateral",
+      "name": "Elevación lateral a frontal con mancuerna",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -1258,7 +1292,7 @@
     {
       "id": "delts/dumbbell-lying-on-floor-rear-delt-raise",
       "slug": "dumbbell-lying-on-floor-rear-delt-raise",
-      "name": "Pájaros con mancuerna, tumbado, en el suelo",
+      "name": "Elevación posterior de deltoides con mancuerna, tumbado, en el suelo",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -1279,7 +1313,7 @@
     {
       "id": "delts/dumbbell-lying-one-arm-deltoid-rear",
       "slug": "dumbbell-lying-one-arm-deltoid-rear",
-      "name": "Deltoid con mancuerna, tumbado, a una mano posterior",
+      "name": "Elevación posterior de deltoides con mancuerna, tumbado, a una mano",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -1298,7 +1332,7 @@
     {
       "id": "delts/dumbbell-lying-one-arm-rear-lateral-raise",
       "slug": "dumbbell-lying-one-arm-rear-lateral-raise",
-      "name": "Elevación lateral con mancuerna, tumbado, a una mano posterior",
+      "name": "Elevación posterior de deltoides con mancuerna, tumbado, a una mano",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -1319,7 +1353,7 @@
     {
       "id": "delts/dumbbell-lying-rear-lateral-raise",
       "slug": "dumbbell-lying-rear-lateral-raise",
-      "name": "Elevación lateral con mancuerna, tumbado, posterior",
+      "name": "Elevación posterior de deltoides con mancuerna, tumbado",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -1340,7 +1374,7 @@
     {
       "id": "delts/dumbbell-one-arm-lateral-raise-with-support",
       "slug": "dumbbell-one-arm-lateral-raise-with-support",
-      "name": "Elevación lateral con mancuerna, a una mano, support",
+      "name": "Elevación lateral con mancuerna, a una mano, con apoyo",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -1382,12 +1416,15 @@
     {
       "id": "delts/dumbbell-one-arm-reverse-fly-with-support",
       "slug": "dumbbell-one-arm-reverse-fly-with-support",
-      "name": "Apertura inversa con mancuerna, a una mano, support",
+      "name": "Apertura inversa con mancuerna, a una mano, con apoyo",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -1450,7 +1487,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
@@ -1507,7 +1545,7 @@
     {
       "id": "delts/dumbbell-rear-delt-raise",
       "slug": "dumbbell-rear-delt-raise",
-      "name": "Pájaros con mancuerna",
+      "name": "Elevación posterior de deltoides con mancuerna",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -1528,7 +1566,7 @@
     {
       "id": "delts/dumbbell-rear-delt-row-shoulder",
       "slug": "dumbbell-rear-delt-row-shoulder",
-      "name": "Remo con mancuerna, posterior, deltoides hombro",
+      "name": "Remo de deltoides posterior con mancuerna",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -1550,12 +1588,15 @@
     {
       "id": "delts/dumbbell-rear-fly",
       "slug": "dumbbell-rear-fly",
-      "name": "Apertura con mancuerna, posterior",
+      "name": "Apertura posterior con mancuerna",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -1569,7 +1610,7 @@
     {
       "id": "delts/dumbbell-rear-lateral-raise-support-head",
       "slug": "dumbbell-rear-lateral-raise-support-head",
-      "name": "Elevación lateral con mancuerna, posterior, support cabeza",
+      "name": "Elevación lateral posterior con mancuerna, con apoyo en la cabeza",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -1590,7 +1631,7 @@
     {
       "id": "delts/dumbbell-rear-lateral-raise",
       "slug": "dumbbell-rear-lateral-raise",
-      "name": "Elevación lateral con mancuerna, posterior",
+      "name": "Elevación posterior de deltoides con mancuerna",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -1616,7 +1657,10 @@
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -1635,7 +1679,10 @@
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -1731,7 +1778,7 @@
     {
       "id": "delts/dumbbell-seated-bent-arm-lateral-raise",
       "slug": "dumbbell-seated-bent-arm-lateral-raise",
-      "name": "Elevación lateral con mancuerna, sentado, doblado brazo",
+      "name": "Elevación lateral con mancuerna, sentado, con brazo doblado",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -1857,7 +1904,7 @@
     {
       "id": "delts/dumbbell-side-lying-one-hand-raise",
       "slug": "dumbbell-side-lying-one-hand-raise",
-      "name": "Elevación con mancuerna, tumbado de lado, one hand",
+      "name": "Elevación lateral con mancuerna, tumbado de lado, a una mano",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -1939,7 +1986,7 @@
     {
       "id": "delts/dumbbell-standing-around-world",
       "slug": "dumbbell-standing-around-world",
-      "name": "Around world con mancuerna, de pie",
+      "name": "Círculos sobre la cabeza con mancuerna, de pie",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -1979,7 +2026,7 @@
     {
       "id": "delts/dumbbell-standing-one-arm-palm-in-press",
       "slug": "dumbbell-standing-one-arm-palm-in-press",
-      "name": "Press con mancuerna, de pie, a una mano, palm",
+      "name": "Press con mancuerna, de pie, a una mano con palma hacia dentro",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2021,7 +2068,7 @@
     {
       "id": "delts/dumbbell-standing-palms-in-press",
       "slug": "dumbbell-standing-palms-in-press",
-      "name": "Press con mancuerna, de pie, palms",
+      "name": "Press con mancuerna, de pie, con palmas hacia dentro",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2042,14 +2089,15 @@
     {
       "id": "delts/dumbbell-upright-row-back-pov",
       "slug": "dumbbell-upright-row-back-pov",
-      "name": "Remo al mentón con mancuerna, espalda",
+      "name": "Remo al mentón con mancuerna",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
@@ -2071,7 +2119,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
@@ -2105,7 +2154,7 @@
     {
       "id": "delts/dumbbell-w-press",
       "slug": "dumbbell-w-press",
-      "name": "Press con mancuerna, w",
+      "name": "Press en W con mancuerna",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2126,7 +2175,7 @@
     {
       "id": "delts/ez-barbell-anti-gravity-press",
       "slug": "ez-barbell-anti-gravity-press",
-      "name": "Press con barra Z, anti gravity",
+      "name": "Press antigravedad con barra Z",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "ez-bar",
@@ -2438,7 +2487,7 @@
     {
       "id": "delts/kettlebell-seesaw-press",
       "slug": "kettlebell-seesaw-press",
-      "name": "Press con kettlebell, seesaw",
+      "name": "Press alternado seesaw con kettlebell",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "kettlebell",
@@ -2464,7 +2513,12 @@
       "bodyPart": "shoulders",
       "equipment": "kettlebell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "quads",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Coge la kettlebell con un peso adecuado y adopta la postura.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -2524,7 +2578,7 @@
     {
       "id": "delts/landmine-lateral-raise",
       "slug": "landmine-lateral-raise",
-      "name": "Elevación lateral, landmine",
+      "name": "Elevación lateral en landmine",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "barbell",
@@ -2632,7 +2686,10 @@
       "bodyPart": "shoulders",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -2651,7 +2708,10 @@
       "bodyPart": "shoulders",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -2728,7 +2788,7 @@
     {
       "id": "delts/rear-deltoid-stretch",
       "slug": "rear-deltoid-stretch",
-      "name": "Estiramiento, posterior, deltoid",
+      "name": "Estiramiento de deltoides posterior",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "bodyweight",
@@ -2767,7 +2827,7 @@
     {
       "id": "delts/smith-behind-neck-press",
       "slug": "smith-behind-neck-press",
-      "name": "Press en máquina Smith, tras la nuca",
+      "name": "Press tras la nuca en máquina Smith",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "smith",
@@ -2788,7 +2848,7 @@
     {
       "id": "delts/smith-rear-delt-row",
       "slug": "smith-rear-delt-row",
-      "name": "Remo en máquina Smith, posterior, deltoides",
+      "name": "Remo de deltoides posterior en máquina Smith",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "smith",
@@ -2901,7 +2961,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Coloca la barra en la máquina Smith a la altura adecuada.",
@@ -2916,7 +2977,7 @@
     {
       "id": "delts/standing-behind-neck-press",
       "slug": "standing-behind-neck-press",
-      "name": "Press, de pie, tras la nuca",
+      "name": "Press tras la nuca, de pie",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "bodyweight",
@@ -2983,7 +3044,7 @@
     {
       "id": "delts/weighted-round-arm",
       "slug": "weighted-round-arm",
-      "name": "Round brazo, con peso",
+      "name": "Círculos de brazos, con peso",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "bodyweight",

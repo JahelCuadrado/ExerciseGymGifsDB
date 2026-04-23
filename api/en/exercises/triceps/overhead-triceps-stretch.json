@@ -6,7 +6,9 @@
   "bodyPart": "arms",
   "equipment": "bodyweight",
   "category": "stretching",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts"
+  ],
   "instructions": [
     "Adopt the starting position with proper body alignment.",
     "Move into the the triceps stretch position.",

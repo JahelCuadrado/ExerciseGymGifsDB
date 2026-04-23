@@ -6,7 +6,10 @@
   "bodyPart": "legs",
   "equipment": "cable",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "hamstrings",
+    "spine"
+  ],
   "instructions": [
     "Set the pulley at the required height and select the weight.",
     "Pre-engage the glutes before initiating the movement.",

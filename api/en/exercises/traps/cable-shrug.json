@@ -6,7 +6,10 @@
   "bodyPart": "back",
   "equipment": "cable",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
   "instructions": [
     "Set the pulley at the required height and select the weight.",
     "Pre-engage the traps before initiating the movement.",

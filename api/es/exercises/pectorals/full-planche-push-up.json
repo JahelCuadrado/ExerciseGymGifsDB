@@ -1,14 +1,16 @@
 {
   "id": "pectorals/full-planche-push-up",
   "slug": "full-planche-push-up",
-  "name": "Flexión, full-planche",
+  "name": "Flexión plancha completa",
   "muscle": "pectorals",
   "bodyPart": "chest",
   "equipment": "bodyweight",
   "category": "strength",
   "secondaryMuscles": [
     "triceps",
-    "delts"
+    "delts",
+    "abs",
+    "traps"
   ],
   "instructions": [
     "Adopta la postura inicial con buena alineación corporal.",

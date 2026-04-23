@@ -65,7 +65,7 @@
     {
       "id": "abductors/side-hip-abduction",
       "slug": "side-hip-abduction",
-      "name": "Abducción de cadera, lateral",
+      "name": "Abducción de cadera lateral",
       "muscle": "abductors",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -84,7 +84,7 @@
     {
       "id": "abductors/straight-leg-outer-hip-abductor",
       "slug": "straight-leg-outer-hip-abductor",
-      "name": "Abductores, con piernas rectas externo, cadera",
+      "name": "Abductores, con pierna recta externo, cadera",
       "muscle": "abductors",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -103,7 +103,7 @@
     {
       "id": "adductors/assisted-side-lying-adductor-stretch",
       "slug": "assisted-side-lying-adductor-stretch",
-      "name": "Aductores, tumbado de lado, asistido, stretch",
+      "name": "Estiramiento de aductores asistido, tumbado de lado",
       "muscle": "adductors",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -503,7 +503,7 @@
     {
       "id": "calves/calf-push-stretch-with-hands-against-wall",
       "slug": "calf-push-stretch-with-hands-against-wall",
-      "name": "Estiramiento, con manos en la pared, gemelo push",
+      "name": "Estiramiento de gemelo con manos en la pared",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -632,7 +632,7 @@
     {
       "id": "calves/dumbbell-seated-one-leg-calf-raise-palm-up",
       "slug": "dumbbell-seated-one-leg-calf-raise-palm-up",
-      "name": "Elevación de talones con mancuerna, sentado, a una pierna, palm up",
+      "name": "Elevación de talones con mancuerna, sentado, a una pierna con palma hacia arriba",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -708,7 +708,7 @@
     {
       "id": "calves/exercise-ball-on-the-wall-calf-raise-tennis-ball-between-ankles",
       "slug": "exercise-ball-on-the-wall-calf-raise-tennis-ball-between-ankles",
-      "name": "Elevación de talones en fitball, pared tennis ball between ankles",
+      "name": "Elevación de talones en fitball contra la pared, con pelota de tenis entre los tobillos",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -727,7 +727,7 @@
     {
       "id": "calves/exercise-ball-on-the-wall-calf-raise-tennis-ball-between-knees",
       "slug": "exercise-ball-on-the-wall-calf-raise-tennis-ball-between-knees",
-      "name": "Elevación de talones en fitball, pared tennis ball between rodillas",
+      "name": "Elevación de talones en fitball contra la pared, con pelota de tenis entre las rodillas",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -803,7 +803,7 @@
     {
       "id": "calves/lever-calf-press",
       "slug": "lever-calf-press",
-      "name": "Press en máquina, gemelo",
+      "name": "Press de gemelo en máquina",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -863,7 +863,7 @@
     {
       "id": "calves/lever-seated-calf-press",
       "slug": "lever-seated-calf-press",
-      "name": "Press en máquina, sentado, gemelo",
+      "name": "Press de gemelo en máquina, sentado",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -1003,7 +1003,7 @@
     {
       "id": "calves/posterior-tibialis-stretch",
       "slug": "posterior-tibialis-stretch",
-      "name": "Estiramiento, posterior tibialis",
+      "name": "Estiramiento del tibial posterior",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -1058,17 +1058,17 @@
     {
       "id": "calves/sled-45-calf-press",
       "slug": "sled-45-calf-press",
-      "name": "Press, sled gemelo",
+      "name": "Press de gemelo a 45° con trineo",
       "muscle": "calves",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Prepara el equipo y adopta la postura inicial.",
         "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -1080,17 +1080,17 @@
     {
       "id": "calves/sled-calf-press-on-leg-press",
       "slug": "sled-calf-press-on-leg-press",
-      "name": "Press, en prensa de piernas, sled gemelo",
+      "name": "Press de gemelo en prensa con trineo",
       "muscle": "calves",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Prepara el equipo y adopta la postura inicial.",
         "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -1102,14 +1102,14 @@
     {
       "id": "calves/sled-forward-angled-calf-raise",
       "slug": "sled-forward-angled-calf-raise",
-      "name": "Elevación de talones, sled hacia adelante angled",
+      "name": "Elevación de talones en trineo, hacia adelante angled",
       "muscle": "calves",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Prepara el equipo y adopta la postura inicial.",
         "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -1121,17 +1121,17 @@
     {
       "id": "calves/sled-lying-calf-press",
       "slug": "sled-lying-calf-press",
-      "name": "Press, tumbado, sled gemelo",
+      "name": "Press de gemelo tumbado con trineo",
       "muscle": "calves",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Prepara el equipo y adopta la postura inicial.",
         "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -1143,17 +1143,17 @@
     {
       "id": "calves/sled-one-leg-calf-press-on-leg-press",
       "slug": "sled-one-leg-calf-press-on-leg-press",
-      "name": "Press, a una pierna en prensa de piernas, sled gemelo",
+      "name": "Press de gemelo a una pierna en prensa con trineo",
       "muscle": "calves",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Prepara el equipo y adopta la postura inicial.",
         "Activa los gemelos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -1391,7 +1391,7 @@
     {
       "id": "glutes/assisted-lying-gluteus-and-piriformis-stretch",
       "slug": "assisted-lying-gluteus-and-piriformis-stretch",
-      "name": "Estiramiento, tumbado, asistido, gluteus piriformis",
+      "name": "Estiramiento asistido de glúteos y piriforme, tumbado",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -1409,12 +1409,15 @@
     {
       "id": "glutes/band-bent-over-hip-extension",
       "slug": "band-bent-over-hip-extension",
-      "name": "Extensión con banda, doblado sobre cadera",
+      "name": "Extensión de cadera inclinada con banda",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
         "Activa los glúteos antes de iniciar el movimiento.",
@@ -1428,7 +1431,7 @@
     {
       "id": "glutes/band-hip-lift",
       "slug": "band-hip-lift",
-      "name": "Cadera lift con banda",
+      "name": "Elevación de cadera con banda",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -1471,7 +1474,10 @@
       "bodyPart": "legs",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
         "Activa los glúteos antes de iniciar el movimiento.",
@@ -1504,7 +1510,7 @@
     {
       "id": "glutes/band-squat-row",
       "slug": "band-squat-row",
-      "name": "Sentadilla con banda, row",
+      "name": "Sentadilla con remo en banda",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -1595,7 +1601,7 @@
     {
       "id": "glutes/band-straight-back-stiff-leg-deadlift",
       "slug": "band-straight-back-stiff-leg-deadlift",
-      "name": "Peso muerto a piernas rígidas con banda, recto espalda",
+      "name": "Peso muerto a piernas rígidas con banda, con espalda recta",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -1620,7 +1626,7 @@
     {
       "id": "glutes/barbell-clean-grip-front-squat",
       "slug": "barbell-clean-grip-front-squat",
-      "name": "Cargada con barra, front-squat",
+      "name": "Sentadilla frontal con agarre de cargada con barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1715,7 +1721,7 @@
     {
       "id": "glutes/barbell-full-squat-back-pov",
       "slug": "barbell-full-squat-back-pov",
-      "name": "Sentadilla con barra, completo espalda",
+      "name": "Sentadilla completa con barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1737,7 +1743,7 @@
     {
       "id": "glutes/barbell-full-squat-side-pov",
       "slug": "barbell-full-squat-side-pov",
-      "name": "Sentadilla con barra, lateral, completo",
+      "name": "Sentadilla completa con barra, vista lateral",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1759,7 +1765,7 @@
     {
       "id": "glutes/barbell-full-squat",
       "slug": "barbell-full-squat",
-      "name": "Sentadilla con barra, completo",
+      "name": "Sentadilla completa con barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1781,7 +1787,7 @@
     {
       "id": "glutes/barbell-full-zercher-squat",
       "slug": "barbell-full-zercher-squat",
-      "name": "Sentadilla con barra, completo zercher",
+      "name": "Sentadilla zercher completa con barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -2239,7 +2245,7 @@
     {
       "id": "glutes/barbell-stiff-leg-good-morning",
       "slug": "barbell-stiff-leg-good-morning",
-      "name": "Good morning con barra, stiff pierna",
+      "name": "Good morning con barra, a piernas rígidas",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -2283,7 +2289,7 @@
     {
       "id": "glutes/barbell-zercher-squat",
       "slug": "barbell-zercher-squat",
-      "name": "Sentadilla con barra, zercher",
+      "name": "Sentadilla zercher con barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -2329,7 +2335,10 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Activa los glúteos antes de iniciar el movimiento.",
@@ -2413,7 +2422,10 @@
       "bodyPart": "legs",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los glúteos antes de iniciar el movimiento.",
@@ -2432,7 +2444,10 @@
       "bodyPart": "legs",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los glúteos antes de iniciar el movimiento.",
@@ -2677,7 +2692,7 @@
     {
       "id": "glutes/dumbbell-single-leg-deadlift-with-stepbox-support",
       "slug": "dumbbell-single-leg-deadlift-with-stepbox-support",
-      "name": "Peso muerto con mancuerna, a una pierna, stepbox support",
+      "name": "Peso muerto a una pierna con mancuerna, con apoyo en step",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -2815,7 +2830,7 @@
     {
       "id": "glutes/dumbbell-straight-leg-deadlift",
       "slug": "dumbbell-straight-leg-deadlift",
-      "name": "Peso muerto con mancuerna, con piernas rectas",
+      "name": "Peso muerto con mancuerna, con pierna recta",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -2845,7 +2860,10 @@
       "bodyPart": "legs",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los glúteos antes de iniciar el movimiento.",
@@ -2896,7 +2914,7 @@
     {
       "id": "glutes/exercise-ball-one-legged-diagonal-kick-hamstring-curl",
       "slug": "exercise-ball-one-legged-diagonal-kick-hamstring-curl",
-      "name": "Curl en fitball, one legged diagonal patada isquiotibial",
+      "name": "Curl femoral con patada diagonal a una pierna en fitball",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3084,7 +3102,11 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "stretching",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "lats",
+        "abs"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Lleva el cuerpo a la posición de estiramiento de los glúteos.",
@@ -3183,7 +3205,7 @@
     {
       "id": "glutes/kettlebell-lunge-pass-through",
       "slug": "kettlebell-lunge-pass-through",
-      "name": "Zancada con kettlebell, pass through",
+      "name": "Zancada pass-through con kettlebell",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "kettlebell",
@@ -3325,7 +3347,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los glúteos antes de iniciar el movimiento.",
@@ -3339,7 +3364,7 @@
     {
       "id": "glutes/lever-horizontal-one-leg-press",
       "slug": "lever-horizontal-one-leg-press",
-      "name": "Press en máquina, horizontal a una pierna",
+      "name": "Prensa horizontal a una pierna en máquina",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -3366,7 +3391,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los glúteos antes de iniciar el movimiento.",
@@ -3524,7 +3552,7 @@
     {
       "id": "glutes/pelvic-tilt-into-bridge",
       "slug": "pelvic-tilt-into-bridge",
-      "name": "Inclinación pélvica, into puente",
+      "name": "Inclinación pélvica al puente",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3546,14 +3574,16 @@
     {
       "id": "glutes/pike-to-cobra-push-up",
       "slug": "pike-to-cobra-push-up",
-      "name": "Flexión, pike cobra",
+      "name": "Flexión pike-cobra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
-        "delts"
+        "delts",
+        "abs",
+        "traps"
       ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
@@ -3568,7 +3598,7 @@
     {
       "id": "glutes/potty-squat-with-support",
       "slug": "potty-squat-with-support",
-      "name": "Sentadilla, potty support",
+      "name": "Sentadilla potty con apoyo",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3634,7 +3664,7 @@
     {
       "id": "glutes/resistance-band-hip-thrusts-on-knees-female",
       "slug": "resistance-band-hip-thrusts-on-knees-female",
-      "name": "Hip thrust con banda elástica, rodillas",
+      "name": "Hip thrust con banda elástica, de rodillas",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -3766,7 +3796,7 @@
     {
       "id": "glutes/seated-piriformis-stretch",
       "slug": "seated-piriformis-stretch",
-      "name": "Estiramiento, sentado, piriformis",
+      "name": "Estiramiento del piriforme, sentado",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3828,17 +3858,17 @@
     {
       "id": "glutes/sled-45-degrees-one-leg-press",
       "slug": "sled-45-degrees-one-leg-press",
-      "name": "Press, a una pierna, sled degrees",
+      "name": "Press en trineo, a una pierna, degrees",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Prepara el equipo y adopta la postura inicial.",
         "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -3850,17 +3880,17 @@
     {
       "id": "glutes/sled-45-leg-press-back-pov",
       "slug": "sled-45-leg-press-back-pov",
-      "name": "Prensa de piernas, sled espalda",
+      "name": "Prensa de piernas a 45° en trineo",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Prepara el equipo y adopta la postura inicial.",
         "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -3872,17 +3902,17 @@
     {
       "id": "glutes/sled-45-leg-press-side-pov",
       "slug": "sled-45-leg-press-side-pov",
-      "name": "Prensa de piernas, lateral, sled",
+      "name": "Prensa de piernas a 45° en trineo, vista lateral",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Prepara el equipo y adopta la postura inicial.",
         "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -3894,17 +3924,17 @@
     {
       "id": "glutes/sled-45-leg-press",
       "slug": "sled-45-leg-press",
-      "name": "Prensa de piernas, sled",
+      "name": "Prensa de piernas a 45° en trineo",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Prepara el equipo y adopta la postura inicial.",
         "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -3916,17 +3946,17 @@
     {
       "id": "glutes/sled-45-leg-wide-press",
       "slug": "sled-45-leg-wide-press",
-      "name": "Press, ancho, sled pierna",
+      "name": "Press en trineo, ancho, pierna",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Prepara el equipo y adopta la postura inicial.",
         "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -3938,7 +3968,7 @@
     {
       "id": "glutes/sled-closer-hack-squat",
       "slug": "sled-closer-hack-squat",
-      "name": "Hack squat, sled closer",
+      "name": "Hack squat en trineo, closer",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -3960,7 +3990,7 @@
     {
       "id": "glutes/sled-hack-squat",
       "slug": "sled-hack-squat",
-      "name": "Hack squat, sled",
+      "name": "Hack squat en trineo",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -3982,17 +4012,17 @@
     {
       "id": "glutes/sled-lying-squat",
       "slug": "sled-lying-squat",
-      "name": "Sentadilla, tumbado, sled",
+      "name": "Sentadilla en trineo, tumbado",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "machine",
+      "equipment": "sled",
       "category": "strength",
       "secondaryMuscles": [
         "hamstrings",
         "calves"
       ],
       "instructions": [
-        "Ajusta la máquina a tu medida y selecciona la carga.",
+        "Prepara el equipo y adopta la postura inicial.",
         "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -4074,7 +4104,7 @@
     {
       "id": "glutes/smith-full-squat",
       "slug": "smith-full-squat",
-      "name": "Sentadilla en máquina Smith, completo",
+      "name": "Sentadilla completa en máquina Smith",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "smith",
@@ -4424,7 +4454,7 @@
     {
       "id": "glutes/weighted-stretch-lunge",
       "slug": "weighted-stretch-lunge",
-      "name": "Zancada, con peso, stretch",
+      "name": "Zancada en estiramiento con peso",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -4469,7 +4499,10 @@
       "bodyPart": "legs",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Carga el peso adecuado en la barra y adopta la postura inicial.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -4483,7 +4516,7 @@
     {
       "id": "hamstrings/barbell-straight-leg-deadlift",
       "slug": "barbell-straight-leg-deadlift",
-      "name": "Peso muerto con barra, con piernas rectas",
+      "name": "Peso muerto con barra, con pierna recta",
       "muscle": "hamstrings",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -4513,7 +4546,10 @@
       "bodyPart": "legs",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -4601,12 +4637,15 @@
     {
       "id": "hamstrings/inverse-leg-curl-bench-support",
       "slug": "inverse-leg-curl-bench-support",
-      "name": "Curl femoral nórdico, banco support",
+      "name": "Curl femoral nórdico con apoyo de banco",
       "muscle": "hamstrings",
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -4620,7 +4659,7 @@
     {
       "id": "hamstrings/inverse-leg-curl-on-pull-up-cable-machine",
       "slug": "inverse-leg-curl-on-pull-up-cable-machine",
-      "name": "Dominada en polea en máquina, inverse-leg-curl",
+      "name": "Curl femoral nórdico en máquina de dominadas con polea",
       "muscle": "hamstrings",
       "bodyPart": "legs",
       "equipment": "cable",
@@ -4628,7 +4667,9 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "glutes",
+        "calves"
       ],
       "instructions": [
         "Ajusta la polea a la altura indicada y selecciona el peso.",
@@ -4710,7 +4751,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -4729,7 +4773,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -4743,12 +4790,15 @@
     {
       "id": "hamstrings/lever-lying-two-one-leg-curl",
       "slug": "lever-lying-two-one-leg-curl",
-      "name": "Curl en máquina, tumbado, a una pierna, two",
+      "name": "Curl femoral en máquina, tumbado, a una o dos piernas",
       "muscle": "hamstrings",
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -4767,7 +4817,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -4867,7 +4920,10 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -4886,7 +4942,10 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -4905,7 +4964,10 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -4961,7 +5023,10 @@
       "bodyPart": "legs",
       "equipment": "other",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Prepara el equipo y adopta la postura inicial.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
@@ -4993,7 +5058,7 @@
     {
       "id": "quads/all-fours-squad-stretch",
       "slug": "all-fours-squad-stretch",
-      "name": "Estiramiento, all fours squad",
+      "name": "Estiramiento de cuádriceps en cuadrupedia",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -5606,7 +5671,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Ajusta la máquina a tu medida y selecciona la carga.",
         "Activa los cuádriceps antes de iniciar el movimiento.",
@@ -5681,7 +5749,10 @@
       "bodyPart": "legs",
       "equipment": "band",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Fija la banda elástica y mantén la tensión inicial.",
         "Activa los cuádriceps antes de iniciar el movimiento.",
@@ -5863,7 +5934,7 @@
     {
       "id": "quads/squat-to-overhead-reach-with-twist",
       "slug": "squat-to-overhead-reach-with-twist",
-      "name": "Sentadilla, con alcance sobre la cabeza, twist",
+      "name": "Sentadilla con alcance sobre la cabeza y giro",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",

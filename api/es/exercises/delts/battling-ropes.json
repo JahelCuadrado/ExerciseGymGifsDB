@@ -1,12 +1,16 @@
 {
   "id": "delts/battling-ropes",
   "slug": "battling-ropes",
-  "name": "Cuerdas de batalla",
+  "name": "Con cuerdas de batalla",
   "muscle": "delts",
   "bodyPart": "shoulders",
   "equipment": "band",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "abs",
+    "forearms",
+    "traps"
+  ],
   "instructions": [
     "Fija la banda elástica y mantén la tensión inicial.",
     "Activa los hombros antes de iniciar el movimiento.",

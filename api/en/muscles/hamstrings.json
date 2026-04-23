@@ -29,7 +29,10 @@
       "bodyPart": "legs",
       "equipment": "barbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Load the bar with an appropriate weight and adopt the starting position.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -73,7 +76,10 @@
       "bodyPart": "legs",
       "equipment": "cable",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -166,7 +172,10 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -188,7 +197,9 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "glutes",
+        "calves"
       ],
       "instructions": [
         "Set the pulley at the required height and select the weight.",
@@ -270,7 +281,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -289,7 +303,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -308,7 +325,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -327,7 +347,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -427,7 +450,10 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -446,7 +472,10 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -465,7 +494,10 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adopt the starting position with proper body alignment.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -521,7 +553,10 @@
       "bodyPart": "legs",
       "equipment": "other",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Prepare the equipment and adopt the starting position.",
         "Pre-engage the hamstrings before initiating the movement.",

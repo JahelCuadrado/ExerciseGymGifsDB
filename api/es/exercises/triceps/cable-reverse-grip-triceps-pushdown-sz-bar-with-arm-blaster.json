@@ -1,12 +1,14 @@
 {
   "id": "triceps/cable-reverse-grip-triceps-pushdown-sz-bar-with-arm-blaster",
   "slug": "cable-reverse-grip-triceps-pushdown-sz-bar-with-arm-blaster",
-  "name": "Pushdown en polea, con agarre invertido, con arm blaster, tríceps sz barra",
+  "name": "Pushdown de tríceps con agarre invertido, con barra SZ, arm blaster, en polea",
   "muscle": "triceps",
   "bodyPart": "arms",
   "equipment": "cable",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts"
+  ],
   "instructions": [
     "Ajusta la polea a la altura indicada y selecciona el peso.",
     "Activa los tríceps antes de iniciar el movimiento.",

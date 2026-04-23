@@ -6,7 +6,10 @@
   "bodyPart": "shoulders",
   "equipment": "cable",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "traps",
+    "upper-back"
+  ],
   "instructions": [
     "Set the pulley at the required height and select the weight.",
     "Pre-engage the shoulders before initiating the movement.",

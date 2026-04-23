@@ -6,7 +6,11 @@
   "bodyPart": "legs",
   "equipment": "bodyweight",
   "category": "stretching",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "pectorals",
+    "lats",
+    "abs"
+  ],
   "instructions": [
     "Adopt the starting position with proper body alignment.",
     "Move into the the glutes stretch position.",

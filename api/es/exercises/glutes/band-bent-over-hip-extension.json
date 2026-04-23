@@ -1,12 +1,15 @@
 {
   "id": "glutes/band-bent-over-hip-extension",
   "slug": "band-bent-over-hip-extension",
-  "name": "Extensión con banda, doblado sobre cadera",
+  "name": "Extensión de cadera inclinada con banda",
   "muscle": "glutes",
   "bodyPart": "legs",
   "equipment": "band",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "hamstrings",
+    "spine"
+  ],
   "instructions": [
     "Fija la banda elástica y mantén la tensión inicial.",
     "Activa los glúteos antes de iniciar el movimiento.",

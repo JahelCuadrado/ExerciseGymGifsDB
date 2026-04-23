@@ -512,7 +512,10 @@
       "bodyPart": "shoulders",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -531,7 +534,10 @@
       "bodyPart": "shoulders",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the shoulders before initiating the movement.",
@@ -613,7 +619,9 @@
       "bodyPart": "arms",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the forearms before initiating the movement.",
@@ -657,7 +665,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the glutes before initiating the movement.",
@@ -698,7 +709,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the glutes before initiating the movement.",
@@ -780,7 +794,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -799,7 +816,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -818,7 +838,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -837,7 +860,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the hamstrings before initiating the movement.",
@@ -925,7 +951,11 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the lats before initiating the movement.",
@@ -1077,7 +1107,9 @@
       "bodyPart": "chest",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the chest before initiating the movement.",
@@ -1140,7 +1172,10 @@
       "bodyPart": "legs",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the quadriceps before initiating the movement.",
@@ -1159,7 +1194,10 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the lower back before initiating the movement.",
@@ -1178,7 +1216,10 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the traps before initiating the movement.",
@@ -1197,7 +1238,10 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the traps before initiating the movement.",
@@ -1216,7 +1260,10 @@
       "bodyPart": "back",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the traps before initiating the movement.",
@@ -1279,7 +1326,9 @@
       "bodyPart": "arms",
       "equipment": "lever",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
         "Pre-engage the triceps before initiating the movement.",
@@ -1339,7 +1388,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -1362,7 +1412,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -1385,7 +1436,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -1408,7 +1460,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -1431,7 +1484,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -1454,7 +1508,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -1477,7 +1532,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -1500,7 +1556,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -1523,7 +1580,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -1546,7 +1604,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -1569,7 +1628,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -1592,7 +1652,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",
@@ -1615,7 +1676,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Adjust the machine to your size and select the load.",

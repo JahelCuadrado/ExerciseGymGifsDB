@@ -1,12 +1,14 @@
 {
   "id": "forearms/barbell-palms-up-wrist-curl-over-a-bench",
   "slug": "barbell-palms-up-wrist-curl-over-a-bench",
-  "name": "Curl de muñeca con barra, palms up sobre banco",
+  "name": "Curl de muñeca con barra, con palmas hacia arriba, sobre banco",
   "muscle": "forearms",
   "bodyPart": "arms",
   "equipment": "barbell",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "biceps"
+  ],
   "instructions": [
     "Carga el peso adecuado en la barra y adopta la postura inicial.",
     "Activa los antebrazos antes de iniciar el movimiento.",

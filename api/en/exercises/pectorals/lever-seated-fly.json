@@ -6,7 +6,9 @@
   "bodyPart": "chest",
   "equipment": "lever",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts"
+  ],
   "instructions": [
     "Adjust the machine to your size and select the load.",
     "Pre-engage the chest before initiating the movement.",

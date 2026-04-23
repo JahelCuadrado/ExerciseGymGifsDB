@@ -1654,7 +1654,7 @@
     {
       "id": "biceps/dumbbell-waiter-biceps-curl",
       "slug": "dumbbell-waiter-biceps-curl",
-      "name": "Curl de bíceps con mancuerna, waiter",
+      "name": "Curl de bíceps del camarero con mancuerna",
       "muscle": "biceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -1755,7 +1755,7 @@
     {
       "id": "calves/dumbbell-seated-one-leg-calf-raise-palm-up",
       "slug": "dumbbell-seated-one-leg-calf-raise-palm-up",
-      "name": "Elevación de talones con mancuerna, sentado, a una pierna, palm up",
+      "name": "Elevación de talones con mancuerna, sentado, a una pierna con palma hacia arriba",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -2042,7 +2042,7 @@
     {
       "id": "delts/dumbbell-full-can-lateral-raise",
       "slug": "dumbbell-full-can-lateral-raise",
-      "name": "Elevación lateral con mancuerna, full can",
+      "name": "Elevación lateral con mancuerna, estilo full can",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2105,7 +2105,7 @@
     {
       "id": "delts/dumbbell-incline-rear-lateral-raise",
       "slug": "dumbbell-incline-rear-lateral-raise",
-      "name": "Elevación lateral inclinado con mancuerna, posterior",
+      "name": "Elevación posterior de deltoides inclinado con mancuerna",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2152,7 +2152,11 @@
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "lats",
+        "abs"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -2187,7 +2191,7 @@
     {
       "id": "delts/dumbbell-lateral-to-front-raise",
       "slug": "dumbbell-lateral-to-front-raise",
-      "name": "Elevación frontal con mancuerna, lateral",
+      "name": "Elevación lateral a frontal con mancuerna",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2227,7 +2231,7 @@
     {
       "id": "delts/dumbbell-lying-on-floor-rear-delt-raise",
       "slug": "dumbbell-lying-on-floor-rear-delt-raise",
-      "name": "Pájaros con mancuerna, tumbado, en el suelo",
+      "name": "Elevación posterior de deltoides con mancuerna, tumbado, en el suelo",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2248,7 +2252,7 @@
     {
       "id": "delts/dumbbell-lying-one-arm-deltoid-rear",
       "slug": "dumbbell-lying-one-arm-deltoid-rear",
-      "name": "Deltoid con mancuerna, tumbado, a una mano posterior",
+      "name": "Elevación posterior de deltoides con mancuerna, tumbado, a una mano",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2267,7 +2271,7 @@
     {
       "id": "delts/dumbbell-lying-one-arm-rear-lateral-raise",
       "slug": "dumbbell-lying-one-arm-rear-lateral-raise",
-      "name": "Elevación lateral con mancuerna, tumbado, a una mano posterior",
+      "name": "Elevación posterior de deltoides con mancuerna, tumbado, a una mano",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2288,7 +2292,7 @@
     {
       "id": "delts/dumbbell-lying-rear-lateral-raise",
       "slug": "dumbbell-lying-rear-lateral-raise",
-      "name": "Elevación lateral con mancuerna, tumbado, posterior",
+      "name": "Elevación posterior de deltoides con mancuerna, tumbado",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2309,7 +2313,7 @@
     {
       "id": "delts/dumbbell-one-arm-lateral-raise-with-support",
       "slug": "dumbbell-one-arm-lateral-raise-with-support",
-      "name": "Elevación lateral con mancuerna, a una mano, support",
+      "name": "Elevación lateral con mancuerna, a una mano, con apoyo",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2351,12 +2355,15 @@
     {
       "id": "delts/dumbbell-one-arm-reverse-fly-with-support",
       "slug": "dumbbell-one-arm-reverse-fly-with-support",
-      "name": "Apertura inversa con mancuerna, a una mano, support",
+      "name": "Apertura inversa con mancuerna, a una mano, con apoyo",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -2419,7 +2426,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
@@ -2476,7 +2484,7 @@
     {
       "id": "delts/dumbbell-rear-delt-raise",
       "slug": "dumbbell-rear-delt-raise",
-      "name": "Pájaros con mancuerna",
+      "name": "Elevación posterior de deltoides con mancuerna",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2497,7 +2505,7 @@
     {
       "id": "delts/dumbbell-rear-delt-row-shoulder",
       "slug": "dumbbell-rear-delt-row-shoulder",
-      "name": "Remo con mancuerna, posterior, deltoides hombro",
+      "name": "Remo de deltoides posterior con mancuerna",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2519,12 +2527,15 @@
     {
       "id": "delts/dumbbell-rear-fly",
       "slug": "dumbbell-rear-fly",
-      "name": "Apertura con mancuerna, posterior",
+      "name": "Apertura posterior con mancuerna",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -2538,7 +2549,7 @@
     {
       "id": "delts/dumbbell-rear-lateral-raise-support-head",
       "slug": "dumbbell-rear-lateral-raise-support-head",
-      "name": "Elevación lateral con mancuerna, posterior, support cabeza",
+      "name": "Elevación lateral posterior con mancuerna, con apoyo en la cabeza",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2559,7 +2570,7 @@
     {
       "id": "delts/dumbbell-rear-lateral-raise",
       "slug": "dumbbell-rear-lateral-raise",
-      "name": "Elevación lateral con mancuerna, posterior",
+      "name": "Elevación posterior de deltoides con mancuerna",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2585,7 +2596,10 @@
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -2604,7 +2618,10 @@
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los hombros antes de iniciar el movimiento.",
@@ -2700,7 +2717,7 @@
     {
       "id": "delts/dumbbell-seated-bent-arm-lateral-raise",
       "slug": "dumbbell-seated-bent-arm-lateral-raise",
-      "name": "Elevación lateral con mancuerna, sentado, doblado brazo",
+      "name": "Elevación lateral con mancuerna, sentado, con brazo doblado",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2826,7 +2843,7 @@
     {
       "id": "delts/dumbbell-side-lying-one-hand-raise",
       "slug": "dumbbell-side-lying-one-hand-raise",
-      "name": "Elevación con mancuerna, tumbado de lado, one hand",
+      "name": "Elevación lateral con mancuerna, tumbado de lado, a una mano",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2908,7 +2925,7 @@
     {
       "id": "delts/dumbbell-standing-around-world",
       "slug": "dumbbell-standing-around-world",
-      "name": "Around world con mancuerna, de pie",
+      "name": "Círculos sobre la cabeza con mancuerna, de pie",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2948,7 +2965,7 @@
     {
       "id": "delts/dumbbell-standing-one-arm-palm-in-press",
       "slug": "dumbbell-standing-one-arm-palm-in-press",
-      "name": "Press con mancuerna, de pie, a una mano, palm",
+      "name": "Press con mancuerna, de pie, a una mano con palma hacia dentro",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2990,7 +3007,7 @@
     {
       "id": "delts/dumbbell-standing-palms-in-press",
       "slug": "dumbbell-standing-palms-in-press",
-      "name": "Press con mancuerna, de pie, palms",
+      "name": "Press con mancuerna, de pie, con palmas hacia dentro",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -3011,14 +3028,15 @@
     {
       "id": "delts/dumbbell-upright-row-back-pov",
       "slug": "dumbbell-upright-row-back-pov",
-      "name": "Remo al mentón con mancuerna, espalda",
+      "name": "Remo al mentón con mancuerna",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
@@ -3040,7 +3058,8 @@
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
-        "forearms"
+        "forearms",
+        "traps"
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
@@ -3074,7 +3093,7 @@
     {
       "id": "delts/dumbbell-w-press",
       "slug": "dumbbell-w-press",
-      "name": "Press con mancuerna, w",
+      "name": "Press en W con mancuerna",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -3195,7 +3214,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3214,7 +3235,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3233,7 +3256,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3252,7 +3277,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3271,7 +3298,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3290,7 +3319,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3309,7 +3340,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3328,7 +3361,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3361,12 +3396,14 @@
     {
       "id": "forearms/dumbbell-seated-palms-up-wrist-curl",
       "slug": "dumbbell-seated-palms-up-wrist-curl",
-      "name": "Curl de muñeca con mancuerna, sentado, palms up",
+      "name": "Curl de muñeca con mancuerna, sentado, con palmas hacia arriba",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los antebrazos antes de iniciar el movimiento.",
@@ -3589,7 +3626,7 @@
     {
       "id": "glutes/dumbbell-single-leg-deadlift-with-stepbox-support",
       "slug": "dumbbell-single-leg-deadlift-with-stepbox-support",
-      "name": "Peso muerto con mancuerna, a una pierna, stepbox support",
+      "name": "Peso muerto a una pierna con mancuerna, con apoyo en step",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -3727,7 +3764,7 @@
     {
       "id": "glutes/dumbbell-straight-leg-deadlift",
       "slug": "dumbbell-straight-leg-deadlift",
-      "name": "Peso muerto con mancuerna, con piernas rectas",
+      "name": "Peso muerto con mancuerna, con pierna recta",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -3757,7 +3794,10 @@
       "bodyPart": "legs",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los glúteos antes de iniciar el movimiento.",
@@ -3790,7 +3830,7 @@
     {
       "id": "pectorals/dumbbell-around-pullover",
       "slug": "dumbbell-around-pullover",
-      "name": "Pullover con mancuerna, around",
+      "name": "Pullover circular con mancuerna",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "dumbbell",
@@ -3858,7 +3898,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -3899,7 +3941,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -3913,12 +3957,14 @@
     {
       "id": "pectorals/dumbbell-decline-twist-fly",
       "slug": "dumbbell-decline-twist-fly",
-      "name": "Apertura declinado con mancuerna, twist",
+      "name": "Apertura declinada con giro, con mancuerna",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -3937,7 +3983,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -3956,7 +4004,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -4038,7 +4088,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -4057,7 +4109,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -4098,7 +4152,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -4117,7 +4173,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -4175,7 +4233,7 @@
     {
       "id": "pectorals/dumbbell-incline-palm-in-press",
       "slug": "dumbbell-incline-palm-in-press",
-      "name": "Press inclinado con mancuerna, palm",
+      "name": "Press inclinado con mancuerna, con palma hacia dentro",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "dumbbell",
@@ -4224,7 +4282,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -4328,7 +4388,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -4347,7 +4409,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -4388,7 +4452,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -4492,7 +4558,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -4631,7 +4699,9 @@
       "bodyPart": "chest",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa el pectoral antes de iniciar el movimiento.",
@@ -4784,7 +4854,10 @@
       "bodyPart": "back",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los trapecios antes de iniciar el movimiento.",
@@ -4803,7 +4876,10 @@
       "bodyPart": "back",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los trapecios antes de iniciar el movimiento.",
@@ -4822,7 +4898,10 @@
       "bodyPart": "back",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los trapecios antes de iniciar el movimiento.",
@@ -4841,7 +4920,10 @@
       "bodyPart": "back",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los trapecios antes de iniciar el movimiento.",
@@ -4923,7 +5005,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -4945,7 +5029,8 @@
       "secondaryMuscles": [
         "glutes",
         "hamstrings",
-        "calves"
+        "calves",
+        "delts"
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
@@ -5028,7 +5113,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5047,7 +5134,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5066,7 +5155,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5085,7 +5176,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5104,7 +5197,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5139,12 +5234,14 @@
     {
       "id": "triceps/dumbbell-lying-extension-across-face",
       "slug": "dumbbell-lying-extension-across-face",
-      "name": "Extensión con mancuerna, tumbado, across face",
+      "name": "Extensión cruzando la cara con mancuerna, tumbado",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5158,12 +5255,14 @@
     {
       "id": "triceps/dumbbell-lying-one-arm-pronated-triceps-extension",
       "slug": "dumbbell-lying-one-arm-pronated-triceps-extension",
-      "name": "Extensión de tríceps con mancuerna, tumbado, a una mano, pronated",
+      "name": "Extensión de tríceps con agarre prono, tumbado, a una mano, con mancuerna",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5177,12 +5276,14 @@
     {
       "id": "triceps/dumbbell-lying-one-arm-supinated-triceps-extension",
       "slug": "dumbbell-lying-one-arm-supinated-triceps-extension",
-      "name": "Extensión de tríceps con mancuerna, tumbado, a una mano, supinated",
+      "name": "Extensión de tríceps con agarre supino, tumbado, a una mano, con mancuerna",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5201,7 +5302,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5220,7 +5323,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5302,7 +5407,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5321,7 +5428,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5335,7 +5444,7 @@
     {
       "id": "triceps/dumbbell-palms-in-incline-bench-press",
       "slug": "dumbbell-palms-in-incline-bench-press",
-      "name": "Press con mancuerna, en banco inclinado, palms",
+      "name": "Press con mancuerna, con palmas hacia dentro en banco inclinado",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -5361,7 +5470,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5380,7 +5491,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5394,12 +5507,14 @@
     {
       "id": "triceps/dumbbell-seated-bent-over-alternate-kickback",
       "slug": "dumbbell-seated-bent-over-alternate-kickback",
-      "name": "Patada de tríceps con mancuerna, sentado, alternado, doblado sobre",
+      "name": "Patada de tríceps con mancuerna, sentado, inclinado alternado",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5413,12 +5528,14 @@
     {
       "id": "triceps/dumbbell-seated-bent-over-triceps-extension",
       "slug": "dumbbell-seated-bent-over-triceps-extension",
-      "name": "Extensión de tríceps con mancuerna, sentado, doblado sobre",
+      "name": "Extensión de tríceps con mancuerna, sentado, inclinado",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5437,7 +5554,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5456,7 +5575,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5475,7 +5596,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5494,7 +5617,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5513,7 +5638,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5527,12 +5654,14 @@
     {
       "id": "triceps/dumbbell-standing-bent-over-one-arm-triceps-extension",
       "slug": "dumbbell-standing-bent-over-one-arm-triceps-extension",
-      "name": "Extensión de tríceps con mancuerna, de pie, a una mano, doblado sobre",
+      "name": "Extensión de tríceps con mancuerna, de pie, inclinado a una mano",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5546,12 +5675,14 @@
     {
       "id": "triceps/dumbbell-standing-bent-over-two-arm-triceps-extension",
       "slug": "dumbbell-standing-bent-over-two-arm-triceps-extension",
-      "name": "Extensión de tríceps con mancuerna, de pie, a dos manos, doblado sobre",
+      "name": "Extensión de tríceps con mancuerna, de pie, inclinado a dos manos",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5570,7 +5701,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5589,7 +5722,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5608,7 +5743,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5648,7 +5785,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5688,7 +5827,9 @@
       "bodyPart": "arms",
       "equipment": "dumbbell",
       "category": "strength",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
         "Activa los tríceps antes de iniciar el movimiento.",
@@ -5731,7 +5872,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
@@ -5754,7 +5896,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
@@ -5788,7 +5931,7 @@
     {
       "id": "upper-back/dumbbell-lying-rear-delt-row",
       "slug": "dumbbell-lying-rear-delt-row",
-      "name": "Remo con mancuerna, tumbado, posterior, deltoides",
+      "name": "Remo de deltoides posterior con mancuerna, tumbado",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "dumbbell",
@@ -5796,7 +5939,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
@@ -5819,7 +5963,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
@@ -5834,7 +5979,7 @@
     {
       "id": "upper-back/dumbbell-palm-rotational-bent-over-row",
       "slug": "dumbbell-palm-rotational-bent-over-row",
-      "name": "Remo inclinado con mancuerna, palm rotational",
+      "name": "Remo inclinado con rotación de palma, con mancuerna",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "dumbbell",
@@ -5842,7 +5987,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
@@ -5865,7 +6011,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
@@ -5888,7 +6035,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
@@ -5911,7 +6059,8 @@
       "secondaryMuscles": [
         "biceps",
         "forearms",
-        "delts"
+        "delts",
+        "lats"
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",
@@ -5926,7 +6075,7 @@
     {
       "id": "upper-back/dumbbell-side-plank-with-rear-fly",
       "slug": "dumbbell-side-plank-with-rear-fly",
-      "name": "Plancha lateral con mancuerna, posterior, fly",
+      "name": "Plancha lateral con mancuerna y apertura posterior",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "dumbbell",
@@ -5934,7 +6083,8 @@
       "secondaryMuscles": [
         "abs",
         "delts",
-        "glutes"
+        "glutes",
+        "traps"
       ],
       "instructions": [
         "Coge una mancuerna en cada mano (o la indicada) con un peso adecuado.",

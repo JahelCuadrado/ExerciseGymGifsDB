@@ -6,7 +6,9 @@
   "bodyPart": "arms",
   "equipment": "band",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "delts"
+  ],
   "instructions": [
     "Fija la banda elástica y mantén la tensión inicial.",
     "Activa los tríceps antes de iniciar el movimiento.",

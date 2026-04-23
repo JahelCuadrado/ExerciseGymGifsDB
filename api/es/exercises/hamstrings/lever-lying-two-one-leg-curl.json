@@ -1,12 +1,15 @@
 {
   "id": "hamstrings/lever-lying-two-one-leg-curl",
   "slug": "lever-lying-two-one-leg-curl",
-  "name": "Curl en máquina, tumbado, a una pierna, two",
+  "name": "Curl femoral en máquina, tumbado, a una o dos piernas",
   "muscle": "hamstrings",
   "bodyPart": "legs",
   "equipment": "lever",
   "category": "strength",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "glutes",
+    "calves"
+  ],
   "instructions": [
     "Ajusta la máquina a tu medida y selecciona la carga.",
     "Activa los isquiotibiales antes de iniciar el movimiento.",

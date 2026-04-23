@@ -1,7 +1,7 @@
 {
   "id": "upper-back/lever-reverse-grip-vertical-row",
   "slug": "lever-reverse-grip-vertical-row",
-  "name": "Remo en máquina, con agarre invertido, vertical",
+  "name": "Remo vertical con agarre invertido en máquina",
   "muscle": "upper-back",
   "bodyPart": "back",
   "equipment": "lever",
@@ -9,7 +9,8 @@
   "secondaryMuscles": [
     "biceps",
     "forearms",
-    "delts"
+    "delts",
+    "lats"
   ],
   "instructions": [
     "Ajusta la máquina a tu medida y selecciona la carga.",

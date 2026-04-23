@@ -23,7 +23,7 @@
     {
       "id": "adductors/assisted-side-lying-adductor-stretch",
       "slug": "assisted-side-lying-adductor-stretch",
-      "name": "Aductores, tumbado de lado, asistido, stretch",
+      "name": "Estiramiento de aductores asistido, tumbado de lado",
       "muscle": "adductors",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -59,7 +59,7 @@
     {
       "id": "calves/calf-push-stretch-with-hands-against-wall",
       "slug": "calf-push-stretch-with-hands-against-wall",
-      "name": "Estiramiento, con manos en la pared, gemelo push",
+      "name": "Estiramiento de gemelo con manos en la pared",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -149,7 +149,7 @@
     {
       "id": "calves/posterior-tibialis-stretch",
       "slug": "posterior-tibialis-stretch",
-      "name": "Estiramiento, posterior tibialis",
+      "name": "Estiramiento del tibial posterior",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -203,7 +203,7 @@
     {
       "id": "delts/rear-deltoid-stretch",
       "slug": "rear-deltoid-stretch",
-      "name": "Estiramiento, posterior, deltoid",
+      "name": "Estiramiento de deltoides posterior",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "bodyweight",
@@ -221,12 +221,14 @@
     {
       "id": "forearms/side-wrist-pull-stretch",
       "slug": "side-wrist-pull-stretch",
-      "name": "Estiramiento, lateral, muñeca pull",
+      "name": "Estiramiento de muñeca lateral",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "stretching",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "biceps"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Lleva el cuerpo a la posición de estiramiento de los antebrazos.",
@@ -257,7 +259,7 @@
     {
       "id": "glutes/assisted-lying-gluteus-and-piriformis-stretch",
       "slug": "assisted-lying-gluteus-and-piriformis-stretch",
-      "name": "Estiramiento, tumbado, asistido, gluteus piriformis",
+      "name": "Estiramiento asistido de glúteos y piriforme, tumbado",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -298,7 +300,11 @@
       "bodyPart": "legs",
       "equipment": "bodyweight",
       "category": "stretching",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "pectorals",
+        "lats",
+        "abs"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Lleva el cuerpo a la posición de estiramiento de los glúteos.",
@@ -383,7 +389,7 @@
     {
       "id": "glutes/seated-piriformis-stretch",
       "slug": "seated-piriformis-stretch",
-      "name": "Estiramiento, sentado, piriformis",
+      "name": "Estiramiento del piriforme, sentado",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -401,7 +407,7 @@
     {
       "id": "glutes/weighted-stretch-lunge",
       "slug": "weighted-stretch-lunge",
-      "name": "Zancada, con peso, stretch",
+      "name": "Zancada en estiramiento con peso",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -710,7 +716,7 @@
     {
       "id": "levator-scapulae/side-push-neck-stretch",
       "slug": "side-push-neck-stretch",
-      "name": "Estiramiento, lateral, push cuello",
+      "name": "Estiramiento lateral del cuello",
       "muscle": "levator-scapulae",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -800,7 +806,7 @@
     {
       "id": "pectorals/dynamic-chest-stretch-male",
       "slug": "dynamic-chest-stretch-male",
-      "name": "Estiramiento, dynamic pecho",
+      "name": "Estiramiento dinámico de pecho",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "bodyweight",
@@ -818,7 +824,7 @@
     {
       "id": "quads/all-fours-squad-stretch",
       "slug": "all-fours-squad-stretch",
-      "name": "Estiramiento, all fours squad",
+      "name": "Estiramiento de cuádriceps en cuadrupedia",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -967,7 +973,9 @@
       "bodyPart": "arms",
       "equipment": "bodyweight",
       "category": "stretching",
-      "secondaryMuscles": [],
+      "secondaryMuscles": [
+        "delts"
+      ],
       "instructions": [
         "Adopta la postura inicial con buena alineación corporal.",
         "Lleva el cuerpo a la posición de estiramiento de los tríceps.",

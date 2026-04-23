@@ -6,7 +6,11 @@
   "bodyPart": "legs",
   "equipment": "bodyweight",
   "category": "stretching",
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "pectorals",
+    "lats",
+    "abs"
+  ],
   "instructions": [
     "Adopta la postura inicial con buena alineación corporal.",
     "Lleva el cuerpo a la posición de estiramiento de los glúteos.",
