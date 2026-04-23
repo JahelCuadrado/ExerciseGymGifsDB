@@ -72,9 +72,9 @@ const MOVEMENTS = [
 	["abductor", "Abductores"],
 	["adductor", "Aductores"],
 	// Pallof / press funcionales
-	["horizontal-pallof-press", "Pallof press horizontal"],
-	["vertical-pallof-press", "Pallof press vertical"],
-	["pallof-press", "Pallof press"],
+	["horizontal-pallof-press", "Press Pallof horizontal"],
+	["vertical-pallof-press", "Press Pallof vertical"],
+	["pallof-press", "Press Pallof"],
 	// Press clásicos
 	["bench-press", "Press de banca"],
 	["shoulder-press", "Press de hombros"],
@@ -355,7 +355,9 @@ const MOVEMENTS = [
 	["jump", "Salto"],
 ];
 
-// Variantes del movimiento (van después del verbo: "Curl martillo")
+// Variantes del movimiento (van después del verbo: "Curl martillo", "Press Arnold").
+// Incluye nombres propios de ejercicios clásicos del fitness que en español
+// se posponen al núcleo del nombre (Press Arnold, Press Scott, Remo Pendlay...).
 const VARIANTS = {
 	hammer: "martillo",
 	preacher: "predicador",
@@ -375,6 +377,24 @@ const VARIANTS = {
 	scott: "Scott",
 	arnold: "Arnold",
 	bradford: "Bradford",
+	cuban: "cubano",
+	rocky: "Rocky",
+	pendlay: "Pendlay",
+	hindu: "hindú",
+	archer: "del arquero",
+	nordic: "nórdico",
+	norwegian: "noruego",
+	korean: "coreano",
+	russian: "ruso",
+	french: "francés",
+	bulgarian: "búlgaro",
+	romanian: "rumano",
+	goblet: "goblet",
+	pistol: "pistol",
+	sissy: "sissy",
+	sumo: "sumo",
+	superman: "superman",
+	jm: "JM",
 };
 
 // Equipamiento (va al final del primer bloque: "Curl con barra")

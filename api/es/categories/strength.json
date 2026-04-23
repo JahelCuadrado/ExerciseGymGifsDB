@@ -407,7 +407,7 @@
     {
       "id": "abs/band-horizontal-pallof-press",
       "slug": "band-horizontal-pallof-press",
-      "name": "Pallof press horizontal con banda",
+      "name": "Press Pallof horizontal con banda",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "band",
@@ -581,7 +581,7 @@
     {
       "id": "abs/band-vertical-pallof-press",
       "slug": "band-vertical-pallof-press",
-      "name": "Pallof press vertical con banda",
+      "name": "Press Pallof vertical con banda",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "band",
@@ -7851,7 +7851,7 @@
     {
       "id": "delts/barbell-seated-bradford-rocky-press",
       "slug": "barbell-seated-bradford-rocky-press",
-      "name": "Press Bradford con barra, sentado, rocky",
+      "name": "Press Bradford Rocky con barra, sentado",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "barbell",
@@ -8579,7 +8579,7 @@
     {
       "id": "delts/dumbbell-cuban-press-v-2",
       "slug": "dumbbell-cuban-press-v-2",
-      "name": "Press con mancuerna, cubano",
+      "name": "Press cubano con mancuerna",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -8600,7 +8600,7 @@
     {
       "id": "delts/dumbbell-cuban-press",
       "slug": "dumbbell-cuban-press",
-      "name": "Press con mancuerna, cubano",
+      "name": "Press cubano con mancuerna",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -12654,7 +12654,7 @@
     {
       "id": "glutes/dumbbell-sumo-pull-through",
       "slug": "dumbbell-sumo-pull-through",
-      "name": "Sumo pull through con mancuerna",
+      "name": "Pull through sumo con mancuerna",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -13410,7 +13410,7 @@
     {
       "id": "glutes/single-leg-squat-pistol-male",
       "slug": "single-leg-squat-pistol-male",
-      "name": "Sentadilla, a una pierna, pistol",
+      "name": "Sentadilla pistol, a una pierna",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -14491,7 +14491,7 @@
     {
       "id": "lats/archer-pull-up",
       "slug": "archer-pull-up",
-      "name": "Dominada, del arquero",
+      "name": "Dominada del arquero",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -15805,7 +15805,7 @@
     {
       "id": "lats/rocky-pull-up-pulldown",
       "slug": "rocky-pull-up-pulldown",
-      "name": "Dominada, rocky, pulldown",
+      "name": "Dominada Rocky, pulldown",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -20571,7 +20571,7 @@
     {
       "id": "traps/kettlebell-sumo-high-pull",
       "slug": "kettlebell-sumo-high-pull",
-      "name": "Sumo pull con kettlebell, alto",
+      "name": "Pull sumo con kettlebell, alto",
       "muscle": "traps",
       "bodyPart": "back",
       "equipment": "kettlebell",
@@ -20896,7 +20896,7 @@
     {
       "id": "triceps/barbell-jm-bench-press",
       "slug": "barbell-jm-bench-press",
-      "name": "Press de banca con barra, jm",
+      "name": "Press de banca JM con barra",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -22786,7 +22786,7 @@
     {
       "id": "triceps/ez-barbell-jm-bench-press",
       "slug": "ez-barbell-jm-bench-press",
-      "name": "Press de banca con barra Z, jm",
+      "name": "Press de banca JM con barra Z",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "ez-bar",
