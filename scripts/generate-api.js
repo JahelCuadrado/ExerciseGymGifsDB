@@ -39,9 +39,40 @@ const ROOT = path.resolve(__dirname, "..");
 const OUT = path.join(ROOT, "api");
 const OVERRIDES = path.join(ROOT, "overrides");
 
+/**
+ * Resuelve el ref de Git actual para anclar URLs absolutas a la versión que
+ * se está construyendo. Prioriza (en orden):
+ *   1. `API_BASE_URL` (override explícito).
+ *   2. `API_REF` (ref de git: tag o branch).
+ *   3. Branch actual detectada vía `git symbolic-ref` (mantiene aislamiento
+ *      por versión: cada rama publica URLs apuntando a sí misma).
+ *   4. `main` como fallback.
+ *
+ * Esto evita que la API de `version-1.1.0` exponga GIFs apuntando a `@main`,
+ * lo que rompería el versionado si `main` se mueve.
+ */
+function detectGitRef() {
+	if (process.env.API_REF) return process.env.API_REF;
+	try {
+		const { execSync } = require("child_process");
+		const ref = execSync("git symbolic-ref --short HEAD", {
+			cwd: ROOT,
+			stdio: ["ignore", "pipe", "ignore"],
+		})
+			.toString()
+			.trim();
+		if (ref) return ref;
+	} catch {
+		/* ignore */
+	}
+	return "main";
+}
+
+const REPO_SLUG = process.env.API_REPO || "JahelCuadrado/ExerciseGymGifsDB";
+const REF = detectGitRef();
 const BASE_URL = (
 	process.env.API_BASE_URL ||
-	"https://cdn.jsdelivr.net/gh/USER/REPO@main"
+	`https://cdn.jsdelivr.net/gh/${REPO_SLUG}@${REF}`
 ).replace(/\/+$/, "");
 
 const LANGS = ["en", "es"];
