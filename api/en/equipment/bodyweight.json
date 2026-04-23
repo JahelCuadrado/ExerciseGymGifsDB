@@ -1,6 +1,6 @@
 {
   "equipment": "bodyweight",
-  "count": 415,
+  "count": 458,
   "exercises": [
     {
       "id": "abductors/side-bridge-hip-abduction",
@@ -388,6 +388,25 @@
       ],
       "file": "abs/bridge-mountain-climber-cross-body.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/bridge-mountain-climber-cross-body.gif"
+    },
+    {
+      "id": "abs/butt-ups",
+      "slug": "butt-ups",
+      "name": "Butt Ups",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the core before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "abs/butt-ups.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/butt-ups.gif"
     },
     {
       "id": "abs/captains-chair-straight-leg-raise",
@@ -1329,6 +1348,25 @@
       ],
       "file": "abs/oblique-crunch-v-2.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/oblique-crunch-v-2.gif"
+    },
+    {
+      "id": "abs/oblique-crunches-floor",
+      "slug": "oblique-crunches-floor",
+      "name": "Oblique Crunches Floor",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the core before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "abs/oblique-crunches-floor.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/oblique-crunches-floor.gif"
     },
     {
       "id": "abs/one-arm-slam-with-medicine-ball",
@@ -3459,6 +3497,25 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/weighted-round-arm.gif"
     },
     {
+      "id": "forearms/finger-curls",
+      "slug": "finger-curls",
+      "name": "Finger Curls",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the forearms before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "forearms/finger-curls.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/finger-curls.gif"
+    },
+    {
       "id": "forearms/modified-push-up-to-lower-arms",
       "slug": "modified-push-up-to-lower-arms",
       "name": "Modified Push Up To Lower Arms",
@@ -3516,6 +3573,44 @@
       ],
       "file": "forearms/weighted-standing-hand-squeeze.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/weighted-standing-hand-squeeze.gif"
+    },
+    {
+      "id": "forearms/wrist-circles",
+      "slug": "wrist-circles",
+      "name": "Wrist Circles",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the forearms before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "forearms/wrist-circles.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/wrist-circles.gif"
+    },
+    {
+      "id": "forearms/wrist-rollerer",
+      "slug": "wrist-rollerer",
+      "name": "Wrist Rollerer",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the forearms before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "forearms/wrist-rollerer.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/wrist-rollerer.gif"
     },
     {
       "id": "glutes/arms-apart-circular-toe-touch-male",
@@ -3609,6 +3704,25 @@
       ],
       "file": "glutes/bench-hip-extension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/bench-hip-extension.gif"
+    },
+    {
+      "id": "glutes/bent-knee-lying-twist-male",
+      "slug": "bent-knee-lying-twist-male",
+      "name": "Bent Knee Lying Twist Male",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the glutes before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "glutes/bent-knee-lying-twist-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/bent-knee-lying-twist-male.gif"
     },
     {
       "id": "glutes/bodyweight-drop-jump-squat",
@@ -3853,6 +3967,25 @@
       ],
       "file": "glutes/hands-reversed-clasped-circular-toe-touch-male.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/hands-reversed-clasped-circular-toe-touch-male.gif"
+    },
+    {
+      "id": "glutes/hug-keens-to-chest",
+      "slug": "hug-keens-to-chest",
+      "name": "Hug Keens To Chest",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the glutes before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "glutes/hug-keens-to-chest.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/hug-keens-to-chest.gif"
     },
     {
       "id": "glutes/iron-cross-stretch",
@@ -4365,6 +4498,63 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/spider-crawl-push-up.gif"
     },
     {
+      "id": "glutes/swimmer-kicks-v-2-male",
+      "slug": "swimmer-kicks-v-2-male",
+      "name": "Swimmer Kicks v2 Male",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the glutes before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "glutes/swimmer-kicks-v-2-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/swimmer-kicks-v-2-male.gif"
+    },
+    {
+      "id": "glutes/tire-flip",
+      "slug": "tire-flip",
+      "name": "Tire Flip",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the glutes before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "glutes/tire-flip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/tire-flip.gif"
+    },
+    {
+      "id": "glutes/twist-hip-lift",
+      "slug": "twist-hip-lift",
+      "name": "Twist Hip Lift",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the glutes before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "glutes/twist-hip-lift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/twist-hip-lift.gif"
+    },
+    {
       "id": "glutes/walking-lunge",
       "slug": "walking-lunge",
       "name": "Walking Lunge",
@@ -4478,6 +4668,25 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/weighted-stretch-lunge.gif"
     },
     {
+      "id": "hamstrings/assisted-prone-hamstring",
+      "slug": "assisted-prone-hamstring",
+      "name": "Assisted Prone Hamstring",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the hamstrings before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "hamstrings/assisted-prone-hamstring.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/assisted-prone-hamstring.gif"
+    },
+    {
       "id": "hamstrings/exercise-ball-seated-hamstring-stretch",
       "slug": "exercise-ball-seated-hamstring-stretch",
       "name": "Exercise Ball Seated Hamstring Stretch",
@@ -4494,6 +4703,25 @@
       ],
       "file": "hamstrings/exercise-ball-seated-hamstring-stretch.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/exercise-ball-seated-hamstring-stretch.gif"
+    },
+    {
+      "id": "hamstrings/glute-ham-raise",
+      "slug": "glute-ham-raise",
+      "name": "Glute Ham Raise",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the hamstrings before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "hamstrings/glute-ham-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/glute-ham-raise.gif"
     },
     {
       "id": "hamstrings/hamstring-stretch",
@@ -4533,6 +4761,25 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/inverse-leg-curl-bench-support.gif"
     },
     {
+      "id": "hamstrings/kick-out-sit",
+      "slug": "kick-out-sit",
+      "name": "Kick Out Sit",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the hamstrings before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "hamstrings/kick-out-sit.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/kick-out-sit.gif"
+    },
+    {
       "id": "hamstrings/leg-up-hamstring-stretch",
       "slug": "leg-up-hamstring-stretch",
       "name": "Leg Up Hamstring Stretch",
@@ -4551,6 +4798,50 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/leg-up-hamstring-stretch.gif"
     },
     {
+      "id": "hamstrings/power-clean",
+      "slug": "power-clean",
+      "name": "Power Clean",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the hamstrings before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "hamstrings/power-clean.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/power-clean.gif"
+    },
+    {
+      "id": "hamstrings/reclining-big-toe-pose-with-rope",
+      "slug": "reclining-big-toe-pose-with-rope",
+      "name": "Reclining Big Toe Pose With Rope",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the hamstrings before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "hamstrings/reclining-big-toe-pose-with-rope.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/reclining-big-toe-pose-with-rope.gif"
+    },
+    {
       "id": "hamstrings/runners-stretch",
       "slug": "runners-stretch",
       "name": "Runners Stretch",
@@ -4567,6 +4858,25 @@
       ],
       "file": "hamstrings/runners-stretch.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/runners-stretch.gif"
+    },
+    {
+      "id": "hamstrings/seated-wide-angle-pose-sequence",
+      "slug": "seated-wide-angle-pose-sequence",
+      "name": "Seated Wide Angle Pose Sequence",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the hamstrings before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "hamstrings/seated-wide-angle-pose-sequence.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/seated-wide-angle-pose-sequence.gif"
     },
     {
       "id": "hamstrings/self-assisted-inverse-leg-curl-1766",
@@ -4660,6 +4970,29 @@
       ],
       "file": "hamstrings/world-greatest-stretch.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/world-greatest-stretch.gif"
+    },
+    {
+      "id": "lats/alternate-lateral-pulldown",
+      "slug": "alternate-lateral-pulldown",
+      "name": "Alternate Lateral Pulldown",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the lats before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "lats/alternate-lateral-pulldown.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/alternate-lateral-pulldown.gif"
     },
     {
       "id": "lats/archer-pull-up",
@@ -5367,6 +5700,29 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/standing-lateral-stretch.gif"
     },
     {
+      "id": "lats/twin-handle-parallel-grip-lat-pulldown",
+      "slug": "twin-handle-parallel-grip-lat-pulldown",
+      "name": "Twin Handle Parallel Grip Lat Pulldown",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the lats before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "lats/twin-handle-parallel-grip-lat-pulldown.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/twin-handle-parallel-grip-lat-pulldown.gif"
+    },
+    {
       "id": "lats/weighted-close-grip-chin-up-on-dip-cage",
       "slug": "weighted-close-grip-chin-up-on-dip-cage",
       "name": "Weighted Close Grip Chin Up On Dip Cage",
@@ -5958,6 +6314,25 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/full-planche-push-up.gif"
     },
     {
+      "id": "pectorals/hands-bike",
+      "slug": "hands-bike",
+      "name": "Hands Bike",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the chest before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "pectorals/hands-bike.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/hands-bike.gif"
+    },
+    {
       "id": "pectorals/incline-push-up-depth-jump",
       "slug": "incline-push-up-depth-jump",
       "name": "Incline Push Up Depth Jump",
@@ -6045,6 +6420,44 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/incline-reverse-grip-push-up.gif"
     },
     {
+      "id": "pectorals/isometric-chest-squeeze",
+      "slug": "isometric-chest-squeeze",
+      "name": "Isometric Chest Squeeze",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the chest before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "pectorals/isometric-chest-squeeze.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/isometric-chest-squeeze.gif"
+    },
+    {
+      "id": "pectorals/isometric-wipers",
+      "slug": "isometric-wipers",
+      "name": "Isometric Wipers",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the chest before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "pectorals/isometric-wipers.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/isometric-wipers.gif"
+    },
+    {
       "id": "pectorals/kneeling-push-up-male",
       "slug": "kneeling-push-up-male",
       "name": "Kneeling Push Up Male",
@@ -6065,6 +6478,28 @@
       ],
       "file": "pectorals/kneeling-push-up-male.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/kneeling-push-up-male.gif"
+    },
+    {
+      "id": "pectorals/korean-dips",
+      "slug": "korean-dips",
+      "name": "Korean Dips",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the chest before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "pectorals/korean-dips.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/korean-dips.gif"
     },
     {
       "id": "pectorals/medicine-ball-chest-pass",
@@ -6734,6 +7169,25 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/backward-jump.gif"
     },
     {
+      "id": "quads/balance-board",
+      "slug": "balance-board",
+      "name": "Balance Board",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the quadriceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "quads/balance-board.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/balance-board.gif"
+    },
+    {
       "id": "quads/chair-leg-extended-stretch",
       "slug": "chair-leg-extended-stretch",
       "name": "Chair Leg Extended Stretch",
@@ -6825,6 +7279,44 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/lying-side-quads-stretch.gif"
     },
     {
+      "id": "quads/quads",
+      "slug": "quads",
+      "name": "Quads",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the quadriceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "quads/quads.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/quads.gif"
+    },
+    {
+      "id": "quads/quick-feet-v-2",
+      "slug": "quick-feet-v-2",
+      "name": "Quick Feet v2",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the quadriceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "quads/quick-feet-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/quick-feet-v-2.gif"
+    },
+    {
       "id": "quads/sissy-squat",
       "slug": "sissy-squat",
       "name": "Sissy Squat",
@@ -6846,6 +7338,55 @@
       ],
       "file": "quads/sissy-squat.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/sissy-squat.gif"
+    },
+    {
+      "id": "quads/snatch-pull",
+      "slug": "snatch-pull",
+      "name": "Snatch Pull",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the quadriceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "quads/snatch-pull.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/snatch-pull.gif"
+    },
+    {
+      "id": "quads/split-squats",
+      "slug": "split-squats",
+      "name": "Split Squats",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the quadriceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "quads/split-squats.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/split-squats.gif"
     },
     {
       "id": "quads/squat-jerk",
@@ -7205,6 +7746,25 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/spine/hyperextension.gif"
     },
     {
+      "id": "spine/lower-back-curl",
+      "slug": "lower-back-curl",
+      "name": "Lower Back Curl",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the lower back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "spine/lower-back-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/spine/lower-back-curl.gif"
+    },
+    {
       "id": "spine/roller-back-stretch",
       "slug": "roller-back-stretch",
       "name": "Roller Back Stretch",
@@ -7298,6 +7858,25 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/spine/two-toe-touch-male.gif"
     },
     {
+      "id": "spine/upward-facing-dog",
+      "slug": "upward-facing-dog",
+      "name": "Upward Facing Dog",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the lower back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "spine/upward-facing-dog.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/spine/upward-facing-dog.gif"
+    },
+    {
       "id": "spine/weighted-hyperextension-on-stability-ball",
       "slug": "weighted-hyperextension-on-stability-ball",
       "name": "Weighted Hyperextension On Stability Ball",
@@ -7315,6 +7894,29 @@
       ],
       "file": "spine/weighted-hyperextension-on-stability-ball.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/spine/weighted-hyperextension-on-stability-ball.gif"
+    },
+    {
+      "id": "traps/scapula-dips",
+      "slug": "scapula-dips",
+      "name": "Scapula Dips",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the traps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "traps/scapula-dips.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/traps/scapula-dips.gif"
     },
     {
       "id": "traps/scapular-pull-up",
@@ -7425,6 +8027,25 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/bench-dip-on-floor.gif"
     },
     {
+      "id": "triceps/body-up",
+      "slug": "body-up",
+      "name": "Body Up",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the triceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "triceps/body-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/body-up.gif"
+    },
+    {
       "id": "triceps/bodyweight-kneeling-triceps-extension",
       "slug": "bodyweight-kneeling-triceps-extension",
       "name": "Bodyweight Kneeling Triceps Extension",
@@ -7505,6 +8126,28 @@
       ],
       "file": "triceps/diamond-push-up.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/diamond-push-up.gif"
+    },
+    {
+      "id": "triceps/elbow-dips",
+      "slug": "elbow-dips",
+      "name": "Elbow Dips",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the triceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "triceps/elbow-dips.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/elbow-dips.gif"
     },
     {
       "id": "triceps/exercise-ball-dip",
@@ -7604,6 +8247,28 @@
       ],
       "file": "triceps/handstand.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/handstand.gif"
+    },
+    {
+      "id": "triceps/impossible-dips",
+      "slug": "impossible-dips",
+      "name": "Impossible Dips",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the triceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "triceps/impossible-dips.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/impossible-dips.gif"
     },
     {
       "id": "triceps/incline-close-grip-push-up",
@@ -7814,6 +8479,46 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/side-push-up.gif"
     },
     {
+      "id": "triceps/ski-ergometer",
+      "slug": "ski-ergometer",
+      "name": "Ski Ergometer",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the triceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "triceps/ski-ergometer.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/ski-ergometer.gif"
+    },
+    {
+      "id": "triceps/stalder-press",
+      "slug": "stalder-press",
+      "name": "Stalder Press",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the triceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "triceps/stalder-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/stalder-press.gif"
+    },
+    {
       "id": "triceps/three-bench-dip",
       "slug": "three-bench-dip",
       "name": "Three Bench Dip",
@@ -7900,6 +8605,49 @@
       ],
       "file": "triceps/triceps-dip.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/triceps-dip.gif"
+    },
+    {
+      "id": "triceps/triceps-dips-floor",
+      "slug": "triceps-dips-floor",
+      "name": "Triceps Dips Floor",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the triceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "triceps/triceps-dips-floor.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/triceps-dips-floor.gif"
+    },
+    {
+      "id": "triceps/triceps-press",
+      "slug": "triceps-press",
+      "name": "Triceps Press",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the triceps before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "triceps/triceps-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/triceps-press.gif"
     },
     {
       "id": "triceps/triceps-stretch",
@@ -8239,6 +8987,29 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/elbow-lift-reverse-push-up.gif"
     },
     {
+      "id": "upper-back/inverted-row-bent-knees",
+      "slug": "inverted-row-bent-knees",
+      "name": "Inverted Row Bent Knees",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the upper back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/inverted-row-bent-knees.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/inverted-row-bent-knees.gif"
+    },
+    {
       "id": "upper-back/inverted-row-on-bench",
       "slug": "inverted-row-on-bench",
       "name": "Inverted Row On Bench",
@@ -8260,6 +9031,75 @@
       ],
       "file": "upper-back/inverted-row-on-bench.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/inverted-row-on-bench.gif"
+    },
+    {
+      "id": "upper-back/inverted-row-v-2",
+      "slug": "inverted-row-v-2",
+      "name": "Inverted Row v2",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the upper back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/inverted-row-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/inverted-row-v-2.gif"
+    },
+    {
+      "id": "upper-back/inverted-row-with-straps",
+      "slug": "inverted-row-with-straps",
+      "name": "Inverted Row With Straps",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the upper back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/inverted-row-with-straps.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/inverted-row-with-straps.gif"
+    },
+    {
+      "id": "upper-back/inverted-row",
+      "slug": "inverted-row",
+      "name": "Inverted Row",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the upper back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/inverted-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/inverted-row.gif"
     },
     {
       "id": "upper-back/medicine-ball-overhead-slam",
@@ -8302,6 +9142,44 @@
       ],
       "file": "upper-back/one-arm-towel-row.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/one-arm-towel-row.gif"
+    },
+    {
+      "id": "upper-back/rope-climb",
+      "slug": "rope-climb",
+      "name": "Rope Climb",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the upper back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/rope-climb.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/rope-climb.gif"
+    },
+    {
+      "id": "upper-back/skin-the-cat",
+      "slug": "skin-the-cat",
+      "name": "Skin The Cat",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopt the starting position with proper body alignment.",
+        "Pre-engage the upper back before initiating the movement.",
+        "Perform the movement in a controlled manner, keeping good form.",
+        "Return to the starting position controlling the eccentric phase.",
+        "Breathe: exhale on effort, inhale on the way back."
+      ],
+      "file": "upper-back/skin-the-cat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/skin-the-cat.gif"
     },
     {
       "id": "upper-back/suspended-row",

@@ -1958,7 +1958,7 @@
     {
       "id": "delts/dumbbell-cuban-press-v-2",
       "slug": "dumbbell-cuban-press-v-2",
-      "name": "Press con mancuerna, cuban",
+      "name": "Press con mancuerna, cubano",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -1979,7 +1979,7 @@
     {
       "id": "delts/dumbbell-cuban-press",
       "slug": "dumbbell-cuban-press",
-      "name": "Press con mancuerna, cuban",
+      "name": "Press con mancuerna, cubano",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2042,7 +2042,7 @@
     {
       "id": "delts/dumbbell-full-can-lateral-raise",
       "slug": "dumbbell-full-can-lateral-raise",
-      "name": "Elevación lateral con mancuerna, completo can",
+      "name": "Elevación lateral con mancuerna, full can",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2147,7 +2147,7 @@
     {
       "id": "delts/dumbbell-iron-cross",
       "slug": "dumbbell-iron-cross",
-      "name": "Iron cross con mancuerna",
+      "name": "Iron cruzado con mancuerna",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2227,7 +2227,7 @@
     {
       "id": "delts/dumbbell-lying-on-floor-rear-delt-raise",
       "slug": "dumbbell-lying-on-floor-rear-delt-raise",
-      "name": "Pájaros con mancuerna, tumbado, suelo",
+      "name": "Pájaros con mancuerna, tumbado, en el suelo",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2538,7 +2538,7 @@
     {
       "id": "delts/dumbbell-rear-lateral-raise-support-head",
       "slug": "dumbbell-rear-lateral-raise-support-head",
-      "name": "Elevación lateral con mancuerna, posterior, support head",
+      "name": "Elevación lateral con mancuerna, posterior, support cabeza",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2784,7 +2784,7 @@
     {
       "id": "delts/dumbbell-seated-shoulder-press-parallel-grip",
       "slug": "dumbbell-seated-shoulder-press-parallel-grip",
-      "name": "Press de hombros con mancuerna, sentado, parallel",
+      "name": "Press de hombros con mancuerna, sentado, con agarre paralelo",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2927,7 +2927,7 @@
     {
       "id": "delts/dumbbell-standing-front-raise-above-head",
       "slug": "dumbbell-standing-front-raise-above-head",
-      "name": "Elevación frontal con mancuerna, de pie, above head",
+      "name": "Elevación frontal con mancuerna, de pie, por encima cabeza",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -3114,7 +3114,7 @@
     {
       "id": "forearms/dumbbell-lying-pronation-on-floor",
       "slug": "dumbbell-lying-pronation-on-floor",
-      "name": "Pronation suelo con mancuerna, tumbado",
+      "name": "Pronation con mancuerna, tumbado, en el suelo",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -3152,7 +3152,7 @@
     {
       "id": "forearms/dumbbell-lying-supination-on-floor",
       "slug": "dumbbell-lying-supination-on-floor",
-      "name": "Supination suelo con mancuerna, tumbado",
+      "name": "Supination con mancuerna, tumbado, en el suelo",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -3427,7 +3427,7 @@
     {
       "id": "glutes/dumbbell-contralateral-forward-lunge",
       "slug": "dumbbell-contralateral-forward-lunge",
-      "name": "Zancada con mancuerna, contralateral forward",
+      "name": "Zancada con mancuerna, contralateral hacia adelante",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -3521,7 +3521,7 @@
     {
       "id": "glutes/dumbbell-plyo-squat",
       "slug": "dumbbell-plyo-squat",
-      "name": "Sentadilla con mancuerna, plyo",
+      "name": "Sentadilla con mancuerna, plio",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -3831,7 +3831,7 @@
     {
       "id": "pectorals/dumbbell-decline-bench-press",
       "slug": "dumbbell-decline-bench-press",
-      "name": "Press de banca declinado con mancuerna",
+      "name": "Press con mancuerna, en banco declinado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "dumbbell",
@@ -3992,7 +3992,7 @@
     {
       "id": "pectorals/dumbbell-incline-bench-press",
       "slug": "dumbbell-incline-bench-press",
-      "name": "Press de banca inclinado con mancuerna",
+      "name": "Press con mancuerna, en banco inclinado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "dumbbell",
@@ -4937,7 +4937,7 @@
     {
       "id": "triceps/dumbbell-forward-lunge-triceps-extension",
       "slug": "dumbbell-forward-lunge-triceps-extension",
-      "name": "Extensión de tríceps con mancuerna, forward lunge",
+      "name": "Extensión de tríceps con mancuerna, hacia adelante lunge",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -5316,7 +5316,7 @@
     {
       "id": "triceps/dumbbell-one-arm-triceps-extension-on-bench",
       "slug": "dumbbell-one-arm-triceps-extension-on-bench",
-      "name": "Extensión de tríceps con mancuerna, a una mano, banco",
+      "name": "Extensión de tríceps con mancuerna, a una mano en banco",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -5335,7 +5335,7 @@
     {
       "id": "triceps/dumbbell-palms-in-incline-bench-press",
       "slug": "dumbbell-palms-in-incline-bench-press",
-      "name": "Press de banca inclinado con mancuerna, palms",
+      "name": "Press con mancuerna, en banco inclinado, palms",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -5394,7 +5394,7 @@
     {
       "id": "triceps/dumbbell-seated-bent-over-alternate-kickback",
       "slug": "dumbbell-seated-bent-over-alternate-kickback",
-      "name": "Patada de tríceps con mancuerna, sentado, alternado, doblado over",
+      "name": "Patada de tríceps con mancuerna, sentado, alternado, doblado sobre",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -5413,7 +5413,7 @@
     {
       "id": "triceps/dumbbell-seated-bent-over-triceps-extension",
       "slug": "dumbbell-seated-bent-over-triceps-extension",
-      "name": "Extensión de tríceps con mancuerna, sentado, doblado over",
+      "name": "Extensión de tríceps con mancuerna, sentado, doblado sobre",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -5527,7 +5527,7 @@
     {
       "id": "triceps/dumbbell-standing-bent-over-one-arm-triceps-extension",
       "slug": "dumbbell-standing-bent-over-one-arm-triceps-extension",
-      "name": "Extensión de tríceps con mancuerna, de pie, a una mano, doblado over",
+      "name": "Extensión de tríceps con mancuerna, de pie, a una mano, doblado sobre",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -5546,7 +5546,7 @@
     {
       "id": "triceps/dumbbell-standing-bent-over-two-arm-triceps-extension",
       "slug": "dumbbell-standing-bent-over-two-arm-triceps-extension",
-      "name": "Extensión de tríceps con mancuerna, de pie, a dos manos, doblado over",
+      "name": "Extensión de tríceps con mancuerna, de pie, a dos manos, doblado sobre",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -5857,7 +5857,7 @@
     {
       "id": "upper-back/dumbbell-reverse-grip-incline-bench-one-arm-row",
       "slug": "dumbbell-reverse-grip-incline-bench-one-arm-row",
-      "name": "Remo inclinado con mancuerna, con agarre invertido, a una mano, banco",
+      "name": "Remo con mancuerna, con agarre invertido, en banco inclinado a una mano",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "dumbbell",
@@ -5880,7 +5880,7 @@
     {
       "id": "upper-back/dumbbell-reverse-grip-incline-bench-two-arm-row",
       "slug": "dumbbell-reverse-grip-incline-bench-two-arm-row",
-      "name": "Remo inclinado con mancuerna, con agarre invertido, a dos manos, banco",
+      "name": "Remo con mancuerna, con agarre invertido, en banco inclinado a dos manos",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "dumbbell",

@@ -1,6 +1,6 @@
 {
   "equipment": "bodyweight",
-  "count": 415,
+  "count": 458,
   "exercises": [
     {
       "id": "abductors/side-bridge-hip-abduction",
@@ -122,7 +122,7 @@
     {
       "id": "abs/alternate-heel-touchers",
       "slug": "alternate-heel-touchers",
-      "name": "Toques de talón, alternado",
+      "name": "Toques de talón alternados",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -141,7 +141,7 @@
     {
       "id": "abs/arm-slingers-hanging-bent-knee-legs",
       "slug": "arm-slingers-hanging-bent-knee-legs",
-      "name": "Arm slingers, colgado, con rodillas flexionadas, piernas",
+      "name": "Arm slingers, colgado, con rodillas flexionadas",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -198,7 +198,7 @@
     {
       "id": "abs/assisted-hanging-knee-raise-with-throw-down",
       "slug": "assisted-hanging-knee-raise-with-throw-down",
-      "name": "Elevación de rodillas en barra, asistido, throw down",
+      "name": "Elevación de rodillas en barra, asistido con lanzamiento",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -236,7 +236,7 @@
     {
       "id": "abs/assisted-lying-leg-raise-with-lateral-throw-down",
       "slug": "assisted-lying-leg-raise-with-lateral-throw-down",
-      "name": "Elevación de piernas, tumbado, asistido, lateral throw down",
+      "name": "Elevación de piernas, tumbado, asistido con lanzamiento lateral",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -255,7 +255,7 @@
     {
       "id": "abs/assisted-lying-leg-raise-with-throw-down",
       "slug": "assisted-lying-leg-raise-with-throw-down",
-      "name": "Elevación de piernas, tumbado, asistido, throw down",
+      "name": "Elevación de piernas, tumbado, asistido con lanzamiento",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -390,6 +390,25 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/bridge-mountain-climber-cross-body.gif"
     },
     {
+      "id": "abs/butt-ups",
+      "slug": "butt-ups",
+      "name": "Butt-ups",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa el core antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "abs/butt-ups.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/butt-ups.gif"
+    },
+    {
       "id": "abs/captains-chair-straight-leg-raise",
       "slug": "captains-chair-straight-leg-raise",
       "name": "Elevación de piernas rectas en silla del capitán",
@@ -487,7 +506,7 @@
     {
       "id": "abs/crunch-hands-overhead",
       "slug": "crunch-hands-overhead",
-      "name": "Crunch sobre la cabeza, hands",
+      "name": "Crunch, con manos sobre la cabeza",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -506,7 +525,7 @@
     {
       "id": "abs/crunch-on-stability-ball-arms-straight",
       "slug": "crunch-on-stability-ball-arms-straight",
-      "name": "Crunch, en fitball, brazos recto",
+      "name": "Crunch, en fitball con brazos rectos",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -658,7 +677,7 @@
     {
       "id": "abs/flexion-leg-sit-up-bent-knee",
       "slug": "flexion-leg-sit-up-bent-knee",
-      "name": "Abdominal con piernas flexionadas, con rodillas flexionadas",
+      "name": "Abdominal con piernas flexionadas, con rodillas",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -1117,7 +1136,7 @@
     {
       "id": "abs/knee-touch-crunch",
       "slug": "knee-touch-crunch",
-      "name": "Crunch, rodilla touch",
+      "name": "Crunch, rodilla toque",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -1158,7 +1177,7 @@
     {
       "id": "abs/l-sit-on-floor",
       "slug": "l-sit-on-floor",
-      "name": "L-sit, suelo",
+      "name": "L-sit, en el suelo",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -1196,7 +1215,7 @@
     {
       "id": "abs/leg-pull-in-flat-bench",
       "slug": "leg-pull-in-flat-bench",
-      "name": "Pull-in de piernas plano, banco",
+      "name": "Pull-in de piernas, en banco plano",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -1276,7 +1295,7 @@
     {
       "id": "abs/lying-leg-raise-flat-bench",
       "slug": "lying-leg-raise-flat-bench",
-      "name": "Elevación de piernas plano, tumbado, banco",
+      "name": "Elevación de piernas, tumbado, en banco plano",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -1329,6 +1348,25 @@
       ],
       "file": "abs/oblique-crunch-v-2.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/oblique-crunch-v-2.gif"
+    },
+    {
+      "id": "abs/oblique-crunches-floor",
+      "slug": "oblique-crunches-floor",
+      "name": "Crunch oblicuo en el suelo",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa el core antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "abs/oblique-crunches-floor.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/abs/oblique-crunches-floor.gif"
     },
     {
       "id": "abs/one-arm-slam-with-medicine-ball",
@@ -1390,7 +1428,7 @@
     {
       "id": "abs/posterior-step-to-overhead-reach",
       "slug": "posterior-step-to-overhead-reach",
-      "name": "Posterior step reach sobre la cabeza",
+      "name": "Paso posterior con alcance sobre la cabeza",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -1689,7 +1727,7 @@
     {
       "id": "abs/shoulder-tap",
       "slug": "shoulder-tap",
-      "name": "Hombro tap",
+      "name": "Toque de hombro",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -1824,7 +1862,7 @@
     {
       "id": "abs/spine-twist",
       "slug": "spine-twist",
-      "name": "Giro, columna",
+      "name": "Giro de columna",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -1843,7 +1881,7 @@
     {
       "id": "abs/stability-ball-crunch-full-range-hands-behind-head",
       "slug": "stability-ball-crunch-full-range-hands-behind-head",
-      "name": "Crunch en fitball, completo range hands behind head",
+      "name": "Crunch en fitball, en rango completo con manos detrás de la cabeza",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -1862,7 +1900,7 @@
     {
       "id": "abs/standing-wheel-rollerout",
       "slug": "standing-wheel-rollerout",
-      "name": "Wheel rollerout, de pie",
+      "name": "De pie, rueda abdominal",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2014,7 +2052,7 @@
     {
       "id": "abs/v-sit-on-floor",
       "slug": "v-sit-on-floor",
-      "name": "Sit suelo",
+      "name": "V-sit en el suelo",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2245,7 +2283,7 @@
     {
       "id": "abs/wheel-rollerout",
       "slug": "wheel-rollerout",
-      "name": "Wheel rollerout",
+      "name": "Rueda abdominal",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2264,7 +2302,7 @@
     {
       "id": "abs/wind-sprints",
       "slug": "wind-sprints",
-      "name": "Wind sprints",
+      "name": "Sprints",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2301,7 +2339,7 @@
     {
       "id": "adductors/butterfly-yoga-pose",
       "slug": "butterfly-yoga-pose",
-      "name": "Butterfly yoga pose",
+      "name": "Postura de mariposa",
       "muscle": "adductors",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -2362,7 +2400,7 @@
     {
       "id": "biceps/biceps-leg-concentration-curl",
       "slug": "biceps-leg-concentration-curl",
-      "name": "Curl concentrado, bíceps pierna",
+      "name": "Curl concentrado, de bíceps, a una pierna",
       "muscle": "biceps",
       "bodyPart": "arms",
       "equipment": "bodyweight",
@@ -2490,7 +2528,7 @@
     {
       "id": "calves/ankle-circles",
       "slug": "ankle-circles",
-      "name": "Tobillo circles",
+      "name": "Círculos de tobillo",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -2564,7 +2602,7 @@
     {
       "id": "calves/calf-push-stretch-with-hands-against-wall",
       "slug": "calf-push-stretch-with-hands-against-wall",
-      "name": "Estiramiento, gemelo push hands against pared",
+      "name": "Estiramiento, con manos en la pared, gemelo push",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -2582,7 +2620,7 @@
     {
       "id": "calves/calf-stretch-with-hands-against-wall",
       "slug": "calf-stretch-with-hands-against-wall",
-      "name": "Estiramiento, gemelo hands against pared",
+      "name": "Estiramiento, con manos en la pared, gemelo",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -2636,7 +2674,7 @@
     {
       "id": "calves/donkey-calf-raise",
       "slug": "donkey-calf-raise",
-      "name": "Elevación de talones, donkey",
+      "name": "Elevación de talones burro",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -2712,7 +2750,7 @@
     {
       "id": "calves/one-leg-donkey-calf-raise",
       "slug": "one-leg-donkey-calf-raise",
-      "name": "Elevación de talones, a una pierna, donkey",
+      "name": "Elevación de talones burro, a una pierna",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -2731,7 +2769,7 @@
     {
       "id": "calves/one-leg-floor-calf-raise",
       "slug": "one-leg-floor-calf-raise",
-      "name": "Elevación de talones, a una pierna, suelo",
+      "name": "Elevación de talones en el suelo, a una pierna",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -2804,7 +2842,7 @@
     {
       "id": "calves/standing-calf-raise-on-a-staircase",
       "slug": "standing-calf-raise-on-a-staircase",
-      "name": "Elevación de talones, de pie, staircase",
+      "name": "Elevación de talones de pie, en escalera",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -2823,7 +2861,7 @@
     {
       "id": "calves/standing-calves-calf-stretch",
       "slug": "standing-calves-calf-stretch",
-      "name": "Estiramiento, de pie, gemelos gemelo",
+      "name": "Estiramiento, gemelos de pie, gemelo",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -2841,7 +2879,7 @@
     {
       "id": "calves/standing-calves",
       "slug": "standing-calves",
-      "name": "Gemelos, de pie",
+      "name": "Gemelos de pie",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -2860,7 +2898,7 @@
     {
       "id": "calves/weighted-donkey-calf-raise",
       "slug": "weighted-donkey-calf-raise",
-      "name": "Elevación de talones, con peso, donkey",
+      "name": "Con peso elevación de talones burro",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -2879,7 +2917,7 @@
     {
       "id": "cardio/astride-jumps-male",
       "slug": "astride-jumps-male",
-      "name": "Saltos, astride",
+      "name": "Saltos a horcajadas",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -2897,7 +2935,7 @@
     {
       "id": "cardio/back-and-forth-step",
       "slug": "back-and-forth-step",
-      "name": "Espalda forth step",
+      "name": "Paso adelante y atrás",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -2915,7 +2953,7 @@
     {
       "id": "cardio/bear-crawl",
       "slug": "bear-crawl",
-      "name": "Bear crawl",
+      "name": "Paseo del oso",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -2957,7 +2995,7 @@
     {
       "id": "cardio/half-knee-bends-male",
       "slug": "half-knee-bends-male",
-      "name": "Medio rodilla bends",
+      "name": "Flexiones de rodilla",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -2975,7 +3013,7 @@
     {
       "id": "cardio/high-knee-against-wall",
       "slug": "high-knee-against-wall",
-      "name": "Rodilla against pared, alto",
+      "name": "Rodilla contra pared, alto",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -3183,7 +3221,7 @@
     {
       "id": "cardio/skater-hops",
       "slug": "skater-hops",
-      "name": "Skater hops",
+      "name": "Saltos de patinador",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -3201,7 +3239,7 @@
     {
       "id": "cardio/ski-step",
       "slug": "ski-step",
-      "name": "Ski step",
+      "name": "Paso de esquí",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -3273,7 +3311,7 @@
     {
       "id": "cardio/swing-360",
       "slug": "swing-360",
-      "name": "Swing",
+      "name": "Swing 360",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -3338,7 +3376,7 @@
     {
       "id": "delts/left-hook-boxing",
       "slug": "left-hook-boxing",
-      "name": "Left hook boxing",
+      "name": "Gancho izquierdo de boxeo",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "bodyweight",
@@ -3375,7 +3413,7 @@
     {
       "id": "delts/standing-behind-neck-press",
       "slug": "standing-behind-neck-press",
-      "name": "Press, de pie, behind cuello",
+      "name": "Press, de pie, tras la nuca",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "bodyweight",
@@ -3417,7 +3455,7 @@
     {
       "id": "delts/weighted-kneeling-step-with-swing",
       "slug": "weighted-kneeling-step-with-swing",
-      "name": "Swing, de rodillas, con peso, step",
+      "name": "Swing, de rodillas, con peso, paso",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "bodyweight",
@@ -3457,6 +3495,25 @@
       ],
       "file": "delts/weighted-round-arm.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/delts/weighted-round-arm.gif"
+    },
+    {
+      "id": "forearms/finger-curls",
+      "slug": "finger-curls",
+      "name": "Curl de dedos",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los antebrazos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "forearms/finger-curls.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/finger-curls.gif"
     },
     {
       "id": "forearms/modified-push-up-to-lower-arms",
@@ -3516,6 +3573,44 @@
       ],
       "file": "forearms/weighted-standing-hand-squeeze.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/weighted-standing-hand-squeeze.gif"
+    },
+    {
+      "id": "forearms/wrist-circles",
+      "slug": "wrist-circles",
+      "name": "Círculos de muñeca",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los antebrazos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "forearms/wrist-circles.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/wrist-circles.gif"
+    },
+    {
+      "id": "forearms/wrist-rollerer",
+      "slug": "wrist-rollerer",
+      "name": "Enrollador de muñeca",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los antebrazos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "forearms/wrist-rollerer.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/forearms/wrist-rollerer.gif"
     },
     {
       "id": "glutes/arms-apart-circular-toe-touch-male",
@@ -3611,6 +3706,25 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/bench-hip-extension.gif"
     },
     {
+      "id": "glutes/bent-knee-lying-twist-male",
+      "slug": "bent-knee-lying-twist-male",
+      "name": "Giro, tumbado con rodillas flexionadas",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "glutes/bent-knee-lying-twist-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/bent-knee-lying-twist-male.gif"
+    },
+    {
       "id": "glutes/bodyweight-drop-jump-squat",
       "slug": "bodyweight-drop-jump-squat",
       "name": "Sentadilla con salto con peso corporal, drop",
@@ -3693,7 +3807,7 @@
     {
       "id": "glutes/exercise-ball-one-legged-diagonal-kick-hamstring-curl",
       "slug": "exercise-ball-one-legged-diagonal-kick-hamstring-curl",
-      "name": "Curl en fitball, one legged diagonal kick isquiotibial",
+      "name": "Curl en fitball, one legged diagonal patada isquiotibial",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3731,7 +3845,7 @@
     {
       "id": "glutes/forward-lunge-male",
       "slug": "forward-lunge-male",
-      "name": "Zancada, forward",
+      "name": "Zancada, hacia adelante",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3797,7 +3911,7 @@
     {
       "id": "glutes/glute-bridge-two-legs-on-bench-male",
       "slug": "glute-bridge-two-legs-on-bench-male",
-      "name": "Puente de glúteos, a dos piernas, banco",
+      "name": "Puente de glúteos, a dos piernas en banco",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3819,7 +3933,7 @@
     {
       "id": "glutes/hands-clasped-circular-toe-touch-male",
       "slug": "hands-clasped-circular-toe-touch-male",
-      "name": "Tocar punta del pie, hands clasped circular",
+      "name": "Tocar punta del pie, manos clasped circular",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3838,7 +3952,7 @@
     {
       "id": "glutes/hands-reversed-clasped-circular-toe-touch-male",
       "slug": "hands-reversed-clasped-circular-toe-touch-male",
-      "name": "Tocar punta del pie, hands reversed clasped circular",
+      "name": "Tocar punta del pie, manos reversed clasped circular",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3855,9 +3969,28 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/hands-reversed-clasped-circular-toe-touch-male.gif"
     },
     {
+      "id": "glutes/hug-keens-to-chest",
+      "slug": "hug-keens-to-chest",
+      "name": "Abrazar rodillas al pecho",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "glutes/hug-keens-to-chest.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/hug-keens-to-chest.gif"
+    },
+    {
       "id": "glutes/iron-cross-stretch",
       "slug": "iron-cross-stretch",
-      "name": "Estiramiento, iron cross",
+      "name": "Estiramiento, iron cruzado",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3938,7 +4071,7 @@
     {
       "id": "glutes/low-glute-bridge-on-floor",
       "slug": "low-glute-bridge-on-floor",
-      "name": "Puente de glúteos, bajo, suelo",
+      "name": "Puente de glúteos, bajo en el suelo",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -4041,7 +4174,7 @@
     {
       "id": "glutes/outside-leg-kick-push-up",
       "slug": "outside-leg-kick-push-up",
-      "name": "Flexión, externo pierna kick",
+      "name": "Flexión, externo pierna patada",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -4129,7 +4262,7 @@
     {
       "id": "glutes/push-up-inside-leg-kick",
       "slug": "push-up-inside-leg-kick",
-      "name": "Flexión, interno pierna kick",
+      "name": "Flexión, interno pierna patada",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -4192,7 +4325,7 @@
     {
       "id": "glutes/reverse-hyper-on-flat-bench",
       "slug": "reverse-hyper-on-flat-bench",
-      "name": "Hyper banco invertido plano",
+      "name": "Hyper invertido, en banco plano",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -4301,7 +4434,7 @@
     {
       "id": "glutes/single-leg-bridge-with-outstretched-leg",
       "slug": "single-leg-bridge-with-outstretched-leg",
-      "name": "Puente, a una pierna, outstretched pierna",
+      "name": "Puente, a una pierna con extendida",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -4363,6 +4496,63 @@
       ],
       "file": "glutes/spider-crawl-push-up.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/spider-crawl-push-up.gif"
+    },
+    {
+      "id": "glutes/swimmer-kicks-v-2-male",
+      "slug": "swimmer-kicks-v-2-male",
+      "name": "Patadas de nadador",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "glutes/swimmer-kicks-v-2-male.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/swimmer-kicks-v-2-male.gif"
+    },
+    {
+      "id": "glutes/tire-flip",
+      "slug": "tire-flip",
+      "name": "Volteo de neumático",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "glutes/tire-flip.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/tire-flip.gif"
+    },
+    {
+      "id": "glutes/twist-hip-lift",
+      "slug": "twist-hip-lift",
+      "name": "Elevación de cadera con giro",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los glúteos antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "glutes/twist-hip-lift.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/twist-hip-lift.gif"
     },
     {
       "id": "glutes/walking-lunge",
@@ -4478,6 +4668,25 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/glutes/weighted-stretch-lunge.gif"
     },
     {
+      "id": "hamstrings/assisted-prone-hamstring",
+      "slug": "assisted-prone-hamstring",
+      "name": "Estiramiento de isquiotibiales asistido, boca abajo",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los isquiotibiales antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "hamstrings/assisted-prone-hamstring.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/assisted-prone-hamstring.gif"
+    },
+    {
       "id": "hamstrings/exercise-ball-seated-hamstring-stretch",
       "slug": "exercise-ball-seated-hamstring-stretch",
       "name": "Estiramiento en fitball, sentado, isquiotibial",
@@ -4494,6 +4703,25 @@
       ],
       "file": "hamstrings/exercise-ball-seated-hamstring-stretch.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/exercise-ball-seated-hamstring-stretch.gif"
+    },
+    {
+      "id": "hamstrings/glute-ham-raise",
+      "slug": "glute-ham-raise",
+      "name": "Glute ham raise",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los isquiotibiales antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "hamstrings/glute-ham-raise.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/glute-ham-raise.gif"
     },
     {
       "id": "hamstrings/hamstring-stretch",
@@ -4533,6 +4761,25 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/inverse-leg-curl-bench-support.gif"
     },
     {
+      "id": "hamstrings/kick-out-sit",
+      "slug": "kick-out-sit",
+      "name": "Kick-out sit",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los isquiotibiales antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "hamstrings/kick-out-sit.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/kick-out-sit.gif"
+    },
+    {
       "id": "hamstrings/leg-up-hamstring-stretch",
       "slug": "leg-up-hamstring-stretch",
       "name": "Estiramiento, pierna up isquiotibial",
@@ -4551,6 +4798,50 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/leg-up-hamstring-stretch.gif"
     },
     {
+      "id": "hamstrings/power-clean",
+      "slug": "power-clean",
+      "name": "Cargada de potencia",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los isquiotibiales antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "hamstrings/power-clean.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/power-clean.gif"
+    },
+    {
+      "id": "hamstrings/reclining-big-toe-pose-with-rope",
+      "slug": "reclining-big-toe-pose-with-rope",
+      "name": "Postura del pulgar reclinado con cuerda",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los isquiotibiales antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "hamstrings/reclining-big-toe-pose-with-rope.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/reclining-big-toe-pose-with-rope.gif"
+    },
+    {
       "id": "hamstrings/runners-stretch",
       "slug": "runners-stretch",
       "name": "Estiramiento, runners",
@@ -4567,6 +4858,25 @@
       ],
       "file": "hamstrings/runners-stretch.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/runners-stretch.gif"
+    },
+    {
+      "id": "hamstrings/seated-wide-angle-pose-sequence",
+      "slug": "seated-wide-angle-pose-sequence",
+      "name": "Secuencia ángulo amplio sentado",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los isquiotibiales antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "hamstrings/seated-wide-angle-pose-sequence.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/seated-wide-angle-pose-sequence.gif"
     },
     {
       "id": "hamstrings/self-assisted-inverse-leg-curl-1766",
@@ -4590,7 +4900,7 @@
     {
       "id": "hamstrings/self-assisted-inverse-leg-curl-on-floor",
       "slug": "self-assisted-inverse-leg-curl-on-floor",
-      "name": "Curl femoral nórdico, asistido, self suelo",
+      "name": "Curl femoral nórdico, asistido en el suelo, self",
       "muscle": "hamstrings",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -4662,9 +4972,32 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/hamstrings/world-greatest-stretch.gif"
     },
     {
+      "id": "lats/alternate-lateral-pulldown",
+      "slug": "alternate-lateral-pulldown",
+      "name": "Jalón al pecho, alternado lateral",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los dorsales antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "lats/alternate-lateral-pulldown.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/alternate-lateral-pulldown.gif"
+    },
+    {
       "id": "lats/archer-pull-up",
       "slug": "archer-pull-up",
-      "name": "Dominada, archer",
+      "name": "Dominada, del arquero",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -5098,7 +5431,7 @@
     {
       "id": "lats/one-arm-against-wall",
       "slug": "one-arm-against-wall",
-      "name": "Against pared, a una mano",
+      "name": "Contra pared, a una mano",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -5232,7 +5565,7 @@
     {
       "id": "lats/rocky-pull-up-pulldown",
       "slug": "rocky-pull-up-pulldown",
-      "name": "Dominada, rocky pulldown",
+      "name": "Dominada, rocky, pulldown",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -5365,6 +5698,29 @@
       ],
       "file": "lats/standing-lateral-stretch.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/standing-lateral-stretch.gif"
+    },
+    {
+      "id": "lats/twin-handle-parallel-grip-lat-pulldown",
+      "slug": "twin-handle-parallel-grip-lat-pulldown",
+      "name": "Jalón al pecho, con doble agarre con paralelo",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los dorsales antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "lats/twin-handle-parallel-grip-lat-pulldown.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/lats/twin-handle-parallel-grip-lat-pulldown.gif"
     },
     {
       "id": "lats/weighted-close-grip-chin-up-on-dip-cage",
@@ -5644,7 +6000,7 @@
     {
       "id": "pectorals/behind-head-chest-stretch",
       "slug": "behind-head-chest-stretch",
-      "name": "Estiramiento, behind head pecho",
+      "name": "Estiramiento, tras la nuca, pecho",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "bodyweight",
@@ -5958,6 +6314,25 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/full-planche-push-up.gif"
     },
     {
+      "id": "pectorals/hands-bike",
+      "slug": "hands-bike",
+      "name": "Bicicleta con manos",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa el pectoral antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "pectorals/hands-bike.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/hands-bike.gif"
+    },
+    {
       "id": "pectorals/incline-push-up-depth-jump",
       "slug": "incline-push-up-depth-jump",
       "name": "Flexión inclinada, depth jump",
@@ -6045,6 +6420,44 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/incline-reverse-grip-push-up.gif"
     },
     {
+      "id": "pectorals/isometric-chest-squeeze",
+      "slug": "isometric-chest-squeeze",
+      "name": "Contracción isométrica de pecho",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa el pectoral antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "pectorals/isometric-chest-squeeze.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/isometric-chest-squeeze.gif"
+    },
+    {
+      "id": "pectorals/isometric-wipers",
+      "slug": "isometric-wipers",
+      "name": "Limpiaparabrisas isométricos",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa el pectoral antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "pectorals/isometric-wipers.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/isometric-wipers.gif"
+    },
+    {
       "id": "pectorals/kneeling-push-up-male",
       "slug": "kneeling-push-up-male",
       "name": "Flexión, de rodillas",
@@ -6065,6 +6478,28 @@
       ],
       "file": "pectorals/kneeling-push-up-male.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/kneeling-push-up-male.gif"
+    },
+    {
+      "id": "pectorals/korean-dips",
+      "slug": "korean-dips",
+      "name": "Fondos coreanos",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa el pectoral antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "pectorals/korean-dips.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/pectorals/korean-dips.gif"
     },
     {
       "id": "pectorals/medicine-ball-chest-pass",
@@ -6718,7 +7153,7 @@
     {
       "id": "quads/backward-jump",
       "slug": "backward-jump",
-      "name": "Salto, backward",
+      "name": "Salto, hacia atrás",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -6732,6 +7167,25 @@
       ],
       "file": "quads/backward-jump.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/backward-jump.gif"
+    },
+    {
+      "id": "quads/balance-board",
+      "slug": "balance-board",
+      "name": "Tabla de equilibrio",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "quads/balance-board.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/balance-board.gif"
     },
     {
       "id": "quads/chair-leg-extended-stretch",
@@ -6773,7 +7227,7 @@
     {
       "id": "quads/forward-jump",
       "slug": "forward-jump",
-      "name": "Salto, forward",
+      "name": "Salto, hacia adelante",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -6825,6 +7279,44 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/lying-side-quads-stretch.gif"
     },
     {
+      "id": "quads/quads",
+      "slug": "quads",
+      "name": "Cuádriceps",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "quads/quads.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/quads.gif"
+    },
+    {
+      "id": "quads/quick-feet-v-2",
+      "slug": "quick-feet-v-2",
+      "name": "Pies rápidos",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "quads/quick-feet-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/quick-feet-v-2.gif"
+    },
+    {
       "id": "quads/sissy-squat",
       "slug": "sissy-squat",
       "name": "Sissy squat",
@@ -6848,9 +7340,58 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/sissy-squat.gif"
     },
     {
+      "id": "quads/snatch-pull",
+      "slug": "snatch-pull",
+      "name": "Snatch pull",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "quads/snatch-pull.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/snatch-pull.gif"
+    },
+    {
+      "id": "quads/split-squats",
+      "slug": "split-squats",
+      "name": "Split squat",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los cuádriceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "quads/split-squats.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/quads/split-squats.gif"
+    },
+    {
       "id": "quads/squat-jerk",
       "slug": "squat-jerk",
-      "name": "Envión, squat",
+      "name": "Envión, sentadilla",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -6900,7 +7441,7 @@
     {
       "id": "quads/squat-to-overhead-reach-with-twist",
       "slug": "squat-to-overhead-reach-with-twist",
-      "name": "Sentadilla sobre la cabeza, reach twist",
+      "name": "Sentadilla, con alcance sobre la cabeza, twist",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -6923,7 +7464,7 @@
     {
       "id": "quads/squat-to-overhead-reach",
       "slug": "squat-to-overhead-reach",
-      "name": "Sentadilla sobre la cabeza, reach",
+      "name": "Sentadilla, con alcance sobre la cabeza",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -7055,7 +7596,7 @@
     {
       "id": "spine/exercise-ball-back-extension-with-arms-extended",
       "slug": "exercise-ball-back-extension-with-arms-extended",
-      "name": "Extensión en fitball, espalda brazos extended",
+      "name": "Extensión en fitball, con brazos extendidos, espalda",
       "muscle": "spine",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -7074,7 +7615,7 @@
     {
       "id": "spine/exercise-ball-back-extension-with-hands-behind-head",
       "slug": "exercise-ball-back-extension-with-hands-behind-head",
-      "name": "Extensión en fitball, espalda hands behind head",
+      "name": "Extensión en fitball, con manos detrás de la cabeza, espalda",
       "muscle": "spine",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -7131,7 +7672,7 @@
     {
       "id": "spine/exercise-ball-hug",
       "slug": "exercise-ball-hug",
-      "name": "Hug en fitball",
+      "name": "Abrazar en fitball",
       "muscle": "spine",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -7169,7 +7710,7 @@
     {
       "id": "spine/hyperextension-on-bench",
       "slug": "hyperextension-on-bench",
-      "name": "Hyperextension banco",
+      "name": "Hyperextension, en banco",
       "muscle": "spine",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -7203,6 +7744,25 @@
       ],
       "file": "spine/hyperextension.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/spine/hyperextension.gif"
+    },
+    {
+      "id": "spine/lower-back-curl",
+      "slug": "lower-back-curl",
+      "name": "Extensión lumbar",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa la zona lumbar antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "spine/lower-back-curl.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/spine/lower-back-curl.gif"
     },
     {
       "id": "spine/roller-back-stretch",
@@ -7298,6 +7858,25 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/spine/two-toe-touch-male.gif"
     },
     {
+      "id": "spine/upward-facing-dog",
+      "slug": "upward-facing-dog",
+      "name": "Perro boca arriba",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa la zona lumbar antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "spine/upward-facing-dog.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/spine/upward-facing-dog.gif"
+    },
+    {
       "id": "spine/weighted-hyperextension-on-stability-ball",
       "slug": "weighted-hyperextension-on-stability-ball",
       "name": "Hyperextension, con peso en fitball",
@@ -7315,6 +7894,29 @@
       ],
       "file": "spine/weighted-hyperextension-on-stability-ball.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/spine/weighted-hyperextension-on-stability-ball.gif"
+    },
+    {
+      "id": "traps/scapula-dips",
+      "slug": "scapula-dips",
+      "name": "Fondos escapulares",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los trapecios antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "traps/scapula-dips.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/traps/scapula-dips.gif"
     },
     {
       "id": "traps/scapular-pull-up",
@@ -7405,7 +8007,7 @@
     {
       "id": "triceps/bench-dip-on-floor",
       "slug": "bench-dip-on-floor",
-      "name": "Fondo en banco, suelo",
+      "name": "Fondo en banco, en el suelo",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "bodyweight",
@@ -7423,6 +8025,25 @@
       ],
       "file": "triceps/bench-dip-on-floor.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/bench-dip-on-floor.gif"
+    },
+    {
+      "id": "triceps/body-up",
+      "slug": "body-up",
+      "name": "Body-up",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los tríceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "triceps/body-up.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/body-up.gif"
     },
     {
       "id": "triceps/bodyweight-kneeling-triceps-extension",
@@ -7505,6 +8126,28 @@
       ],
       "file": "triceps/diamond-push-up.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/diamond-push-up.gif"
+    },
+    {
+      "id": "triceps/elbow-dips",
+      "slug": "elbow-dips",
+      "name": "Fondos de codo",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los tríceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "triceps/elbow-dips.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/elbow-dips.gif"
     },
     {
       "id": "triceps/exercise-ball-dip",
@@ -7604,6 +8247,28 @@
       ],
       "file": "triceps/handstand.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/handstand.gif"
+    },
+    {
+      "id": "triceps/impossible-dips",
+      "slug": "impossible-dips",
+      "name": "Fondos impossible",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los tríceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "triceps/impossible-dips.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/impossible-dips.gif"
     },
     {
       "id": "triceps/incline-close-grip-push-up",
@@ -7814,6 +8479,46 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/side-push-up.gif"
     },
     {
+      "id": "triceps/ski-ergometer",
+      "slug": "ski-ergometer",
+      "name": "Esquí ergómetro",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los tríceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "triceps/ski-ergometer.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/ski-ergometer.gif"
+    },
+    {
+      "id": "triceps/stalder-press",
+      "slug": "stalder-press",
+      "name": "Stalder press",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los tríceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "triceps/stalder-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/stalder-press.gif"
+    },
+    {
       "id": "triceps/three-bench-dip",
       "slug": "three-bench-dip",
       "name": "Fondo en banco, three",
@@ -7900,6 +8605,49 @@
       ],
       "file": "triceps/triceps-dip.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/triceps-dip.gif"
+    },
+    {
+      "id": "triceps/triceps-dips-floor",
+      "slug": "triceps-dips-floor",
+      "name": "Fondos de tríceps en el suelo",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los tríceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "triceps/triceps-dips-floor.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/triceps-dips-floor.gif"
+    },
+    {
+      "id": "triceps/triceps-press",
+      "slug": "triceps-press",
+      "name": "Press de tríceps",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa los tríceps antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "triceps/triceps-press.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/triceps/triceps-press.gif"
     },
     {
       "id": "triceps/triceps-stretch",
@@ -8200,7 +8948,7 @@
     {
       "id": "upper-back/chin-ups-narrow-parallel-grip",
       "slug": "chin-ups-narrow-parallel-grip",
-      "name": "Dominadas supinas, estrecho, parallel",
+      "name": "Dominadas supinas, estrecho con agarre paralelo",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -8239,9 +8987,32 @@
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/elbow-lift-reverse-push-up.gif"
     },
     {
+      "id": "upper-back/inverted-row-bent-knees",
+      "slug": "inverted-row-bent-knees",
+      "name": "Remo invertido, con rodillas flexionadas",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "upper-back/inverted-row-bent-knees.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/inverted-row-bent-knees.gif"
+    },
+    {
       "id": "upper-back/inverted-row-on-bench",
       "slug": "inverted-row-on-bench",
-      "name": "Remo invertido, banco",
+      "name": "Remo invertido, en banco",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -8260,6 +9031,75 @@
       ],
       "file": "upper-back/inverted-row-on-bench.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/inverted-row-on-bench.gif"
+    },
+    {
+      "id": "upper-back/inverted-row-v-2",
+      "slug": "inverted-row-v-2",
+      "name": "Remo invertido",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "upper-back/inverted-row-v-2.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/inverted-row-v-2.gif"
+    },
+    {
+      "id": "upper-back/inverted-row-with-straps",
+      "slug": "inverted-row-with-straps",
+      "name": "Remo invertido, con correas",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "upper-back/inverted-row-with-straps.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/inverted-row-with-straps.gif"
+    },
+    {
+      "id": "upper-back/inverted-row",
+      "slug": "inverted-row",
+      "name": "Remo invertido",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "upper-back/inverted-row.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/inverted-row.gif"
     },
     {
       "id": "upper-back/medicine-ball-overhead-slam",
@@ -8302,6 +9142,44 @@
       ],
       "file": "upper-back/one-arm-towel-row.gif",
       "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/one-arm-towel-row.gif"
+    },
+    {
+      "id": "upper-back/rope-climb",
+      "slug": "rope-climb",
+      "name": "Subida por cuerda",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "upper-back/rope-climb.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/rope-climb.gif"
+    },
+    {
+      "id": "upper-back/skin-the-cat",
+      "slug": "skin-the-cat",
+      "name": "Skin the cat",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Adopta la postura inicial con buena alineación corporal.",
+        "Activa la espalda alta antes de iniciar el movimiento.",
+        "Realiza el movimiento de forma controlada manteniendo la técnica.",
+        "Vuelve a la posición inicial controlando la fase excéntrica.",
+        "Mantén la respiración: exhala en el esfuerzo, inhala al volver."
+      ],
+      "file": "upper-back/skin-the-cat.gif",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/upper-back/skin-the-cat.gif"
     },
     {
       "id": "upper-back/suspended-row",

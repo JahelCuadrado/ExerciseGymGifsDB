@@ -5,7 +5,7 @@
     {
       "id": "cardio/astride-jumps-male",
       "slug": "astride-jumps-male",
-      "name": "Saltos, astride",
+      "name": "Saltos a horcajadas",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -23,7 +23,7 @@
     {
       "id": "cardio/back-and-forth-step",
       "slug": "back-and-forth-step",
-      "name": "Espalda forth step",
+      "name": "Paso adelante y atrás",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -41,7 +41,7 @@
     {
       "id": "cardio/bear-crawl",
       "slug": "bear-crawl",
-      "name": "Bear crawl",
+      "name": "Paseo del oso",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -83,7 +83,7 @@
     {
       "id": "cardio/cycle-cross-trainer",
       "slug": "cycle-cross-trainer",
-      "name": "Cycle cross trainer",
+      "name": "Bicicleta elíptica",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "machine",
@@ -125,7 +125,7 @@
     {
       "id": "cardio/half-knee-bends-male",
       "slug": "half-knee-bends-male",
-      "name": "Medio rodilla bends",
+      "name": "Flexiones de rodilla",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -143,7 +143,7 @@
     {
       "id": "cardio/high-knee-against-wall",
       "slug": "high-knee-against-wall",
-      "name": "Rodilla against pared, alto",
+      "name": "Rodilla contra pared, alto",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -351,7 +351,7 @@
     {
       "id": "cardio/skater-hops",
       "slug": "skater-hops",
-      "name": "Skater hops",
+      "name": "Saltos de patinador",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -369,7 +369,7 @@
     {
       "id": "cardio/ski-step",
       "slug": "ski-step",
-      "name": "Ski step",
+      "name": "Paso de esquí",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -441,7 +441,7 @@
     {
       "id": "cardio/swing-360",
       "slug": "swing-360",
-      "name": "Swing",
+      "name": "Swing 360",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -466,7 +466,7 @@
     {
       "id": "cardio/walk-elliptical-cross-trainer",
       "slug": "walk-elliptical-cross-trainer",
-      "name": "Caminata elíptica cross trainer",
+      "name": "Caminata elíptica cruzado trainer",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "machine",
@@ -524,7 +524,7 @@
     {
       "id": "cardio/walking-on-stepmill",
       "slug": "walking-on-stepmill",
-      "name": "Caminando stepmill",
+      "name": "Andando en stepmill",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "machine",

@@ -191,7 +191,7 @@
     {
       "id": "triceps/barbell-lying-back-of-the-head-tricep-extension",
       "slug": "barbell-lying-back-of-the-head-tricep-extension",
-      "name": "Extensión de tríceps con barra, tumbado, espalda head",
+      "name": "Extensión de tríceps con barra, tumbado, espalda cabeza",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -389,7 +389,7 @@
     {
       "id": "triceps/barbell-seated-close-grip-behind-neck-triceps-extension",
       "slug": "barbell-seated-close-grip-behind-neck-triceps-extension",
-      "name": "Extensión de tríceps con barra, sentado, con agarre cerrado, behind cuello",
+      "name": "Extensión de tríceps con barra, sentado, con agarre cerrado, tras la nuca",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -468,7 +468,7 @@
     {
       "id": "triceps/bench-dip-on-floor",
       "slug": "bench-dip-on-floor",
-      "name": "Fondo en banco, suelo",
+      "name": "Fondo en banco, en el suelo",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "bodyweight",
@@ -490,14 +490,14 @@
     {
       "id": "triceps/body-up",
       "slug": "body-up",
-      "name": "Body up",
+      "name": "Body-up",
       "muscle": "triceps",
       "bodyPart": "arms",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -699,7 +699,7 @@
     {
       "id": "triceps/cable-pushdown-with-rope-attachment",
       "slug": "cable-pushdown-with-rope-attachment",
-      "name": "Pushdown en polea, con cuerda, attachment",
+      "name": "Pushdown en polea, con cuerda",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "cable",
@@ -832,7 +832,7 @@
     {
       "id": "triceps/cable-rope-lying-on-floor-tricep-extension",
       "slug": "cable-rope-lying-on-floor-tricep-extension",
-      "name": "Extensión de tríceps en polea con cuerda, tumbado, suelo",
+      "name": "Extensión de tríceps en polea con cuerda, tumbado, en el suelo",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "cable",
@@ -1091,7 +1091,7 @@
     {
       "id": "triceps/dumbbell-forward-lunge-triceps-extension",
       "slug": "dumbbell-forward-lunge-triceps-extension",
-      "name": "Extensión de tríceps con mancuerna, forward lunge",
+      "name": "Extensión de tríceps con mancuerna, hacia adelante lunge",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -1470,7 +1470,7 @@
     {
       "id": "triceps/dumbbell-one-arm-triceps-extension-on-bench",
       "slug": "dumbbell-one-arm-triceps-extension-on-bench",
-      "name": "Extensión de tríceps con mancuerna, a una mano, banco",
+      "name": "Extensión de tríceps con mancuerna, a una mano en banco",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -1489,7 +1489,7 @@
     {
       "id": "triceps/dumbbell-palms-in-incline-bench-press",
       "slug": "dumbbell-palms-in-incline-bench-press",
-      "name": "Press de banca inclinado con mancuerna, palms",
+      "name": "Press con mancuerna, en banco inclinado, palms",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -1548,7 +1548,7 @@
     {
       "id": "triceps/dumbbell-seated-bent-over-alternate-kickback",
       "slug": "dumbbell-seated-bent-over-alternate-kickback",
-      "name": "Patada de tríceps con mancuerna, sentado, alternado, doblado over",
+      "name": "Patada de tríceps con mancuerna, sentado, alternado, doblado sobre",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -1567,7 +1567,7 @@
     {
       "id": "triceps/dumbbell-seated-bent-over-triceps-extension",
       "slug": "dumbbell-seated-bent-over-triceps-extension",
-      "name": "Extensión de tríceps con mancuerna, sentado, doblado over",
+      "name": "Extensión de tríceps con mancuerna, sentado, doblado sobre",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -1681,7 +1681,7 @@
     {
       "id": "triceps/dumbbell-standing-bent-over-one-arm-triceps-extension",
       "slug": "dumbbell-standing-bent-over-one-arm-triceps-extension",
-      "name": "Extensión de tríceps con mancuerna, de pie, a una mano, doblado over",
+      "name": "Extensión de tríceps con mancuerna, de pie, a una mano, doblado sobre",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -1700,7 +1700,7 @@
     {
       "id": "triceps/dumbbell-standing-bent-over-two-arm-triceps-extension",
       "slug": "dumbbell-standing-bent-over-two-arm-triceps-extension",
-      "name": "Extensión de tríceps con mancuerna, de pie, a dos manos, doblado over",
+      "name": "Extensión de tríceps con mancuerna, de pie, a dos manos, doblado sobre",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -1856,17 +1856,17 @@
     {
       "id": "triceps/elbow-dips",
       "slug": "elbow-dips",
-      "name": "Fondos, codo",
+      "name": "Fondos de codo",
       "muscle": "triceps",
       "bodyPart": "arms",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "delts",
         "pectorals"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -1979,7 +1979,7 @@
     {
       "id": "triceps/ez-bar-lying-close-grip-triceps-extension-behind-head",
       "slug": "ez-bar-lying-close-grip-triceps-extension-behind-head",
-      "name": "Extensión de tríceps con barra Z, tumbado, con agarre cerrado, behind head",
+      "name": "Extensión de tríceps con barra Z, tumbado, con agarre cerrado, tras la nuca",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "ez-bar",
@@ -2158,17 +2158,17 @@
     {
       "id": "triceps/impossible-dips",
       "slug": "impossible-dips",
-      "name": "Fondos, impossible",
+      "name": "Fondos impossible",
       "muscle": "triceps",
       "bodyPart": "arms",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "delts",
         "pectorals"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -2494,11 +2494,11 @@
       "name": "Esquí ergómetro",
       "muscle": "triceps",
       "bodyPart": "arms",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -2574,13 +2574,13 @@
       "name": "Stalder press",
       "muscle": "triceps",
       "bodyPart": "arms",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "delts"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -2680,17 +2680,17 @@
     {
       "id": "triceps/triceps-dips-floor",
       "slug": "triceps-dips-floor",
-      "name": "Fondos de tríceps, suelo",
+      "name": "Fondos de tríceps en el suelo",
       "muscle": "triceps",
       "bodyPart": "arms",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "delts",
         "pectorals"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -2702,16 +2702,16 @@
     {
       "id": "triceps/triceps-press",
       "slug": "triceps-press",
-      "name": "Press, tríceps",
+      "name": "Press de tríceps",
       "muscle": "triceps",
       "bodyPart": "arms",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "delts"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los tríceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",

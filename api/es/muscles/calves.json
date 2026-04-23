@@ -5,7 +5,7 @@
     {
       "id": "calves/ankle-circles",
       "slug": "ankle-circles",
-      "name": "Tobillo circles",
+      "name": "Círculos de tobillo",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -80,7 +80,7 @@
     {
       "id": "calves/band-two-legs-calf-raise-band-under-both-legs-v-2",
       "slug": "band-two-legs-calf-raise-band-under-both-legs-v-2",
-      "name": "Elevación de talones con banda, a dos piernas, under both piernas",
+      "name": "Elevación de talones con banda, a dos piernas bajo ambas",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "band",
@@ -288,7 +288,7 @@
     {
       "id": "calves/calf-push-stretch-with-hands-against-wall",
       "slug": "calf-push-stretch-with-hands-against-wall",
-      "name": "Estiramiento, gemelo push hands against pared",
+      "name": "Estiramiento, con manos en la pared, gemelo push",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -306,7 +306,7 @@
     {
       "id": "calves/calf-stretch-with-hands-against-wall",
       "slug": "calf-stretch-with-hands-against-wall",
-      "name": "Estiramiento, gemelo hands against pared",
+      "name": "Estiramiento, con manos en la pared, gemelo",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -360,7 +360,7 @@
     {
       "id": "calves/donkey-calf-raise",
       "slug": "donkey-calf-raise",
-      "name": "Elevación de talones, donkey",
+      "name": "Elevación de talones burro",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -550,7 +550,7 @@
     {
       "id": "calves/hack-calf-raise",
       "slug": "hack-calf-raise",
-      "name": "Elevación de talones, hack",
+      "name": "Elevación de talones en hack",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -569,7 +569,7 @@
     {
       "id": "calves/hack-one-leg-calf-raise",
       "slug": "hack-one-leg-calf-raise",
-      "name": "Elevación de talones, a una pierna, hack",
+      "name": "Elevación de talones en hack, a una pierna",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -610,7 +610,7 @@
     {
       "id": "calves/lever-donkey-calf-raise",
       "slug": "lever-donkey-calf-raise",
-      "name": "Elevación de talones en máquina, donkey",
+      "name": "En máquina, elevación de talones burro",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -689,7 +689,7 @@
     {
       "id": "calves/lever-seated-squat-calf-raise-on-leg-press-machine",
       "slug": "lever-seated-squat-calf-raise-on-leg-press-machine",
-      "name": "Prensa de piernas en máquina, sentado, squat calf-raise",
+      "name": "Elevación de talones en máquina, sentado, en prensa de piernas, sentadilla",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -732,7 +732,7 @@
     {
       "id": "calves/one-leg-donkey-calf-raise",
       "slug": "one-leg-donkey-calf-raise",
-      "name": "Elevación de talones, a una pierna, donkey",
+      "name": "Elevación de talones burro, a una pierna",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -751,7 +751,7 @@
     {
       "id": "calves/one-leg-floor-calf-raise",
       "slug": "one-leg-floor-calf-raise",
-      "name": "Elevación de talones, a una pierna, suelo",
+      "name": "Elevación de talones en el suelo, a una pierna",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -865,7 +865,7 @@
     {
       "id": "calves/sled-calf-press-on-leg-press",
       "slug": "sled-calf-press-on-leg-press",
-      "name": "Prensa de piernas, sled gemelo press",
+      "name": "Press, en prensa de piernas, sled gemelo",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "machine",
@@ -887,7 +887,7 @@
     {
       "id": "calves/sled-forward-angled-calf-raise",
       "slug": "sled-forward-angled-calf-raise",
-      "name": "Elevación de talones, sled forward angled",
+      "name": "Elevación de talones, sled hacia adelante angled",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "machine",
@@ -928,7 +928,7 @@
     {
       "id": "calves/sled-one-leg-calf-press-on-leg-press",
       "slug": "sled-one-leg-calf-press-on-leg-press",
-      "name": "Prensa de piernas, a una pierna, sled gemelo press",
+      "name": "Press, a una pierna en prensa de piernas, sled gemelo",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "machine",
@@ -950,7 +950,7 @@
     {
       "id": "calves/smith-one-leg-floor-calf-raise",
       "slug": "smith-one-leg-floor-calf-raise",
-      "name": "Elevación de talones en máquina Smith, a una pierna, suelo",
+      "name": "En máquina Smith, elevación de talones en el suelo, a una pierna",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "smith",
@@ -1045,7 +1045,7 @@
     {
       "id": "calves/smith-toe-raise",
       "slug": "smith-toe-raise",
-      "name": "Elevación en máquina Smith, toe",
+      "name": "Elevación en máquina Smith, pulgar",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "smith",
@@ -1064,7 +1064,7 @@
     {
       "id": "calves/standing-calf-raise-on-a-staircase",
       "slug": "standing-calf-raise-on-a-staircase",
-      "name": "Elevación de talones, de pie, staircase",
+      "name": "Elevación de talones de pie, en escalera",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -1083,7 +1083,7 @@
     {
       "id": "calves/standing-calves-calf-stretch",
       "slug": "standing-calves-calf-stretch",
-      "name": "Estiramiento, de pie, gemelos gemelo",
+      "name": "Estiramiento, gemelos de pie, gemelo",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -1101,7 +1101,7 @@
     {
       "id": "calves/standing-calves",
       "slug": "standing-calves",
-      "name": "Gemelos, de pie",
+      "name": "Gemelos de pie",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -1120,7 +1120,7 @@
     {
       "id": "calves/weighted-donkey-calf-raise",
       "slug": "weighted-donkey-calf-raise",
-      "name": "Elevación de talones, con peso, donkey",
+      "name": "Con peso elevación de talones burro",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",

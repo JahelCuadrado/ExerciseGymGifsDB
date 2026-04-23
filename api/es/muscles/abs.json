@@ -62,7 +62,7 @@
     {
       "id": "abs/alternate-heel-touchers",
       "slug": "alternate-heel-touchers",
-      "name": "Toques de talón, alternado",
+      "name": "Toques de talón alternados",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -81,7 +81,7 @@
     {
       "id": "abs/arm-slingers-hanging-bent-knee-legs",
       "slug": "arm-slingers-hanging-bent-knee-legs",
-      "name": "Arm slingers, colgado, con rodillas flexionadas, piernas",
+      "name": "Arm slingers, colgado, con rodillas flexionadas",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -138,7 +138,7 @@
     {
       "id": "abs/assisted-hanging-knee-raise-with-throw-down",
       "slug": "assisted-hanging-knee-raise-with-throw-down",
-      "name": "Elevación de rodillas en barra, asistido, throw down",
+      "name": "Elevación de rodillas en barra, asistido con lanzamiento",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -176,7 +176,7 @@
     {
       "id": "abs/assisted-lying-leg-raise-with-lateral-throw-down",
       "slug": "assisted-lying-leg-raise-with-lateral-throw-down",
-      "name": "Elevación de piernas, tumbado, asistido, lateral throw down",
+      "name": "Elevación de piernas, tumbado, asistido con lanzamiento lateral",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -195,7 +195,7 @@
     {
       "id": "abs/assisted-lying-leg-raise-with-throw-down",
       "slug": "assisted-lying-leg-raise-with-throw-down",
-      "name": "Elevación de piernas, tumbado, asistido, throw down",
+      "name": "Elevación de piernas, tumbado, asistido con lanzamiento",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -289,7 +289,7 @@
     {
       "id": "abs/band-assisted-wheel-rollerout",
       "slug": "band-assisted-wheel-rollerout",
-      "name": "Wheel rollerout con banda, asistido",
+      "name": "Con banda, asistido rueda abdominal",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "band",
@@ -762,11 +762,11 @@
       "name": "Butt-ups",
       "muscle": "abs",
       "bodyPart": "core",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -778,7 +778,7 @@
     {
       "id": "abs/cable-judo-flip",
       "slug": "cable-judo-flip",
-      "name": "Judo flip en polea",
+      "name": "Judo volteo en polea",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "cable",
@@ -949,7 +949,7 @@
     {
       "id": "abs/cable-standing-crunch-with-rope-attachment",
       "slug": "cable-standing-crunch-with-rope-attachment",
-      "name": "Crunch en polea, de pie, con cuerda, attachment",
+      "name": "Crunch en polea, de pie, con cuerda",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "cable",
@@ -1158,7 +1158,7 @@
     {
       "id": "abs/crunch-hands-overhead",
       "slug": "crunch-hands-overhead",
-      "name": "Crunch sobre la cabeza, hands",
+      "name": "Crunch, con manos sobre la cabeza",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -1177,7 +1177,7 @@
     {
       "id": "abs/crunch-on-stability-ball-arms-straight",
       "slug": "crunch-on-stability-ball-arms-straight",
-      "name": "Crunch, en fitball, brazos recto",
+      "name": "Crunch, en fitball con brazos rectos",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -1348,7 +1348,7 @@
     {
       "id": "abs/flexion-leg-sit-up-bent-knee",
       "slug": "flexion-leg-sit-up-bent-knee",
-      "name": "Abdominal con piernas flexionadas, con rodillas flexionadas",
+      "name": "Abdominal con piernas flexionadas, con rodillas",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -1924,7 +1924,7 @@
     {
       "id": "abs/knee-touch-crunch",
       "slug": "knee-touch-crunch",
-      "name": "Crunch, rodilla touch",
+      "name": "Crunch, rodilla toque",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -1965,7 +1965,7 @@
     {
       "id": "abs/l-sit-on-floor",
       "slug": "l-sit-on-floor",
-      "name": "L-sit, suelo",
+      "name": "L-sit, en el suelo",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2022,7 +2022,7 @@
     {
       "id": "abs/leg-pull-in-flat-bench",
       "slug": "leg-pull-in-flat-bench",
-      "name": "Pull-in de piernas plano, banco",
+      "name": "Pull-in de piernas, en banco plano",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2197,7 +2197,7 @@
     {
       "id": "abs/lying-leg-raise-flat-bench",
       "slug": "lying-leg-raise-flat-bench",
-      "name": "Elevación de piernas plano, tumbado, banco",
+      "name": "Elevación de piernas, tumbado, en banco plano",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2254,14 +2254,14 @@
     {
       "id": "abs/oblique-crunches-floor",
       "slug": "oblique-crunches-floor",
-      "name": "Crunches, oblicuo suelo",
+      "name": "Crunch oblicuo en el suelo",
       "muscle": "abs",
       "bodyPart": "core",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa el core antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -2330,7 +2330,7 @@
     {
       "id": "abs/posterior-step-to-overhead-reach",
       "slug": "posterior-step-to-overhead-reach",
-      "name": "Posterior step reach sobre la cabeza",
+      "name": "Paso posterior con alcance sobre la cabeza",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2629,7 +2629,7 @@
     {
       "id": "abs/shoulder-tap",
       "slug": "shoulder-tap",
-      "name": "Hombro tap",
+      "name": "Toque de hombro",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2745,7 +2745,7 @@
     {
       "id": "abs/sledge-hammer",
       "slug": "sledge-hammer",
-      "name": "Sledge martillo",
+      "name": "Martillo",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "machine",
@@ -2802,7 +2802,7 @@
     {
       "id": "abs/spine-twist",
       "slug": "spine-twist",
-      "name": "Giro, columna",
+      "name": "Giro de columna",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2821,7 +2821,7 @@
     {
       "id": "abs/stability-ball-crunch-full-range-hands-behind-head",
       "slug": "stability-ball-crunch-full-range-hands-behind-head",
-      "name": "Crunch en fitball, completo range hands behind head",
+      "name": "Crunch en fitball, en rango completo con manos detrás de la cabeza",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2840,7 +2840,7 @@
     {
       "id": "abs/standing-wheel-rollerout",
       "slug": "standing-wheel-rollerout",
-      "name": "Wheel rollerout, de pie",
+      "name": "De pie, rueda abdominal",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2992,7 +2992,7 @@
     {
       "id": "abs/v-sit-on-floor",
       "slug": "v-sit-on-floor",
-      "name": "Sit suelo",
+      "name": "V-sit en el suelo",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -3223,7 +3223,7 @@
     {
       "id": "abs/wheel-rollerout",
       "slug": "wheel-rollerout",
-      "name": "Wheel rollerout",
+      "name": "Rueda abdominal",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -3242,7 +3242,7 @@
     {
       "id": "abs/wind-sprints",
       "slug": "wind-sprints",
-      "name": "Wind sprints",
+      "name": "Sprints",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",

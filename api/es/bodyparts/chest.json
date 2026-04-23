@@ -155,7 +155,7 @@
     {
       "id": "pectorals/barbell-decline-bench-press",
       "slug": "barbell-decline-bench-press",
-      "name": "Press de banca declinado con barra",
+      "name": "Press con barra, en banco declinado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "barbell",
@@ -259,7 +259,7 @@
     {
       "id": "pectorals/barbell-incline-bench-press",
       "slug": "barbell-incline-bench-press",
-      "name": "Press de banca inclinado con barra",
+      "name": "Press con barra, en banco inclinado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "barbell",
@@ -281,7 +281,7 @@
     {
       "id": "pectorals/barbell-reverse-grip-decline-bench-press",
       "slug": "barbell-reverse-grip-decline-bench-press",
-      "name": "Press de banca declinado con barra, con agarre invertido",
+      "name": "Press con barra, con agarre invertido, en banco declinado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "barbell",
@@ -303,7 +303,7 @@
     {
       "id": "pectorals/barbell-reverse-grip-incline-bench-press",
       "slug": "barbell-reverse-grip-incline-bench-press",
-      "name": "Press de banca inclinado con barra, con agarre invertido",
+      "name": "Press con barra, con agarre invertido, en banco inclinado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "barbell",
@@ -369,7 +369,7 @@
     {
       "id": "pectorals/behind-head-chest-stretch",
       "slug": "behind-head-chest-stretch",
-      "name": "Estiramiento, behind head pecho",
+      "name": "Estiramiento, tras la nuca, pecho",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "bodyweight",
@@ -409,7 +409,7 @@
     {
       "id": "pectorals/cable-cross-over-variation",
       "slug": "cable-cross-over-variation",
-      "name": "Cross over variation en polea",
+      "name": "Variation en polea, cruzado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "cable",
@@ -491,7 +491,7 @@
     {
       "id": "pectorals/cable-incline-bench-press",
       "slug": "cable-incline-bench-press",
-      "name": "Press de banca inclinado en polea",
+      "name": "Press en polea, en banco inclinado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "cable",
@@ -551,7 +551,7 @@
     {
       "id": "pectorals/cable-low-fly",
       "slug": "cable-low-fly",
-      "name": "Apertura en polea, bajo",
+      "name": "Apertura en polea",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "cable",
@@ -709,7 +709,7 @@
     {
       "id": "pectorals/cable-one-arm-lateral-bent-over",
       "slug": "cable-one-arm-lateral-bent-over",
-      "name": "Lateral doblado over en polea, a una mano",
+      "name": "Lateral doblado sobre en polea, a una mano",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "cable",
@@ -1128,7 +1128,7 @@
     {
       "id": "pectorals/dumbbell-decline-bench-press",
       "slug": "dumbbell-decline-bench-press",
-      "name": "Press de banca declinado con mancuerna",
+      "name": "Press con mancuerna, en banco declinado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "dumbbell",
@@ -1289,7 +1289,7 @@
     {
       "id": "pectorals/dumbbell-incline-bench-press",
       "slug": "dumbbell-incline-bench-press",
-      "name": "Press de banca inclinado con mancuerna",
+      "name": "Press con mancuerna, en banco inclinado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "dumbbell",
@@ -2004,14 +2004,14 @@
     {
       "id": "pectorals/hands-bike",
       "slug": "hands-bike",
-      "name": "Hands bike",
+      "name": "Bicicleta con manos",
       "muscle": "pectorals",
       "bodyPart": "chest",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -2129,14 +2129,14 @@
     {
       "id": "pectorals/isometric-chest-squeeze",
       "slug": "isometric-chest-squeeze",
-      "name": "Isometric pecho squeeze",
+      "name": "Contracción isométrica de pecho",
       "muscle": "pectorals",
       "bodyPart": "chest",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -2148,14 +2148,14 @@
     {
       "id": "pectorals/isometric-wipers",
       "slug": "isometric-wipers",
-      "name": "Isometric wipers",
+      "name": "Limpiaparabrisas isométricos",
       "muscle": "pectorals",
       "bodyPart": "chest",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -2167,7 +2167,7 @@
     {
       "id": "pectorals/kettlebell-alternating-press-on-floor",
       "slug": "kettlebell-alternating-press-on-floor",
-      "name": "Press con kettlebell, alternado, suelo",
+      "name": "Press con kettlebell, alternado en el suelo",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "kettlebell",
@@ -2189,7 +2189,7 @@
     {
       "id": "pectorals/kettlebell-extended-range-one-arm-press-on-floor",
       "slug": "kettlebell-extended-range-one-arm-press-on-floor",
-      "name": "Press con kettlebell, a una mano, extended range suelo",
+      "name": "Press con kettlebell, a una mano en el suelo, extended rango",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "kettlebell",
@@ -2276,17 +2276,17 @@
     {
       "id": "pectorals/korean-dips",
       "slug": "korean-dips",
-      "name": "Fondos, korean",
+      "name": "Fondos coreanos",
       "muscle": "pectorals",
       "bodyPart": "chest",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
         "delts"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa el pectoral antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -2974,7 +2974,7 @@
     {
       "id": "pectorals/smith-decline-bench-press",
       "slug": "smith-decline-bench-press",
-      "name": "Press de banca declinado en máquina Smith",
+      "name": "Press en máquina Smith, en banco declinado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "smith",
@@ -3018,7 +3018,7 @@
     {
       "id": "pectorals/smith-incline-bench-press",
       "slug": "smith-incline-bench-press",
-      "name": "Press de banca inclinado en máquina Smith",
+      "name": "Press en máquina Smith, en banco inclinado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "smith",
@@ -3128,7 +3128,7 @@
     {
       "id": "pectorals/smith-wide-grip-decline-bench-press",
       "slug": "smith-wide-grip-decline-bench-press",
-      "name": "Press de banca declinado en máquina Smith, con agarre ancho",
+      "name": "Press en máquina Smith, con agarre ancho, en banco declinado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "smith",

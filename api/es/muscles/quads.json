@@ -41,7 +41,7 @@
     {
       "id": "quads/backward-jump",
       "slug": "backward-jump",
-      "name": "Salto, backward",
+      "name": "Salto, hacia atrás",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -59,14 +59,14 @@
     {
       "id": "quads/balance-board",
       "slug": "balance-board",
-      "name": "Equilibrio board",
+      "name": "Tabla de equilibrio",
       "muscle": "quads",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -78,7 +78,7 @@
     {
       "id": "quads/band-one-arm-single-leg-split-squat",
       "slug": "band-one-arm-single-leg-split-squat",
-      "name": "Split squat con banda, a una mano a pierna",
+      "name": "Split squat con banda, a una mano a una pierna",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "band",
@@ -335,7 +335,7 @@
     {
       "id": "quads/barbell-squat-jump-step-rear-lunge",
       "slug": "barbell-squat-jump-step-rear-lunge",
-      "name": "Sentadilla con barra, posterior, jump step lunge",
+      "name": "Sentadilla con barra, posterior, jump paso lunge",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -555,7 +555,7 @@
     {
       "id": "quads/forward-jump",
       "slug": "forward-jump",
-      "name": "Salto, forward",
+      "name": "Salto, hacia adelante",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -653,11 +653,11 @@
       "name": "Cuádriceps",
       "muscle": "quads",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -669,14 +669,14 @@
     {
       "id": "quads/quick-feet-v-2",
       "slug": "quick-feet-v-2",
-      "name": "Quick feet",
+      "name": "Pies rápidos",
       "muscle": "quads",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -779,7 +779,7 @@
       "name": "Snatch pull",
       "muscle": "quads",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "glutes",
@@ -790,7 +790,7 @@
         "forearms"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -802,10 +802,10 @@
     {
       "id": "quads/split-squats",
       "slug": "split-squats",
-      "name": "Sentadillas, split",
+      "name": "Split squat",
       "muscle": "quads",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "glutes",
@@ -813,7 +813,7 @@
         "calves"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -825,7 +825,7 @@
     {
       "id": "quads/squat-jerk",
       "slug": "squat-jerk",
-      "name": "Envión, squat",
+      "name": "Envión, sentadilla",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -875,7 +875,7 @@
     {
       "id": "quads/squat-to-overhead-reach-with-twist",
       "slug": "squat-to-overhead-reach-with-twist",
-      "name": "Sentadilla sobre la cabeza, reach twist",
+      "name": "Sentadilla, con alcance sobre la cabeza, twist",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -898,7 +898,7 @@
     {
       "id": "quads/squat-to-overhead-reach",
       "slug": "squat-to-overhead-reach",
-      "name": "Sentadilla sobre la cabeza, reach",
+      "name": "Sentadilla, con alcance sobre la cabeza",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",

@@ -5,10 +5,10 @@
     {
       "id": "lats/alternate-lateral-pulldown",
       "slug": "alternate-lateral-pulldown",
-      "name": "Jalón al pecho, alternado, lateral",
+      "name": "Jalón al pecho, alternado lateral",
       "muscle": "lats",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
@@ -16,7 +16,7 @@
         "delts"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los dorsales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -28,7 +28,7 @@
     {
       "id": "lats/archer-pull-up",
       "slug": "archer-pull-up",
-      "name": "Dominada, archer",
+      "name": "Dominada, del arquero",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -443,7 +443,7 @@
     {
       "id": "lats/cable-cross-over-lateral-pulldown",
       "slug": "cable-cross-over-lateral-pulldown",
-      "name": "Jalón al pecho en polea, cross over lateral",
+      "name": "Jalón al pecho en polea, cruzado, lateral",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -485,7 +485,7 @@
     {
       "id": "lats/cable-lat-pulldown-full-range-of-motion",
       "slug": "cable-lat-pulldown-full-range-of-motion",
-      "name": "Jalón al pecho en polea, completo range",
+      "name": "Jalón al pecho en polea, en rango completo",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -508,7 +508,7 @@
     {
       "id": "lats/cable-lateral-pulldown-with-rope-attachment",
       "slug": "cable-lateral-pulldown-with-rope-attachment",
-      "name": "Jalón al pecho en polea, con cuerda, lateral attachment",
+      "name": "Jalón al pecho en polea, con cuerda, lateral",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -554,7 +554,7 @@
     {
       "id": "lats/cable-lying-extension-pullover-with-rope-attachment",
       "slug": "cable-lying-extension-pullover-with-rope-attachment",
-      "name": "Pullover en polea, tumbado, con cuerda, extension attachment",
+      "name": "Pullover en polea, tumbado, con cuerda, extension",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -707,7 +707,7 @@
     {
       "id": "lats/cable-squat-row-with-rope-attachment",
       "slug": "cable-squat-row-with-rope-attachment",
-      "name": "Sentadilla en polea, con cuerda, row attachment",
+      "name": "Sentadilla en polea, con cuerda, row",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -844,7 +844,7 @@
     {
       "id": "lats/cable-wide-grip-rear-pulldown-behind-neck",
       "slug": "cable-wide-grip-rear-pulldown-behind-neck",
-      "name": "Jalón al pecho en polea, con agarre ancho, posterior, behind cuello",
+      "name": "Jalón al pecho en polea, con agarre ancho, posterior tras la nuca",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -1275,7 +1275,7 @@
     {
       "id": "lats/one-arm-against-wall",
       "slug": "one-arm-against-wall",
-      "name": "Against pared, a una mano",
+      "name": "Contra pared, a una mano",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -1432,7 +1432,7 @@
     {
       "id": "lats/rocky-pull-up-pulldown",
       "slug": "rocky-pull-up-pulldown",
-      "name": "Dominada, rocky pulldown",
+      "name": "Dominada, rocky, pulldown",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -1569,10 +1569,10 @@
     {
       "id": "lats/twin-handle-parallel-grip-lat-pulldown",
       "slug": "twin-handle-parallel-grip-lat-pulldown",
-      "name": "Jalón al pecho, twin handle parallel",
+      "name": "Jalón al pecho, con doble agarre con paralelo",
       "muscle": "lats",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
@@ -1580,7 +1580,7 @@
         "delts"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los dorsales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",

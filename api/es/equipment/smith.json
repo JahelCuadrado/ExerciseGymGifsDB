@@ -45,7 +45,7 @@
     {
       "id": "calves/smith-one-leg-floor-calf-raise",
       "slug": "smith-one-leg-floor-calf-raise",
-      "name": "Elevación de talones en máquina Smith, a una pierna, suelo",
+      "name": "En máquina Smith, elevación de talones en el suelo, a una pierna",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "smith",
@@ -140,7 +140,7 @@
     {
       "id": "calves/smith-toe-raise",
       "slug": "smith-toe-raise",
-      "name": "Elevación en máquina Smith, toe",
+      "name": "Elevación en máquina Smith, pulgar",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "smith",
@@ -159,7 +159,7 @@
     {
       "id": "delts/smith-behind-neck-press",
       "slug": "smith-behind-neck-press",
-      "name": "Press en máquina Smith, behind cuello",
+      "name": "Press en máquina Smith, tras la nuca",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "smith",
@@ -244,7 +244,7 @@
     {
       "id": "delts/smith-standing-behind-head-military-press",
       "slug": "smith-standing-behind-head-military-press",
-      "name": "Press militar en máquina Smith, de pie, behind head",
+      "name": "Press militar en máquina Smith, de pie, tras la nuca",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "smith",
@@ -482,7 +482,7 @@
     {
       "id": "glutes/smith-low-bar-squat",
       "slug": "smith-low-bar-squat",
-      "name": "Sentadilla en máquina Smith, bajo, barra",
+      "name": "Sentadilla en máquina Smith, barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "smith",
@@ -592,7 +592,7 @@
     {
       "id": "pectorals/smith-decline-bench-press",
       "slug": "smith-decline-bench-press",
-      "name": "Press de banca declinado en máquina Smith",
+      "name": "Press en máquina Smith, en banco declinado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "smith",
@@ -636,7 +636,7 @@
     {
       "id": "pectorals/smith-incline-bench-press",
       "slug": "smith-incline-bench-press",
-      "name": "Press de banca inclinado en máquina Smith",
+      "name": "Press en máquina Smith, en banco inclinado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "smith",
@@ -746,7 +746,7 @@
     {
       "id": "pectorals/smith-wide-grip-decline-bench-press",
       "slug": "smith-wide-grip-decline-bench-press",
-      "name": "Press de banca declinado en máquina Smith, con agarre ancho",
+      "name": "Press en máquina Smith, con agarre ancho, en banco declinado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "smith",

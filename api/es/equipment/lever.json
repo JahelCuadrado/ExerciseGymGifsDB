@@ -262,7 +262,7 @@
     {
       "id": "calves/hack-calf-raise",
       "slug": "hack-calf-raise",
-      "name": "Elevación de talones, hack",
+      "name": "Elevación de talones en hack",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -281,7 +281,7 @@
     {
       "id": "calves/hack-one-leg-calf-raise",
       "slug": "hack-one-leg-calf-raise",
-      "name": "Elevación de talones, a una pierna, hack",
+      "name": "Elevación de talones en hack, a una pierna",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -322,7 +322,7 @@
     {
       "id": "calves/lever-donkey-calf-raise",
       "slug": "lever-donkey-calf-raise",
-      "name": "Elevación de talones en máquina, donkey",
+      "name": "En máquina, elevación de talones burro",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -401,7 +401,7 @@
     {
       "id": "calves/lever-seated-squat-calf-raise-on-leg-press-machine",
       "slug": "lever-seated-squat-calf-raise-on-leg-press-machine",
-      "name": "Prensa de piernas en máquina, sentado, squat calf-raise",
+      "name": "Elevación de talones en máquina, sentado, en prensa de piernas, sentadilla",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -507,7 +507,7 @@
     {
       "id": "delts/lever-seated-reverse-fly-parallel-grip",
       "slug": "lever-seated-reverse-fly-parallel-grip",
-      "name": "Apertura inversa en máquina, sentado, parallel",
+      "name": "Apertura inversa en máquina, sentado, con agarre paralelo",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "lever",
@@ -608,7 +608,7 @@
     {
       "id": "forearms/lever-gripper-hands",
       "slug": "lever-gripper-hands",
-      "name": "Gripper hands en máquina",
+      "name": "Gripper manos en máquina",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "lever",

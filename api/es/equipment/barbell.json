@@ -737,7 +737,7 @@
     {
       "id": "delts/barbell-seated-behind-head-military-press",
       "slug": "barbell-seated-behind-head-military-press",
-      "name": "Press militar con barra, sentado, behind head",
+      "name": "Press militar con barra, sentado, tras la nuca",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "barbell",
@@ -861,7 +861,7 @@
     {
       "id": "delts/barbell-standing-front-raise-over-head",
       "slug": "barbell-standing-front-raise-over-head",
-      "name": "Elevación frontal con barra, de pie, over head",
+      "name": "Elevación frontal con barra, de pie, sobre la cabeza",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "barbell",
@@ -1031,7 +1031,7 @@
     {
       "id": "forearms/barbell-palms-down-wrist-curl-over-a-bench",
       "slug": "barbell-palms-down-wrist-curl-over-a-bench",
-      "name": "Curl de muñeca con barra, palms down over banco",
+      "name": "Curl de muñeca con barra, palms down sobre banco",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -1050,7 +1050,7 @@
     {
       "id": "forearms/barbell-palms-up-wrist-curl-over-a-bench",
       "slug": "barbell-palms-up-wrist-curl-over-a-bench",
-      "name": "Curl de muñeca con barra, palms up over banco",
+      "name": "Curl de muñeca con barra, palms up sobre banco",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -1347,7 +1347,7 @@
     {
       "id": "glutes/barbell-glute-bridge-two-legs-on-bench-male",
       "slug": "barbell-glute-bridge-two-legs-on-bench-male",
-      "name": "Puente de glúteos con barra, a dos piernas, banco",
+      "name": "Puente de glúteos con barra, a dos piernas en banco",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1500,7 +1500,7 @@
     {
       "id": "glutes/barbell-low-bar-squat",
       "slug": "barbell-low-bar-squat",
-      "name": "Sentadilla con barra, bajo",
+      "name": "Sentadilla con barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -2038,7 +2038,7 @@
     {
       "id": "pectorals/barbell-decline-bench-press",
       "slug": "barbell-decline-bench-press",
-      "name": "Press de banca declinado con barra",
+      "name": "Press con barra, en banco declinado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "barbell",
@@ -2142,7 +2142,7 @@
     {
       "id": "pectorals/barbell-incline-bench-press",
       "slug": "barbell-incline-bench-press",
-      "name": "Press de banca inclinado con barra",
+      "name": "Press con barra, en banco inclinado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "barbell",
@@ -2164,7 +2164,7 @@
     {
       "id": "pectorals/barbell-reverse-grip-decline-bench-press",
       "slug": "barbell-reverse-grip-decline-bench-press",
-      "name": "Press de banca declinado con barra, con agarre invertido",
+      "name": "Press con barra, con agarre invertido, en banco declinado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "barbell",
@@ -2186,7 +2186,7 @@
     {
       "id": "pectorals/barbell-reverse-grip-incline-bench-press",
       "slug": "barbell-reverse-grip-incline-bench-press",
-      "name": "Press de banca inclinado con barra, con agarre invertido",
+      "name": "Press con barra, con agarre invertido, en banco inclinado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "barbell",
@@ -2482,7 +2482,7 @@
     {
       "id": "quads/barbell-squat-jump-step-rear-lunge",
       "slug": "barbell-squat-jump-step-rear-lunge",
-      "name": "Sentadilla con barra, posterior, jump step lunge",
+      "name": "Sentadilla con barra, posterior, jump paso lunge",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -2693,7 +2693,7 @@
     {
       "id": "triceps/barbell-lying-back-of-the-head-tricep-extension",
       "slug": "barbell-lying-back-of-the-head-tricep-extension",
-      "name": "Extensión de tríceps con barra, tumbado, espalda head",
+      "name": "Extensión de tríceps con barra, tumbado, espalda cabeza",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -2891,7 +2891,7 @@
     {
       "id": "triceps/barbell-seated-close-grip-behind-neck-triceps-extension",
       "slug": "barbell-seated-close-grip-behind-neck-triceps-extension",
-      "name": "Extensión de tríceps con barra, sentado, con agarre cerrado, behind cuello",
+      "name": "Extensión de tríceps con barra, sentado, con agarre cerrado, tras la nuca",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -3082,7 +3082,7 @@
     {
       "id": "upper-back/barbell-reverse-grip-incline-bench-row",
       "slug": "barbell-reverse-grip-incline-bench-row",
-      "name": "Remo inclinado con barra, con agarre invertido, banco",
+      "name": "Remo con barra, con agarre invertido, en banco inclinado",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "barbell",

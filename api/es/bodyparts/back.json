@@ -5,10 +5,10 @@
     {
       "id": "lats/alternate-lateral-pulldown",
       "slug": "alternate-lateral-pulldown",
-      "name": "Jalón al pecho, alternado, lateral",
+      "name": "Jalón al pecho, alternado lateral",
       "muscle": "lats",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
@@ -16,7 +16,7 @@
         "delts"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los dorsales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -28,7 +28,7 @@
     {
       "id": "lats/archer-pull-up",
       "slug": "archer-pull-up",
-      "name": "Dominada, archer",
+      "name": "Dominada, del arquero",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -443,7 +443,7 @@
     {
       "id": "lats/cable-cross-over-lateral-pulldown",
       "slug": "cable-cross-over-lateral-pulldown",
-      "name": "Jalón al pecho en polea, cross over lateral",
+      "name": "Jalón al pecho en polea, cruzado, lateral",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -485,7 +485,7 @@
     {
       "id": "lats/cable-lat-pulldown-full-range-of-motion",
       "slug": "cable-lat-pulldown-full-range-of-motion",
-      "name": "Jalón al pecho en polea, completo range",
+      "name": "Jalón al pecho en polea, en rango completo",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -508,7 +508,7 @@
     {
       "id": "lats/cable-lateral-pulldown-with-rope-attachment",
       "slug": "cable-lateral-pulldown-with-rope-attachment",
-      "name": "Jalón al pecho en polea, con cuerda, lateral attachment",
+      "name": "Jalón al pecho en polea, con cuerda, lateral",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -554,7 +554,7 @@
     {
       "id": "lats/cable-lying-extension-pullover-with-rope-attachment",
       "slug": "cable-lying-extension-pullover-with-rope-attachment",
-      "name": "Pullover en polea, tumbado, con cuerda, extension attachment",
+      "name": "Pullover en polea, tumbado, con cuerda, extension",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -707,7 +707,7 @@
     {
       "id": "lats/cable-squat-row-with-rope-attachment",
       "slug": "cable-squat-row-with-rope-attachment",
-      "name": "Sentadilla en polea, con cuerda, row attachment",
+      "name": "Sentadilla en polea, con cuerda, row",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -844,7 +844,7 @@
     {
       "id": "lats/cable-wide-grip-rear-pulldown-behind-neck",
       "slug": "cable-wide-grip-rear-pulldown-behind-neck",
-      "name": "Jalón al pecho en polea, con agarre ancho, posterior, behind cuello",
+      "name": "Jalón al pecho en polea, con agarre ancho, posterior tras la nuca",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -1275,7 +1275,7 @@
     {
       "id": "lats/one-arm-against-wall",
       "slug": "one-arm-against-wall",
-      "name": "Against pared, a una mano",
+      "name": "Contra pared, a una mano",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -1432,7 +1432,7 @@
     {
       "id": "lats/rocky-pull-up-pulldown",
       "slug": "rocky-pull-up-pulldown",
-      "name": "Dominada, rocky pulldown",
+      "name": "Dominada, rocky, pulldown",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -1569,10 +1569,10 @@
     {
       "id": "lats/twin-handle-parallel-grip-lat-pulldown",
       "slug": "twin-handle-parallel-grip-lat-pulldown",
-      "name": "Jalón al pecho, twin handle parallel",
+      "name": "Jalón al pecho, con doble agarre con paralelo",
       "muscle": "lats",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
@@ -1580,7 +1580,7 @@
         "delts"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los dorsales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -1827,7 +1827,7 @@
     {
       "id": "spine/exercise-ball-back-extension-with-arms-extended",
       "slug": "exercise-ball-back-extension-with-arms-extended",
-      "name": "Extensión en fitball, espalda brazos extended",
+      "name": "Extensión en fitball, con brazos extendidos, espalda",
       "muscle": "spine",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -1846,7 +1846,7 @@
     {
       "id": "spine/exercise-ball-back-extension-with-hands-behind-head",
       "slug": "exercise-ball-back-extension-with-hands-behind-head",
-      "name": "Extensión en fitball, espalda hands behind head",
+      "name": "Extensión en fitball, con manos detrás de la cabeza, espalda",
       "muscle": "spine",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -1903,7 +1903,7 @@
     {
       "id": "spine/exercise-ball-hug",
       "slug": "exercise-ball-hug",
-      "name": "Hug en fitball",
+      "name": "Abrazar en fitball",
       "muscle": "spine",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -1941,7 +1941,7 @@
     {
       "id": "spine/hyperextension-on-bench",
       "slug": "hyperextension-on-bench",
-      "name": "Hyperextension banco",
+      "name": "Hyperextension, en banco",
       "muscle": "spine",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -1998,14 +1998,14 @@
     {
       "id": "spine/lower-back-curl",
       "slug": "lower-back-curl",
-      "name": "Curl, inferior espalda",
+      "name": "Extensión lumbar",
       "muscle": "spine",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa la zona lumbar antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -2110,14 +2110,14 @@
     {
       "id": "spine/upward-facing-dog",
       "slug": "upward-facing-dog",
-      "name": "Upward facing dog",
+      "name": "Perro boca arriba",
       "muscle": "spine",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa la zona lumbar antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -2357,10 +2357,10 @@
     {
       "id": "traps/scapula-dips",
       "slug": "scapula-dips",
-      "name": "Fondos, scapula",
+      "name": "Fondos escapulares",
       "muscle": "traps",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "triceps",
@@ -2368,7 +2368,7 @@
         "pectorals"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los trapecios antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -2621,7 +2621,7 @@
     {
       "id": "upper-back/barbell-reverse-grip-incline-bench-row",
       "slug": "barbell-reverse-grip-incline-bench-row",
-      "name": "Remo inclinado con barra, con agarre invertido, banco",
+      "name": "Remo con barra, con agarre invertido, en banco inclinado",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "barbell",
@@ -2903,7 +2903,7 @@
     {
       "id": "upper-back/cable-incline-bench-row",
       "slug": "cable-incline-bench-row",
-      "name": "Remo inclinado en polea, banco",
+      "name": "Remo en polea, en banco inclinado",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "cable",
@@ -2926,7 +2926,7 @@
     {
       "id": "upper-back/cable-low-seated-row",
       "slug": "cable-low-seated-row",
-      "name": "Remo sentado en polea, bajo",
+      "name": "Remo sentado en polea",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "cable",
@@ -3087,7 +3087,7 @@
     {
       "id": "upper-back/cable-rope-extension-incline-bench-row",
       "slug": "cable-rope-extension-incline-bench-row",
-      "name": "Remo inclinado en polea con cuerda, extension banco",
+      "name": "Remo en polea con cuerda, en banco inclinado, extension",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "cable",
@@ -3317,7 +3317,7 @@
     {
       "id": "upper-back/chin-ups-narrow-parallel-grip",
       "slug": "chin-ups-narrow-parallel-grip",
-      "name": "Dominadas supinas, estrecho, parallel",
+      "name": "Dominadas supinas, estrecho con agarre paralelo",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -3470,7 +3470,7 @@
     {
       "id": "upper-back/dumbbell-reverse-grip-incline-bench-one-arm-row",
       "slug": "dumbbell-reverse-grip-incline-bench-one-arm-row",
-      "name": "Remo inclinado con mancuerna, con agarre invertido, a una mano, banco",
+      "name": "Remo con mancuerna, con agarre invertido, en banco inclinado a una mano",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "dumbbell",
@@ -3493,7 +3493,7 @@
     {
       "id": "upper-back/dumbbell-reverse-grip-incline-bench-two-arm-row",
       "slug": "dumbbell-reverse-grip-incline-bench-two-arm-row",
-      "name": "Remo inclinado con mancuerna, con agarre invertido, a dos manos, banco",
+      "name": "Remo con mancuerna, con agarre invertido, en banco inclinado a dos manos",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "dumbbell",
@@ -3648,7 +3648,7 @@
       "name": "Remo invertido, con rodillas flexionadas",
       "muscle": "upper-back",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
@@ -3656,7 +3656,7 @@
         "delts"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -3668,7 +3668,7 @@
     {
       "id": "upper-back/inverted-row-on-bench",
       "slug": "inverted-row-on-bench",
-      "name": "Remo invertido, banco",
+      "name": "Remo invertido, en banco",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -3694,7 +3694,7 @@
       "name": "Remo invertido",
       "muscle": "upper-back",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
@@ -3702,7 +3702,7 @@
         "delts"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -3714,10 +3714,10 @@
     {
       "id": "upper-back/inverted-row-with-straps",
       "slug": "inverted-row-with-straps",
-      "name": "Remo invertido, straps",
+      "name": "Remo invertido, con correas",
       "muscle": "upper-back",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
@@ -3725,7 +3725,7 @@
         "delts"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -3740,7 +3740,7 @@
       "name": "Remo invertido",
       "muscle": "upper-back",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "biceps",
@@ -3748,7 +3748,7 @@
         "delts"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -4216,14 +4216,14 @@
     {
       "id": "upper-back/rope-climb",
       "slug": "rope-climb",
-      "name": "Climb con cuerda",
+      "name": "Subida por cuerda",
       "muscle": "upper-back",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -4235,14 +4235,14 @@
     {
       "id": "upper-back/skin-the-cat",
       "slug": "skin-the-cat",
-      "name": "Skin cat",
+      "name": "Skin the cat",
       "muscle": "upper-back",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa la espalda alta antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -4346,7 +4346,7 @@
     {
       "id": "upper-back/standing-archer",
       "slug": "standing-archer",
-      "name": "Archer, de pie",
+      "name": "Del arquero, de pie",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "other",

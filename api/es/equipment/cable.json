@@ -5,7 +5,7 @@
     {
       "id": "abs/cable-judo-flip",
       "slug": "cable-judo-flip",
-      "name": "Judo flip en polea",
+      "name": "Judo volteo en polea",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "cable",
@@ -176,7 +176,7 @@
     {
       "id": "abs/cable-standing-crunch-with-rope-attachment",
       "slug": "cable-standing-crunch-with-rope-attachment",
-      "name": "Crunch en polea, de pie, con cuerda, attachment",
+      "name": "Crunch en polea, de pie, con cuerda",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "cable",
@@ -839,7 +839,7 @@
     {
       "id": "biceps/cable-two-arm-curl-on-incline-bench",
       "slug": "cable-two-arm-curl-on-incline-bench",
-      "name": "Curl inclinado en polea, a dos manos, banco",
+      "name": "Curl en polea, a dos manos en banco inclinado",
       "muscle": "biceps",
       "bodyPart": "arms",
       "equipment": "cable",
@@ -919,7 +919,7 @@
     {
       "id": "delts/cable-cross-over-revers-fly",
       "slug": "cable-cross-over-revers-fly",
-      "name": "Apertura en polea, cross over revers",
+      "name": "En polea, cruzado apertura inversa",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "cable",
@@ -938,7 +938,7 @@
     {
       "id": "delts/cable-forward-raise",
       "slug": "cable-forward-raise",
-      "name": "Elevación en polea, forward",
+      "name": "Elevación en polea, hacia adelante",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "cable",
@@ -1170,7 +1170,7 @@
     {
       "id": "delts/cable-standing-cross-over-high-reverse-fly",
       "slug": "cable-standing-cross-over-high-reverse-fly",
-      "name": "Apertura inversa en polea, de pie, alto, cross over",
+      "name": "Apertura inversa en polea, de pie, cruzado alto",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "cable",
@@ -1456,7 +1456,7 @@
     {
       "id": "lats/cable-cross-over-lateral-pulldown",
       "slug": "cable-cross-over-lateral-pulldown",
-      "name": "Jalón al pecho en polea, cross over lateral",
+      "name": "Jalón al pecho en polea, cruzado, lateral",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -1498,7 +1498,7 @@
     {
       "id": "lats/cable-lat-pulldown-full-range-of-motion",
       "slug": "cable-lat-pulldown-full-range-of-motion",
-      "name": "Jalón al pecho en polea, completo range",
+      "name": "Jalón al pecho en polea, en rango completo",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -1521,7 +1521,7 @@
     {
       "id": "lats/cable-lateral-pulldown-with-rope-attachment",
       "slug": "cable-lateral-pulldown-with-rope-attachment",
-      "name": "Jalón al pecho en polea, con cuerda, lateral attachment",
+      "name": "Jalón al pecho en polea, con cuerda, lateral",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -1567,7 +1567,7 @@
     {
       "id": "lats/cable-lying-extension-pullover-with-rope-attachment",
       "slug": "cable-lying-extension-pullover-with-rope-attachment",
-      "name": "Pullover en polea, tumbado, con cuerda, extension attachment",
+      "name": "Pullover en polea, tumbado, con cuerda, extension",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -1720,7 +1720,7 @@
     {
       "id": "lats/cable-squat-row-with-rope-attachment",
       "slug": "cable-squat-row-with-rope-attachment",
-      "name": "Sentadilla en polea, con cuerda, row attachment",
+      "name": "Sentadilla en polea, con cuerda, row",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -1857,7 +1857,7 @@
     {
       "id": "lats/cable-wide-grip-rear-pulldown-behind-neck",
       "slug": "cable-wide-grip-rear-pulldown-behind-neck",
-      "name": "Jalón al pecho en polea, con agarre ancho, posterior, behind cuello",
+      "name": "Jalón al pecho en polea, con agarre ancho, posterior tras la nuca",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -1902,7 +1902,7 @@
     {
       "id": "pectorals/cable-cross-over-variation",
       "slug": "cable-cross-over-variation",
-      "name": "Cross over variation en polea",
+      "name": "Variation en polea, cruzado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "cable",
@@ -1984,7 +1984,7 @@
     {
       "id": "pectorals/cable-incline-bench-press",
       "slug": "cable-incline-bench-press",
-      "name": "Press de banca inclinado en polea",
+      "name": "Press en polea, en banco inclinado",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "cable",
@@ -2044,7 +2044,7 @@
     {
       "id": "pectorals/cable-low-fly",
       "slug": "cable-low-fly",
-      "name": "Apertura en polea, bajo",
+      "name": "Apertura en polea",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "cable",
@@ -2202,7 +2202,7 @@
     {
       "id": "pectorals/cable-one-arm-lateral-bent-over",
       "slug": "cable-one-arm-lateral-bent-over",
-      "name": "Lateral doblado over en polea, a una mano",
+      "name": "Lateral doblado sobre en polea, a una mano",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "cable",
@@ -2534,7 +2534,7 @@
     {
       "id": "triceps/cable-pushdown-with-rope-attachment",
       "slug": "cable-pushdown-with-rope-attachment",
-      "name": "Pushdown en polea, con cuerda, attachment",
+      "name": "Pushdown en polea, con cuerda",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "cable",
@@ -2667,7 +2667,7 @@
     {
       "id": "triceps/cable-rope-lying-on-floor-tricep-extension",
       "slug": "cable-rope-lying-on-floor-tricep-extension",
-      "name": "Extensión de tríceps en polea con cuerda, tumbado, suelo",
+      "name": "Extensión de tríceps en polea con cuerda, tumbado, en el suelo",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "cable",
@@ -2850,7 +2850,7 @@
     {
       "id": "upper-back/cable-incline-bench-row",
       "slug": "cable-incline-bench-row",
-      "name": "Remo inclinado en polea, banco",
+      "name": "Remo en polea, en banco inclinado",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "cable",
@@ -2873,7 +2873,7 @@
     {
       "id": "upper-back/cable-low-seated-row",
       "slug": "cable-low-seated-row",
-      "name": "Remo sentado en polea, bajo",
+      "name": "Remo sentado en polea",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "cable",
@@ -3034,7 +3034,7 @@
     {
       "id": "upper-back/cable-rope-extension-incline-bench-row",
       "slug": "cable-rope-extension-incline-bench-row",
-      "name": "Remo inclinado en polea con cuerda, extension banco",
+      "name": "Remo en polea con cuerda, en banco inclinado, extension",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "cable",

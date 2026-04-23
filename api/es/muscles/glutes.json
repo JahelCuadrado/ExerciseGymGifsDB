@@ -60,7 +60,7 @@
     {
       "id": "glutes/band-bent-over-hip-extension",
       "slug": "band-bent-over-hip-extension",
-      "name": "Extensión con banda, doblado over cadera",
+      "name": "Extensión con banda, doblado sobre cadera",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -454,7 +454,7 @@
     {
       "id": "glutes/barbell-glute-bridge-two-legs-on-bench-male",
       "slug": "barbell-glute-bridge-two-legs-on-bench-male",
-      "name": "Puente de glúteos con barra, a dos piernas, banco",
+      "name": "Puente de glúteos con barra, a dos piernas en banco",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -607,7 +607,7 @@
     {
       "id": "glutes/barbell-low-bar-squat",
       "slug": "barbell-low-bar-squat",
-      "name": "Sentadilla con barra, bajo",
+      "name": "Sentadilla con barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -994,14 +994,14 @@
     {
       "id": "glutes/bent-knee-lying-twist-male",
       "slug": "bent-knee-lying-twist-male",
-      "name": "Giro, tumbado, con rodillas flexionadas",
+      "name": "Giro, tumbado con rodillas flexionadas",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -1166,7 +1166,7 @@
     {
       "id": "glutes/dumbbell-contralateral-forward-lunge",
       "slug": "dumbbell-contralateral-forward-lunge",
-      "name": "Zancada con mancuerna, contralateral forward",
+      "name": "Zancada con mancuerna, contralateral hacia adelante",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -1260,7 +1260,7 @@
     {
       "id": "glutes/dumbbell-plyo-squat",
       "slug": "dumbbell-plyo-squat",
-      "name": "Sentadilla con mancuerna, plyo",
+      "name": "Sentadilla con mancuerna, plio",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -1547,7 +1547,7 @@
     {
       "id": "glutes/exercise-ball-one-legged-diagonal-kick-hamstring-curl",
       "slug": "exercise-ball-one-legged-diagonal-kick-hamstring-curl",
-      "name": "Curl en fitball, one legged diagonal kick isquiotibial",
+      "name": "Curl en fitball, one legged diagonal patada isquiotibial",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -1585,7 +1585,7 @@
     {
       "id": "glutes/forward-lunge-male",
       "slug": "forward-lunge-male",
-      "name": "Zancada, forward",
+      "name": "Zancada, hacia adelante",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -1651,7 +1651,7 @@
     {
       "id": "glutes/glute-bridge-two-legs-on-bench-male",
       "slug": "glute-bridge-two-legs-on-bench-male",
-      "name": "Puente de glúteos, a dos piernas, banco",
+      "name": "Puente de glúteos, a dos piernas en banco",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -1673,7 +1673,7 @@
     {
       "id": "glutes/hands-clasped-circular-toe-touch-male",
       "slug": "hands-clasped-circular-toe-touch-male",
-      "name": "Tocar punta del pie, hands clasped circular",
+      "name": "Tocar punta del pie, manos clasped circular",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -1692,7 +1692,7 @@
     {
       "id": "glutes/hands-reversed-clasped-circular-toe-touch-male",
       "slug": "hands-reversed-clasped-circular-toe-touch-male",
-      "name": "Tocar punta del pie, hands reversed clasped circular",
+      "name": "Tocar punta del pie, manos reversed clasped circular",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -1711,14 +1711,14 @@
     {
       "id": "glutes/hug-keens-to-chest",
       "slug": "hug-keens-to-chest",
-      "name": "Hug keens pecho",
+      "name": "Abrazar rodillas al pecho",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -1730,7 +1730,7 @@
     {
       "id": "glutes/iron-cross-stretch",
       "slug": "iron-cross-stretch",
-      "name": "Estiramiento, iron cross",
+      "name": "Estiramiento, iron cruzado",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -2050,7 +2050,7 @@
     {
       "id": "glutes/low-glute-bridge-on-floor",
       "slug": "low-glute-bridge-on-floor",
-      "name": "Puente de glúteos, bajo, suelo",
+      "name": "Puente de glúteos, bajo en el suelo",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -2153,7 +2153,7 @@
     {
       "id": "glutes/outside-leg-kick-push-up",
       "slug": "outside-leg-kick-push-up",
-      "name": "Flexión, externo pierna kick",
+      "name": "Flexión, externo pierna patada",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -2241,7 +2241,7 @@
     {
       "id": "glutes/push-up-inside-leg-kick",
       "slug": "push-up-inside-leg-kick",
-      "name": "Flexión, interno pierna kick",
+      "name": "Flexión, interno pierna patada",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -2326,7 +2326,7 @@
     {
       "id": "glutes/reverse-hyper-on-flat-bench",
       "slug": "reverse-hyper-on-flat-bench",
-      "name": "Hyper banco invertido plano",
+      "name": "Hyper invertido, en banco plano",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -2435,7 +2435,7 @@
     {
       "id": "glutes/single-leg-bridge-with-outstretched-leg",
       "slug": "single-leg-bridge-with-outstretched-leg",
-      "name": "Puente, a una pierna, outstretched pierna",
+      "name": "Puente, a una pierna con extendida",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -2791,7 +2791,7 @@
     {
       "id": "glutes/smith-low-bar-squat",
       "slug": "smith-low-bar-squat",
-      "name": "Sentadilla en máquina Smith, bajo, barra",
+      "name": "Sentadilla en máquina Smith, barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "smith",
@@ -2901,14 +2901,14 @@
     {
       "id": "glutes/swimmer-kicks-v-2-male",
       "slug": "swimmer-kicks-v-2-male",
-      "name": "Swimmer kicks",
+      "name": "Patadas de nadador",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -2920,14 +2920,14 @@
     {
       "id": "glutes/tire-flip",
       "slug": "tire-flip",
-      "name": "Tire flip",
+      "name": "Volteo de neumático",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -2964,14 +2964,14 @@
     {
       "id": "glutes/twist-hip-lift",
       "slug": "twist-hip-lift",
-      "name": "Giro, cadera lift",
+      "name": "Elevación de cadera con giro",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",

@@ -49,7 +49,7 @@
     {
       "id": "spine/exercise-ball-back-extension-with-arms-extended",
       "slug": "exercise-ball-back-extension-with-arms-extended",
-      "name": "Extensión en fitball, espalda brazos extended",
+      "name": "Extensión en fitball, con brazos extendidos, espalda",
       "muscle": "spine",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -68,7 +68,7 @@
     {
       "id": "spine/exercise-ball-back-extension-with-hands-behind-head",
       "slug": "exercise-ball-back-extension-with-hands-behind-head",
-      "name": "Extensión en fitball, espalda hands behind head",
+      "name": "Extensión en fitball, con manos detrás de la cabeza, espalda",
       "muscle": "spine",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -125,7 +125,7 @@
     {
       "id": "spine/exercise-ball-hug",
       "slug": "exercise-ball-hug",
-      "name": "Hug en fitball",
+      "name": "Abrazar en fitball",
       "muscle": "spine",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -163,7 +163,7 @@
     {
       "id": "spine/hyperextension-on-bench",
       "slug": "hyperextension-on-bench",
-      "name": "Hyperextension banco",
+      "name": "Hyperextension, en banco",
       "muscle": "spine",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -220,14 +220,14 @@
     {
       "id": "spine/lower-back-curl",
       "slug": "lower-back-curl",
-      "name": "Curl, inferior espalda",
+      "name": "Extensión lumbar",
       "muscle": "spine",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa la zona lumbar antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -332,14 +332,14 @@
     {
       "id": "spine/upward-facing-dog",
       "slug": "upward-facing-dog",
-      "name": "Upward facing dog",
+      "name": "Perro boca arriba",
       "muscle": "spine",
       "bodyPart": "back",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa la zona lumbar antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",

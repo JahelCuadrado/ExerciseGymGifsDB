@@ -121,7 +121,7 @@
     {
       "id": "adductors/butterfly-yoga-pose",
       "slug": "butterfly-yoga-pose",
-      "name": "Butterfly yoga pose",
+      "name": "Postura de mariposa",
       "muscle": "adductors",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -220,7 +220,7 @@
     {
       "id": "calves/ankle-circles",
       "slug": "ankle-circles",
-      "name": "Tobillo circles",
+      "name": "Círculos de tobillo",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -295,7 +295,7 @@
     {
       "id": "calves/band-two-legs-calf-raise-band-under-both-legs-v-2",
       "slug": "band-two-legs-calf-raise-band-under-both-legs-v-2",
-      "name": "Elevación de talones con banda, a dos piernas, under both piernas",
+      "name": "Elevación de talones con banda, a dos piernas bajo ambas",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "band",
@@ -503,7 +503,7 @@
     {
       "id": "calves/calf-push-stretch-with-hands-against-wall",
       "slug": "calf-push-stretch-with-hands-against-wall",
-      "name": "Estiramiento, gemelo push hands against pared",
+      "name": "Estiramiento, con manos en la pared, gemelo push",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -521,7 +521,7 @@
     {
       "id": "calves/calf-stretch-with-hands-against-wall",
       "slug": "calf-stretch-with-hands-against-wall",
-      "name": "Estiramiento, gemelo hands against pared",
+      "name": "Estiramiento, con manos en la pared, gemelo",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -575,7 +575,7 @@
     {
       "id": "calves/donkey-calf-raise",
       "slug": "donkey-calf-raise",
-      "name": "Elevación de talones, donkey",
+      "name": "Elevación de talones burro",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -765,7 +765,7 @@
     {
       "id": "calves/hack-calf-raise",
       "slug": "hack-calf-raise",
-      "name": "Elevación de talones, hack",
+      "name": "Elevación de talones en hack",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -784,7 +784,7 @@
     {
       "id": "calves/hack-one-leg-calf-raise",
       "slug": "hack-one-leg-calf-raise",
-      "name": "Elevación de talones, a una pierna, hack",
+      "name": "Elevación de talones en hack, a una pierna",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -825,7 +825,7 @@
     {
       "id": "calves/lever-donkey-calf-raise",
       "slug": "lever-donkey-calf-raise",
-      "name": "Elevación de talones en máquina, donkey",
+      "name": "En máquina, elevación de talones burro",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -904,7 +904,7 @@
     {
       "id": "calves/lever-seated-squat-calf-raise-on-leg-press-machine",
       "slug": "lever-seated-squat-calf-raise-on-leg-press-machine",
-      "name": "Prensa de piernas en máquina, sentado, squat calf-raise",
+      "name": "Elevación de talones en máquina, sentado, en prensa de piernas, sentadilla",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -947,7 +947,7 @@
     {
       "id": "calves/one-leg-donkey-calf-raise",
       "slug": "one-leg-donkey-calf-raise",
-      "name": "Elevación de talones, a una pierna, donkey",
+      "name": "Elevación de talones burro, a una pierna",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -966,7 +966,7 @@
     {
       "id": "calves/one-leg-floor-calf-raise",
       "slug": "one-leg-floor-calf-raise",
-      "name": "Elevación de talones, a una pierna, suelo",
+      "name": "Elevación de talones en el suelo, a una pierna",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -1080,7 +1080,7 @@
     {
       "id": "calves/sled-calf-press-on-leg-press",
       "slug": "sled-calf-press-on-leg-press",
-      "name": "Prensa de piernas, sled gemelo press",
+      "name": "Press, en prensa de piernas, sled gemelo",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "machine",
@@ -1102,7 +1102,7 @@
     {
       "id": "calves/sled-forward-angled-calf-raise",
       "slug": "sled-forward-angled-calf-raise",
-      "name": "Elevación de talones, sled forward angled",
+      "name": "Elevación de talones, sled hacia adelante angled",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "machine",
@@ -1143,7 +1143,7 @@
     {
       "id": "calves/sled-one-leg-calf-press-on-leg-press",
       "slug": "sled-one-leg-calf-press-on-leg-press",
-      "name": "Prensa de piernas, a una pierna, sled gemelo press",
+      "name": "Press, a una pierna en prensa de piernas, sled gemelo",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "machine",
@@ -1165,7 +1165,7 @@
     {
       "id": "calves/smith-one-leg-floor-calf-raise",
       "slug": "smith-one-leg-floor-calf-raise",
-      "name": "Elevación de talones en máquina Smith, a una pierna, suelo",
+      "name": "En máquina Smith, elevación de talones en el suelo, a una pierna",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "smith",
@@ -1260,7 +1260,7 @@
     {
       "id": "calves/smith-toe-raise",
       "slug": "smith-toe-raise",
-      "name": "Elevación en máquina Smith, toe",
+      "name": "Elevación en máquina Smith, pulgar",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "smith",
@@ -1279,7 +1279,7 @@
     {
       "id": "calves/standing-calf-raise-on-a-staircase",
       "slug": "standing-calf-raise-on-a-staircase",
-      "name": "Elevación de talones, de pie, staircase",
+      "name": "Elevación de talones de pie, en escalera",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -1298,7 +1298,7 @@
     {
       "id": "calves/standing-calves-calf-stretch",
       "slug": "standing-calves-calf-stretch",
-      "name": "Estiramiento, de pie, gemelos gemelo",
+      "name": "Estiramiento, gemelos de pie, gemelo",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -1316,7 +1316,7 @@
     {
       "id": "calves/standing-calves",
       "slug": "standing-calves",
-      "name": "Gemelos, de pie",
+      "name": "Gemelos de pie",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -1335,7 +1335,7 @@
     {
       "id": "calves/weighted-donkey-calf-raise",
       "slug": "weighted-donkey-calf-raise",
-      "name": "Elevación de talones, con peso, donkey",
+      "name": "Con peso elevación de talones burro",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -1409,7 +1409,7 @@
     {
       "id": "glutes/band-bent-over-hip-extension",
       "slug": "band-bent-over-hip-extension",
-      "name": "Extensión con banda, doblado over cadera",
+      "name": "Extensión con banda, doblado sobre cadera",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -1803,7 +1803,7 @@
     {
       "id": "glutes/barbell-glute-bridge-two-legs-on-bench-male",
       "slug": "barbell-glute-bridge-two-legs-on-bench-male",
-      "name": "Puente de glúteos con barra, a dos piernas, banco",
+      "name": "Puente de glúteos con barra, a dos piernas en banco",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1956,7 +1956,7 @@
     {
       "id": "glutes/barbell-low-bar-squat",
       "slug": "barbell-low-bar-squat",
-      "name": "Sentadilla con barra, bajo",
+      "name": "Sentadilla con barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -2343,14 +2343,14 @@
     {
       "id": "glutes/bent-knee-lying-twist-male",
       "slug": "bent-knee-lying-twist-male",
-      "name": "Giro, tumbado, con rodillas flexionadas",
+      "name": "Giro, tumbado con rodillas flexionadas",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -2515,7 +2515,7 @@
     {
       "id": "glutes/dumbbell-contralateral-forward-lunge",
       "slug": "dumbbell-contralateral-forward-lunge",
-      "name": "Zancada con mancuerna, contralateral forward",
+      "name": "Zancada con mancuerna, contralateral hacia adelante",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -2609,7 +2609,7 @@
     {
       "id": "glutes/dumbbell-plyo-squat",
       "slug": "dumbbell-plyo-squat",
-      "name": "Sentadilla con mancuerna, plyo",
+      "name": "Sentadilla con mancuerna, plio",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -2896,7 +2896,7 @@
     {
       "id": "glutes/exercise-ball-one-legged-diagonal-kick-hamstring-curl",
       "slug": "exercise-ball-one-legged-diagonal-kick-hamstring-curl",
-      "name": "Curl en fitball, one legged diagonal kick isquiotibial",
+      "name": "Curl en fitball, one legged diagonal patada isquiotibial",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -2934,7 +2934,7 @@
     {
       "id": "glutes/forward-lunge-male",
       "slug": "forward-lunge-male",
-      "name": "Zancada, forward",
+      "name": "Zancada, hacia adelante",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3000,7 +3000,7 @@
     {
       "id": "glutes/glute-bridge-two-legs-on-bench-male",
       "slug": "glute-bridge-two-legs-on-bench-male",
-      "name": "Puente de glúteos, a dos piernas, banco",
+      "name": "Puente de glúteos, a dos piernas en banco",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3022,7 +3022,7 @@
     {
       "id": "glutes/hands-clasped-circular-toe-touch-male",
       "slug": "hands-clasped-circular-toe-touch-male",
-      "name": "Tocar punta del pie, hands clasped circular",
+      "name": "Tocar punta del pie, manos clasped circular",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3041,7 +3041,7 @@
     {
       "id": "glutes/hands-reversed-clasped-circular-toe-touch-male",
       "slug": "hands-reversed-clasped-circular-toe-touch-male",
-      "name": "Tocar punta del pie, hands reversed clasped circular",
+      "name": "Tocar punta del pie, manos reversed clasped circular",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3060,14 +3060,14 @@
     {
       "id": "glutes/hug-keens-to-chest",
       "slug": "hug-keens-to-chest",
-      "name": "Hug keens pecho",
+      "name": "Abrazar rodillas al pecho",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -3079,7 +3079,7 @@
     {
       "id": "glutes/iron-cross-stretch",
       "slug": "iron-cross-stretch",
-      "name": "Estiramiento, iron cross",
+      "name": "Estiramiento, iron cruzado",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3399,7 +3399,7 @@
     {
       "id": "glutes/low-glute-bridge-on-floor",
       "slug": "low-glute-bridge-on-floor",
-      "name": "Puente de glúteos, bajo, suelo",
+      "name": "Puente de glúteos, bajo en el suelo",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3502,7 +3502,7 @@
     {
       "id": "glutes/outside-leg-kick-push-up",
       "slug": "outside-leg-kick-push-up",
-      "name": "Flexión, externo pierna kick",
+      "name": "Flexión, externo pierna patada",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3590,7 +3590,7 @@
     {
       "id": "glutes/push-up-inside-leg-kick",
       "slug": "push-up-inside-leg-kick",
-      "name": "Flexión, interno pierna kick",
+      "name": "Flexión, interno pierna patada",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3675,7 +3675,7 @@
     {
       "id": "glutes/reverse-hyper-on-flat-bench",
       "slug": "reverse-hyper-on-flat-bench",
-      "name": "Hyper banco invertido plano",
+      "name": "Hyper invertido, en banco plano",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3784,7 +3784,7 @@
     {
       "id": "glutes/single-leg-bridge-with-outstretched-leg",
       "slug": "single-leg-bridge-with-outstretched-leg",
-      "name": "Puente, a una pierna, outstretched pierna",
+      "name": "Puente, a una pierna con extendida",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -4140,7 +4140,7 @@
     {
       "id": "glutes/smith-low-bar-squat",
       "slug": "smith-low-bar-squat",
-      "name": "Sentadilla en máquina Smith, bajo, barra",
+      "name": "Sentadilla en máquina Smith, barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "smith",
@@ -4250,14 +4250,14 @@
     {
       "id": "glutes/swimmer-kicks-v-2-male",
       "slug": "swimmer-kicks-v-2-male",
-      "name": "Swimmer kicks",
+      "name": "Patadas de nadador",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -4269,14 +4269,14 @@
     {
       "id": "glutes/tire-flip",
       "slug": "tire-flip",
-      "name": "Tire flip",
+      "name": "Volteo de neumático",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -4313,14 +4313,14 @@
     {
       "id": "glutes/twist-hip-lift",
       "slug": "twist-hip-lift",
-      "name": "Giro, cadera lift",
+      "name": "Elevación de cadera con giro",
       "muscle": "glutes",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los glúteos antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -4445,14 +4445,14 @@
     {
       "id": "hamstrings/assisted-prone-hamstring",
       "slug": "assisted-prone-hamstring",
-      "name": "Isquiotibial tumbado boca abajo, asistido",
+      "name": "Estiramiento de isquiotibiales asistido, boca abajo",
       "muscle": "hamstrings",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -4564,14 +4564,14 @@
     {
       "id": "hamstrings/glute-ham-raise",
       "slug": "glute-ham-raise",
-      "name": "Elevación, glúteo ham",
+      "name": "Glute ham raise",
       "muscle": "hamstrings",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -4668,14 +4668,14 @@
     {
       "id": "hamstrings/kick-out-sit",
       "slug": "kick-out-sit",
-      "name": "Kick out sit",
+      "name": "Kick-out sit",
       "muscle": "hamstrings",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -4781,10 +4781,10 @@
     {
       "id": "hamstrings/power-clean",
       "slug": "power-clean",
-      "name": "Cargada, potencia",
+      "name": "Cargada de potencia",
       "muscle": "hamstrings",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "glutes",
@@ -4794,7 +4794,7 @@
         "forearms"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -4806,14 +4806,14 @@
     {
       "id": "hamstrings/reclining-big-toe-pose-with-rope",
       "slug": "reclining-big-toe-pose-with-rope",
-      "name": "Reclining big toe pose, con cuerda",
+      "name": "Postura del pulgar reclinado con cuerda",
       "muscle": "hamstrings",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -4843,14 +4843,14 @@
     {
       "id": "hamstrings/seated-wide-angle-pose-sequence",
       "slug": "seated-wide-angle-pose-sequence",
-      "name": "Angle pose sequence, sentado, ancho",
+      "name": "Secuencia ángulo amplio sentado",
       "muscle": "hamstrings",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los isquiotibiales antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -4881,7 +4881,7 @@
     {
       "id": "hamstrings/self-assisted-inverse-leg-curl-on-floor",
       "slug": "self-assisted-inverse-leg-curl-on-floor",
-      "name": "Curl femoral nórdico, asistido, self suelo",
+      "name": "Curl femoral nórdico, asistido en el suelo, self",
       "muscle": "hamstrings",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -4956,7 +4956,7 @@
     {
       "id": "hamstrings/standing-single-leg-curl",
       "slug": "standing-single-leg-curl",
-      "name": "Curl, de pie, a una pierna",
+      "name": "Curl femoral a una pierna, de pie",
       "muscle": "hamstrings",
       "bodyPart": "legs",
       "equipment": "other",
@@ -5029,7 +5029,7 @@
     {
       "id": "quads/backward-jump",
       "slug": "backward-jump",
-      "name": "Salto, backward",
+      "name": "Salto, hacia atrás",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -5047,14 +5047,14 @@
     {
       "id": "quads/balance-board",
       "slug": "balance-board",
-      "name": "Equilibrio board",
+      "name": "Tabla de equilibrio",
       "muscle": "quads",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -5066,7 +5066,7 @@
     {
       "id": "quads/band-one-arm-single-leg-split-squat",
       "slug": "band-one-arm-single-leg-split-squat",
-      "name": "Split squat con banda, a una mano a pierna",
+      "name": "Split squat con banda, a una mano a una pierna",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "band",
@@ -5323,7 +5323,7 @@
     {
       "id": "quads/barbell-squat-jump-step-rear-lunge",
       "slug": "barbell-squat-jump-step-rear-lunge",
-      "name": "Sentadilla con barra, posterior, jump step lunge",
+      "name": "Sentadilla con barra, posterior, jump paso lunge",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -5543,7 +5543,7 @@
     {
       "id": "quads/forward-jump",
       "slug": "forward-jump",
-      "name": "Salto, forward",
+      "name": "Salto, hacia adelante",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -5641,11 +5641,11 @@
       "name": "Cuádriceps",
       "muscle": "quads",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -5657,14 +5657,14 @@
     {
       "id": "quads/quick-feet-v-2",
       "slug": "quick-feet-v-2",
-      "name": "Quick feet",
+      "name": "Pies rápidos",
       "muscle": "quads",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -5767,7 +5767,7 @@
       "name": "Snatch pull",
       "muscle": "quads",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "glutes",
@@ -5778,7 +5778,7 @@
         "forearms"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -5790,10 +5790,10 @@
     {
       "id": "quads/split-squats",
       "slug": "split-squats",
-      "name": "Sentadillas, split",
+      "name": "Split squat",
       "muscle": "quads",
       "bodyPart": "legs",
-      "equipment": "other",
+      "equipment": "bodyweight",
       "category": "strength",
       "secondaryMuscles": [
         "glutes",
@@ -5801,7 +5801,7 @@
         "calves"
       ],
       "instructions": [
-        "Prepara el equipo y adopta la postura inicial.",
+        "Adopta la postura inicial con buena alineación corporal.",
         "Activa los cuádriceps antes de iniciar el movimiento.",
         "Realiza el movimiento de forma controlada manteniendo la técnica.",
         "Vuelve a la posición inicial controlando la fase excéntrica.",
@@ -5813,7 +5813,7 @@
     {
       "id": "quads/squat-jerk",
       "slug": "squat-jerk",
-      "name": "Envión, squat",
+      "name": "Envión, sentadilla",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -5863,7 +5863,7 @@
     {
       "id": "quads/squat-to-overhead-reach-with-twist",
       "slug": "squat-to-overhead-reach-with-twist",
-      "name": "Sentadilla sobre la cabeza, reach twist",
+      "name": "Sentadilla, con alcance sobre la cabeza, twist",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -5886,7 +5886,7 @@
     {
       "id": "quads/squat-to-overhead-reach",
       "slug": "squat-to-overhead-reach",
-      "name": "Sentadilla sobre la cabeza, reach",
+      "name": "Sentadilla, con alcance sobre la cabeza",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",

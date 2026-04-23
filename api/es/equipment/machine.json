@@ -5,7 +5,7 @@
     {
       "id": "abs/sledge-hammer",
       "slug": "sledge-hammer",
-      "name": "Sledge martillo",
+      "name": "Martillo",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "machine",
@@ -46,7 +46,7 @@
     {
       "id": "calves/sled-calf-press-on-leg-press",
       "slug": "sled-calf-press-on-leg-press",
-      "name": "Prensa de piernas, sled gemelo press",
+      "name": "Press, en prensa de piernas, sled gemelo",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "machine",
@@ -68,7 +68,7 @@
     {
       "id": "calves/sled-forward-angled-calf-raise",
       "slug": "sled-forward-angled-calf-raise",
-      "name": "Elevación de talones, sled forward angled",
+      "name": "Elevación de talones, sled hacia adelante angled",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "machine",
@@ -109,7 +109,7 @@
     {
       "id": "calves/sled-one-leg-calf-press-on-leg-press",
       "slug": "sled-one-leg-calf-press-on-leg-press",
-      "name": "Prensa de piernas, a una pierna, sled gemelo press",
+      "name": "Press, a una pierna en prensa de piernas, sled gemelo",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "machine",
@@ -131,7 +131,7 @@
     {
       "id": "cardio/cycle-cross-trainer",
       "slug": "cycle-cross-trainer",
-      "name": "Cycle cross trainer",
+      "name": "Bicicleta elíptica",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "machine",
@@ -149,7 +149,7 @@
     {
       "id": "cardio/walk-elliptical-cross-trainer",
       "slug": "walk-elliptical-cross-trainer",
-      "name": "Caminata elíptica cross trainer",
+      "name": "Caminata elíptica cruzado trainer",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "machine",
@@ -185,7 +185,7 @@
     {
       "id": "cardio/walking-on-stepmill",
       "slug": "walking-on-stepmill",
-      "name": "Caminando stepmill",
+      "name": "Andando en stepmill",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "machine",
