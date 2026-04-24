@@ -1,7 +1,11 @@
 // =====================================================================
 // Exercise Gym GIFs DB — landing
 // =====================================================================
-const BASE = "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main";
+// Bump this constant when releasing a new SemVer tag and the docs/snippets
+// will follow automatically. Use a tag (e.g. "v1.1.0") for stable URLs that
+// jsDelivr can cache forever; avoid branch names like `version-1.x`.
+const API_VERSION = "v1.1.0";
+const BASE = `https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@${API_VERSION}`;
 
 let GLOBAL_INDEX = null;
 let MUSCLES = [];
@@ -72,7 +76,7 @@ const I18N = {
 		"docs.base.title": "Base URL",
 		"docs.base.text": "Everything else hangs off this:",
 		"docs.base.note":
-			"Replace <code>@main</code> with <code>@v1.0.0</code> (or any other tag) to pin a version.",
+			"Pinned to <code>@v1.1.0</code> for reproducible builds. Replace the tag with another (e.g. <code>@v1.0.0</code>) to switch versions.",
 		"docs.endpoints.title": "Endpoints",
 		"docs.endpoints.text":
 			"The API has one version per language. Replace <code>{lang}</code> with <code>en</code> or <code>es</code>.",
@@ -179,7 +183,7 @@ const I18N = {
 		"docs.base.title": "Base URL",
 		"docs.base.text": "Todo lo demás cuelga de aquí:",
 		"docs.base.note":
-			"Cambia <code>@main</code> por <code>@v1.0.0</code> (u otro tag) cuando quieras congelar la versión.",
+			"Anclada a <code>@v1.1.0</code> para builds reproducibles. Cambia el tag (p. ej. <code>@v1.0.0</code>) para usar otra versión.",
 		"docs.endpoints.title": "Endpoints",
 		"docs.endpoints.text":
 			"La API tiene una versión por idioma. Sustituye <code>{lang}</code> por <code>en</code> o <code>es</code>.",

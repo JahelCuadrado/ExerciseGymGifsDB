@@ -5,7 +5,8 @@ través del CDN gratuito de **jsDelivr**. Pensada para consumirse desde cualquie
 app móvil o web sin necesidad de backend.
 
 - **Repo:** https://github.com/JahelCuadrado/ExerciseGymGifsDB
-- **Base URL (jsDelivr):** `https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main`
+- **Base URL (jsDelivr):** `https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0`
+- **Última release estable:** `v1.1.0` · **Desarrollo activo:** rama `version-1.2.0`
 - **19 grupos musculares · 1323 ejercicios**
 
 ## Endpoints
@@ -35,10 +36,10 @@ Valores posibles:
 
 Ejemplos en vivo:
 
-- https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/api/index.json
-- https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/api/es/muscles/biceps.json
-- https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/api/en/muscles/biceps.json
-- https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-curl.gif
+- https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/api/index.json
+- https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/api/es/muscles/biceps.json
+- https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/api/en/muscles/biceps.json
+- https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/biceps/barbell-curl.gif
 
 ## Estructura del repo
 
@@ -73,14 +74,14 @@ El esquema es idéntico en todos los idiomas; lo que cambia es el contenido de
     "..."
   ],
   "file": "biceps/barbell-curl.gif",
-  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-curl.gif"
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/biceps/barbell-curl.gif"
 }
 ```
 
 ## Consumir desde tu app
 
 ```js
-const BASE = "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main";
+const BASE = "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0";
 const LANG = "es"; // o "en"
 
 // Lista de grupos musculares
@@ -99,13 +100,13 @@ Necesitas Node.js 18+.
 
 ```powershell
 # Windows PowerShell
-$env:API_BASE_URL = "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main"
+$env:API_BASE_URL = "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0"
 npm run build
 ```
 
 ```bash
 # bash / zsh
-export API_BASE_URL="https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main"
+export API_BASE_URL="https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0"
 npm run build
 ```
 
@@ -156,24 +157,25 @@ Reglas:
 
 ## Versionado (recomendado para producción)
 
-Para que tu app no se rompa si cambias archivos, usa tags:
+Las URLs publicadas están ancladas a un tag SemVer (`v1.1.0` actualmente). Para
+liberar una nueva versión: taggea, regenera con `API_REF=vX.Y.Z` y publica.
 
 ```powershell
-git tag v1.0.0
-git push origin v1.0.0
+git tag v1.2.0
+git push origin v1.2.0
 ```
 
-Y en tu app cambia `@main` por `@v1.0.0`:
+Luego en tu app cambia `@v1.1.0` por la nueva:
 
 ```
-https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.0.0/api/index.json
+https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.2.0/api/index.json
 ```
 
 ## Alternativas a jsDelivr
 
 | Forma | URL base | Notas |
 |---|---|---|
-| **jsDelivr** (recomendado) | `https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main` | CDN global, rápido, gratis |
+| **jsDelivr** (recomendado) | `https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0` | CDN global, rápido, gratis |
 | Raw GitHub | `https://raw.githubusercontent.com/JahelCuadrado/ExerciseGymGifsDB/main` | Sin CDN, solo para pruebas |
 | GitHub Pages | `https://jahelcuadrado.github.io/ExerciseGymGifsDB` | Requiere activar Pages |
 

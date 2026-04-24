@@ -154,8 +154,8 @@
       <div class="docs-main">
         <h3 id="base-url" data-i18n="docs.base.title">Base URL</h3>
         <p data-i18n="docs.base.text">Everything else hangs off this:</p>
-<pre><code>https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main</code></pre>
-        <p class="muted" data-i18n-html="docs.base.note">Replace <code>@main</code> with <code>@v1.0.0</code> (or any other tag) to pin a version.</p>
+<pre><code>https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0</code></pre>
+        <p class="muted" data-i18n-html="docs.base.note">Pinned to <code>@v1.1.0</code> for reproducible builds. Replace the tag with another (e.g. <code>@v1.0.0</code>) to switch versions.</p>
 
         <h3 id="endpoints" data-i18n="docs.endpoints.title">Endpoints</h3>
         <p data-i18n-html="docs.endpoints.text">The API has one version per language. Replace <code>{lang}</code> with <code>en</code> or <code>es</code>.</p>
@@ -192,7 +192,7 @@
     "..."
   ],
   "file": "biceps/barbell-curl.gif",
-  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main/biceps/barbell-curl.gif"
+  "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/biceps/barbell-curl.gif"
 }</code></pre>
 
         <h3 data-i18n="docs.enums.title">Allowed values</h3>
@@ -203,7 +203,7 @@
         </ul>
 
         <h3 id="example-fetch" data-i18n="docs.example.title">Usage example</h3>
-<pre><code class="lang-js">const BASE = "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@main";
+<pre><code class="lang-js">const BASE = "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0";
 const LANG = "en"; // or "es"
 
 // Biceps exercises in the chosen language
