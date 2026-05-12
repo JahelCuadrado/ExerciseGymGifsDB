@@ -235,6 +235,7 @@ function buildExercise(lang, muscle, slug, file, override) {
 		instructions: instructionsInferred,
 		file: relPath,
 		gifUrl: `${BASE_URL}/${relPath}`,
+		thumbUrl: `${BASE_URL}/${muscle}/${slug}.thumb.webp`,
 	};
 
 	return applyOverride(base, pickLangOverride(override, lang));
