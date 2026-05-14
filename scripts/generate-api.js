@@ -31,54 +31,24 @@ const { inferEquipment, inferBodyPart, inferCategory } = require("./enrich");
 const {
 	translateSlug,
 	inferSecondary,
-	generateInstructionsEs,
-	generateInstructionsEn,
 } = require("./translate");
+const {
+	generateInstructionsEn,
+	generateInstructionsEs,
+} = require("./instructions");
 
 const ROOT = path.resolve(__dirname, "..");
 const OUT = path.join(ROOT, "api");
 const OVERRIDES = path.join(ROOT, "overrides");
 
 /**
- * Resuelve el ref de Git para anclar URLs absolutas a una versión cacheable
- * por jsDelivr. Prioridad:
- *   1. `API_BASE_URL` (override total).
- *   2. `API_REF` (tag o ref explícito; ej. `v1.1.0`).
- *   3. Tag SemVer exacto en HEAD (`vX.Y.Z`) → URL pública estable.
- *   4. SHA corto del commit actual → URL inmutable y siempre resoluble.
- *   5. `main` como último recurso.
- *
- * Nota: jsDelivr NO resuelve nombres de rama arbitrarios como `version-1.1.0`
- * en `cdn.jsdelivr.net/gh/<repo>@<ref>`; sólo tags, commits y la default
- * branch. Por eso no usamos el nombre de la rama como ref.
+ * URL base para assets (GIFs, thumbnails).
+ * Servido desde GitHub Pages sobre la rama activa.
+ * Se puede sobreescribir con la variable de entorno `API_BASE_URL`.
  */
-function detectGitRef() {
-	if (process.env.API_REF) return process.env.API_REF;
-	const { execSync } = require("child_process");
-	const tryGit = (cmd) => {
-		try {
-			return execSync(cmd, {
-				cwd: ROOT,
-				stdio: ["ignore", "pipe", "ignore"],
-			})
-				.toString()
-				.trim();
-		} catch {
-			return "";
-		}
-	};
-	const tag = tryGit("git describe --tags --exact-match HEAD");
-	if (/^v\d+\.\d+\.\d+/.test(tag)) return tag;
-	const sha = tryGit("git rev-parse --short=12 HEAD");
-	if (sha) return sha;
-	return "main";
-}
-
-const REPO_SLUG = process.env.API_REPO || "JahelCuadrado/ExerciseGymGifsDB";
-const REF = detectGitRef();
 const BASE_URL = (
-	process.env.API_BASE_URL ||
-	`https://cdn.jsdelivr.net/gh/${REPO_SLUG}@${REF}`
+   process.env.API_BASE_URL ||
+   "https://jahelcuadrado.github.io/ExerciseGymGigsDB"
 ).replace(/\/+$/, "");
 
 const LANGS = ["en", "es"];
@@ -211,12 +181,14 @@ function buildExercise(lang, muscle, slug, file, override) {
 	const instructionsInferred =
 		lang === "es"
 			? generateInstructionsEs({
+					slug,
 					name: nameInferred,
 					muscle,
 					equipment,
 					category,
 			  })
 			: generateInstructionsEn({
+					slug,
 					name: nameInferred,
 					muscle,
 					equipment,
