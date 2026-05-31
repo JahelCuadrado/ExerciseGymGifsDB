@@ -1,0 +1,24 @@
+{
+  "id": "delts/barbell-skier",
+  "slug": "barbell-skier",
+  "name": "バーベル・スキーヤー",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "abs",
+    "lats",
+    "triceps"
+  ],
+  "instructions": [
+    "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+    "足を肩幅に開き、膝を軽く曲げ、体幹を活性化して立ちます。各手にロープの端を持ちます。",
+    "腕を交互に（または同時に叩くように）上下させて連続的な波を作ります。力は腕だけでなく全身から来ます。",
+    "一定のリズムを保ち、体幹を固く保ちます。ロープをたるませず、各動作でテンションを維持します。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "delts/barbell-skier.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-skier.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-skier.thumb.webp"
+}

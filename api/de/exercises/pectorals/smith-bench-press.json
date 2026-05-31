@@ -1,0 +1,23 @@
+{
+  "id": "pectorals/smith-bench-press",
+  "slug": "smith-bench-press",
+  "name": "Bankdrücken an der Smith-Maschine",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+    "Ziehe die Schulterblätter zusammen, als ob du einen Bleistift zwischen ihnen halten würdest — das schafft eine stabile Basis zum Drücken.",
+    "Senke die Stange zur Brustmitte mit den Ellbogen bei etwa 45° — denke an eine Pfeilform, nicht an ein T — kontrolliere den Abstieg 2-3 Sekunden.",
+    "Drücke dich selbst von der Stange weg in die Bank. Drücke die Stange in einem leichten Bogen zurück Richtung Ablage, um die Wiederholung abzuschließen.",
+    "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+  ],
+  "file": "pectorals/smith-bench-press.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-bench-press.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-bench-press.thumb.webp"
+}

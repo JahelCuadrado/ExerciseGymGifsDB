@@ -1,0 +1,620 @@
+{
+  "bodyPart": "cardio",
+  "count": 29,
+  "exercises": [
+    {
+      "id": "cardio/astride-jumps-male",
+      "slug": "astride-jumps-male",
+      "name": "またがり・ジャンプ",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を腰幅から肩幅に開いて立ちます。素早く曲げて脚を溜めます。膝と腰を曲げてテンションを蓄えます。",
+        "股関節、膝、足首を完全に伸ばして爆発的に上に跳びます。該当する場合は腕を振って高さを出します。",
+        "膝を曲げて脚で衝撃を吸収しながらソフトに着地します。猫のように静かに着地するイメージです。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/astride-jumps-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/astride-jumps-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/astride-jumps-male.thumb.webp"
+    },
+    {
+      "id": "cardio/back-and-forth-step",
+      "slug": "back-and-forth-step",
+      "name": "バック・フォース・ステップ",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足首からわずかに前傾した直立姿勢をとります。腕は90°で自然に振ります。",
+        "膝を前に推進し、ミッドフットで着地します。スムーズで一定のケイデンスを維持します。",
+        "運動中ずっと体幹を活性化し、呼吸リズムを維持します。鼻から吸い、口から吐きます。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/back-and-forth-step.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/back-and-forth-step.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/back-and-forth-step.thumb.webp"
+    },
+    {
+      "id": "cardio/bear-crawl",
+      "slug": "bear-crawl",
+      "name": "ベアー・クロール",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "四つん這いで膝を床から1センチ浮かせてスタートします。体幹を活性化し、背中はまっすぐです。",
+        "反対の手と足を同時に進めます。右手と左足、次に左手と右足です。",
+        "腰を低く安定させ、意図を持って動きます。ステップが小さくコントロールされているほど、体幹の活性化が高くなります。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/bear-crawl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/bear-crawl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/bear-crawl.thumb.webp"
+    },
+    {
+      "id": "cardio/burpee",
+      "slug": "burpee",
+      "name": "バーピー",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "quads",
+        "glutes",
+        "abs"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "立った状態からしゃがんで手を前の床に置きます。",
+        "足を後ろにジャンプ（またはステップ）して腕立て伏せ姿勢にします。腕立て伏せをします（速度重視ならスキップ）。",
+        "足を手元にジャンプ（またはステップ）して戻し、手を頭上に上げてジャンプで爆発します。ソフトに着地して繰り返します。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/burpee.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/burpee.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/burpee.thumb.webp"
+    },
+    {
+      "id": "cardio/cycle-cross-trainer",
+      "slug": "cycle-cross-trainer",
+      "name": "サイクル・クロス・トレーナー",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "サドルとハンドルを体に合わせて調整します。ペダル最下点で膝が軽く曲がるように座ります。",
+        "スムーズにペダリングし、円運動で押し下げ引き上げます。目標抵抗で一定のケイデンスを維持します。",
+        "まっすぐな姿勢を保ち、体幹を活性化し、運動中ずっとリズミカルに呼吸します。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/cycle-cross-trainer.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/cycle-cross-trainer.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/cycle-cross-trainer.thumb.webp"
+    },
+    {
+      "id": "cardio/dumbbell-burpee",
+      "slug": "dumbbell-burpee",
+      "name": "ダンベル・バーピー",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "dumbbell",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "quads",
+        "glutes",
+        "abs"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "立った状態からしゃがんで手を前の床に置きます。",
+        "足を後ろにジャンプ（またはステップ）して腕立て伏せ姿勢にします。腕立て伏せをします（速度重視ならスキップ）。",
+        "足を手元にジャンプ（またはステップ）して戻し、手を頭上に上げてジャンプで爆発します。ソフトに着地して繰り返します。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/dumbbell-burpee.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/dumbbell-burpee.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/dumbbell-burpee.thumb.webp"
+    },
+    {
+      "id": "cardio/half-knee-bends-male",
+      "slug": "half-knee-bends-male",
+      "name": "ハーフ・ニー・ベンド",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "自分のフィットネスレベルに合った安定したペースを維持します。",
+        "コアを引き締め、エクササイズ全体を通して正しい姿勢を保ちます。",
+        "計画した時間またはレップ数を正しいフォームで続けます。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/half-knee-bends-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/half-knee-bends-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/half-knee-bends-male.thumb.webp"
+    },
+    {
+      "id": "cardio/high-knee-against-wall",
+      "slug": "high-knee-against-wall",
+      "name": "ハイニー・アゲインスト・ウォール",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足首からわずかに前傾した直立姿勢をとります。腕は90°で自然に振ります。",
+        "膝を前に推進し、ミッドフットで着地します。スムーズで一定のケイデンスを維持します。",
+        "運動中ずっと体幹を活性化し、呼吸リズムを維持します。鼻から吸い、口から吐きます。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/high-knee-against-wall.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/high-knee-against-wall.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/high-knee-against-wall.thumb.webp"
+    },
+    {
+      "id": "cardio/jack-burpee",
+      "slug": "jack-burpee",
+      "name": "バーピー・ジャック",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "quads",
+        "glutes",
+        "abs"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "立った状態からしゃがんで手を前の床に置きます。",
+        "足を後ろにジャンプ（またはステップ）して腕立て伏せ姿勢にします。腕立て伏せをします（速度重視ならスキップ）。",
+        "足を手元にジャンプ（またはステップ）して戻し、手を頭上に上げてジャンプで爆発します。ソフトに着地して繰り返します。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/jack-burpee.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jack-burpee.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jack-burpee.thumb.webp"
+    },
+    {
+      "id": "cardio/jack-jump-male",
+      "slug": "jack-jump-male",
+      "name": "ジャック・ジャンプ",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を腰幅から肩幅に開いて立ちます。素早く曲げて脚を溜めます。膝と腰を曲げてテンションを蓄えます。",
+        "股関節、膝、足首を完全に伸ばして爆発的に上に跳びます。該当する場合は腕を振って高さを出します。",
+        "膝を曲げて脚で衝撃を吸収しながらソフトに着地します。猫のように静かに着地するイメージです。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/jack-jump-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jack-jump-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jack-jump-male.thumb.webp"
+    },
+    {
+      "id": "cardio/jump-rope",
+      "slug": "jump-rope",
+      "name": "縄跳び",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を腰幅から肩幅に開いて立ちます。素早く曲げて脚を溜めます。膝と腰を曲げてテンションを蓄えます。",
+        "股関節、膝、足首を完全に伸ばして爆発的に上に跳びます。該当する場合は腕を振って高さを出します。",
+        "膝を曲げて脚で衝撃を吸収しながらソフトに着地します。猫のように静かに着地するイメージです。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/jump-rope.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jump-rope.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jump-rope.thumb.webp"
+    },
+    {
+      "id": "cardio/mountain-climber",
+      "slug": "mountain-climber",
+      "name": "マウンテンクライマー",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "腕立て伏せ姿勢で体幹を引き締め、体を一直線にしてスタートします。",
+        "片膝を胸に引き寄せ、素早く脚を入れ替えてランニングモーションにします。腰を水平に保ちます。",
+        "速いがコントロールされたペースを維持します。腰が跳ねないように。水平にその場で走るイメージで引き締めます。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/mountain-climber.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/mountain-climber.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/mountain-climber.thumb.webp"
+    },
+    {
+      "id": "cardio/push-to-run",
+      "slug": "push-to-run",
+      "name": "プッシュ・ラン",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足首からわずかに前傾した直立姿勢をとります。腕は90°で自然に振ります。",
+        "膝を前に推進し、ミッドフットで着地します。スムーズで一定のケイデンスを維持します。",
+        "運動中ずっと体幹を活性化し、呼吸リズムを維持します。鼻から吸い、口から吐きます。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/push-to-run.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/push-to-run.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/push-to-run.thumb.webp"
+    },
+    {
+      "id": "cardio/run-equipment",
+      "slug": "run-equipment",
+      "name": "ラン・器具",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足首からわずかに前傾した直立姿勢をとります。腕は90°で自然に振ります。",
+        "膝を前に推進し、ミッドフットで着地します。スムーズで一定のケイデンスを維持します。",
+        "運動中ずっと体幹を活性化し、呼吸リズムを維持します。鼻から吸い、口から吐きます。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/run-equipment.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/run-equipment.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/run-equipment.thumb.webp"
+    },
+    {
+      "id": "cardio/run",
+      "slug": "run",
+      "name": "ラン",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足首からわずかに前傾した直立姿勢をとります。腕は90°で自然に振ります。",
+        "膝を前に推進し、ミッドフットで着地します。スムーズで一定のケイデンスを維持します。",
+        "運動中ずっと体幹を活性化し、呼吸リズムを維持します。鼻から吸い、口から吐きます。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/run.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/run.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/run.thumb.webp"
+    },
+    {
+      "id": "cardio/scissor-jumps-male",
+      "slug": "scissor-jumps-male",
+      "name": "シザー・ジャンプ",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "仰向けに寝て脚を伸ばし、手はお尻の下または体側に。腰を床に押し付けます。",
+        "両脚を床から数センチ浮かせ、短く速い動きで上下に交互にキックします。",
+        "体幹を活性化し腰を床に付けたままにします。背中が反るなら脚をもう少し高くします。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/scissor-jumps-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/scissor-jumps-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/scissor-jumps-male.thumb.webp"
+    },
+    {
+      "id": "cardio/semi-squat-jump-male",
+      "slug": "semi-squat-jump-male",
+      "name": "スクワット・セミ・ジャンプ",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/semi-squat-jump-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/semi-squat-jump-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/semi-squat-jump-male.thumb.webp"
+    },
+    {
+      "id": "cardio/short-stride-run",
+      "slug": "short-stride-run",
+      "name": "ショート・ストライド・ラン",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足首からわずかに前傾した直立姿勢をとります。腕は90°で自然に振ります。",
+        "膝を前に推進し、ミッドフットで着地します。スムーズで一定のケイデンスを維持します。",
+        "運動中ずっと体幹を活性化し、呼吸リズムを維持します。鼻から吸い、口から吐きます。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/short-stride-run.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/short-stride-run.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/short-stride-run.thumb.webp"
+    },
+    {
+      "id": "cardio/skater-hops",
+      "slug": "skater-hops",
+      "name": "スケーター・ホップ",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を腰幅から肩幅に開いて立ちます。素早く曲げて脚を溜めます。膝と腰を曲げてテンションを蓄えます。",
+        "股関節、膝、足首を完全に伸ばして爆発的に上に跳びます。該当する場合は腕を振って高さを出します。",
+        "膝を曲げて脚で衝撃を吸収しながらソフトに着地します。猫のように静かに着地するイメージです。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/skater-hops.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/skater-hops.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/skater-hops.thumb.webp"
+    },
+    {
+      "id": "cardio/ski-step",
+      "slug": "ski-step",
+      "name": "スキー・ステップ",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足首からわずかに前傾した直立姿勢をとります。腕は90°で自然に振ります。",
+        "膝を前に推進し、ミッドフットで着地します。スムーズで一定のケイデンスを維持します。",
+        "運動中ずっと体幹を活性化し、呼吸リズムを維持します。鼻から吸い、口から吐きます。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/ski-step.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/ski-step.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/ski-step.thumb.webp"
+    },
+    {
+      "id": "cardio/star-jump-male",
+      "slug": "star-jump-male",
+      "name": "スター・ジャンプ",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を腰幅から肩幅に開いて立ちます。素早く曲げて脚を溜めます。膝と腰を曲げてテンションを蓄えます。",
+        "股関節、膝、足首を完全に伸ばして爆発的に上に跳びます。該当する場合は腕を振って高さを出します。",
+        "膝を曲げて脚で衝撃を吸収しながらソフトに着地します。猫のように静かに着地するイメージです。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/star-jump-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/star-jump-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/star-jump-male.thumb.webp"
+    },
+    {
+      "id": "cardio/stationary-bike-run-v-3",
+      "slug": "stationary-bike-run-v-3",
+      "name": "ステーショナリー・バイク・ラン",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足首からわずかに前傾した直立姿勢をとります。腕は90°で自然に振ります。",
+        "膝を前に推進し、ミッドフットで着地します。スムーズで一定のケイデンスを維持します。",
+        "運動中ずっと体幹を活性化し、呼吸リズムを維持します。鼻から吸い、口から吐きます。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/stationary-bike-run-v-3.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/stationary-bike-run-v-3.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/stationary-bike-run-v-3.thumb.webp"
+    },
+    {
+      "id": "cardio/stationary-bike-walk",
+      "slug": "stationary-bike-walk",
+      "name": "ステーショナリー・バイク・ウォーク",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足首からわずかに前傾した直立姿勢をとります。腕は90°で自然に振ります。",
+        "膝を前に推進し、ミッドフットで着地します。スムーズで一定のケイデンスを維持します。",
+        "運動中ずっと体幹を活性化し、呼吸リズムを維持します。鼻から吸い、口から吐きます。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/stationary-bike-walk.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/stationary-bike-walk.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/stationary-bike-walk.thumb.webp"
+    },
+    {
+      "id": "cardio/swing-360",
+      "slug": "swing-360",
+      "name": "スイング",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を肩幅に開いて立ち、両手でケトルベルを持ちます。股関節でヒンジしてスイングを開始します。",
+        "股関節を爆発的に前に押し出します。力は腕ではなく腰から来ます。重りはその結果として浮き上がります。",
+        "ケトルベルが自然に落ちるに任せ、股関節でヒンジして吸収します。体幹を活性化し背中をまっすぐに保ちます。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/swing-360.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/swing-360.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/swing-360.thumb.webp"
+    },
+    {
+      "id": "cardio/walk-elliptical-cross-trainer",
+      "slug": "walk-elliptical-cross-trainer",
+      "name": "ウォーク・エリプティカル・クロス・トレーナー",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "足首からわずかに前傾した直立姿勢をとります。腕は90°で自然に振ります。",
+        "膝を前に推進し、ミッドフットで着地します。スムーズで一定のケイデンスを維持します。",
+        "運動中ずっと体幹を活性化し、呼吸リズムを維持します。鼻から吸い、口から吐きます。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/walk-elliptical-cross-trainer.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walk-elliptical-cross-trainer.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walk-elliptical-cross-trainer.thumb.webp"
+    },
+    {
+      "id": "cardio/walking-high-knees-lunge",
+      "slug": "walking-high-knees-lunge",
+      "name": "ハイ・ランジ・ウォーキング・ニー",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を腰幅に開いて立ちます（線路の上、綱渡りではなく）。体幹を柱のようにまっすぐにして踏み出します。",
+        "後ろの膝をエレベーターのようにまっすぐ下ろします。前に出さないでください。両膝90°を目指します。前脚のすねを垂直に保ちます。",
+        "前足のかかとで押して戻ります。前足で床を下に押すイメージです。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/walking-high-knees-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-high-knees-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-high-knees-lunge.thumb.webp"
+    },
+    {
+      "id": "cardio/walking-on-incline-treadmill",
+      "slug": "walking-on-incline-treadmill",
+      "name": "インクライン・ウォーキング・トレッドミル",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "足首からわずかに前傾した直立姿勢をとります。腕は90°で自然に振ります。",
+        "膝を前に推進し、ミッドフットで着地します。スムーズで一定のケイデンスを維持します。",
+        "運動中ずっと体幹を活性化し、呼吸リズムを維持します。鼻から吸い、口から吐きます。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/walking-on-incline-treadmill.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-incline-treadmill.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-incline-treadmill.thumb.webp"
+    },
+    {
+      "id": "cardio/walking-on-stepmill",
+      "slug": "walking-on-stepmill",
+      "name": "ウォーキング・ステップミル",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "足首からわずかに前傾した直立姿勢をとります。腕は90°で自然に振ります。",
+        "膝を前に推進し、ミッドフットで着地します。スムーズで一定のケイデンスを維持します。",
+        "運動中ずっと体幹を活性化し、呼吸リズムを維持します。鼻から吸い、口から吐きます。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/walking-on-stepmill.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-stepmill.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-stepmill.thumb.webp"
+    },
+    {
+      "id": "cardio/wheel-run",
+      "slug": "wheel-run",
+      "name": "ホイール・ラン",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足首からわずかに前傾した直立姿勢をとります。腕は90°で自然に振ります。",
+        "膝を前に推進し、ミッドフットで着地します。スムーズで一定のケイデンスを維持します。",
+        "運動中ずっと体幹を活性化し、呼吸リズムを維持します。鼻から吸い、口から吐きます。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/wheel-run.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/wheel-run.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/wheel-run.thumb.webp"
+    }
+  ]
+}

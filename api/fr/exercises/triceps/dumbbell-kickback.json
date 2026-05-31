@@ -1,0 +1,22 @@
+{
+  "id": "triceps/dumbbell-kickback",
+  "slug": "dumbbell-kickback",
+  "name": "Kickback aux haltères",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+    "Penche-toi en avant aux hanches. Fixe le bras parallèle au torse, coude à 90°.",
+    "Étends le bras complètement derrière en contractant le triceps au verrouillage. Tiens une seconde en extension complète.",
+    "Redescends avec contrôle à 90° sans laisser tomber le bras. Seul l'avant-bras pivote comme une porte.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "triceps/dumbbell-kickback.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/dumbbell-kickback.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/dumbbell-kickback.thumb.webp"
+}

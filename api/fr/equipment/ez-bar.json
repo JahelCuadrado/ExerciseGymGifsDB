@@ -1,0 +1,535 @@
+{
+  "equipment": "ez-bar",
+  "count": 23,
+  "exercises": [
+    {
+      "id": "biceps/ez-bar-biceps-curl-with-arm-blaster",
+      "slug": "ez-bar-biceps-curl-with-arm-blaster",
+      "name": "Curl biceps à la barre EZ, bras blaster",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "biceps/ez-bar-biceps-curl-with-arm-blaster.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-bar-biceps-curl-with-arm-blaster.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-bar-biceps-curl-with-arm-blaster.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-bar-seated-close-grip-concentration-curl",
+      "slug": "ez-bar-seated-close-grip-concentration-curl",
+      "name": "Curl concentration à la barre EZ, assis, prise serrée",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Utilise une prise serrée, mains à environ 15 cm d'écart, pour accentuer la partie interne.",
+        "Assieds-toi les jambes écartées et cale l'arrière du bras qui travaille contre l'intérieur de la cuisse. Cela bloque le bras.",
+        "Monte le poids lentement en te concentrant sur la contraction du biceps. Presse le jus d'une orange en haut.",
+        "Descends en 3 secondes et tends complètement. Ta cuisse sert de garde-fou — aucun balancement possible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "biceps/ez-bar-seated-close-grip-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-bar-seated-close-grip-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-bar-seated-close-grip-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-close-grip-curl",
+      "slug": "ez-barbell-close-grip-curl",
+      "name": "Curl à la barre EZ, prise serrée",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Utilise une prise serrée, mains à environ 15 cm d'écart, pour accentuer la partie interne.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "biceps/ez-barbell-close-grip-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-close-grip-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-close-grip-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-close-grip-preacher-curl",
+      "slug": "ez-barbell-close-grip-preacher-curl",
+      "name": "Curl au pupitre à la barre EZ, prise serrée",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Utilise une prise serrée, mains à environ 15 cm d'écart, pour accentuer la partie interne.",
+        "Assieds-toi au pupitre avec les aisselles contre le bord supérieur. Laisse tes bras complètement étendus sur le coussin.",
+        "Monte le poids en contractant les biceps, gardant les bras pressés contre le coussin tout le temps.",
+        "Redescends sous contrôle strict jusqu'à l'extension complète — le coussin empêche de tricher, alors maîtrise toute l'amplitude.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "biceps/ez-barbell-close-grip-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-close-grip-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-close-grip-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-curl",
+      "slug": "ez-barbell-curl",
+      "name": "Curl à la barre EZ",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "biceps/ez-barbell-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-reverse-grip-curl",
+      "slug": "ez-barbell-reverse-grip-curl",
+      "name": "Curl à la barre EZ, prise supination",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Utilise une prise supination pour changer l'angle de traction et l'accent musculaire.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "biceps/ez-barbell-reverse-grip-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-reverse-grip-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-reverse-grip-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-reverse-grip-preacher-curl",
+      "slug": "ez-barbell-reverse-grip-preacher-curl",
+      "name": "Curl au pupitre à la barre EZ, prise supination",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Utilise une prise supination pour changer l'angle de traction et l'accent musculaire.",
+        "Assieds-toi au pupitre avec les aisselles contre le bord supérieur. Laisse tes bras complètement étendus sur le coussin.",
+        "Monte le poids en contractant les biceps, gardant les bras pressés contre le coussin tout le temps.",
+        "Redescends sous contrôle strict jusqu'à l'extension complète — le coussin empêche de tricher, alors maîtrise toute l'amplitude.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "biceps/ez-barbell-reverse-grip-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-reverse-grip-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-reverse-grip-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-seated-curls",
+      "slug": "ez-barbell-seated-curls",
+      "name": "Curls à la barre EZ, assis",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "biceps/ez-barbell-seated-curls.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-seated-curls.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-seated-curls.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-spider-curl-1628",
+      "slug": "ez-barbell-spider-curl-1628",
+      "name": "Spider Curl à la barre EZ",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Allonge-toi poitrine contre un banc incliné, bras pendant droit vers le bas. La gravité travaille contre toi pendant toute la rep.",
+        "Monte le poids en contractant fortement les biceps en haut. L'angle du banc maintient une tension constante — pas de repos en bas.",
+        "Redescends avec contrôle jusqu'à l'extension complète. L'angle rend la triche quasi impossible — utilise moins lourd et concentre-toi sur la forme.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "biceps/ez-barbell-spider-curl-1628.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-spider-curl-1628.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-spider-curl-1628.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-spider-curl",
+      "slug": "ez-barbell-spider-curl",
+      "name": "Spider Curl à la barre EZ",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Allonge-toi poitrine contre un banc incliné, bras pendant droit vers le bas. La gravité travaille contre toi pendant toute la rep.",
+        "Monte le poids en contractant fortement les biceps en haut. L'angle du banc maintient une tension constante — pas de repos en bas.",
+        "Redescends avec contrôle jusqu'à l'extension complète. L'angle rend la triche quasi impossible — utilise moins lourd et concentre-toi sur la forme.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "biceps/ez-barbell-spider-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-spider-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-spider-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-standing-wide-grip-biceps-curl",
+      "slug": "ez-barbell-standing-wide-grip-biceps-curl",
+      "name": "Curl biceps à la barre EZ, debout, prise large",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Prends une prise large, mains bien au-delà de la largeur des épaules, pour plus d'étirement et d'accent externe.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "biceps/ez-barbell-standing-wide-grip-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-standing-wide-grip-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-standing-wide-grip-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "delts/ez-barbell-anti-gravity-press",
+      "slug": "ez-barbell-anti-gravity-press",
+      "name": "Développé à la barre EZ, anti gravité",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Empile tes poignets directement au-dessus des coudes comme une colonne solide. Contracte les fessiers et gaine le core comme si tu attendais un coup.",
+        "Pousse le poids droit vers le haut en déplaçant la tête. Une fois la barre passée devant ton visage, pousse la tête vers l'avant et verrouille complètement.",
+        "Descends avec contrôle à la position de départ sur les deltoïdes antérieurs. Garde le torse vertical — tu pousses vers le haut, pas un développé incliné debout.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "delts/ez-barbell-anti-gravity-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/ez-barbell-anti-gravity-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/ez-barbell-anti-gravity-press.thumb.webp"
+    },
+    {
+      "id": "lats/ez-bar-lying-bent-arms-pullover",
+      "slug": "ez-bar-lying-bent-arms-pullover",
+      "name": "Pullover à la barre EZ, couché, penché bras",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Allonge-toi avec le dos à plat contre la surface, gainage engagé.",
+        "Allonge-toi sur un banc, bras tendus au-dessus de la poitrine tenant le poids. Maintiens une légère flexion des coudes.",
+        "Descends le poids en arc derrière la tête, sentant un étirement profond des dorsaux et de la poitrine. Va seulement aussi loin que c'est confortable.",
+        "Ramène le poids au-dessus de la poitrine en utilisant les dorsaux — imagine ramasser le poids dans un arc large. Garde la même flexion des coudes.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "lats/ez-bar-lying-bent-arms-pullover.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/ez-bar-lying-bent-arms-pullover.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/ez-bar-lying-bent-arms-pullover.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-bar-close-grip-bench-press",
+      "slug": "ez-bar-close-grip-bench-press",
+      "name": "Développé couché prise serrée à la barre EZ",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Utilise une prise serrée, mains à environ 15 cm d'écart, pour accentuer la partie interne.",
+        "Serre tes omoplates comme si tu tenais un crayon entre elles — cela crée une base stable pour pousser.",
+        "Descends la barre vers le milieu de la poitrine avec les coudes à environ 45° — pense à une forme de flèche, pas un T — contrôle la descente pendant 2-3 secondes.",
+        "Pousse-toi toi-même dans le banc, éloignant la barre. Dirige la barre dans un léger arc vers les supports pour terminer la répétition.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "triceps/ez-bar-close-grip-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-close-grip-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-close-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-bar-french-press-on-exercise-ball",
+      "slug": "ez-bar-french-press-on-exercise-ball",
+      "name": "Développé français à la barre EZ sur Swiss ball",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Gaine ton core et fixe tes omoplates. Initie la poussée depuis une base stable.",
+        "Pousse le poids en l'éloignant du corps sur une trajectoire contrôlée, en extension complète sans verrouiller les articulations brusquement.",
+        "Ramène le poids avec contrôle, maintenant la tension dans toute l'amplitude de mouvement.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "triceps/ez-bar-french-press-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-french-press-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-french-press-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-bar-lying-close-grip-triceps-extension-behind-head",
+      "slug": "ez-bar-lying-close-grip-triceps-extension-behind-head",
+      "name": "Extension triceps à la barre EZ, couché, prise serrée, derrière tête",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Allonge-toi avec le dos à plat contre la surface, gainage engagé.",
+        "Utilise une prise serrée, mains à environ 15 cm d'écart, pour accentuer la partie interne.",
+        "Tends les bras droit au-dessus de la poitrine. Les coudes pointent vers le plafond et restent fixés pendant tout le mouvement.",
+        "Descends le poids vers le front ou juste derrière en fléchissant uniquement les coudes — tes bras sont des piliers de béton qui ne bougent pas.",
+        "Remonte en extension complète en contractant fortement les triceps en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "triceps/ez-bar-lying-close-grip-triceps-extension-behind-head.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-lying-close-grip-triceps-extension-behind-head.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-lying-close-grip-triceps-extension-behind-head.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-bar-standing-french-press",
+      "slug": "ez-bar-standing-french-press",
+      "name": "Développé français à la barre EZ, debout",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Gaine ton core et fixe tes omoplates. Initie la poussée depuis une base stable.",
+        "Pousse le poids en l'éloignant du corps sur une trajectoire contrôlée, en extension complète sans verrouiller les articulations brusquement.",
+        "Ramène le poids avec contrôle, maintenant la tension dans toute l'amplitude de mouvement.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "triceps/ez-bar-standing-french-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-standing-french-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-standing-french-press.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-barbell-decline-close-grip-face-press",
+      "slug": "ez-barbell-decline-close-grip-face-press",
+      "name": "Développé décliné à la barre EZ, prise serrée, face",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Règle le banc en décliné et bloque tes pieds sous les coussins.",
+        "Utilise une prise serrée, mains à environ 15 cm d'écart, pour accentuer la partie interne.",
+        "Gaine ton core et fixe tes omoplates. Initie la poussée depuis une base stable.",
+        "Pousse le poids en l'éloignant du corps sur une trajectoire contrôlée, en extension complète sans verrouiller les articulations brusquement.",
+        "Ramène le poids avec contrôle, maintenant la tension dans toute l'amplitude de mouvement.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "triceps/ez-barbell-decline-close-grip-face-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-decline-close-grip-face-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-decline-close-grip-face-press.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-barbell-decline-triceps-extension",
+      "slug": "ez-barbell-decline-triceps-extension",
+      "name": "Extension triceps décliné à la barre EZ",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Règle le banc en décliné et bloque tes pieds sous les coussins.",
+        "Verrouille les coudes en position — ce sont des points fixes dans l'espace. Seuls les avant-bras bougent comme des charnières.",
+        "Étends complètement en contractant les triceps au verrouillage. Fais une pause en extension complète.",
+        "Reviens lentement à la position de départ. Concentre-toi sur l'étirement en bas et la contraction en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "triceps/ez-barbell-decline-triceps-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-decline-triceps-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-decline-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-barbell-incline-triceps-extension",
+      "slug": "ez-barbell-incline-triceps-extension",
+      "name": "Extension triceps incliné à la barre EZ",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Règle le banc à l'inclinaison indiquée et presse fermement ton dos contre le dossier.",
+        "Verrouille les coudes en position — ce sont des points fixes dans l'espace. Seuls les avant-bras bougent comme des charnières.",
+        "Étends complètement en contractant les triceps au verrouillage. Fais une pause en extension complète.",
+        "Reviens lentement à la position de départ. Concentre-toi sur l'étirement en bas et la contraction en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "triceps/ez-barbell-incline-triceps-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-incline-triceps-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-incline-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-barbell-jm-bench-press",
+      "slug": "ez-barbell-jm-bench-press",
+      "name": "Développé couché à la barre EZ, JM",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Serre tes omoplates comme si tu tenais un crayon entre elles — cela crée une base stable pour pousser.",
+        "Descends la barre vers le milieu de la poitrine avec les coudes à environ 45° — pense à une forme de flèche, pas un T — contrôle la descente pendant 2-3 secondes.",
+        "Pousse-toi toi-même dans le banc, éloignant la barre. Dirige la barre dans un léger arc vers les supports pour terminer la répétition.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "triceps/ez-barbell-jm-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-jm-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-jm-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-barbell-seated-triceps-extension",
+      "slug": "ez-barbell-seated-triceps-extension",
+      "name": "Extension triceps à la barre EZ, assis",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Verrouille les coudes en position — ce sont des points fixes dans l'espace. Seuls les avant-bras bougent comme des charnières.",
+        "Étends complètement en contractant les triceps au verrouillage. Fais une pause en extension complète.",
+        "Reviens lentement à la position de départ. Concentre-toi sur l'étirement en bas et la contraction en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "triceps/ez-barbell-seated-triceps-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-seated-triceps-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-seated-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "upper-back/ez-bar-reverse-grip-bent-over-row",
+      "slug": "ez-bar-reverse-grip-bent-over-row",
+      "name": "Rowing penché à la barre EZ, prise supination",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Utilise une prise supination pour changer l'angle de traction et l'accent musculaire.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/ez-bar-reverse-grip-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/ez-bar-reverse-grip-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/ez-bar-reverse-grip-bent-over-row.thumb.webp"
+    }
+  ]
+}

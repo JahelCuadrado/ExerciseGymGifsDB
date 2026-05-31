@@ -1,0 +1,23 @@
+{
+  "id": "traps/cable-shrug",
+  "slug": "cable-shrug",
+  "name": "Haussement d'épaules à la poulie",
+  "muscle": "traps",
+  "bodyPart": "back",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+    "Tiens le poids aux côtés, bras complètement tendus. Debout droit, épaules relâchées.",
+    "Hausse les épaules droit vers les oreilles — ne les roule pas. Contracte en haut pendant 2 secondes.",
+    "Redescends lentement. Garde les bras tendus — c'est tout trapèzes, pas de biceps.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "traps/cable-shrug.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/cable-shrug.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/cable-shrug.thumb.webp"
+}

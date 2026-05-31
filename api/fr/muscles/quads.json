@@ -1,0 +1,1035 @@
+{
+  "muscle": "quads",
+  "count": 44,
+  "exercises": [
+    {
+      "id": "quads/all-fours-squad-stretch",
+      "slug": "all-fours-squad-stretch",
+      "name": "Étirement, quatre pattes équipe",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Va vers la position d'étirement lentement jusqu'à sentir une tension douce dans la zone cible — pas de douleur.",
+        "Tiens 20 à 40 secondes en respirant profondément. À chaque expiration, essaie de t'enfoncer un peu plus dans l'étirement.",
+        "Relâche lentement et répète si souhaité. La régularité compte plus que l'intensité — étire-toi régulièrement pour une souplesse durable.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "quads/all-fours-squad-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/all-fours-squad-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/all-fours-squad-stretch.thumb.webp"
+    },
+    {
+      "id": "quads/assisted-prone-lying-quads-stretch",
+      "slug": "assisted-prone-lying-quads-stretch",
+      "name": "Étirement, à plat ventre couché, assisté, quadriceps",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Allonge-toi avec le dos à plat contre la surface, gainage engagé.",
+        "Va vers la position d'étirement lentement jusqu'à sentir une tension douce dans la zone cible — pas de douleur.",
+        "Tiens 20 à 40 secondes en respirant profondément. À chaque expiration, essaie de t'enfoncer un peu plus dans l'étirement.",
+        "Relâche lentement et répète si souhaité. La régularité compte plus que l'intensité — étire-toi régulièrement pour une souplesse durable.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "quads/assisted-prone-lying-quads-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/assisted-prone-lying-quads-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/assisted-prone-lying-quads-stretch.thumb.webp"
+    },
+    {
+      "id": "quads/backward-jump",
+      "slug": "backward-jump",
+      "name": "Arrière saut",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Debout pieds largeur hanches à épaules. Charge les jambes avec une rapide flexion — plie genoux et hanches pour créer de la tension.",
+        "Explose vers le haut en extension complète des hanches, genoux et chevilles. Utilise les bras pour plus de hauteur si applicable.",
+        "Atterris en souplesse en pliant les genoux et absorbant l'impact par les jambes. Pense à atterrir silencieusement comme un chat.",
+        "Respiration : expire fortement lors du saut ou de l'effort explosif. Inspire pendant la phase de chargement."
+      ],
+      "file": "quads/backward-jump.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/backward-jump.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/backward-jump.thumb.webp"
+    },
+    {
+      "id": "quads/balance-board",
+      "slug": "balance-board",
+      "name": "Équilibre planche",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Monte prudemment sur la surface d'équilibre et trouve ton centre. Engage le core et fixe le regard sur un point devant toi.",
+        "Effectue le mouvement indiqué en maintenant l'équilibre. De petites corrections des chevilles et du core sont normales et bénéfiques.",
+        "Si tu perds l'équilibre, descends en sécurité et repositionne-toi. La proprioception s'améliore avec la pratique — sois patient et régulier.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/balance-board.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/balance-board.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/balance-board.thumb.webp"
+    },
+    {
+      "id": "quads/band-one-arm-single-leg-split-squat",
+      "slug": "band-one-arm-single-leg-split-squat",
+      "name": "Fente bulgare unilatérale avec bande",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/band-one-arm-single-leg-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/band-one-arm-single-leg-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/band-one-arm-single-leg-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/band-single-leg-split-squat",
+      "slug": "band-single-leg-split-squat",
+      "name": "Fente bulgare avec bande",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/band-single-leg-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/band-single-leg-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/band-single-leg-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-bench-front-squat",
+      "slug": "barbell-bench-front-squat",
+      "name": "Squat avant à la barre, banc",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/barbell-bench-front-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-bench-front-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-bench-front-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-bench-squat",
+      "slug": "barbell-bench-squat",
+      "name": "Squat à la barre, banc",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/barbell-bench-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-bench-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-bench-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-clean-and-press",
+      "slug": "barbell-clean-and-press",
+      "name": "Épaulé-jeté à la barre",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Gaine ton core et fixe tes omoplates. Initie la poussée depuis une base stable.",
+        "Pousse le poids en l'éloignant du corps sur une trajectoire contrôlée, en extension complète sans verrouiller les articulations brusquement.",
+        "Ramène le poids avec contrôle, maintenant la tension dans toute l'amplitude de mouvement.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/barbell-clean-and-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-clean-and-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-clean-and-press.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-one-leg-squat",
+      "slug": "barbell-one-leg-squat",
+      "name": "Squat à la barre, une jambe",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/barbell-one-leg-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-one-leg-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-one-leg-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-overhead-squat",
+      "slug": "barbell-overhead-squat",
+      "name": "Squat au-dessus de la tête à la barre",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/barbell-overhead-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-overhead-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-overhead-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-side-split-squat-v-2",
+      "slug": "barbell-side-split-squat-v-2",
+      "name": "Fente bulgare latérale avec barre",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/barbell-side-split-squat-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-side-split-squat-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-side-split-squat-v-2.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-side-split-squat",
+      "slug": "barbell-side-split-squat",
+      "name": "Fente bulgare latérale avec barre",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/barbell-side-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-side-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-side-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-single-leg-split-squat",
+      "slug": "barbell-single-leg-split-squat",
+      "name": "Fente bulgare avec barre",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/barbell-single-leg-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-single-leg-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-single-leg-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-split-squat-v-2",
+      "slug": "barbell-split-squat-v-2",
+      "name": "Fente bulgare avec barre",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/barbell-split-squat-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-split-squat-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-split-squat-v-2.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-squat-jump-step-rear-lunge",
+      "slug": "barbell-squat-jump-step-rear-lunge",
+      "name": "Squat à la barre, arrière, saut marche Fente",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire fortement lors du saut ou de l'effort explosif. Inspire pendant la phase de chargement."
+      ],
+      "file": "quads/barbell-squat-jump-step-rear-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-squat-jump-step-rear-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-squat-jump-step-rear-lunge.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-squat-on-knees",
+      "slug": "barbell-squat-on-knees",
+      "name": "Squat à la barre, genoux",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/barbell-squat-on-knees.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-squat-on-knees.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-squat-on-knees.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-wide-squat",
+      "slug": "barbell-wide-squat",
+      "name": "Squat à la barre, large",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/barbell-wide-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-wide-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-wide-squat.thumb.webp"
+    },
+    {
+      "id": "quads/chair-leg-extended-stretch",
+      "slug": "chair-leg-extended-stretch",
+      "name": "Étirement, chaise jambe étendu",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Va vers la position d'étirement lentement jusqu'à sentir une tension douce dans la zone cible — pas de douleur.",
+        "Tiens 20 à 40 secondes en respirant profondément. À chaque expiration, essaie de t'enfoncer un peu plus dans l'étirement.",
+        "Relâche lentement et répète si souhaité. La régularité compte plus que l'intensité — étire-toi régulièrement pour une souplesse durable.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "quads/chair-leg-extended-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/chair-leg-extended-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/chair-leg-extended-stretch.thumb.webp"
+    },
+    {
+      "id": "quads/dumbbell-goblet-squat",
+      "slug": "dumbbell-goblet-squat",
+      "name": "Goblet Squat aux haltères",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/dumbbell-goblet-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-goblet-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-goblet-squat.thumb.webp"
+    },
+    {
+      "id": "quads/dumbbell-single-leg-split-squat",
+      "slug": "dumbbell-single-leg-split-squat",
+      "name": "Fente bulgare avec haltères",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/dumbbell-single-leg-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-single-leg-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-single-leg-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/dumbbell-step-up-lunge",
+      "slug": "dumbbell-step-up-lunge",
+      "name": "Fente step-up avec haltères",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Debout pieds largeur de hanches (rails de train, pas corde raide). Avance en position avec le torse droit comme un mât.",
+        "Descends le genou arrière droit vers le sol comme un ascenseur — ne te jette pas en avant. Vise 90° aux deux genoux. Garde le tibia avant vertical.",
+        "Pousse à travers le talon avant pour revenir. Imagine repousser le sol à travers ton pied avant.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/dumbbell-step-up-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-step-up-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-step-up-lunge.thumb.webp"
+    },
+    {
+      "id": "quads/dumbbell-step-up-split-squat",
+      "slug": "dumbbell-step-up-split-squat",
+      "name": "Fente bulgare sur step avec haltères",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/dumbbell-step-up-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-step-up-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-step-up-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/dumbbell-supported-squat",
+      "slug": "dumbbell-supported-squat",
+      "name": "Squat aux haltères, assisté",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/dumbbell-supported-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-supported-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-supported-squat.thumb.webp"
+    },
+    {
+      "id": "quads/farmers-walk",
+      "slug": "farmers-walk",
+      "name": "Fermier marche",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Adopte une posture droite avec une légère inclinaison vers l'avant depuis les chevilles. Bras à 90° balançant naturellement.",
+        "Pousse les genoux vers l'avant et atterris sur le milieu du pied, en gardant la cadence régulière.",
+        "Engage le core tout au long et maintiens ton rythme respiratoire — inspire par le nez, expire par la bouche.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/farmers-walk.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/farmers-walk.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/farmers-walk.thumb.webp"
+    },
+    {
+      "id": "quads/forward-jump",
+      "slug": "forward-jump",
+      "name": "Avant saut",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Debout pieds largeur hanches à épaules. Charge les jambes avec une rapide flexion — plie genoux et hanches pour créer de la tension.",
+        "Explose vers le haut en extension complète des hanches, genoux et chevilles. Utilise les bras pour plus de hauteur si applicable.",
+        "Atterris en souplesse en pliant les genoux et absorbant l'impact par les jambes. Pense à atterrir silencieusement comme un chat.",
+        "Respiration : expire fortement lors du saut ou de l'effort explosif. Inspire pendant la phase de chargement."
+      ],
+      "file": "quads/forward-jump.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/forward-jump.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/forward-jump.thumb.webp"
+    },
+    {
+      "id": "quads/intermediate-hip-flexor-and-quad-stretch",
+      "slug": "intermediate-hip-flexor-and-quad-stretch",
+      "name": "Étirement, intermédiaire hanche fléchisseur quadriceps",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Va vers la position d'étirement lentement jusqu'à sentir une tension douce dans la zone cible — pas de douleur.",
+        "Tiens 20 à 40 secondes en respirant profondément. À chaque expiration, essaie de t'enfoncer un peu plus dans l'étirement.",
+        "Relâche lentement et répète si souhaité. La régularité compte plus que l'intensité — étire-toi régulièrement pour une souplesse durable.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "quads/intermediate-hip-flexor-and-quad-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/intermediate-hip-flexor-and-quad-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/intermediate-hip-flexor-and-quad-stretch.thumb.webp"
+    },
+    {
+      "id": "quads/lever-alternate-leg-press",
+      "slug": "lever-alternate-leg-press",
+      "name": "Presse à cuisses à la machine, alterné",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Gaine ton core et fixe tes omoplates. Initie la poussée depuis une base stable.",
+        "Pousse le poids en l'éloignant du corps sur une trajectoire contrôlée, en extension complète sans verrouiller les articulations brusquement.",
+        "Ramène le poids avec contrôle, maintenant la tension dans toute l'amplitude de mouvement.",
+        "Alterne les côtés à chaque rep. Termine une rep complète avant de passer à l'autre côté.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/lever-alternate-leg-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lever-alternate-leg-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lever-alternate-leg-press.thumb.webp"
+    },
+    {
+      "id": "quads/lever-leg-extension",
+      "slug": "lever-leg-extension",
+      "name": "Extension de jambes à la machine",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Verrouille les coudes en position — ce sont des points fixes dans l'espace. Seuls les avant-bras bougent comme des charnières.",
+        "Étends complètement en contractant les triceps au verrouillage. Fais une pause en extension complète.",
+        "Reviens lentement à la position de départ. Concentre-toi sur l'étirement en bas et la contraction en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/lever-leg-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lever-leg-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lever-leg-extension.thumb.webp"
+    },
+    {
+      "id": "quads/lying-side-quads-stretch",
+      "slug": "lying-side-quads-stretch",
+      "name": "Étirement, couché latéral, quadriceps",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Allonge-toi avec le dos à plat contre la surface, gainage engagé.",
+        "Va vers la position d'étirement lentement jusqu'à sentir une tension douce dans la zone cible — pas de douleur.",
+        "Tiens 20 à 40 secondes en respirant profondément. À chaque expiration, essaie de t'enfoncer un peu plus dans l'étirement.",
+        "Relâche lentement et répète si souhaité. La régularité compte plus que l'intensité — étire-toi régulièrement pour une souplesse durable.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "quads/lying-side-quads-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lying-side-quads-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lying-side-quads-stretch.thumb.webp"
+    },
+    {
+      "id": "quads/quads",
+      "slug": "quads",
+      "name": "Quadriceps",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Active les quadriceps avant d'initier le mouvement. Ressens la connexion esprit-muscle.",
+        "Effectue le mouvement avec un contrôle total, maîtrisant les phases concentrique et excentrique.",
+        "Reviens à la position de départ en contrôlant la descente — la phase excentrique construit autant de muscle que la montée.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/quads.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/quads.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/quads.thumb.webp"
+    },
+    {
+      "id": "quads/quick-feet-v-2",
+      "slug": "quick-feet-v-2",
+      "name": "Rapide pieds",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Adopte une posture droite avec une légère inclinaison vers l'avant depuis les chevilles. Bras à 90° balançant naturellement.",
+        "Pousse les genoux vers l'avant et atterris sur le milieu du pied, en gardant la cadence régulière.",
+        "Engage le core tout au long et maintiens ton rythme respiratoire — inspire par le nez, expire par la bouche.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/quick-feet-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/quick-feet-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/quick-feet-v-2.thumb.webp"
+    },
+    {
+      "id": "quads/resistance-band-leg-extension",
+      "slug": "resistance-band-leg-extension",
+      "name": "Extension de jambes à l'élastique",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Verrouille les coudes en position — ce sont des points fixes dans l'espace. Seuls les avant-bras bougent comme des charnières.",
+        "Étends complètement en contractant les triceps au verrouillage. Fais une pause en extension complète.",
+        "Reviens lentement à la position de départ. Concentre-toi sur l'étirement en bas et la contraction en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/resistance-band-leg-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/resistance-band-leg-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/resistance-band-leg-extension.thumb.webp"
+    },
+    {
+      "id": "quads/sissy-squat",
+      "slug": "sissy-squat",
+      "name": "Sissy Squat",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/sissy-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/sissy-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/sissy-squat.thumb.webp"
+    },
+    {
+      "id": "quads/smith-chair-squat",
+      "slug": "smith-chair-squat",
+      "name": "Squat au Smith, chaise",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Règle la hauteur de la barre au Smith et charge le poids approprié. Place-toi sous la barre.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/smith-chair-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/smith-chair-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/smith-chair-squat.thumb.webp"
+    },
+    {
+      "id": "quads/smith-single-leg-split-squat",
+      "slug": "smith-single-leg-split-squat",
+      "name": "Fente bulgare à la Smith machine",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Règle la hauteur de la barre au Smith et charge le poids approprié. Place-toi sous la barre.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/smith-single-leg-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/smith-single-leg-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/smith-single-leg-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/snatch-pull",
+      "slug": "snatch-pull",
+      "name": "Arraché, tirage",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Pieds largeur de hanches, barre au-dessus du milieu du pied. Descends les hanches, poitrine haute, bras tendus — enlève le mou de la barre.",
+        "Pousse explosivement le sol, étends hanches et genoux. Quand la barre passe les genoux, accélère avec une extension violente des hanches et un haussement.",
+        "Réceptionne la barre aux épaules (clean) ou au-dessus de la tête (snatch) en descendant rapidement sous la barre. Absorbe avec des genoux souples, puis lève-toi.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/snatch-pull.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/snatch-pull.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/snatch-pull.thumb.webp"
+    },
+    {
+      "id": "quads/split-squats",
+      "slug": "split-squats",
+      "name": "Fente bulgare",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/split-squats.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/split-squats.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/split-squats.thumb.webp"
+    },
+    {
+      "id": "quads/squat-jerk",
+      "slug": "squat-jerk",
+      "name": "Squat, jeté",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Empile tes poignets directement au-dessus des coudes comme une colonne solide. Contracte les fessiers et gaine le core comme si tu attendais un coup.",
+        "Pousse le poids droit vers le haut en déplaçant la tête. Une fois la barre passée devant ton visage, pousse la tête vers l'avant et verrouille complètement.",
+        "Descends avec contrôle à la position de départ sur les deltoïdes antérieurs. Garde le torse vertical — tu pousses vers le haut, pas un développé incliné debout.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/squat-jerk.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-jerk.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-jerk.thumb.webp"
+    },
+    {
+      "id": "quads/squat-on-bosu-ball",
+      "slug": "squat-on-bosu-ball",
+      "name": "Squat sur Bosu",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/squat-on-bosu-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-on-bosu-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-on-bosu-ball.thumb.webp"
+    },
+    {
+      "id": "quads/squat-to-overhead-reach-with-twist",
+      "slug": "squat-to-overhead-reach-with-twist",
+      "name": "Squat au-dessus de la tête, atteindre rotation",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/squat-to-overhead-reach-with-twist.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-to-overhead-reach-with-twist.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-to-overhead-reach-with-twist.thumb.webp"
+    },
+    {
+      "id": "quads/squat-to-overhead-reach",
+      "slug": "squat-to-overhead-reach",
+      "name": "Squat au-dessus de la tête, atteindre",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/squat-to-overhead-reach.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-to-overhead-reach.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-to-overhead-reach.thumb.webp"
+    },
+    {
+      "id": "quads/suspended-split-squat",
+      "slug": "suspended-split-squat",
+      "name": "Fente bulgare suspendue",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/suspended-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/suspended-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/suspended-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/weighted-sissy-squat",
+      "slug": "weighted-sissy-squat",
+      "name": "Sissy Squat, lesté",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/weighted-sissy-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/weighted-sissy-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/weighted-sissy-squat.thumb.webp"
+    }
+  ]
+}

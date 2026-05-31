@@ -1,0 +1,420 @@
+{
+  "muscle": "spine",
+  "count": 19,
+  "exercises": [
+    {
+      "id": "spine/back-extension-on-exercise-ball",
+      "slug": "back-extension-on-exercise-ball",
+      "name": "Extension lombaire sur Swiss ball",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Verrouille les coudes en position — ce sont des points fixes dans l'espace. Seuls les avant-bras bougent comme des charnières.",
+        "Étends complètement en contractant les triceps au verrouillage. Fais une pause en extension complète.",
+        "Reviens lentement à la position de départ. Concentre-toi sur l'étirement en bas et la contraction en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "spine/back-extension-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/back-extension-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/back-extension-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "spine/band-straight-leg-deadlift",
+      "slug": "band-straight-leg-deadlift",
+      "name": "Soulevé de terre à l'élastique, jambe tendue",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Place tes pieds largeur de hanches, poignée au-dessus du milieu du pied. Charnière de hanches, poitrine haute, et serre les aisselles pour engager les dorsaux.",
+        "Repousse le sol avec les jambes — hanches et épaules montent ensemble comme un ascenseur. Fais glisser la poignée le long des jambes comme si tu les rasais.",
+        "Redresse-toi complètement en haut et contracte les fessiers. Redescends en charnière de hanches, faisant glisser la poignée le long des cuisses — elle ne quitte jamais le corps.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "spine/band-straight-leg-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/band-straight-leg-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/band-straight-leg-deadlift.thumb.webp"
+    },
+    {
+      "id": "spine/exercise-ball-back-extension-with-arms-extended",
+      "slug": "exercise-ball-back-extension-with-arms-extended",
+      "name": "Extension lombaire sur Swiss ball, bras étendu",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Verrouille les coudes en position — ce sont des points fixes dans l'espace. Seuls les avant-bras bougent comme des charnières.",
+        "Étends complètement en contractant les triceps au verrouillage. Fais une pause en extension complète.",
+        "Reviens lentement à la position de départ. Concentre-toi sur l'étirement en bas et la contraction en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "spine/exercise-ball-back-extension-with-arms-extended.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/exercise-ball-back-extension-with-arms-extended.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/exercise-ball-back-extension-with-arms-extended.thumb.webp"
+    },
+    {
+      "id": "spine/exercise-ball-back-extension-with-hands-behind-head",
+      "slug": "exercise-ball-back-extension-with-hands-behind-head",
+      "name": "Extension lombaire sur Swiss ball, mains derrière tête",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Verrouille les coudes en position — ce sont des points fixes dans l'espace. Seuls les avant-bras bougent comme des charnières.",
+        "Étends complètement en contractant les triceps au verrouillage. Fais une pause en extension complète.",
+        "Reviens lentement à la position de départ. Concentre-toi sur l'étirement en bas et la contraction en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "spine/exercise-ball-back-extension-with-hands-behind-head.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/exercise-ball-back-extension-with-hands-behind-head.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/exercise-ball-back-extension-with-hands-behind-head.thumb.webp"
+    },
+    {
+      "id": "spine/exercise-ball-back-extension-with-knees-off-ground",
+      "slug": "exercise-ball-back-extension-with-knees-off-ground",
+      "name": "Extension lombaire sur Swiss ball, genoux hors sol",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Verrouille les coudes en position — ce sont des points fixes dans l'espace. Seuls les avant-bras bougent comme des charnières.",
+        "Étends complètement en contractant les triceps au verrouillage. Fais une pause en extension complète.",
+        "Reviens lentement à la position de départ. Concentre-toi sur l'étirement en bas et la contraction en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "spine/exercise-ball-back-extension-with-knees-off-ground.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/exercise-ball-back-extension-with-knees-off-ground.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/exercise-ball-back-extension-with-knees-off-ground.thumb.webp"
+    },
+    {
+      "id": "spine/exercise-ball-back-extension-with-rotation",
+      "slug": "exercise-ball-back-extension-with-rotation",
+      "name": "Extension lombaire sur Swiss ball, rotation",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Verrouille les coudes en position — ce sont des points fixes dans l'espace. Seuls les avant-bras bougent comme des charnières.",
+        "Étends complètement en contractant les triceps au verrouillage. Fais une pause en extension complète.",
+        "Reviens lentement à la position de départ. Concentre-toi sur l'étirement en bas et la contraction en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "spine/exercise-ball-back-extension-with-rotation.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/exercise-ball-back-extension-with-rotation.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/exercise-ball-back-extension-with-rotation.thumb.webp"
+    },
+    {
+      "id": "spine/exercise-ball-hug",
+      "slug": "exercise-ball-hug",
+      "name": "Étreinte sur Swiss ball",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Adopte la position indiquée. Concentre-toi sur une amplitude confortable où tu sens une mobilisation douce de la colonne.",
+        "Bouge lentement dans l'amplitude en respirant profondément. Laisse chaque expiration t'aider à relâcher la tension.",
+        "Répète pour les reps ou la durée prescrites. Ça doit être thérapeutique — ne pousse jamais à travers la douleur.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "spine/exercise-ball-hug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/exercise-ball-hug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/exercise-ball-hug.thumb.webp"
+    },
+    {
+      "id": "spine/exercise-ball-prone-leg-raise",
+      "slug": "exercise-ball-prone-leg-raise",
+      "name": "Relevé de jambes sur Swiss ball, à plat ventre",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Allonge-toi avec le dos à plat contre la surface, gainage engagé.",
+        "Suspends-toi à une barre ou positionne-toi avec les bras en appui. Commence avec les jambes pendant droites, core gainé.",
+        "Monte les jambes en basculant le bassin — pense à amener la boucle de ceinture vers le menton, pas juste lever les pieds.",
+        "Contrôle la descente lentement sans balancer. Si tu balances, fléchis les genoux pour raccourcir le bras de levier.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "spine/exercise-ball-prone-leg-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/exercise-ball-prone-leg-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/exercise-ball-prone-leg-raise.thumb.webp"
+    },
+    {
+      "id": "spine/hyperextension-on-bench",
+      "slug": "hyperextension-on-bench",
+      "name": "Hyperextension, banc",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Positionne-toi sur le banc d'hyperextension avec les hanches au bord du coussin. Bras croisés ou mains derrière la tête.",
+        "Descends le torse avec contrôle en maintenant la colonne neutre. Descends jusqu'à sentir un étirement des ischio-jambiers.",
+        "Remonte en contractant fessiers et bas du dos jusqu'à ce que le corps forme une ligne droite — ne dépasse pas la position neutre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "spine/hyperextension-on-bench.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/hyperextension-on-bench.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/hyperextension-on-bench.thumb.webp"
+    },
+    {
+      "id": "spine/hyperextension",
+      "slug": "hyperextension",
+      "name": "Hyperextension",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Positionne-toi sur le banc d'hyperextension avec les hanches au bord du coussin. Bras croisés ou mains derrière la tête.",
+        "Descends le torse avec contrôle en maintenant la colonne neutre. Descends jusqu'à sentir un étirement des ischio-jambiers.",
+        "Remonte en contractant fessiers et bas du dos jusqu'à ce que le corps forme une ligne droite — ne dépasse pas la position neutre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "spine/hyperextension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/hyperextension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/hyperextension.thumb.webp"
+    },
+    {
+      "id": "spine/lever-back-extension",
+      "slug": "lever-back-extension",
+      "name": "Extension lombaire à la machine",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Verrouille les coudes en position — ce sont des points fixes dans l'espace. Seuls les avant-bras bougent comme des charnières.",
+        "Étends complètement en contractant les triceps au verrouillage. Fais une pause en extension complète.",
+        "Reviens lentement à la position de départ. Concentre-toi sur l'étirement en bas et la contraction en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "spine/lever-back-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/lever-back-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/lever-back-extension.thumb.webp"
+    },
+    {
+      "id": "spine/lower-back-curl",
+      "slug": "lower-back-curl",
+      "name": "Curl, inférieur dos",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "spine/lower-back-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/lower-back-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/lower-back-curl.thumb.webp"
+    },
+    {
+      "id": "spine/roller-back-stretch",
+      "slug": "roller-back-stretch",
+      "name": "Étirement, rouleau dos",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "À genoux (ou debout pour avancés) avec les mains sur la roue. Commence hanches au-dessus des genoux, bras tendus.",
+        "Roule vers l'avant en étendant par les épaules tout en gardant le core solide comme un roc. Ne laisse pas les hanches s'affaisser.",
+        "Tire-toi en arrière avec les abdos — imagine tirer le nombril vers la colonne. Va seulement aussi loin que tu peux contrôler.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "spine/roller-back-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/roller-back-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/roller-back-stretch.thumb.webp"
+    },
+    {
+      "id": "spine/sphinx",
+      "slug": "sphinx",
+      "name": "Sphinx",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Allonge-toi face au sol (ou face au plafond pour les dead bugs). Tends les membres dans la position de départ indiquée.",
+        "Lève les membres indiqués simultanément en contractant les muscles du dos (ou core pour les dead bugs). Tiens 2 secondes en haut.",
+        "Redescends avec contrôle. Concentre-toi sur l'allongement du corps comme si on tirait des deux extrémités.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "spine/sphinx.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/sphinx.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/sphinx.thumb.webp"
+    },
+    {
+      "id": "spine/spine-stretch",
+      "slug": "spine-stretch",
+      "name": "Étirement, colonne",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Va vers la position d'étirement lentement jusqu'à sentir une tension douce dans la zone cible — pas de douleur.",
+        "Tiens 20 à 40 secondes en respirant profondément. À chaque expiration, essaie de t'enfoncer un peu plus dans l'étirement.",
+        "Relâche lentement et répète si souhaité. La régularité compte plus que l'intensité — étire-toi régulièrement pour une souplesse durable.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "spine/spine-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/spine-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/spine-stretch.thumb.webp"
+    },
+    {
+      "id": "spine/standing-pelvic-tilt",
+      "slug": "standing-pelvic-tilt",
+      "name": "Bascule du bassin, debout",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Haut du dos contre un banc (ou à plat au sol pour les bridges). Pieds à plat, tibias verticaux en haut. Rentre légèrement le menton.",
+        "Pousse à travers les talons et contracte les fessiers comme pour casser une noix. Monte jusqu'à ce que le corps forme une ligne droite genoux-épaules — pas plus.",
+        "Redescends avec contrôle, puis remonte. Pense à faire toucher ta boucle de ceinture au plafond en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "spine/standing-pelvic-tilt.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/standing-pelvic-tilt.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/standing-pelvic-tilt.thumb.webp"
+    },
+    {
+      "id": "spine/two-toe-touch-male",
+      "slug": "two-toe-touch-male",
+      "name": "Deux orteils toucher",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Allonge-toi sur le dos, genoux fléchis et pieds à plat. Lève légèrement les épaules et maintiens-les.",
+        "Tends la main latéralement pour toucher le talon (ou l'orteil), en crunchant les obliques. Sens le côté des abdos se contracter.",
+        "Alterne les côtés avec un crunch latéral contrôlé. Garde le bas du dos au sol et une tension constante dans les abdos.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "spine/two-toe-touch-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/two-toe-touch-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/two-toe-touch-male.thumb.webp"
+    },
+    {
+      "id": "spine/upward-facing-dog",
+      "slug": "upward-facing-dog",
+      "name": "Vers le haut face chien",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Allonge-toi face au sol (ou face au plafond pour les dead bugs). Tends les membres dans la position de départ indiquée.",
+        "Lève les membres indiqués simultanément en contractant les muscles du dos (ou core pour les dead bugs). Tiens 2 secondes en haut.",
+        "Redescends avec contrôle. Concentre-toi sur l'allongement du corps comme si on tirait des deux extrémités.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "spine/upward-facing-dog.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/upward-facing-dog.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/upward-facing-dog.thumb.webp"
+    },
+    {
+      "id": "spine/weighted-hyperextension-on-stability-ball",
+      "slug": "weighted-hyperextension-on-stability-ball",
+      "name": "Hyperextension sur Swiss ball, lesté",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Positionne-toi sur le banc d'hyperextension avec les hanches au bord du coussin. Bras croisés ou mains derrière la tête.",
+        "Descends le torse avec contrôle en maintenant la colonne neutre. Descends jusqu'à sentir un étirement des ischio-jambiers.",
+        "Remonte en contractant fessiers et bas du dos jusqu'à ce que le corps forme une ligne droite — ne dépasse pas la position neutre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "spine/weighted-hyperextension-on-stability-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/weighted-hyperextension-on-stability-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/weighted-hyperextension-on-stability-ball.thumb.webp"
+    }
+  ]
+}

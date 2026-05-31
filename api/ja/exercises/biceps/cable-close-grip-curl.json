@@ -1,0 +1,23 @@
+{
+  "id": "biceps/cable-close-grip-curl",
+  "slug": "cable-close-grip-curl",
+  "name": "ケーブル・ナローグリップ・カール",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+    "ナローグリップを使い、手の間隔を約15cmにして内側への刺激を高めます。",
+    "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+    "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+    "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "biceps/cable-close-grip-curl.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-close-grip-curl.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-close-grip-curl.thumb.webp"
+}

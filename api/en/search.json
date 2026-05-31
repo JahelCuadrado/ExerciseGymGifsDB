@@ -372,7 +372,7 @@
     {
       "id": "abs/3-4-sit-up",
       "slug": "3-4-sit-up",
-      "name": "3 4 Sit Up",
+      "name": "3/4 Sit-Up",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -388,6 +388,7 @@
         "equipment",
         "no",
         "sit",
+        "sit-up",
         "strength",
         "up"
       ]
@@ -419,7 +420,7 @@
     {
       "id": "abs/air-bike",
       "slug": "air-bike",
-      "name": "Air Bike",
+      "name": "Bicycle Crunch",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -430,10 +431,12 @@
         "abdominals",
         "abs",
         "air",
+        "bicycle",
         "bike",
         "bodyweight",
         "calisthenics",
         "core",
+        "crunch",
         "equipment",
         "no",
         "strength"
@@ -1130,7 +1133,7 @@
     {
       "id": "abs/barbell-sitted-alternate-leg-raise-female",
       "slug": "barbell-sitted-alternate-leg-raise-female",
-      "name": "Barbell Sitted Alternate Leg Raise Female",
+      "name": "Barbell Seated Alternate Leg Raise",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "barbell",
@@ -1147,6 +1150,7 @@
         "leg",
         "olympic",
         "raise",
+        "seated",
         "sitted",
         "strength"
       ]
@@ -1154,7 +1158,7 @@
     {
       "id": "abs/barbell-sitted-alternate-leg-raise",
       "slug": "barbell-sitted-alternate-leg-raise",
-      "name": "Barbell Sitted Alternate Leg Raise",
+      "name": "Barbell Seated Alternate Leg Raise",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "barbell",
@@ -1170,6 +1174,7 @@
         "leg",
         "olympic",
         "raise",
+        "seated",
         "sitted",
         "strength"
       ]
@@ -1672,7 +1677,7 @@
     {
       "id": "abs/cocoons",
       "slug": "cocoons",
-      "name": "Cocoons",
+      "name": "Cocoon Crunch",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -1684,8 +1689,10 @@
         "abs",
         "bodyweight",
         "calisthenics",
+        "cocoon",
         "cocoons",
         "core",
+        "crunch",
         "equipment",
         "no",
         "strength"
@@ -1980,7 +1987,7 @@
     {
       "id": "abs/flag",
       "slug": "flag",
-      "name": "Flag",
+      "name": "Human Flag",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -1995,6 +2002,7 @@
         "core",
         "equipment",
         "flag",
+        "human",
         "no",
         "strength"
       ]
@@ -2202,7 +2210,7 @@
     {
       "id": "abs/gorilla-chin",
       "slug": "gorilla-chin",
-      "name": "Gorilla Chin",
+      "name": "Gorilla Chin Crunch",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2216,6 +2224,7 @@
         "calisthenics",
         "chin",
         "core",
+        "crunch",
         "equipment",
         "gorilla",
         "no",
@@ -6911,7 +6920,7 @@
     {
       "id": "biceps/dumbbell-peacher-hammer-curl",
       "slug": "dumbbell-peacher-hammer-curl",
-      "name": "Dumbbell Peacher Hammer Curl",
+      "name": "Dumbbell Preacher Hammer Curl",
       "muscle": "biceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -6929,6 +6938,7 @@
         "dumbbells",
         "hammer",
         "peacher",
+        "preacher",
         "strength"
       ]
     },
@@ -7033,7 +7043,7 @@
     {
       "id": "biceps/dumbbell-revers-grip-biceps-curl",
       "slug": "dumbbell-revers-grip-biceps-curl",
-      "name": "Dumbbell Revers Grip Biceps Curl",
+      "name": "Dumbbell Reverse Grip Biceps Curl",
       "muscle": "biceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -7051,6 +7061,7 @@
         "dumbbells",
         "grip",
         "revers",
+        "reverse",
         "strength"
       ]
     },
@@ -7361,7 +7372,7 @@
     {
       "id": "biceps/dumbbell-seated-revers-grip-concentration-curl",
       "slug": "dumbbell-seated-revers-grip-concentration-curl",
-      "name": "Dumbbell Seated Revers Grip Concentration Curl",
+      "name": "Dumbbell Seated Reverse Grip Concentration Curl",
       "muscle": "biceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -7380,6 +7391,7 @@
         "dumbbells",
         "grip",
         "revers",
+        "reverse",
         "seated",
         "strength"
       ]
@@ -9173,7 +9185,7 @@
     {
       "id": "calves/lever-rotary-calf",
       "slug": "lever-rotary-calf",
-      "name": "Lever Rotary Calf",
+      "name": "Lever Rotary Calf Raise",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -9186,6 +9198,7 @@
         "legs",
         "lever",
         "machine",
+        "raise",
         "rotary",
         "soleus",
         "strength"
@@ -9684,7 +9697,7 @@
     {
       "id": "calves/smith-toe-raise",
       "slug": "smith-toe-raise",
-      "name": "Smith Toe Raise",
+      "name": "Smith Machine Toe Raise",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "smith",
@@ -9757,7 +9770,7 @@
     {
       "id": "calves/standing-calves",
       "slug": "standing-calves",
-      "name": "Standing Calves",
+      "name": "Standing Calf Raise",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -9772,6 +9785,7 @@
         "equipment",
         "legs",
         "no",
+        "raise",
         "soleus",
         "standing",
         "strength"
@@ -11145,7 +11159,7 @@
     {
       "id": "delts/cable-cross-over-revers-fly",
       "slug": "cable-cross-over-revers-fly",
-      "name": "Cable Cross Over Revers Fly",
+      "name": "Cable Crossover Reverse Fly",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "cable",
@@ -11158,6 +11172,7 @@
       "terms": [
         "cable",
         "cross",
+        "crossover",
         "delt",
         "deltoid",
         "delts",
@@ -11165,6 +11180,7 @@
         "over",
         "pulley",
         "revers",
+        "reverse",
         "shoulder",
         "shoulders",
         "strength"
@@ -13452,7 +13468,7 @@
     {
       "id": "delts/kettlebell-pirate-supper-legs",
       "slug": "kettlebell-pirate-supper-legs",
-      "name": "Kettlebell Pirate Supper Legs",
+      "name": "Kettlebell Around-the-Legs Pass",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "kettlebell",
@@ -13460,11 +13476,13 @@
       "secondaryMuscles": [],
       "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-pirate-supper-legs.gif",
       "terms": [
+        "around-the-legs",
         "delt",
         "deltoid",
         "delts",
         "kettlebell",
         "legs",
+        "pass",
         "pirate",
         "shoulder",
         "shoulders",
@@ -14340,7 +14358,7 @@
     {
       "id": "forearms/barbell-revers-wrist-curl-v-2",
       "slug": "barbell-revers-wrist-curl-v-2",
-      "name": "Barbell Revers Wrist Curl v2",
+      "name": "Barbell Reverse Wrist Curl v2",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -14357,6 +14375,7 @@
         "forearms",
         "olympic",
         "revers",
+        "reverse",
         "strength",
         "v2",
         "wrist"
@@ -14775,7 +14794,7 @@
     {
       "id": "forearms/dumbbell-over-bench-revers-wrist-curl",
       "slug": "dumbbell-over-bench-revers-wrist-curl",
-      "name": "Dumbbell Over Bench Revers Wrist Curl",
+      "name": "Dumbbell Over Bench Reverse Wrist Curl",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -14794,6 +14813,7 @@
         "forearms",
         "over",
         "revers",
+        "reverse",
         "strength",
         "wrist"
       ]
@@ -15128,7 +15148,7 @@
     {
       "id": "forearms/wrist-rollerer",
       "slug": "wrist-rollerer",
-      "name": "Wrist Rollerer",
+      "name": "Wrist Roller",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "bodyweight",
@@ -15145,6 +15165,7 @@
         "forearm",
         "forearms",
         "no",
+        "roller",
         "rollerer",
         "strength",
         "wrist"
@@ -23783,7 +23804,7 @@
     {
       "id": "pectorals/dumbbell-incline-breeding",
       "slug": "dumbbell-incline-breeding",
-      "name": "Dumbbell Incline Breeding",
+      "name": "Dumbbell Incline Fly",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "dumbbell",
@@ -23795,6 +23816,7 @@
         "chest",
         "dumbbell",
         "dumbbells",
+        "fly",
         "incline",
         "pec",
         "pecs",
@@ -24049,7 +24071,7 @@
     {
       "id": "pectorals/dumbbell-incline-twisted-flyes",
       "slug": "dumbbell-incline-twisted-flyes",
-      "name": "Dumbbell Incline Twisted Flyes",
+      "name": "Dumbbell Incline Twisted Fly",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "dumbbell",
@@ -24062,6 +24084,7 @@
         "chest",
         "dumbbell",
         "dumbbells",
+        "fly",
         "flyes",
         "incline",
         "pec",
@@ -24712,7 +24735,7 @@
     {
       "id": "pectorals/hyght-dumbbell-fly",
       "slug": "hyght-dumbbell-fly",
-      "name": "Hyght Dumbbell Fly",
+      "name": "High Dumbbell Fly",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "dumbbell",
@@ -24726,6 +24749,7 @@
         "dumbbell",
         "dumbbells",
         "fly",
+        "high",
         "hyght",
         "pec",
         "pecs",
@@ -26460,7 +26484,7 @@
     {
       "id": "quads/band-one-arm-single-leg-split-squat",
       "slug": "band-one-arm-single-leg-split-squat",
-      "name": "Band One Arm Single Leg Split Squat",
+      "name": "One-Arm Band Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "band",
@@ -26474,9 +26498,11 @@
       "terms": [
         "arm",
         "band",
+        "bulgarian",
         "leg",
         "legs",
         "one",
+        "one-arm",
         "quad",
         "quadriceps",
         "quads",
@@ -26490,7 +26516,7 @@
     {
       "id": "quads/band-single-leg-split-squat",
       "slug": "band-single-leg-split-squat",
-      "name": "Band Single Leg Split Squat",
+      "name": "Band Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "band",
@@ -26503,6 +26529,7 @@
       "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/band-single-leg-split-squat.gif",
       "terms": [
         "band",
+        "bulgarian",
         "leg",
         "legs",
         "quad",
@@ -26655,7 +26682,7 @@
     {
       "id": "quads/barbell-side-split-squat-v-2",
       "slug": "barbell-side-split-squat-v-2",
-      "name": "Barbell Side Split Squat v2",
+      "name": "Lateral Barbell Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -26668,6 +26695,8 @@
       "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-side-split-squat-v-2.gif",
       "terms": [
         "barbell",
+        "bulgarian",
+        "lateral",
         "legs",
         "olympic",
         "quad",
@@ -26676,14 +26705,13 @@
         "side",
         "split",
         "squat",
-        "strength",
-        "v2"
+        "strength"
       ]
     },
     {
       "id": "quads/barbell-side-split-squat",
       "slug": "barbell-side-split-squat",
-      "name": "Barbell Side Split Squat",
+      "name": "Lateral Barbell Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -26696,6 +26724,8 @@
       "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-side-split-squat.gif",
       "terms": [
         "barbell",
+        "bulgarian",
+        "lateral",
         "legs",
         "olympic",
         "quad",
@@ -26710,7 +26740,7 @@
     {
       "id": "quads/barbell-single-leg-split-squat",
       "slug": "barbell-single-leg-split-squat",
-      "name": "Barbell Single Leg Split Squat",
+      "name": "Barbell Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -26723,6 +26753,7 @@
       "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-single-leg-split-squat.gif",
       "terms": [
         "barbell",
+        "bulgarian",
         "leg",
         "legs",
         "olympic",
@@ -26738,7 +26769,7 @@
     {
       "id": "quads/barbell-split-squat-v-2",
       "slug": "barbell-split-squat-v-2",
-      "name": "Barbell Split Squat v2",
+      "name": "Barbell Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -26751,6 +26782,7 @@
       "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-split-squat-v-2.gif",
       "terms": [
         "barbell",
+        "bulgarian",
         "legs",
         "olympic",
         "quad",
@@ -26758,8 +26790,7 @@
         "quads",
         "split",
         "squat",
-        "strength",
-        "v2"
+        "strength"
       ]
     },
     {
@@ -26901,7 +26932,7 @@
     {
       "id": "quads/dumbbell-single-leg-split-squat",
       "slug": "dumbbell-single-leg-split-squat",
-      "name": "Dumbbell Single Leg Split Squat",
+      "name": "Dumbbell Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -26913,6 +26944,7 @@
       ],
       "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-single-leg-split-squat.gif",
       "terms": [
+        "bulgarian",
         "dumbbell",
         "dumbbells",
         "leg",
@@ -26956,7 +26988,7 @@
     {
       "id": "quads/dumbbell-step-up-split-squat",
       "slug": "dumbbell-step-up-split-squat",
-      "name": "Dumbbell Step Up Split Squat",
+      "name": "Dumbbell Step-Up Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -26968,6 +27000,7 @@
       ],
       "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-step-up-split-squat.gif",
       "terms": [
+        "bulgarian",
         "dumbbell",
         "dumbbells",
         "legs",
@@ -26977,6 +27010,7 @@
         "split",
         "squat",
         "step",
+        "step-up",
         "strength",
         "up"
       ]
@@ -27290,7 +27324,7 @@
     {
       "id": "quads/smith-single-leg-split-squat",
       "slug": "smith-single-leg-split-squat",
-      "name": "Smith Single Leg Split Squat",
+      "name": "Smith Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "smith",
@@ -27302,6 +27336,7 @@
       ],
       "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/smith-single-leg-split-squat.gif",
       "terms": [
+        "bulgarian",
         "leg",
         "legs",
         "machine",
@@ -27349,7 +27384,7 @@
     {
       "id": "quads/split-squats",
       "slug": "split-squats",
-      "name": "Split Squats",
+      "name": "Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -27362,6 +27397,7 @@
       "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/split-squats.gif",
       "terms": [
         "bodyweight",
+        "bulgarian",
         "calisthenics",
         "equipment",
         "legs",
@@ -27370,6 +27406,7 @@
         "quadriceps",
         "quads",
         "split",
+        "squat",
         "squats",
         "strength"
       ]
@@ -27501,7 +27538,7 @@
     {
       "id": "quads/suspended-split-squat",
       "slug": "suspended-split-squat",
-      "name": "Suspended Split Squat",
+      "name": "Suspended Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -27514,6 +27551,7 @@
       "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/suspended-split-squat.gif",
       "terms": [
         "bodyweight",
+        "bulgarian",
         "calisthenics",
         "equipment",
         "legs",

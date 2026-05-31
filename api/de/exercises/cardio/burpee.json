@@ -1,0 +1,26 @@
+{
+  "id": "cardio/burpee",
+  "slug": "burpee",
+  "name": "Burpee",
+  "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "bodyweight",
+  "category": "cardio",
+  "secondaryMuscles": [
+    "pectorals",
+    "triceps",
+    "quads",
+    "glutes",
+    "abs"
+  ],
+  "instructions": [
+    "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+    "Steh aufrecht, dann gehe in die Hocke und setze die Hände vor dir auf den Boden.",
+    "Springe oder trete mit den Füßen in die Liegestützposition zurück. Mache einen Liegestütz (oder überspringe ihn für mehr Tempo).",
+    "Springe oder trete mit den Füßen zurück zu den Händen, dann explodiere in einen Sprung mit den Händen über dem Kopf. Lande weich und wiederhole.",
+    "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+  ],
+  "file": "cardio/burpee.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/burpee.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/burpee.thumb.webp"
+}

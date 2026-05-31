@@ -1,0 +1,24 @@
+{
+  "id": "pectorals/lever-incline-chest-press",
+  "slug": "lever-incline-chest-press",
+  "name": "Presse pectorale incliné à la machine",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+    "Règle le banc à l'inclinaison indiquée et presse fermement ton dos contre le dossier.",
+    "Serre tes omoplates comme si tu tenais un crayon entre elles — cela crée une base stable pour pousser.",
+    "Descends la barre vers le milieu de la poitrine avec les coudes à environ 45° — pense à une forme de flèche, pas un T — contrôle la descente pendant 2-3 secondes.",
+    "Pousse-toi toi-même dans le banc, éloignant la barre. Dirige la barre dans un léger arc vers les supports pour terminer la répétition.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "pectorals/lever-incline-chest-press.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-incline-chest-press.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-incline-chest-press.thumb.webp"
+}

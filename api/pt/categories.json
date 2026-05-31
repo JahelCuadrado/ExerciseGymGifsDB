@@ -1,0 +1,22 @@
+[
+  {
+    "category": "cardio",
+    "count": 29,
+    "endpoint": "categories/cardio.json"
+  },
+  {
+    "category": "plyometrics",
+    "count": 14,
+    "endpoint": "categories/plyometrics.json"
+  },
+  {
+    "category": "strength",
+    "count": 1224,
+    "endpoint": "categories/strength.json"
+  },
+  {
+    "category": "stretching",
+    "count": 56,
+    "endpoint": "categories/stretching.json"
+  }
+]

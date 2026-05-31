@@ -1,0 +1,24 @@
+{
+  "id": "calves/lever-seated-calf-press",
+  "slug": "lever-seated-calf-press",
+  "name": "固定器械坐姿推举小腿",
+  "muscle": "calves",
+  "bodyPart": "legs",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+    "挺直坐好，背部挺直，双脚平放在地面。",
+    "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+    "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+    "控制将重量收回，在整个运动范围内保持张力。",
+    "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+  ],
+  "file": "calves/lever-seated-calf-press.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-seated-calf-press.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-seated-calf-press.thumb.webp"
+}

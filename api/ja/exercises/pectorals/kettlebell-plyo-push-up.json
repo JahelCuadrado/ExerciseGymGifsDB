@@ -1,0 +1,23 @@
+{
+  "id": "pectorals/kettlebell-plyo-push-up",
+  "slug": "kettlebell-plyo-push-up",
+  "name": "ケトルベル・腕立て伏せ・プライオ",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "kettlebell",
+  "category": "plyometrics",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+    "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+    "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+    "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+    "呼吸：ジャンプや爆発的な動作で鋭く息を吐きます。力を溜める局面で吸います。"
+  ],
+  "file": "pectorals/kettlebell-plyo-push-up.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-plyo-push-up.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-plyo-push-up.thumb.webp"
+}

@@ -1,0 +1,983 @@
+{
+  "equipment": "kettlebell",
+  "count": 41,
+  "exercises": [
+    {
+      "id": "abs/kettlebell-advanced-windmill",
+      "slug": "kettlebell-advanced-windmill",
+      "name": "Windmill com kettlebell, avançado",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Empurre o peso sobre a cabeça e trave o braço. Gire os pés cerca de 45° para longe do lado carregado.",
+        "Faça dobradiça no quadril e deslize a mão livre pela perna da frente mantendo os olhos no peso acima.",
+        "Fique em pé empurrando os quadris para frente. O braço de cima permanece travado e vertical durante todo o movimento.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "abs/kettlebell-advanced-windmill.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-advanced-windmill.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-advanced-windmill.thumb.webp"
+    },
+    {
+      "id": "abs/kettlebell-bent-press",
+      "slug": "kettlebell-bent-press",
+      "name": "Press com kettlebell, curvado",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Ative o core e fixe as escápulas. Inicie o empurrão de uma base estável.",
+        "Empurre o peso afastando-o do corpo em uma trajetória controlada, estendendo completamente sem travar as articulações bruscamente.",
+        "Retorne o peso com controle, mantendo tensão em toda a amplitude de movimento.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "abs/kettlebell-bent-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-bent-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-bent-press.thumb.webp"
+    },
+    {
+      "id": "abs/kettlebell-double-windmill",
+      "slug": "kettlebell-double-windmill",
+      "name": "Windmill com kettlebell, duplo",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Empurre o peso sobre a cabeça e trave o braço. Gire os pés cerca de 45° para longe do lado carregado.",
+        "Faça dobradiça no quadril e deslize a mão livre pela perna da frente mantendo os olhos no peso acima.",
+        "Fique em pé empurrando os quadris para frente. O braço de cima permanece travado e vertical durante todo o movimento.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "abs/kettlebell-double-windmill.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-double-windmill.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-double-windmill.thumb.webp"
+    },
+    {
+      "id": "abs/kettlebell-figure-8",
+      "slug": "kettlebell-figure-8",
+      "name": "Figura com kettlebell",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Em pé com os pés mais largos que os ombros e o peso em uma mão. Postura atlética com joelhos levemente flexionados.",
+        "Passe o peso ao redor ou entre as pernas no padrão indicado, transferindo de mão em mão em movimento fluido.",
+        "Mantenha o core ativo e olhos à frente — não olhe para baixo no peso. O movimento deve ser suave e rítmico.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "abs/kettlebell-figure-8.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-figure-8.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-figure-8.thumb.webp"
+    },
+    {
+      "id": "abs/kettlebell-windmill",
+      "slug": "kettlebell-windmill",
+      "name": "Windmill com kettlebell",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Empurre o peso sobre a cabeça e trave o braço. Gire os pés cerca de 45° para longe do lado carregado.",
+        "Faça dobradiça no quadril e deslize a mão livre pela perna da frente mantendo os olhos no peso acima.",
+        "Fique em pé empurrando os quadris para frente. O braço de cima permanece travado e vertical durante todo o movimento.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "abs/kettlebell-windmill.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-windmill.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-windmill.thumb.webp"
+    },
+    {
+      "id": "biceps/kettlebell-bottoms-up-clean-from-the-hang-position",
+      "slug": "kettlebell-bottoms-up-clean-from-the-hang-position",
+      "name": "Clean com kettlebell, fundo para cima suspensão posição",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Deite-se de costas com os joelhos flexionados e pés fixos (ou livres para V-ups). Braços na posição indicada.",
+        "Sente-se completamente ativando o core — lidere com o peito, não com o queixo. Em V-ups, levante pernas e tronco simultaneamente.",
+        "Desça com controle. Não use impulso para subir — se precisar, faça uma regressão do movimento.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "biceps/kettlebell-bottoms-up-clean-from-the-hang-position.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/kettlebell-bottoms-up-clean-from-the-hang-position.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/kettlebell-bottoms-up-clean-from-the-hang-position.thumb.webp"
+    },
+    {
+      "id": "biceps/kettlebell-double-alternating-hang-clean",
+      "slug": "kettlebell-double-alternating-hang-clean",
+      "name": "Hang Clean com kettlebell, alternado, duplo",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Baixe os quadris, peito alto, braços retos — tire a folga da barra.",
+        "Empurre o chão explosivamente, estendendo quadris e joelhos. Quando a barra passar dos joelhos, acelere com uma extensão violenta do quadril e encolhimento.",
+        "Receba a barra nos ombros (clean) ou sobre a cabeça (snatch) caindo rapidamente sob a barra. Absorva com joelhos macios, depois fique em pé.",
+        "Alterne os lados a cada repetição. Complete uma rep inteira antes de passar para o outro lado.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "biceps/kettlebell-double-alternating-hang-clean.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/kettlebell-double-alternating-hang-clean.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/kettlebell-double-alternating-hang-clean.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-alternating-press",
+      "slug": "kettlebell-alternating-press",
+      "name": "Press com kettlebell, alternado",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Ative o core e fixe as escápulas. Inicie o empurrão de uma base estável.",
+        "Empurre o peso afastando-o do corpo em uma trajetória controlada, estendendo completamente sem travar as articulações bruscamente.",
+        "Retorne o peso com controle, mantendo tensão em toda a amplitude de movimento.",
+        "Alterne os lados a cada repetição. Complete uma rep inteira antes de passar para o outro lado.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "delts/kettlebell-alternating-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-alternating-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-alternating-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-arnold-press",
+      "slug": "kettlebell-arnold-press",
+      "name": "Arnold Press com kettlebell",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Empilhe os pulsos diretamente sobre os cotovelos como uma coluna sólida. Aperte os glúteos e ative o core como se fosse receber um soco.",
+        "Empurre o peso reto para cima, tirando a cabeça do caminho. Quando a barra passar do rosto, empurre a cabeça para frente e trave completamente.",
+        "Desça com controle de volta à posição inicial sobre os deltoides frontais. Mantenha o tronco vertical — você está empurrando para cima, não fazendo um supino inclinado em pé.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "delts/kettlebell-arnold-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-arnold-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-arnold-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-double-jerk",
+      "slug": "kettlebell-double-jerk",
+      "name": "Duplo jerk com kettlebell",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Empilhe os pulsos diretamente sobre os cotovelos como uma coluna sólida. Aperte os glúteos e ative o core como se fosse receber um soco.",
+        "Empurre o peso reto para cima, tirando a cabeça do caminho. Quando a barra passar do rosto, empurre a cabeça para frente e trave completamente.",
+        "Desça com controle de volta à posição inicial sobre os deltoides frontais. Mantenha o tronco vertical — você está empurrando para cima, não fazendo um supino inclinado em pé.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "delts/kettlebell-double-jerk.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-double-jerk.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-double-jerk.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-double-push-press",
+      "slug": "kettlebell-double-push-press",
+      "name": "Push Press com kettlebell, duplo",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Empilhe os pulsos diretamente sobre os cotovelos como uma coluna sólida. Aperte os glúteos e ative o core como se fosse receber um soco.",
+        "Empurre o peso reto para cima, tirando a cabeça do caminho. Quando a barra passar do rosto, empurre a cabeça para frente e trave completamente.",
+        "Desça com controle de volta à posição inicial sobre os deltoides frontais. Mantenha o tronco vertical — você está empurrando para cima, não fazendo um supino inclinado em pé.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "delts/kettlebell-double-push-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-double-push-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-double-push-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-double-snatch",
+      "slug": "kettlebell-double-snatch",
+      "name": "Arranco com kettlebell, duplo",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Baixe os quadris, peito alto, braços retos — tire a folga da barra.",
+        "Empurre o chão explosivamente, estendendo quadris e joelhos. Quando a barra passar dos joelhos, acelere com uma extensão violenta do quadril e encolhimento.",
+        "Receba a barra nos ombros (clean) ou sobre a cabeça (snatch) caindo rapidamente sob a barra. Absorva com joelhos macios, depois fique em pé.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "delts/kettlebell-double-snatch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-double-snatch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-double-snatch.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-clean-and-jerk",
+      "slug": "kettlebell-one-arm-clean-and-jerk",
+      "name": "Clean com kettlebell, unilateral, jerk",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Empilhe o pulso diretamente sobre o cotovelo como uma coluna sólida. Aperte os glúteos e ative o core como se fosse receber um soco.",
+        "Empurre o peso reto para cima, tirando a cabeça do caminho. Quando a barra passar do rosto, empurre a cabeça para frente e trave completamente.",
+        "Desça com controle de volta à posição inicial sobre os deltoides frontais. Mantenha o tronco vertical — você está empurrando para cima, não fazendo um supino inclinado em pé.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "delts/kettlebell-one-arm-clean-and-jerk.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-clean-and-jerk.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-clean-and-jerk.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-jerk",
+      "slug": "kettlebell-one-arm-jerk",
+      "name": "Jerk com kettlebell, unilateral",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Empilhe o pulso diretamente sobre o cotovelo como uma coluna sólida. Aperte os glúteos e ative o core como se fosse receber um soco.",
+        "Empurre o peso reto para cima, tirando a cabeça do caminho. Quando a barra passar do rosto, empurre a cabeça para frente e trave completamente.",
+        "Desça com controle de volta à posição inicial sobre os deltoides frontais. Mantenha o tronco vertical — você está empurrando para cima, não fazendo um supino inclinado em pé.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "delts/kettlebell-one-arm-jerk.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-jerk.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-jerk.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-military-press-to-the-side",
+      "slug": "kettlebell-one-arm-military-press-to-the-side",
+      "name": "Desenvolvimento militar com kettlebell, lateral, unilateral",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Empilhe o pulso diretamente sobre o cotovelo como uma coluna sólida. Aperte os glúteos e ative o core como se fosse receber um soco.",
+        "Empurre o peso reto para cima, tirando a cabeça do caminho. Quando a barra passar do rosto, empurre a cabeça para frente e trave completamente.",
+        "Desça com controle de volta à posição inicial sobre os deltoides frontais. Mantenha o tronco vertical — você está empurrando para cima, não fazendo um supino inclinado em pé.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "delts/kettlebell-one-arm-military-press-to-the-side.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-military-press-to-the-side.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-military-press-to-the-side.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-push-press",
+      "slug": "kettlebell-one-arm-push-press",
+      "name": "Push Press com kettlebell, unilateral",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Empilhe o pulso diretamente sobre o cotovelo como uma coluna sólida. Aperte os glúteos e ative o core como se fosse receber um soco.",
+        "Empurre o peso reto para cima, tirando a cabeça do caminho. Quando a barra passar do rosto, empurre a cabeça para frente e trave completamente.",
+        "Desça com controle de volta à posição inicial sobre os deltoides frontais. Mantenha o tronco vertical — você está empurrando para cima, não fazendo um supino inclinado em pé.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "delts/kettlebell-one-arm-push-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-push-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-push-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-snatch",
+      "slug": "kettlebell-one-arm-snatch",
+      "name": "Arranco com kettlebell, unilateral",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Baixe os quadris, peito alto, braços retos — tire a folga da barra.",
+        "Empurre o chão explosivamente, estendendo quadris e joelhos. Quando a barra passar dos joelhos, acelere com uma extensão violenta do quadril e encolhimento.",
+        "Receba a barra nos ombros (clean) ou sobre a cabeça (snatch) caindo rapidamente sob a barra. Absorva com joelhos macios, depois fique em pé.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "delts/kettlebell-one-arm-snatch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-snatch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-snatch.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-pirate-supper-legs",
+      "slug": "kettlebell-pirate-supper-legs",
+      "name": "Passagem de kettlebell entre as pernas",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Em pé com os pés mais largos que os ombros e o peso em uma mão. Postura atlética com joelhos levemente flexionados.",
+        "Passe o peso ao redor ou entre as pernas no padrão indicado, transferindo de mão em mão em movimento fluido.",
+        "Mantenha o core ativo e olhos à frente — não olhe para baixo no peso. O movimento deve ser suave e rítmico.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "delts/kettlebell-pirate-supper-legs.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-pirate-supper-legs.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-pirate-supper-legs.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-seated-press",
+      "slug": "kettlebell-seated-press",
+      "name": "Press com kettlebell, sentado",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Ative o core e fixe as escápulas. Inicie o empurrão de uma base estável.",
+        "Empurre o peso afastando-o do corpo em uma trajetória controlada, estendendo completamente sem travar as articulações bruscamente.",
+        "Retorne o peso com controle, mantendo tensão em toda a amplitude de movimento.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "delts/kettlebell-seated-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-seated-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-seated-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-seated-two-arm-military-press",
+      "slug": "kettlebell-seated-two-arm-military-press",
+      "name": "Desenvolvimento militar com kettlebell, sentado, bilateral",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Empilhe os pulsos diretamente sobre os cotovelos como uma coluna sólida. Aperte os glúteos e ative o core como se fosse receber um soco.",
+        "Empurre o peso reto para cima, tirando a cabeça do caminho. Quando a barra passar do rosto, empurre a cabeça para frente e trave completamente.",
+        "Desça com controle de volta à posição inicial sobre os deltoides frontais. Mantenha o tronco vertical — você está empurrando para cima, não fazendo um supino inclinado em pé.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "delts/kettlebell-seated-two-arm-military-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-seated-two-arm-military-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-seated-two-arm-military-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-seesaw-press",
+      "slug": "kettlebell-seesaw-press",
+      "name": "Press com kettlebell, gangorra",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Empilhe os pulsos diretamente sobre os cotovelos como uma coluna sólida. Aperte os glúteos e ative o core como se fosse receber um soco.",
+        "Empurre o peso reto para cima, tirando a cabeça do caminho. Quando a barra passar do rosto, empurre a cabeça para frente e trave completamente.",
+        "Desça com controle de volta à posição inicial sobre os deltoides frontais. Mantenha o tronco vertical — você está empurrando para cima, não fazendo um supino inclinado em pé.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "delts/kettlebell-seesaw-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-seesaw-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-seesaw-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-thruster",
+      "slug": "kettlebell-thruster",
+      "name": "Thruster com kettlebell",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "quads",
+        "triceps",
+        "abs"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Empilhe os pulsos diretamente sobre os cotovelos como uma coluna sólida. Aperte os glúteos e ative o core como se fosse receber um soco.",
+        "Empurre o peso reto para cima, tirando a cabeça do caminho. Quando a barra passar do rosto, empurre a cabeça para frente e trave completamente.",
+        "Desça com controle de volta à posição inicial sobre os deltoides frontais. Mantenha o tronco vertical — você está empurrando para cima, não fazendo um supino inclinado em pé.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "delts/kettlebell-thruster.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-thruster.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-thruster.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-two-arm-clean",
+      "slug": "kettlebell-two-arm-clean",
+      "name": "Clean com kettlebell, bilateral",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Baixe os quadris, peito alto, braços retos — tire a folga da barra.",
+        "Empurre o chão explosivamente, estendendo quadris e joelhos. Quando a barra passar dos joelhos, acelere com uma extensão violenta do quadril e encolhimento.",
+        "Receba a barra nos ombros (clean) ou sobre a cabeça (snatch) caindo rapidamente sob a barra. Absorva com joelhos macios, depois fique em pé.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "delts/kettlebell-two-arm-clean.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-two-arm-clean.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-two-arm-clean.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-two-arm-military-press",
+      "slug": "kettlebell-two-arm-military-press",
+      "name": "Desenvolvimento militar com kettlebell, bilateral",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Empilhe os pulsos diretamente sobre os cotovelos como uma coluna sólida. Aperte os glúteos e ative o core como se fosse receber um soco.",
+        "Empurre o peso reto para cima, tirando a cabeça do caminho. Quando a barra passar do rosto, empurre a cabeça para frente e trave completamente.",
+        "Desça com controle de volta à posição inicial sobre os deltoides frontais. Mantenha o tronco vertical — você está empurrando para cima, não fazendo um supino inclinado em pé.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "delts/kettlebell-two-arm-military-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-two-arm-military-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-two-arm-military-press.thumb.webp"
+    },
+    {
+      "id": "forearms/kettlebell-alternating-hang-clean",
+      "slug": "kettlebell-alternating-hang-clean",
+      "name": "Hang Clean com kettlebell, alternado",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Baixe os quadris, peito alto, braços retos — tire a folga da barra.",
+        "Empurre o chão explosivamente, estendendo quadris e joelhos. Quando a barra passar dos joelhos, acelere com uma extensão violenta do quadril e encolhimento.",
+        "Receba a barra nos ombros (clean) ou sobre a cabeça (snatch) caindo rapidamente sob a barra. Absorva com joelhos macios, depois fique em pé.",
+        "Alterne os lados a cada repetição. Complete uma rep inteira antes de passar para o outro lado.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/kettlebell-alternating-hang-clean.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/kettlebell-alternating-hang-clean.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/kettlebell-alternating-hang-clean.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-front-squat",
+      "slug": "kettlebell-front-squat",
+      "name": "Agachamento frontal com kettlebell",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/kettlebell-front-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-front-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-front-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-goblet-squat",
+      "slug": "kettlebell-goblet-squat",
+      "name": "Agachamento goblet com kettlebell",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/kettlebell-goblet-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-goblet-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-goblet-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-lunge-pass-through",
+      "slug": "kettlebell-lunge-pass-through",
+      "name": "Avanço com kettlebell, passe através",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Em pé com os pés na largura dos quadris (trilhos de trem, não corda bamba). Avance com o tronco ereto como um mastro.",
+        "Desça o joelho traseiro reto como um elevador — não avance para frente. Mire 90° em ambos os joelhos. Mantenha a canela da frente vertical.",
+        "Empurre pelo calcanhar da frente para retornar. Imagine empurrar o chão para baixo pelo pé da frente.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/kettlebell-lunge-pass-through.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-lunge-pass-through.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-lunge-pass-through.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-pistol-squat",
+      "slug": "kettlebell-pistol-squat",
+      "name": "Agachamento pistol com kettlebell",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/kettlebell-pistol-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-pistol-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-pistol-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-swing",
+      "slug": "kettlebell-swing",
+      "name": "Swing com kettlebell",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Em pé com os pés na largura dos ombros, segure o kettlebell com ambas as mãos. Faça dobradiça no quadril para iniciar o swing.",
+        "Empurre os quadris para frente explosivamente — a força vem dos quadris, não dos braços. O peso flutua para cima como consequência.",
+        "Deixe o kettlebell cair naturalmente, fazendo dobradiça no quadril para absorvê-lo. Mantenha o core ativo e as costas retas.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/kettlebell-swing.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-swing.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-swing.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-turkish-get-up-squat-style",
+      "slug": "kettlebell-turkish-get-up-squat-style",
+      "name": "Agachamento com kettlebell, Levantamento turco estilo",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/kettlebell-turkish-get-up-squat-style.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-turkish-get-up-squat-style.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-turkish-get-up-squat-style.thumb.webp"
+    },
+    {
+      "id": "hamstrings/kettlebell-hang-clean",
+      "slug": "kettlebell-hang-clean",
+      "name": "Hang Clean com kettlebell",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Baixe os quadris, peito alto, braços retos — tire a folga da barra.",
+        "Empurre o chão explosivamente, estendendo quadris e joelhos. Quando a barra passar dos joelhos, acelere com uma extensão violenta do quadril e encolhimento.",
+        "Receba a barra nos ombros (clean) ou sobre a cabeça (snatch) caindo rapidamente sob a barra. Absorva com joelhos macios, depois fique em pé.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/kettlebell-hang-clean.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/kettlebell-hang-clean.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/kettlebell-hang-clean.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-alternating-press-on-floor",
+      "slug": "kettlebell-alternating-press-on-floor",
+      "name": "Press com kettlebell, alternado, chão",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Ative o core e fixe as escápulas. Inicie o empurrão de uma base estável.",
+        "Empurre o peso afastando-o do corpo em uma trajetória controlada, estendendo completamente sem travar as articulações bruscamente.",
+        "Retorne o peso com controle, mantendo tensão em toda a amplitude de movimento.",
+        "Alterne os lados a cada repetição. Complete uma rep inteira antes de passar para o outro lado.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "pectorals/kettlebell-alternating-press-on-floor.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-alternating-press-on-floor.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-alternating-press-on-floor.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-extended-range-one-arm-press-on-floor",
+      "slug": "kettlebell-extended-range-one-arm-press-on-floor",
+      "name": "Press com kettlebell, unilateral, estendido amplitude chão",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Ative o core e fixe as escápulas. Inicie o empurrão de uma base estável.",
+        "Empurre o peso afastando-o do corpo em uma trajetória controlada, estendendo completamente sem travar as articulações bruscamente.",
+        "Retorne o peso com controle, mantendo tensão em toda a amplitude de movimento.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "pectorals/kettlebell-extended-range-one-arm-press-on-floor.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-extended-range-one-arm-press-on-floor.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-extended-range-one-arm-press-on-floor.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-one-arm-floor-press",
+      "slug": "kettlebell-one-arm-floor-press",
+      "name": "Supino no chão com kettlebell, unilateral",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Junte as escápulas como se segurasse um lápis entre elas — isso cria uma base estável para empurrar.",
+        "Desça a barra até o meio do peito com o cotovelo a cerca de 45° — pense em forma de seta, não de T — controlando a descida por 2-3 segundos.",
+        "Empurre-se contra o banco, afastando-se da barra. Direcione a barra em um leve arco de volta para o suporte para completar a repetição.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "pectorals/kettlebell-one-arm-floor-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-one-arm-floor-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-one-arm-floor-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-plyo-push-up",
+      "slug": "kettlebell-plyo-push-up",
+      "name": "Flexão com kettlebell, plio",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Coloque as mãos um pouco mais largas que os ombros. Corpo em linha reta da cabeça aos calcanhares — parafuse as mãos no chão para criar tensão.",
+        "Desça o corpo flexionando os cotovelos a 45° até o peito quase tocar o chão. Puxe-se ativamente para baixo.",
+        "Empurre o chão para longe de você para retornar ao topo. Aperte o peito ao travar e mantenha o core tenso o tempo todo.",
+        "Respiração: expire de forma explosiva no salto ou esforço. Inspire durante a fase de carga."
+      ],
+      "file": "pectorals/kettlebell-plyo-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-plyo-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-plyo-push-up.thumb.webp"
+    },
+    {
+      "id": "traps/kettlebell-sumo-high-pull",
+      "slug": "kettlebell-sumo-high-pull",
+      "name": "Puxar sumo com kettlebell, alto",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Comece em postura ampla (sumo) ou na largura dos quadris. Segure o peso com braços estendidos e quadris carregados.",
+        "Empurre o chão explosivamente, estendendo quadris e joelhos, depois puxe o peso até a altura do queixo liderando com os cotovelos.",
+        "Desça o peso com controle à posição inicial. A força vem das pernas e quadris, não dos braços.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "traps/kettlebell-sumo-high-pull.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/kettlebell-sumo-high-pull.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/kettlebell-sumo-high-pull.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-alternating-renegade-row",
+      "slug": "kettlebell-alternating-renegade-row",
+      "name": "Remada com kettlebell, alternado, renegado",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Faça dobradiça no quadril até o tronco ficar quase paralelo ao chão. Deixe o braço pendurado reto como uma corda presa ao peso.",
+        "Puxe direcionando o cotovelo para os bolsos traseiros — sua mão é apenas um gancho. Aperte as escápulas no topo como se quebrasse uma noz.",
+        "Desça com controle até a extensão completa do braço para um alongamento completo embaixo. Se o tronco se mover mais de 10°, o peso está muito pesado.",
+        "Alterne os lados a cada repetição. Complete uma rep inteira antes de passar para o outro lado.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "upper-back/kettlebell-alternating-renegade-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-renegade-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-renegade-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-alternating-row",
+      "slug": "kettlebell-alternating-row",
+      "name": "Remada com kettlebell, alternado",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Faça dobradiça no quadril até o tronco ficar quase paralelo ao chão. Deixe o braço pendurado reto como uma corda presa ao peso.",
+        "Puxe direcionando o cotovelo para os bolsos traseiros — sua mão é apenas um gancho. Aperte as escápulas no topo como se quebrasse uma noz.",
+        "Desça com controle até a extensão completa do braço para um alongamento completo embaixo. Se o tronco se mover mais de 10°, o peso está muito pesado.",
+        "Alterne os lados a cada repetição. Complete uma rep inteira antes de passar para o outro lado.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "upper-back/kettlebell-alternating-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-one-arm-row",
+      "slug": "kettlebell-one-arm-row",
+      "name": "Remada unilateral com kettlebell",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Faça dobradiça no quadril até o tronco ficar quase paralelo ao chão. Deixe o braço pendurado reto como uma corda presa ao peso.",
+        "Puxe direcionando o cotovelo para os bolsos traseiros — sua mão é apenas um gancho. Aperte as escápulas no topo como se quebrasse uma noz.",
+        "Desça com controle até a extensão completa do braço para um alongamento completo embaixo. Se o tronco se mover mais de 10°, o peso está muito pesado.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "upper-back/kettlebell-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-two-arm-row",
+      "slug": "kettlebell-two-arm-row",
+      "name": "Remada com kettlebell, bilateral",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Faça dobradiça no quadril até o tronco ficar quase paralelo ao chão. Deixe os braços pendurados retos como cordas presas ao peso.",
+        "Puxe direcionando os cotovelos para os bolsos traseiros — suas mãos são apenas ganchos. Aperte as escápulas no topo como se quebrasse uma noz.",
+        "Desça com controle até a extensão completa dos braços para um alongamento completo embaixo. Se o tronco se mover mais de 10°, o peso está muito pesado.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "upper-back/kettlebell-two-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-two-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-two-arm-row.thumb.webp"
+    }
+  ]
+}

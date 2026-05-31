@@ -1,0 +1,23 @@
+{
+  "id": "traps/smith-back-shrug",
+  "slug": "smith-back-shrug",
+  "name": "スミスマシン・シュラッグ・バック",
+  "muscle": "traps",
+  "bodyPart": "back",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "スミスマシンのバーの高さを設定し、適切な重量をセットします。バーの下にポジションを取ります。",
+    "腕を完全に伸ばして体側で重りを持ちます。まっすぐ立ち肩をリラックスさせます。",
+    "肩をまっすぐ耳に向けてすくめます。回さないでください。トップで2秒絞ります。",
+    "ゆっくり下ろします。腕はずっとまっすぐです。これは完全に僧帽筋の運動で、上腕二頭筋は使いません。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "traps/smith-back-shrug.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-back-shrug.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-back-shrug.thumb.webp"
+}

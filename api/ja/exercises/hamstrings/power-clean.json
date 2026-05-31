@@ -1,0 +1,26 @@
+{
+  "id": "hamstrings/power-clean",
+  "slug": "power-clean",
+  "name": "パワークリーン",
+  "muscle": "hamstrings",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "spine",
+    "traps",
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+    "足は腰幅、バーは足の中央上。腰を落とし、胸を張り、腕はまっすぐ。バーのたるみを取ります。",
+    "爆発的に床を押し、腰と膝を伸ばします。バーが膝を通過したら、激しい股関節伸展とシュラッグで加速します。",
+    "肩（クリーン）または頭上（スナッチ）でバーを受け、素早くバーの下に潜ります。柔らかい膝で吸収し、立ち上がります。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "hamstrings/power-clean.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/power-clean.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/power-clean.thumb.webp"
+}

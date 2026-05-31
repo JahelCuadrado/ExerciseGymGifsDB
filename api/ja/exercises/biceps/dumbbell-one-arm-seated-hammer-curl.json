@@ -1,0 +1,24 @@
+{
+  "id": "biceps/dumbbell-one-arm-seated-hammer-curl",
+  "slug": "dumbbell-one-arm-seated-hammer-curl",
+  "name": "ダンベル・シーテッド・ワンアーム・ハンマーカール",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+    "背筋を伸ばして座り、足を床に平らに置きます。",
+    "ニュートラルグリップ（手のひらが向かい合う）で重りを持ちます。肘を体側に固定します。釘で留めてあるイメージです。",
+    "ニュートラルグリップのままカールします。これは上腕筋と腕橈骨筋を上腕二頭筋に加えて鍛えます。",
+    "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに保ちます。",
+    "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "biceps/dumbbell-one-arm-seated-hammer-curl.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-seated-hammer-curl.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-seated-hammer-curl.thumb.webp"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cardio/cycle-cross-trainer",
+  "slug": "cycle-cross-trainer",
+  "name": "Vélo croisé entraîneur",
+  "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "machine",
+  "category": "cardio",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+    "Ajuste la selle et les poignées. Assieds-toi avec une légère flexion du genou en bas du coup de pédale.",
+    "Pédale en douceur, poussant vers le bas et tirant vers le haut dans un mouvement circulaire. Garde une cadence constante à ta résistance cible.",
+    "Maintiens une posture droite, engage le core et respire de façon rythmique.",
+    "Respire de manière rythmique — inspire par le nez et expire par la bouche, en suivant ton rythme."
+  ],
+  "file": "cardio/cycle-cross-trainer.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/cycle-cross-trainer.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/cycle-cross-trainer.thumb.webp"
+}

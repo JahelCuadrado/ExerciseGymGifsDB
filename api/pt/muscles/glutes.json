@@ -1,0 +1,3315 @@
+{
+  "muscle": "glutes",
+  "count": 144,
+  "exercises": [
+    {
+      "id": "glutes/arms-apart-circular-toe-touch-male",
+      "slug": "arms-apart-circular-toe-touch-male",
+      "name": "Braços afastado circular dedos do pé toque",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Deite-se de costas com os joelhos flexionados e pés apoiados. Levante levemente os ombros do chão e mantenha.",
+        "Alcance lateralmente com a mão para tocar o calcanhar (ou pé), contraindo os oblíquos. Sinta a lateral do abdômen apertar.",
+        "Alterne os lados com um crunch lateral controlado. Mantenha a lombar no chão e tensão constante nos abdominais.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/arms-apart-circular-toe-touch-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/arms-apart-circular-toe-touch-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/arms-apart-circular-toe-touch-male.thumb.webp"
+    },
+    {
+      "id": "glutes/assisted-lying-glutes-stretch",
+      "slug": "assisted-lying-glutes-stretch",
+      "name": "Alongamento, deitado, assistido, glúteos",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Deite-se com as costas retas contra a superfície, core ativado.",
+        "Vá para a posição de alongamento lentamente até sentir uma tensão suave na área alvo — não dor.",
+        "Segure de 20 a 40 segundos respirando profundamente. A cada expiração, tente afundar um pouco mais no alongamento.",
+        "Solte lentamente e repita se desejar. Consistência importa mais que intensidade — alongue regularmente para flexibilidade duradoura.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "glutes/assisted-lying-glutes-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/assisted-lying-glutes-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/assisted-lying-glutes-stretch.thumb.webp"
+    },
+    {
+      "id": "glutes/assisted-lying-gluteus-and-piriformis-stretch",
+      "slug": "assisted-lying-gluteus-and-piriformis-stretch",
+      "name": "Alongamento, deitado, assistido, glúteo piriforme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Deite-se com as costas retas contra a superfície, core ativado.",
+        "Vá para a posição de alongamento lentamente até sentir uma tensão suave na área alvo — não dor.",
+        "Segure de 20 a 40 segundos respirando profundamente. A cada expiração, tente afundar um pouco mais no alongamento.",
+        "Solte lentamente e repita se desejar. Consistência importa mais que intensidade — alongue regularmente para flexibilidade duradoura.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "glutes/assisted-lying-gluteus-and-piriformis-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/assisted-lying-gluteus-and-piriformis-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/assisted-lying-gluteus-and-piriformis-stretch.thumb.webp"
+    },
+    {
+      "id": "glutes/band-bent-over-hip-extension",
+      "slug": "band-bent-over-hip-extension",
+      "name": "Extensão com faixa elástica, curvado, quadril",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
+      "instructions": [
+        "Fixe a faixa elástica no ponto de ancoragem correto e certifique-se de que há tensão inicial.",
+        "Trave os cotovelos na posição — são pontos fixos no espaço. Apenas os antebraços se movem como dobradiças.",
+        "Estenda completamente, apertando os tríceps com força ao travar. Faça uma pausa em extensão completa.",
+        "Retorne lentamente à posição inicial. Foque no alongamento embaixo e na contração no topo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/band-bent-over-hip-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-bent-over-hip-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-bent-over-hip-extension.thumb.webp"
+    },
+    {
+      "id": "glutes/band-hip-lift",
+      "slug": "band-hip-lift",
+      "name": "Quadril levantamento com faixa elástica",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe a faixa elástica no ponto de ancoragem correto e certifique-se de que há tensão inicial.",
+        "Costas superiores contra um banco (ou planas no chão para bridges). Pés apoiados, canelas verticais no topo. Queixo levemente recolhido.",
+        "Empurre pelos calcanhares e aperte os glúteos como se quebrasse uma noz. Levante até o corpo formar uma linha reta dos joelhos aos ombros — não mais.",
+        "Desça com controle, depois empurre novamente. Pense em fazer a fivela do cinto tocar o teto no topo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/band-hip-lift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-hip-lift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-hip-lift.thumb.webp"
+    },
+    {
+      "id": "glutes/band-lying-hip-internal-rotation",
+      "slug": "band-lying-hip-internal-rotation",
+      "name": "Quadril interno rotação com faixa elástica, deitado",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe a faixa elástica no ponto de ancoragem correto e certifique-se de que há tensão inicial.",
+        "Deite-se com as costas retas contra a superfície, core ativado.",
+        "Sente-se com os joelhos flexionados e incline-se levemente — ou em pé com core ativo para variações com cabo. Mantenha o peito alto.",
+        "Rotacione o tronco de lado a lado com controle a partir do meio das costas — não apenas os braços. Toque o peso ao lado de cada quadril.",
+        "Mova-se com controle — a amplitude de rotação importa mais que a velocidade. Mantenha o core ativo em toda a amplitude.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/band-lying-hip-internal-rotation.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-lying-hip-internal-rotation.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-lying-hip-internal-rotation.thumb.webp"
+    },
+    {
+      "id": "glutes/band-pull-through",
+      "slug": "band-pull-through",
+      "name": "Puxar através com faixa elástica",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
+      "instructions": [
+        "Fixe a faixa elástica no ponto de ancoragem correto e certifique-se de que há tensão inicial.",
+        "Com leve flexão dos joelhos, faça dobradiça no quadril empurrando o bumbum para trás — imagine fechar a porta de um carro com os glúteos.",
+        "Desça até sentir um alongamento profundo nos isquiotibiais, mantendo as costas retas. Uma vassoura na coluna deveria tocar cabeça, meio das costas e cóccix.",
+        "Empurre os quadris para frente para voltar a ficar em pé, apertando os glúteos com força no topo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/band-pull-through.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-pull-through.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-pull-through.thumb.webp"
+    },
+    {
+      "id": "glutes/band-seated-hip-internal-rotation",
+      "slug": "band-seated-hip-internal-rotation",
+      "name": "Quadril interno rotação com faixa elástica, sentado",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe a faixa elástica no ponto de ancoragem correto e certifique-se de que há tensão inicial.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Sente-se com os joelhos flexionados e incline-se levemente — ou em pé com core ativo para variações com cabo. Mantenha o peito alto.",
+        "Rotacione o tronco de lado a lado com controle a partir do meio das costas — não apenas os braços. Toque o peso ao lado de cada quadril.",
+        "Mova-se com controle — a amplitude de rotação importa mais que a velocidade. Mantenha o core ativo em toda a amplitude.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/band-seated-hip-internal-rotation.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-seated-hip-internal-rotation.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-seated-hip-internal-rotation.thumb.webp"
+    },
+    {
+      "id": "glutes/band-squat-row",
+      "slug": "band-squat-row",
+      "name": "Agachamento com faixa elástica, Remada",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves",
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Fixe a faixa elástica no ponto de ancoragem correto e certifique-se de que há tensão inicial.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/band-squat-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-squat-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-squat-row.thumb.webp"
+    },
+    {
+      "id": "glutes/band-squat",
+      "slug": "band-squat",
+      "name": "Agachamento com faixa elástica",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Fixe a faixa elástica no ponto de ancoragem correto e certifique-se de que há tensão inicial.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/band-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/band-step-up",
+      "slug": "band-step-up",
+      "name": "Step-up com faixa elástica",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe a faixa elástica no ponto de ancoragem correto e certifique-se de que há tensão inicial.",
+        "Fique em frente a uma caixa ou degrau. Coloque todo o pé na plataforma — calcanhar incluído.",
+        "Empurre pelo pé de cima para subir — não se impulsione com o pé de trás. A perna da frente faz todo o trabalho.",
+        "Fique totalmente em pé no topo, depois desça lentamente com controle. Mantenha o tronco ereto e o joelho alinhado com os dedos.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/band-step-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-step-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-step-up.thumb.webp"
+    },
+    {
+      "id": "glutes/band-stiff-leg-deadlift",
+      "slug": "band-stiff-leg-deadlift",
+      "name": "Levantamento terra com pernas retas com faixa elástica",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Fixe a faixa elástica no ponto de ancoragem correto e certifique-se de que há tensão inicial.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Dobradiça no quadril, peito alto, e aperte as axilas para ativar os dorsais.",
+        "Empurre o chão com as pernas — quadris e ombros sobem juntos como um elevador. Arraste a barra pelas pernas como se as estivesse raspando.",
+        "Fique totalmente ereto no topo e aperte uma moeda entre os glúteos. Retorne fazendo dobradiça no quadril, deslizando a barra pelas coxas — ela nunca sai do corpo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/band-stiff-leg-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-stiff-leg-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-stiff-leg-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/band-straight-back-stiff-leg-deadlift",
+      "slug": "band-straight-back-stiff-leg-deadlift",
+      "name": "Levantamento terra com pernas retas com faixa elástica, reto costas",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Fixe a faixa elástica no ponto de ancoragem correto e certifique-se de que há tensão inicial.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Dobradiça no quadril, peito alto, e aperte as axilas para ativar os dorsais.",
+        "Empurre o chão com as pernas — quadris e ombros sobem juntos como um elevador. Arraste a barra pelas pernas como se as estivesse raspando.",
+        "Fique totalmente ereto no topo e aperte uma moeda entre os glúteos. Retorne fazendo dobradiça no quadril, deslizando a barra pelas coxas — ela nunca sai do corpo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/band-straight-back-stiff-leg-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-straight-back-stiff-leg-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-straight-back-stiff-leg-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-clean-grip-front-squat",
+      "slug": "barbell-clean-grip-front-squat",
+      "name": "Agachamento frontal com barra, Clean pegada",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-clean-grip-front-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-clean-grip-front-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-clean-grip-front-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-deadlift",
+      "slug": "barbell-deadlift",
+      "name": "Levantamento terra com barra",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Dobradiça no quadril, peito alto, e aperte as axilas para ativar os dorsais.",
+        "Empurre o chão com as pernas — quadris e ombros sobem juntos como um elevador. Arraste a barra pelas pernas como se as estivesse raspando.",
+        "Fique totalmente ereto no topo e aperte uma moeda entre os glúteos. Retorne fazendo dobradiça no quadril, deslizando a barra pelas coxas — ela nunca sai do corpo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-front-chest-squat",
+      "slug": "barbell-front-chest-squat",
+      "name": "Agachamento com barra, frontal, peito",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-front-chest-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-front-chest-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-front-chest-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-front-squat",
+      "slug": "barbell-front-squat",
+      "name": "Agachamento frontal com barra",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-front-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-front-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-front-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-full-squat-back-pov",
+      "slug": "barbell-full-squat-back-pov",
+      "name": "Agachamento com barra, completo costas",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-full-squat-back-pov.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-full-squat-back-pov.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-full-squat-back-pov.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-full-squat-side-pov",
+      "slug": "barbell-full-squat-side-pov",
+      "name": "Agachamento com barra, lateral, completo",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-full-squat-side-pov.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-full-squat-side-pov.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-full-squat-side-pov.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-full-squat",
+      "slug": "barbell-full-squat",
+      "name": "Agachamento com barra, completo",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-full-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-full-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-full-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-full-zercher-squat",
+      "slug": "barbell-full-zercher-squat",
+      "name": "Agachamento com barra, completo Zercher",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-full-zercher-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-full-zercher-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-full-zercher-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-glute-bridge-two-legs-on-bench-male",
+      "slug": "barbell-glute-bridge-two-legs-on-bench-male",
+      "name": "Ponte de glúteos com barra, dois pernas banco",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Costas superiores contra um banco (ou planas no chão para bridges). Pés apoiados, canelas verticais no topo. Queixo levemente recolhido.",
+        "Empurre pelos calcanhares e aperte os glúteos como se quebrasse uma noz. Levante até o corpo formar uma linha reta dos joelhos aos ombros — não mais.",
+        "Desça com controle, depois empurre novamente. Pense em fazer a fivela do cinto tocar o teto no topo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-glute-bridge-two-legs-on-bench-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-glute-bridge-two-legs-on-bench-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-glute-bridge-two-legs-on-bench-male.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-glute-bridge",
+      "slug": "barbell-glute-bridge",
+      "name": "Ponte de glúteos com barra",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Costas superiores contra um banco (ou planas no chão para bridges). Pés apoiados, canelas verticais no topo. Queixo levemente recolhido.",
+        "Empurre pelos calcanhares e aperte os glúteos como se quebrasse uma noz. Levante até o corpo formar uma linha reta dos joelhos aos ombros — não mais.",
+        "Desça com controle, depois empurre novamente. Pense em fazer a fivela do cinto tocar o teto no topo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-glute-bridge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-glute-bridge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-glute-bridge.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-hack-squat",
+      "slug": "barbell-hack-squat",
+      "name": "Agachamento com barra, hack",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-hack-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-hack-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-hack-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-high-bar-squat",
+      "slug": "barbell-high-bar-squat",
+      "name": "Agachamento com barra, alto",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-high-bar-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-high-bar-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-high-bar-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-jefferson-squat",
+      "slug": "barbell-jefferson-squat",
+      "name": "Agachamento com barra, jefferson",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-jefferson-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-jefferson-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-jefferson-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-jump-squat",
+      "slug": "barbell-jump-squat",
+      "name": "Agachamento com barra, salto",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire de forma explosiva no salto ou esforço. Inspire durante a fase de carga."
+      ],
+      "file": "glutes/barbell-jump-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-jump-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-jump-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-lateral-lunge",
+      "slug": "barbell-lateral-lunge",
+      "name": "Avanço com barra, lateral",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Em pé com os pés na largura dos quadris (trilhos de trem, não corda bamba). Avance com o tronco ereto como um mastro.",
+        "Desça o joelho traseiro reto como um elevador — não avance para frente. Mire 90° em ambos os joelhos. Mantenha a canela da frente vertical.",
+        "Empurre pelo calcanhar da frente para retornar. Imagine empurrar o chão para baixo pelo pé da frente.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-lateral-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-lateral-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-lateral-lunge.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-low-bar-squat",
+      "slug": "barbell-low-bar-squat",
+      "name": "Agachamento com barra, baixo",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-low-bar-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-low-bar-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-low-bar-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-lunge",
+      "slug": "barbell-lunge",
+      "name": "Avanço com barra",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Em pé com os pés na largura dos quadris (trilhos de trem, não corda bamba). Avance com o tronco ereto como um mastro.",
+        "Desça o joelho traseiro reto como um elevador — não avance para frente. Mire 90° em ambos os joelhos. Mantenha a canela da frente vertical.",
+        "Empurre pelo calcanhar da frente para retornar. Imagine empurrar o chão para baixo pelo pé da frente.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-lunge.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-lying-lifting-on-hip",
+      "slug": "barbell-lying-lifting-on-hip",
+      "name": "Levantamento quadril com barra, deitado",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Deite-se com as costas retas contra a superfície, core ativado.",
+        "Ative os glúteos antes de iniciar o movimento. Sinta a conexão mente-músculo.",
+        "Realize o movimento com controle total, dominando as fases concêntrica e excêntrica.",
+        "Volte à posição inicial controlando a descida — a fase excêntrica constrói tanto músculo quanto a subida.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-lying-lifting-on-hip.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-lying-lifting-on-hip.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-lying-lifting-on-hip.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-narrow-stance-squat",
+      "slug": "barbell-narrow-stance-squat",
+      "name": "Agachamento com barra, fechado, posição",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-narrow-stance-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-narrow-stance-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-narrow-stance-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-one-arm-side-deadlift",
+      "slug": "barbell-one-arm-side-deadlift",
+      "name": "Levantamento terra com barra, lateral, unilateral",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Dobradiça no quadril, peito alto, e aperte as axilas para ativar os dorsais.",
+        "Empurre o chão com as pernas — quadris e ombros sobem juntos como um elevador. Arraste a barra pelas pernas como se as estivesse raspando.",
+        "Fique totalmente ereto no topo e aperte uma moeda entre os glúteos. Retorne fazendo dobradiça no quadril, deslizando a barra pelas coxas — ela nunca sai do corpo.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-one-arm-side-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-one-arm-side-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-one-arm-side-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-rack-pull",
+      "slug": "barbell-rack-pull",
+      "name": "Rack Pull com barra",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Dobradiça no quadril, peito alto, e aperte as axilas para ativar os dorsais.",
+        "Empurre o chão com as pernas — quadris e ombros sobem juntos como um elevador. Arraste a barra pelas pernas como se as estivesse raspando.",
+        "Fique totalmente ereto no topo e aperte uma moeda entre os glúteos. Retorne fazendo dobradiça no quadril, deslizando a barra pelas coxas — ela nunca sai do corpo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-rack-pull.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-rack-pull.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-rack-pull.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-rear-lunge-v-2",
+      "slug": "barbell-rear-lunge-v-2",
+      "name": "Avanço com barra, posterior",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Em pé com os pés na largura dos quadris (trilhos de trem, não corda bamba). Avance com o tronco ereto como um mastro.",
+        "Desça o joelho traseiro reto como um elevador — não avance para frente. Mire 90° em ambos os joelhos. Mantenha a canela da frente vertical.",
+        "Empurre pelo calcanhar da frente para retornar. Imagine empurrar o chão para baixo pelo pé da frente.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-rear-lunge-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-rear-lunge-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-rear-lunge-v-2.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-rear-lunge",
+      "slug": "barbell-rear-lunge",
+      "name": "Avanço com barra, posterior",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Em pé com os pés na largura dos quadris (trilhos de trem, não corda bamba). Avance com o tronco ereto como um mastro.",
+        "Desça o joelho traseiro reto como um elevador — não avance para frente. Mire 90° em ambos os joelhos. Mantenha a canela da frente vertical.",
+        "Empurre pelo calcanhar da frente para retornar. Imagine empurrar o chão para baixo pelo pé da frente.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-rear-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-rear-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-rear-lunge.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-romanian-deadlift",
+      "slug": "barbell-romanian-deadlift",
+      "name": "Levantamento terra romeno com barra",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Dobradiça no quadril, peito alto, e aperte as axilas para ativar os dorsais.",
+        "Empurre o chão com as pernas — quadris e ombros sobem juntos como um elevador. Arraste a barra pelas pernas como se as estivesse raspando.",
+        "Fique totalmente ereto no topo e aperte uma moeda entre os glúteos. Retorne fazendo dobradiça no quadril, deslizando a barra pelas coxas — ela nunca sai do corpo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-romanian-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-romanian-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-romanian-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-seated-good-morning",
+      "slug": "barbell-seated-good-morning",
+      "name": "Good Morning com barra, sentado",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Com leve flexão dos joelhos, faça dobradiça no quadril empurrando o bumbum para trás — imagine fechar a porta de um carro com os glúteos.",
+        "Desça até sentir um alongamento profundo nos isquiotibiais, mantendo as costas retas. Uma vassoura na coluna deveria tocar cabeça, meio das costas e cóccix.",
+        "Empurre os quadris para frente para voltar a ficar em pé, apertando os glúteos com força no topo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-seated-good-morning.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-seated-good-morning.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-seated-good-morning.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-single-leg-deadlift",
+      "slug": "barbell-single-leg-deadlift",
+      "name": "Levantamento terra com barra, unilateral",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Dobradiça no quadril, peito alto, e aperte as axilas para ativar os dorsais.",
+        "Empurre o chão com a perna — quadris e ombros sobem juntos como um elevador. Arraste a barra pelas pernas como se as estivesse raspando.",
+        "Fique totalmente ereto no topo e aperte uma moeda entre os glúteos. Retorne fazendo dobradiça no quadril, deslizando a barra pelas coxas — ela nunca sai do corpo.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-single-leg-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-single-leg-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-single-leg-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-speed-squat",
+      "slug": "barbell-speed-squat",
+      "name": "Agachamento com barra, velocidade",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-speed-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-speed-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-speed-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-step-up",
+      "slug": "barbell-step-up",
+      "name": "Step-up com barra",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Fique em frente a uma caixa ou degrau. Coloque todo o pé na plataforma — calcanhar incluído.",
+        "Empurre pelo pé de cima para subir — não se impulsione com o pé de trás. A perna da frente faz todo o trabalho.",
+        "Fique totalmente em pé no topo, depois desça lentamente com controle. Mantenha o tronco ereto e o joelho alinhado com os dedos.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-step-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-step-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-step-up.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-stiff-leg-good-morning",
+      "slug": "barbell-stiff-leg-good-morning",
+      "name": "Good Morning com barra, com pernas retas",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Dobradiça no quadril, peito alto, e aperte as axilas para ativar os dorsais.",
+        "Empurre o chão com as pernas — quadris e ombros sobem juntos como um elevador. Arraste a barra pelas pernas como se as estivesse raspando.",
+        "Fique totalmente ereto no topo e aperte uma moeda entre os glúteos. Retorne fazendo dobradiça no quadril, deslizando a barra pelas coxas — ela nunca sai do corpo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-stiff-leg-good-morning.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-stiff-leg-good-morning.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-stiff-leg-good-morning.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-sumo-deadlift",
+      "slug": "barbell-sumo-deadlift",
+      "name": "Levantamento terra sumo com barra",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Dobradiça no quadril, peito alto, e aperte as axilas para ativar os dorsais.",
+        "Empurre o chão com as pernas — quadris e ombros sobem juntos como um elevador. Arraste a barra pelas pernas como se as estivesse raspando.",
+        "Fique totalmente ereto no topo e aperte uma moeda entre os glúteos. Retorne fazendo dobradiça no quadril, deslizando a barra pelas coxas — ela nunca sai do corpo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-sumo-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-sumo-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-sumo-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-zercher-squat",
+      "slug": "barbell-zercher-squat",
+      "name": "Agachamento com barra, Zercher",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/barbell-zercher-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-zercher-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-zercher-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/basic-toe-touch-male",
+      "slug": "basic-toe-touch-male",
+      "name": "Básico dedos do pé toque",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Deite-se de costas com os joelhos flexionados e pés apoiados. Levante levemente os ombros do chão e mantenha.",
+        "Alcance lateralmente com a mão para tocar o calcanhar (ou pé), contraindo os oblíquos. Sinta a lateral do abdômen apertar.",
+        "Alterne os lados com um crunch lateral controlado. Mantenha a lombar no chão e tensão constante nos abdominais.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/basic-toe-touch-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/basic-toe-touch-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/basic-toe-touch-male.thumb.webp"
+    },
+    {
+      "id": "glutes/bench-hip-extension",
+      "slug": "bench-hip-extension",
+      "name": "Extensão, banco quadril",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Trave os cotovelos na posição — são pontos fixos no espaço. Apenas os antebraços se movem como dobradiças.",
+        "Estenda completamente, apertando os tríceps com força ao travar. Faça uma pausa em extensão completa.",
+        "Retorne lentamente à posição inicial. Foque no alongamento embaixo e na contração no topo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/bench-hip-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/bench-hip-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/bench-hip-extension.thumb.webp"
+    },
+    {
+      "id": "glutes/bent-knee-lying-twist-male",
+      "slug": "bent-knee-lying-twist-male",
+      "name": "Rotação, deitado, com joelho flexionado",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Deite-se com as costas retas contra a superfície, core ativado.",
+        "Sente-se com os joelhos flexionados e incline-se levemente — ou em pé com core ativo para variações com cabo. Mantenha o peito alto.",
+        "Rotacione o tronco de lado a lado com controle a partir do meio das costas — não apenas os braços. Toque o peso ao lado de cada quadril.",
+        "Mova-se com controle — a amplitude de rotação importa mais que a velocidade. Mantenha o core ativo em toda a amplitude.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/bent-knee-lying-twist-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/bent-knee-lying-twist-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/bent-knee-lying-twist-male.thumb.webp"
+    },
+    {
+      "id": "glutes/bodyweight-drop-jump-squat",
+      "slug": "bodyweight-drop-jump-squat",
+      "name": "Agachamento com peso corporal, queda salto",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire de forma explosiva no salto ou esforço. Inspire durante a fase de carga."
+      ],
+      "file": "glutes/bodyweight-drop-jump-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/bodyweight-drop-jump-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/bodyweight-drop-jump-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/cable-deadlift",
+      "slug": "cable-deadlift",
+      "name": "Levantamento terra na polia",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Coloque a pegada adequada, ajuste a altura da polia e selecione o peso de trabalho.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Dobradiça no quadril, peito alto, e aperte as axilas para ativar os dorsais.",
+        "Empurre o chão com as pernas — quadris e ombros sobem juntos como um elevador. Arraste a barra pelas pernas como se as estivesse raspando.",
+        "Fique totalmente ereto no topo e aperte uma moeda entre os glúteos. Retorne fazendo dobradiça no quadril, deslizando a barra pelas coxas — ela nunca sai do corpo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/cable-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/cable-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/cable-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/cable-pull-through-with-rope",
+      "slug": "cable-pull-through-with-rope",
+      "name": "Puxar através na polia, com corda",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
+      "instructions": [
+        "Coloque a pegada adequada, ajuste a altura da polia e selecione o peso de trabalho.",
+        "Com leve flexão dos joelhos, faça dobradiça no quadril empurrando o bumbum para trás — imagine fechar a porta de um carro com os glúteos.",
+        "Desça até sentir um alongamento profundo nos isquiotibiais, mantendo as costas retas. Uma vassoura na coluna deveria tocar cabeça, meio das costas e cóccix.",
+        "Empurre os quadris para frente para voltar a ficar em pé, apertando os glúteos com força no topo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/cable-pull-through-with-rope.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/cable-pull-through-with-rope.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/cable-pull-through-with-rope.thumb.webp"
+    },
+    {
+      "id": "glutes/cable-standing-hip-extension",
+      "slug": "cable-standing-hip-extension",
+      "name": "Extensão na polia, em pé, quadril",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
+      "instructions": [
+        "Coloque a pegada adequada, ajuste a altura da polia e selecione o peso de trabalho.",
+        "Trave os cotovelos na posição — são pontos fixos no espaço. Apenas os antebraços se movem como dobradiças.",
+        "Estenda completamente, apertando os tríceps com força ao travar. Faça uma pausa em extensão completa.",
+        "Retorne lentamente à posição inicial. Foque no alongamento embaixo e na contração no topo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/cable-standing-hip-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/cable-standing-hip-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/cable-standing-hip-extension.thumb.webp"
+    },
+    {
+      "id": "glutes/curtsey-squat",
+      "slug": "curtsey-squat",
+      "name": "Agachamento, cortesia",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/curtsey-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/curtsey-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/curtsey-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-bench-squat",
+      "slug": "dumbbell-bench-squat",
+      "name": "Agachamento com halteres, banco",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/dumbbell-bench-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-bench-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-bench-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-clean",
+      "slug": "dumbbell-clean",
+      "name": "Clean com halteres",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Baixe os quadris, peito alto, braços retos — tire a folga da barra.",
+        "Empurre o chão explosivamente, estendendo quadris e joelhos. Quando a barra passar dos joelhos, acelere com uma extensão violenta do quadril e encolhimento.",
+        "Receba a barra nos ombros (clean) ou sobre a cabeça (snatch) caindo rapidamente sob a barra. Absorva com joelhos macios, depois fique em pé.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/dumbbell-clean.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-clean.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-clean.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-contralateral-forward-lunge",
+      "slug": "dumbbell-contralateral-forward-lunge",
+      "name": "Avanço com halteres, contralateral à frente",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Em pé com os pés na largura dos quadris (trilhos de trem, não corda bamba). Avance com o tronco ereto como um mastro.",
+        "Desça o joelho traseiro reto como um elevador — não avance para frente. Mire 90° em ambos os joelhos. Mantenha a canela da frente vertical.",
+        "Empurre pelo calcanhar da frente para retornar. Imagine empurrar o chão para baixo pelo pé da frente.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/dumbbell-contralateral-forward-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-contralateral-forward-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-contralateral-forward-lunge.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-deadlift",
+      "slug": "dumbbell-deadlift",
+      "name": "Levantamento terra com halteres",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Dobradiça no quadril, peito alto, e aperte as axilas para ativar os dorsais.",
+        "Empurre o chão com as pernas — quadris e ombros sobem juntos como um elevador. Arraste a barra pelas pernas como se as estivesse raspando.",
+        "Fique totalmente ereto no topo e aperte uma moeda entre os glúteos. Retorne fazendo dobradiça no quadril, deslizando a barra pelas coxas — ela nunca sai do corpo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/dumbbell-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-lunge",
+      "slug": "dumbbell-lunge",
+      "name": "Avanço com halteres",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Em pé com os pés na largura dos quadris (trilhos de trem, não corda bamba). Avance com o tronco ereto como um mastro.",
+        "Desça o joelho traseiro reto como um elevador — não avance para frente. Mire 90° em ambos os joelhos. Mantenha a canela da frente vertical.",
+        "Empurre pelo calcanhar da frente para retornar. Imagine empurrar o chão para baixo pelo pé da frente.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/dumbbell-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-lunge.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-one-arm-snatch",
+      "slug": "dumbbell-one-arm-snatch",
+      "name": "Arranco com halteres, unilateral",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Baixe os quadris, peito alto, braços retos — tire a folga da barra.",
+        "Empurre o chão explosivamente, estendendo quadris e joelhos. Quando a barra passar dos joelhos, acelere com uma extensão violenta do quadril e encolhimento.",
+        "Receba a barra nos ombros (clean) ou sobre a cabeça (snatch) caindo rapidamente sob a barra. Absorva com joelhos macios, depois fique em pé.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/dumbbell-one-arm-snatch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-one-arm-snatch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-one-arm-snatch.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-plyo-squat",
+      "slug": "dumbbell-plyo-squat",
+      "name": "Agachamento com halteres, plio",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire de forma explosiva no salto ou esforço. Inspire durante a fase de carga."
+      ],
+      "file": "glutes/dumbbell-plyo-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-plyo-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-plyo-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-rear-lunge",
+      "slug": "dumbbell-rear-lunge",
+      "name": "Avanço com halteres, posterior",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Em pé com os pés na largura dos quadris (trilhos de trem, não corda bamba). Avance com o tronco ereto como um mastro.",
+        "Desça o joelho traseiro reto como um elevador — não avance para frente. Mire 90° em ambos os joelhos. Mantenha a canela da frente vertical.",
+        "Empurre pelo calcanhar da frente para retornar. Imagine empurrar o chão para baixo pelo pé da frente.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/dumbbell-rear-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-rear-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-rear-lunge.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-romanian-deadlift",
+      "slug": "dumbbell-romanian-deadlift",
+      "name": "Levantamento terra romeno com halteres",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Dobradiça no quadril, peito alto, e aperte as axilas para ativar os dorsais.",
+        "Empurre o chão com as pernas — quadris e ombros sobem juntos como um elevador. Arraste a barra pelas pernas como se as estivesse raspando.",
+        "Fique totalmente ereto no topo e aperte uma moeda entre os glúteos. Retorne fazendo dobradiça no quadril, deslizando a barra pelas coxas — ela nunca sai do corpo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/dumbbell-romanian-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-romanian-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-romanian-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-single-leg-deadlift-with-stepbox-support",
+      "slug": "dumbbell-single-leg-deadlift-with-stepbox-support",
+      "name": "Levantamento terra com halteres, unilateral, step apoio",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Dobradiça no quadril, peito alto, e aperte as axilas para ativar os dorsais.",
+        "Empurre o chão com a perna — quadris e ombros sobem juntos como um elevador. Arraste a barra pelas pernas como se as estivesse raspando.",
+        "Fique totalmente ereto no topo e aperte uma moeda entre os glúteos. Retorne fazendo dobradiça no quadril, deslizando a barra pelas coxas — ela nunca sai do corpo.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/dumbbell-single-leg-deadlift-with-stepbox-support.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-single-leg-deadlift-with-stepbox-support.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-single-leg-deadlift-with-stepbox-support.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-single-leg-deadlift",
+      "slug": "dumbbell-single-leg-deadlift",
+      "name": "Levantamento terra com halteres, unilateral",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Dobradiça no quadril, peito alto, e aperte as axilas para ativar os dorsais.",
+        "Empurre o chão com a perna — quadris e ombros sobem juntos como um elevador. Arraste a barra pelas pernas como se as estivesse raspando.",
+        "Fique totalmente ereto no topo e aperte uma moeda entre os glúteos. Retorne fazendo dobradiça no quadril, deslizando a barra pelas coxas — ela nunca sai do corpo.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/dumbbell-single-leg-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-single-leg-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-single-leg-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-single-leg-squat",
+      "slug": "dumbbell-single-leg-squat",
+      "name": "Agachamento com halteres, unilateral",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/dumbbell-single-leg-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-single-leg-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-single-leg-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-squat",
+      "slug": "dumbbell-squat",
+      "name": "Agachamento com halteres",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/dumbbell-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-step-up",
+      "slug": "dumbbell-step-up",
+      "name": "Step-up com halteres",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Fique em frente a uma caixa ou degrau. Coloque todo o pé na plataforma — calcanhar incluído.",
+        "Empurre pelo pé de cima para subir — não se impulsione com o pé de trás. A perna da frente faz todo o trabalho.",
+        "Fique totalmente em pé no topo, depois desça lentamente com controle. Mantenha o tronco ereto e o joelho alinhado com os dedos.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/dumbbell-step-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-step-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-step-up.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-stiff-leg-deadlift",
+      "slug": "dumbbell-stiff-leg-deadlift",
+      "name": "Levantamento terra com pernas retas com halteres",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Dobradiça no quadril, peito alto, e aperte as axilas para ativar os dorsais.",
+        "Empurre o chão com as pernas — quadris e ombros sobem juntos como um elevador. Arraste a barra pelas pernas como se as estivesse raspando.",
+        "Fique totalmente ereto no topo e aperte uma moeda entre os glúteos. Retorne fazendo dobradiça no quadril, deslizando a barra pelas coxas — ela nunca sai do corpo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/dumbbell-stiff-leg-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-stiff-leg-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-stiff-leg-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-straight-leg-deadlift",
+      "slug": "dumbbell-straight-leg-deadlift",
+      "name": "Levantamento terra com halteres, com perna reta",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Dobradiça no quadril, peito alto, e aperte as axilas para ativar os dorsais.",
+        "Empurre o chão com as pernas — quadris e ombros sobem juntos como um elevador. Arraste a barra pelas pernas como se as estivesse raspando.",
+        "Fique totalmente ereto no topo e aperte uma moeda entre os glúteos. Retorne fazendo dobradiça no quadril, deslizando a barra pelas coxas — ela nunca sai do corpo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/dumbbell-straight-leg-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-straight-leg-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-straight-leg-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-sumo-pull-through",
+      "slug": "dumbbell-sumo-pull-through",
+      "name": "Puxar através sumo com halteres",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Com leve flexão dos joelhos, faça dobradiça no quadril empurrando o bumbum para trás — imagine fechar a porta de um carro com os glúteos.",
+        "Desça até sentir um alongamento profundo nos isquiotibiais, mantendo as costas retas. Uma vassoura na coluna deveria tocar cabeça, meio das costas e cóccix.",
+        "Empurre os quadris para frente para voltar a ficar em pé, apertando os glúteos com força no topo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/dumbbell-sumo-pull-through.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-sumo-pull-through.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-sumo-pull-through.thumb.webp"
+    },
+    {
+      "id": "glutes/exercise-ball-hip-flexor-stretch",
+      "slug": "exercise-ball-hip-flexor-stretch",
+      "name": "Alongamento na bola suíça, quadril flexor",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Vá para a posição de alongamento lentamente até sentir uma tensão suave na área alvo — não dor.",
+        "Segure de 20 a 40 segundos respirando profundamente. A cada expiração, tente afundar um pouco mais no alongamento.",
+        "Solte lentamente e repita se desejar. Consistência importa mais que intensidade — alongue regularmente para flexibilidade duradoura.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "glutes/exercise-ball-hip-flexor-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/exercise-ball-hip-flexor-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/exercise-ball-hip-flexor-stretch.thumb.webp"
+    },
+    {
+      "id": "glutes/exercise-ball-one-leg-prone-lower-body-rotation",
+      "slug": "exercise-ball-one-leg-prone-lower-body-rotation",
+      "name": "Inferior corpo rotação na bola suíça, de bruços, unilateral",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Deite-se com as costas retas contra a superfície, core ativado.",
+        "Sente-se com o joelho flexionados e incline-se levemente — ou em pé com core ativo para variações com cabo. Mantenha o peito alto.",
+        "Rotacione o tronco de lado a lado com controle a partir do meio das costas — não apenas os braços. Toque o peso ao lado de cada quadril.",
+        "Mova-se com controle — a amplitude de rotação importa mais que a velocidade. Mantenha o core ativo em toda a amplitude.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/exercise-ball-one-leg-prone-lower-body-rotation.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/exercise-ball-one-leg-prone-lower-body-rotation.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/exercise-ball-one-leg-prone-lower-body-rotation.thumb.webp"
+    },
+    {
+      "id": "glutes/exercise-ball-one-legged-diagonal-kick-hamstring-curl",
+      "slug": "exercise-ball-one-legged-diagonal-kick-hamstring-curl",
+      "name": "Rosca na bola suíça, um perna diagonal chute posterior de coxa",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Fixe os cotovelos nas laterais — imagine que estão pregados no lugar. Apenas os antebraços se movem.",
+        "Curl o peso para cima apertando os bíceps com força. No topo, esprema o suco de uma laranja antes de descer.",
+        "Desça em 3 segundos lentos, lutando contra a gravidade em cada centímetro. Mantenha os pulsos retos como barras de aço. Se o corpo balançar, o peso está muito pesado.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/exercise-ball-one-legged-diagonal-kick-hamstring-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/exercise-ball-one-legged-diagonal-kick-hamstring-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/exercise-ball-one-legged-diagonal-kick-hamstring-curl.thumb.webp"
+    },
+    {
+      "id": "glutes/flutter-kicks",
+      "slug": "flutter-kicks",
+      "name": "Batida chutes",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Deite-se de barriga para cima com as pernas estendidas e mãos sob os glúteos ou nas laterais. Pressione a lombar contra o chão.",
+        "Levante ambas as pernas alguns centímetros do chão e alterne chutando para cima e para baixo em um movimento curto e rápido.",
+        "Mantenha o core ativo e a lombar colada ao chão. Se as costas arquearem, levante as pernas um pouco mais.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/flutter-kicks.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/flutter-kicks.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/flutter-kicks.thumb.webp"
+    },
+    {
+      "id": "glutes/forward-lunge-male",
+      "slug": "forward-lunge-male",
+      "name": "Avanço, à frente",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Em pé com os pés na largura dos quadris (trilhos de trem, não corda bamba). Avance com o tronco ereto como um mastro.",
+        "Desça o joelho traseiro reto como um elevador — não avance para frente. Mire 90° em ambos os joelhos. Mantenha a canela da frente vertical.",
+        "Empurre pelo calcanhar da frente para retornar. Imagine empurrar o chão para baixo pelo pé da frente.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/forward-lunge-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/forward-lunge-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/forward-lunge-male.thumb.webp"
+    },
+    {
+      "id": "glutes/frankenstein-squat",
+      "slug": "frankenstein-squat",
+      "name": "Agachamento, Frankenstein",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/frankenstein-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/frankenstein-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/frankenstein-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/glute-bridge-march",
+      "slug": "glute-bridge-march",
+      "name": "Ponte de glúteos, marcha",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Costas superiores contra um banco (ou planas no chão para bridges). Pés apoiados, canelas verticais no topo. Queixo levemente recolhido.",
+        "Empurre pelos calcanhares e aperte os glúteos como se quebrasse uma noz. Levante até o corpo formar uma linha reta dos joelhos aos ombros — não mais.",
+        "Desça com controle, depois empurre novamente. Pense em fazer a fivela do cinto tocar o teto no topo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/glute-bridge-march.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/glute-bridge-march.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/glute-bridge-march.thumb.webp"
+    },
+    {
+      "id": "glutes/glute-bridge-two-legs-on-bench-male",
+      "slug": "glute-bridge-two-legs-on-bench-male",
+      "name": "Ponte de glúteos, dois pernas banco",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Costas superiores contra um banco (ou planas no chão para bridges). Pés apoiados, canelas verticais no topo. Queixo levemente recolhido.",
+        "Empurre pelos calcanhares e aperte os glúteos como se quebrasse uma noz. Levante até o corpo formar uma linha reta dos joelhos aos ombros — não mais.",
+        "Desça com controle, depois empurre novamente. Pense em fazer a fivela do cinto tocar o teto no topo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/glute-bridge-two-legs-on-bench-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/glute-bridge-two-legs-on-bench-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/glute-bridge-two-legs-on-bench-male.thumb.webp"
+    },
+    {
+      "id": "glutes/hands-clasped-circular-toe-touch-male",
+      "slug": "hands-clasped-circular-toe-touch-male",
+      "name": "Mãos unidas circular dedos do pé toque",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Deite-se de costas com os joelhos flexionados e pés apoiados. Levante levemente os ombros do chão e mantenha.",
+        "Alcance lateralmente com a mão para tocar o calcanhar (ou pé), contraindo os oblíquos. Sinta a lateral do abdômen apertar.",
+        "Alterne os lados com um crunch lateral controlado. Mantenha a lombar no chão e tensão constante nos abdominais.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/hands-clasped-circular-toe-touch-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/hands-clasped-circular-toe-touch-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/hands-clasped-circular-toe-touch-male.thumb.webp"
+    },
+    {
+      "id": "glutes/hands-reversed-clasped-circular-toe-touch-male",
+      "slug": "hands-reversed-clasped-circular-toe-touch-male",
+      "name": "Mãos inverso unidas circular dedos do pé toque",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Deite-se de costas com os joelhos flexionados e pés apoiados. Levante levemente os ombros do chão e mantenha.",
+        "Alcance lateralmente com a mão para tocar o calcanhar (ou pé), contraindo os oblíquos. Sinta a lateral do abdômen apertar.",
+        "Alterne os lados com um crunch lateral controlado. Mantenha a lombar no chão e tensão constante nos abdominais.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/hands-reversed-clasped-circular-toe-touch-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/hands-reversed-clasped-circular-toe-touch-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/hands-reversed-clasped-circular-toe-touch-male.thumb.webp"
+    },
+    {
+      "id": "glutes/hug-keens-to-chest",
+      "slug": "hug-keens-to-chest",
+      "name": "Abraço joelhos peito",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Adote a posição indicada. Foque em encontrar uma amplitude confortável onde sinta uma mobilização suave na coluna.",
+        "Mova-se lentamente pela amplitude de movimento, respirando profundamente. Deixe cada expiração ajudar a liberar tensão.",
+        "Repita pelas repetições ou tempo indicados. Deve ser terapêutico — nunca empurre através da dor.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/hug-keens-to-chest.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/hug-keens-to-chest.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/hug-keens-to-chest.thumb.webp"
+    },
+    {
+      "id": "glutes/iron-cross-stretch",
+      "slug": "iron-cross-stretch",
+      "name": "Alongamento, ferro cruzado",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [
+        "pectorals",
+        "lats",
+        "abs"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Comece com leve flexão nos cotovelos — seus braços são como duas espadas curvas. Essa flexão permanece constante.",
+        "Abra os braços em arco, sentindo um alongamento profundo no peito. Não vá além da amplitude confortável.",
+        "Junte as pegadas apertando o peito — imagine abraçar um grande tronco de árvore. As mãos quase se tocam no topo.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "glutes/iron-cross-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/iron-cross-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/iron-cross-stretch.thumb.webp"
+    },
+    {
+      "id": "glutes/jump-squat-v-2",
+      "slug": "jump-squat-v-2",
+      "name": "Agachamento, salto",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire de forma explosiva no salto ou esforço. Inspire durante a fase de carga."
+      ],
+      "file": "glutes/jump-squat-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/jump-squat-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/jump-squat-v-2.thumb.webp"
+    },
+    {
+      "id": "glutes/jump-squat",
+      "slug": "jump-squat",
+      "name": "Agachamento, salto",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire de forma explosiva no salto ou esforço. Inspire durante a fase de carga."
+      ],
+      "file": "glutes/jump-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/jump-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/jump-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-front-squat",
+      "slug": "kettlebell-front-squat",
+      "name": "Agachamento frontal com kettlebell",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/kettlebell-front-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-front-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-front-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-goblet-squat",
+      "slug": "kettlebell-goblet-squat",
+      "name": "Agachamento goblet com kettlebell",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/kettlebell-goblet-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-goblet-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-goblet-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-lunge-pass-through",
+      "slug": "kettlebell-lunge-pass-through",
+      "name": "Avanço com kettlebell, passe através",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Em pé com os pés na largura dos quadris (trilhos de trem, não corda bamba). Avance com o tronco ereto como um mastro.",
+        "Desça o joelho traseiro reto como um elevador — não avance para frente. Mire 90° em ambos os joelhos. Mantenha a canela da frente vertical.",
+        "Empurre pelo calcanhar da frente para retornar. Imagine empurrar o chão para baixo pelo pé da frente.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/kettlebell-lunge-pass-through.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-lunge-pass-through.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-lunge-pass-through.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-pistol-squat",
+      "slug": "kettlebell-pistol-squat",
+      "name": "Agachamento pistol com kettlebell",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/kettlebell-pistol-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-pistol-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-pistol-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-swing",
+      "slug": "kettlebell-swing",
+      "name": "Swing com kettlebell",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Em pé com os pés na largura dos ombros, segure o kettlebell com ambas as mãos. Faça dobradiça no quadril para iniciar o swing.",
+        "Empurre os quadris para frente explosivamente — a força vem dos quadris, não dos braços. O peso flutua para cima como consequência.",
+        "Deixe o kettlebell cair naturalmente, fazendo dobradiça no quadril para absorvê-lo. Mantenha o core ativo e as costas retas.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/kettlebell-swing.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-swing.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-swing.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-turkish-get-up-squat-style",
+      "slug": "kettlebell-turkish-get-up-squat-style",
+      "name": "Agachamento com kettlebell, Levantamento turco estilo",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/kettlebell-turkish-get-up-squat-style.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-turkish-get-up-squat-style.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-turkish-get-up-squat-style.thumb.webp"
+    },
+    {
+      "id": "glutes/kneeling-jump-squat",
+      "slug": "kneeling-jump-squat",
+      "name": "Agachamento, ajoelhado, salto",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Ajoelhe-se com os quadris diretamente sobre os joelhos, tronco ereto.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire de forma explosiva no salto ou esforço. Inspire durante a fase de carga."
+      ],
+      "file": "glutes/kneeling-jump-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kneeling-jump-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kneeling-jump-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/lever-deadlift",
+      "slug": "lever-deadlift",
+      "name": "Levantamento terra na máquina",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Dobradiça no quadril, peito alto, e aperte as axilas para ativar os dorsais.",
+        "Empurre o chão com as pernas — quadris e ombros sobem juntos como um elevador. Arraste a barra pelas pernas como se as estivesse raspando.",
+        "Fique totalmente ereto no topo e aperte uma moeda entre os glúteos. Retorne fazendo dobradiça no quadril, deslizando a barra pelas coxas — ela nunca sai do corpo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/lever-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/lever-hip-extension-v-2",
+      "slug": "lever-hip-extension-v-2",
+      "name": "Extensão na máquina, quadril",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Trave os cotovelos na posição — são pontos fixos no espaço. Apenas os antebraços se movem como dobradiças.",
+        "Estenda completamente, apertando os tríceps com força ao travar. Faça uma pausa em extensão completa.",
+        "Retorne lentamente à posição inicial. Foque no alongamento embaixo e na contração no topo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/lever-hip-extension-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-hip-extension-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-hip-extension-v-2.thumb.webp"
+    },
+    {
+      "id": "glutes/lever-horizontal-one-leg-press",
+      "slug": "lever-horizontal-one-leg-press",
+      "name": "Press na máquina, unilateral, horizontal",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Ative o core e fixe as escápulas. Inicie o empurrão de uma base estável.",
+        "Empurre o peso afastando-o do corpo em uma trajetória controlada, estendendo completamente sem travar as articulações bruscamente.",
+        "Retorne o peso com controle, mantendo tensão em toda a amplitude de movimento.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/lever-horizontal-one-leg-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-horizontal-one-leg-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-horizontal-one-leg-press.thumb.webp"
+    },
+    {
+      "id": "glutes/lever-reverse-hyperextension",
+      "slug": "lever-reverse-hyperextension",
+      "name": "Hiperextensão inverso na máquina",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Posicione-se no banco de hiperextensão com os quadris na borda da almofada. Braços cruzados ou mãos atrás da cabeça.",
+        "Desça o tronco com controle, mantendo a coluna neutra. Desça até sentir um alongamento nos isquiotibiais.",
+        "Suba apertando glúteos e lombar até o corpo formar uma linha reta — não hiperextenda além do neutro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/lever-reverse-hyperextension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-reverse-hyperextension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-reverse-hyperextension.thumb.webp"
+    },
+    {
+      "id": "glutes/lever-seated-good-morning",
+      "slug": "lever-seated-good-morning",
+      "name": "Good Morning na máquina, sentado",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Com leve flexão dos joelhos, faça dobradiça no quadril empurrando o bumbum para trás — imagine fechar a porta de um carro com os glúteos.",
+        "Desça até sentir um alongamento profundo nos isquiotibiais, mantendo as costas retas. Uma vassoura na coluna deveria tocar cabeça, meio das costas e cóccix.",
+        "Empurre os quadris para frente para voltar a ficar em pé, apertando os glúteos com força no topo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/lever-seated-good-morning.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-seated-good-morning.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-seated-good-morning.thumb.webp"
+    },
+    {
+      "id": "glutes/low-glute-bridge-on-floor",
+      "slug": "low-glute-bridge-on-floor",
+      "name": "Ponte de glúteos, baixo, chão",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Costas superiores contra um banco (ou planas no chão para bridges). Pés apoiados, canelas verticais no topo. Queixo levemente recolhido.",
+        "Empurre pelos calcanhares e aperte os glúteos como se quebrasse uma noz. Levante até o corpo formar uma linha reta dos joelhos aos ombros — não mais.",
+        "Desça com controle, depois empurre novamente. Pense em fazer a fivela do cinto tocar o teto no topo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/low-glute-bridge-on-floor.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/low-glute-bridge-on-floor.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/low-glute-bridge-on-floor.thumb.webp"
+    },
+    {
+      "id": "glutes/lunge-with-jump",
+      "slug": "lunge-with-jump",
+      "name": "Avanço, salto",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Em pé com os pés na largura dos quadris (trilhos de trem, não corda bamba). Avance com o tronco ereto como um mastro.",
+        "Desça o joelho traseiro reto como um elevador — não avance para frente. Mire 90° em ambos os joelhos. Mantenha a canela da frente vertical.",
+        "Empurre pelo calcanhar da frente para retornar. Imagine empurrar o chão para baixo pelo pé da frente.",
+        "Respiração: expire de forma explosiva no salto ou esforço. Inspire durante a fase de carga."
+      ],
+      "file": "glutes/lunge-with-jump.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lunge-with-jump.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lunge-with-jump.thumb.webp"
+    },
+    {
+      "id": "glutes/march-sit-wall",
+      "slug": "march-sit-wall",
+      "name": "Marcha sentado parede",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Posicione-se contra a parede como indicado. Deslize para baixo até as coxas ficarem paralelas ao chão.",
+        "Segure a posição ou execute o movimento indicado mantendo as costas retas contra a parede.",
+        "Mantenha o peso nos calcanhares e o ângulo de 90° nos joelhos durante todo o exercício.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/march-sit-wall.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/march-sit-wall.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/march-sit-wall.thumb.webp"
+    },
+    {
+      "id": "glutes/monster-walk",
+      "slug": "monster-walk",
+      "name": "Monstro caminhada",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Adote uma postura ereta com leve inclinação para frente a partir dos tornozelos. Braços a 90° balançando naturalmente.",
+        "Impulsione os joelhos para frente e aterrisse no meio do pé, mantendo a cadência suave e constante.",
+        "Ative o core durante todo o exercício e mantenha o ritmo de respiração — inspire pelo nariz, expire pela boca.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/monster-walk.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/monster-walk.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/monster-walk.thumb.webp"
+    },
+    {
+      "id": "glutes/one-leg-squat",
+      "slug": "one-leg-squat",
+      "name": "Agachamento, unilateral",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/one-leg-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/one-leg-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/one-leg-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/outside-leg-kick-push-up",
+      "slug": "outside-leg-kick-push-up",
+      "name": "Flexão, externo perna chute",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Coloque as mãos um pouco mais largas que os ombros. Corpo em linha reta da cabeça aos calcanhares — parafuse as mãos no chão para criar tensão.",
+        "Desça o corpo flexionando os cotovelos a 45° até o peito quase tocar o chão. Puxe-se ativamente para baixo.",
+        "Empurre o chão para longe de você para retornar ao topo. Aperte o peito ao travar e mantenha o core tenso o tempo todo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/outside-leg-kick-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/outside-leg-kick-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/outside-leg-kick-push-up.thumb.webp"
+    },
+    {
+      "id": "glutes/pelvic-tilt-into-bridge",
+      "slug": "pelvic-tilt-into-bridge",
+      "name": "Pélvico inclinação ponte",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Costas superiores contra um banco (ou planas no chão para bridges). Pés apoiados, canelas verticais no topo. Queixo levemente recolhido.",
+        "Empurre pelos calcanhares e aperte os glúteos como se quebrasse uma noz. Levante até o corpo formar uma linha reta dos joelhos aos ombros — não mais.",
+        "Desça com controle, depois empurre novamente. Pense em fazer a fivela do cinto tocar o teto no topo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/pelvic-tilt-into-bridge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/pelvic-tilt-into-bridge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/pelvic-tilt-into-bridge.thumb.webp"
+    },
+    {
+      "id": "glutes/pike-to-cobra-push-up",
+      "slug": "pike-to-cobra-push-up",
+      "name": "Flexão, pike cobra",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "abs",
+        "traps"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Pendure-se em uma barra ou posicione-se com os braços apoiados. Comece com as pernas penduradas retas, core ativo.",
+        "Levante as pernas inclinando a pelve — pense em trazer a fivela do cinto ao queixo, não apenas levantar os pés.",
+        "Controle a descida lentamente sem balançar. Se balançar, flexione os joelhos para encurtar o braço de alavanca.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/pike-to-cobra-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/pike-to-cobra-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/pike-to-cobra-push-up.thumb.webp"
+    },
+    {
+      "id": "glutes/potty-squat-with-support",
+      "slug": "potty-squat-with-support",
+      "name": "Agachamento, potty apoio",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/potty-squat-with-support.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/potty-squat-with-support.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/potty-squat-with-support.thumb.webp"
+    },
+    {
+      "id": "glutes/push-up-inside-leg-kick",
+      "slug": "push-up-inside-leg-kick",
+      "name": "Flexão, interno perna chute",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Coloque as mãos um pouco mais largas que os ombros. Corpo em linha reta da cabeça aos calcanhares — parafuse as mãos no chão para criar tensão.",
+        "Desça o corpo flexionando os cotovelos a 45° até o peito quase tocar o chão. Puxe-se ativamente para baixo.",
+        "Empurre o chão para longe de você para retornar ao topo. Aperte o peito ao travar e mantenha o core tenso o tempo todo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/push-up-inside-leg-kick.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/push-up-inside-leg-kick.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/push-up-inside-leg-kick.thumb.webp"
+    },
+    {
+      "id": "glutes/rear-decline-bridge",
+      "slug": "rear-decline-bridge",
+      "name": "Ponte declinado, posterior",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Ajuste o banco em declínio e prenda os pés sob as almofadas.",
+        "Deite-se de costas com um pé apoiado no chão e a outra perna estendida ou elevada como indicado.",
+        "Empurre pelo calcanhar do pé de trabalho e aperte o glúteo para elevar os quadris até o corpo formar uma linha reta.",
+        "Desça com controle sem deixar os quadris caírem para um lado. O glúteo de trabalho deve queimar — esse é o objetivo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/rear-decline-bridge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/rear-decline-bridge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/rear-decline-bridge.thumb.webp"
+    },
+    {
+      "id": "glutes/resistance-band-hip-thrusts-on-knees-female",
+      "slug": "resistance-band-hip-thrusts-on-knees-female",
+      "name": "Quadril impulsos joelhos com faixa elástica",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "Fixe a faixa elástica no ponto de ancoragem correto e certifique-se de que há tensão inicial.",
+        "Costas superiores contra um banco (ou planas no chão para bridges). Pés apoiados, canelas verticais no topo. Queixo levemente recolhido.",
+        "Empurre pelos calcanhares e aperte os glúteos como se quebrasse uma noz. Levante até o corpo formar uma linha reta dos joelhos aos ombros — não mais.",
+        "Desça com controle, depois empurre novamente. Pense em fazer a fivela do cinto tocar o teto no topo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/resistance-band-hip-thrusts-on-knees-female.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/resistance-band-hip-thrusts-on-knees-female.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/resistance-band-hip-thrusts-on-knees-female.thumb.webp"
+    },
+    {
+      "id": "glutes/reverse-hyper-extension-on-stability-ball",
+      "slug": "reverse-hyper-extension-on-stability-ball",
+      "name": "Extensão inverso na bola suíça, hiper",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Trave os cotovelos na posição — são pontos fixos no espaço. Apenas os antebraços se movem como dobradiças.",
+        "Estenda completamente, apertando os tríceps com força ao travar. Faça uma pausa em extensão completa.",
+        "Retorne lentamente à posição inicial. Foque no alongamento embaixo e na contração no topo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/reverse-hyper-extension-on-stability-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/reverse-hyper-extension-on-stability-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/reverse-hyper-extension-on-stability-ball.thumb.webp"
+    },
+    {
+      "id": "glutes/reverse-hyper-on-flat-bench",
+      "slug": "reverse-hyper-on-flat-bench",
+      "name": "Hiper banco inverso, reto",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Posicione-se no banco de hiperextensão com os quadris na borda da almofada. Braços cruzados ou mãos atrás da cabeça.",
+        "Desça o tronco com controle, mantendo a coluna neutra. Desça até sentir um alongamento nos isquiotibiais.",
+        "Suba apertando glúteos e lombar até o corpo formar uma linha reta — não hiperextenda além do neutro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/reverse-hyper-on-flat-bench.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/reverse-hyper-on-flat-bench.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/reverse-hyper-on-flat-bench.thumb.webp"
+    },
+    {
+      "id": "glutes/rocking-frog-stretch",
+      "slug": "rocking-frog-stretch",
+      "name": "Alongamento, balanço sapo",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Entre na postura gradualmente, encontrando sua borda confortável. Não se force em uma posição mais profunda do que seu corpo permite.",
+        "Segure a posição respirando profunda e constantemente. A cada expiração, tente relaxar um pouco mais no alongamento.",
+        "Saia da postura lenta e conscientemente. Note a diferença em como seu corpo se sente antes e depois.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "glutes/rocking-frog-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/rocking-frog-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/rocking-frog-stretch.thumb.webp"
+    },
+    {
+      "id": "glutes/roller-hip-lat-stretch",
+      "slug": "roller-hip-lat-stretch",
+      "name": "Alongamento, rolo quadril dorsal",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Ajoelhe-se (ou em pé para avançados) com as mãos na roda. Comece com quadris sobre os joelhos e braços estendidos.",
+        "Role para frente estendendo pelos ombros enquanto mantém o core sólido como rocha. Não deixe os quadris caírem — ative com força.",
+        "Puxe-se de volta usando os abdominais — imagine puxar o umbigo em direção à coluna. Vá apenas até onde conseguir controlar.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "glutes/roller-hip-lat-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/roller-hip-lat-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/roller-hip-lat-stretch.thumb.webp"
+    },
+    {
+      "id": "glutes/roller-hip-stretch",
+      "slug": "roller-hip-stretch",
+      "name": "Alongamento, rolo quadril",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Ajoelhe-se (ou em pé para avançados) com as mãos na roda. Comece com quadris sobre os joelhos e braços estendidos.",
+        "Role para frente estendendo pelos ombros enquanto mantém o core sólido como rocha. Não deixe os quadris caírem — ative com força.",
+        "Puxe-se de volta usando os abdominais — imagine puxar o umbigo em direção à coluna. Vá apenas até onde conseguir controlar.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "glutes/roller-hip-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/roller-hip-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/roller-hip-stretch.thumb.webp"
+    },
+    {
+      "id": "glutes/seated-glute-stretch",
+      "slug": "seated-glute-stretch",
+      "name": "Alongamento, sentado, glúteo",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Vá para a posição de alongamento lentamente até sentir uma tensão suave na área alvo — não dor.",
+        "Segure de 20 a 40 segundos respirando profundamente. A cada expiração, tente afundar um pouco mais no alongamento.",
+        "Solte lentamente e repita se desejar. Consistência importa mais que intensidade — alongue regularmente para flexibilidade duradoura.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "glutes/seated-glute-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/seated-glute-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/seated-glute-stretch.thumb.webp"
+    },
+    {
+      "id": "glutes/seated-piriformis-stretch",
+      "slug": "seated-piriformis-stretch",
+      "name": "Alongamento, sentado, piriforme",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Vá para a posição de alongamento lentamente até sentir uma tensão suave na área alvo — não dor.",
+        "Segure de 20 a 40 segundos respirando profundamente. A cada expiração, tente afundar um pouco mais no alongamento.",
+        "Solte lentamente e repita se desejar. Consistência importa mais que intensidade — alongue regularmente para flexibilidade duradoura.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "glutes/seated-piriformis-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/seated-piriformis-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/seated-piriformis-stretch.thumb.webp"
+    },
+    {
+      "id": "glutes/single-leg-bridge-with-outstretched-leg",
+      "slug": "single-leg-bridge-with-outstretched-leg",
+      "name": "Ponte esticados perna, unilateral",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Deite-se de costas com um pé apoiado no chão e a outra perna estendida ou elevada como indicado.",
+        "Empurre pelo calcanhar do pé de trabalho e aperte o glúteo para elevar os quadris até o corpo formar uma linha reta.",
+        "Desça com controle sem deixar os quadris caírem para um lado. O glúteo de trabalho deve queimar — esse é o objetivo.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/single-leg-bridge-with-outstretched-leg.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/single-leg-bridge-with-outstretched-leg.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/single-leg-bridge-with-outstretched-leg.thumb.webp"
+    },
+    {
+      "id": "glutes/single-leg-squat-pistol-male",
+      "slug": "single-leg-squat-pistol-male",
+      "name": "Agachamento pistol, unilateral",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/single-leg-squat-pistol-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/single-leg-squat-pistol-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/single-leg-squat-pistol-male.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-45-degrees-one-leg-press",
+      "slug": "sled-45-degrees-one-leg-press",
+      "name": "Press no trenó, unilateral, graus",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Carregue o trenó com peso adequado e segure as alças com firmeza.",
+        "Ative o core e fixe as escápulas. Inicie o empurrão de uma base estável.",
+        "Empurre o peso afastando-o do corpo em uma trajetória controlada, estendendo completamente sem travar as articulações bruscamente.",
+        "Retorne o peso com controle, mantendo tensão em toda a amplitude de movimento.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/sled-45-degrees-one-leg-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-45-degrees-one-leg-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-45-degrees-one-leg-press.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-45-leg-press-back-pov",
+      "slug": "sled-45-leg-press-back-pov",
+      "name": "Leg press no trenó, costas",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Carregue o trenó com peso adequado e segure as alças com firmeza.",
+        "Ative o core e fixe as escápulas. Inicie o empurrão de uma base estável.",
+        "Empurre o peso afastando-o do corpo em uma trajetória controlada, estendendo completamente sem travar as articulações bruscamente.",
+        "Retorne o peso com controle, mantendo tensão em toda a amplitude de movimento.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/sled-45-leg-press-back-pov.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-45-leg-press-back-pov.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-45-leg-press-back-pov.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-45-leg-press-side-pov",
+      "slug": "sled-45-leg-press-side-pov",
+      "name": "Leg press no trenó, lateral",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Carregue o trenó com peso adequado e segure as alças com firmeza.",
+        "Ative o core e fixe as escápulas. Inicie o empurrão de uma base estável.",
+        "Empurre o peso afastando-o do corpo em uma trajetória controlada, estendendo completamente sem travar as articulações bruscamente.",
+        "Retorne o peso com controle, mantendo tensão em toda a amplitude de movimento.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/sled-45-leg-press-side-pov.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-45-leg-press-side-pov.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-45-leg-press-side-pov.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-45-leg-press",
+      "slug": "sled-45-leg-press",
+      "name": "Leg press no trenó",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Carregue o trenó com peso adequado e segure as alças com firmeza.",
+        "Ative o core e fixe as escápulas. Inicie o empurrão de uma base estável.",
+        "Empurre o peso afastando-o do corpo em uma trajetória controlada, estendendo completamente sem travar as articulações bruscamente.",
+        "Retorne o peso com controle, mantendo tensão em toda a amplitude de movimento.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/sled-45-leg-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-45-leg-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-45-leg-press.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-45-leg-wide-press",
+      "slug": "sled-45-leg-wide-press",
+      "name": "Press no trenó, aberto, perna",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Carregue o trenó com peso adequado e segure as alças com firmeza.",
+        "Ative o core e fixe as escápulas. Inicie o empurrão de uma base estável.",
+        "Empurre o peso afastando-o do corpo em uma trajetória controlada, estendendo completamente sem travar as articulações bruscamente.",
+        "Retorne o peso com controle, mantendo tensão em toda a amplitude de movimento.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/sled-45-leg-wide-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-45-leg-wide-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-45-leg-wide-press.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-closer-hack-squat",
+      "slug": "sled-closer-hack-squat",
+      "name": "Agachamento no trenó, próximo hack",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/sled-closer-hack-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-closer-hack-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-closer-hack-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-hack-squat",
+      "slug": "sled-hack-squat",
+      "name": "Agachamento no trenó, hack",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/sled-hack-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-hack-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-hack-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-lying-squat",
+      "slug": "sled-lying-squat",
+      "name": "Agachamento no trenó, deitado",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Carregue o trenó com peso adequado e segure as alças com firmeza.",
+        "Deite-se com as costas retas contra a superfície, core ativado.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/sled-lying-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-lying-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-lying-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-bent-knee-good-morning",
+      "slug": "smith-bent-knee-good-morning",
+      "name": "Good Morning no Smith, com joelho flexionado",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste a altura da barra no Smith e carregue o peso adequado. Posicione-se sob a barra.",
+        "Com leve flexão dos joelhos, faça dobradiça no quadril empurrando o bumbum para trás — imagine fechar a porta de um carro com os glúteos.",
+        "Desça até sentir um alongamento profundo nos isquiotibiais, mantendo as costas retas. Uma vassoura na coluna deveria tocar cabeça, meio das costas e cóccix.",
+        "Empurre os quadris para frente para voltar a ficar em pé, apertando os glúteos com força no topo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/smith-bent-knee-good-morning.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-bent-knee-good-morning.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-bent-knee-good-morning.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-deadlift",
+      "slug": "smith-deadlift",
+      "name": "Levantamento terra no Smith",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Ajuste a altura da barra no Smith e carregue o peso adequado. Posicione-se sob a barra.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Dobradiça no quadril, peito alto, e aperte as axilas para ativar os dorsais.",
+        "Empurre o chão com as pernas — quadris e ombros sobem juntos como um elevador. Arraste a barra pelas pernas como se as estivesse raspando.",
+        "Fique totalmente ereto no topo e aperte uma moeda entre os glúteos. Retorne fazendo dobradiça no quadril, deslizando a barra pelas coxas — ela nunca sai do corpo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/smith-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-front-squat-clean-grip",
+      "slug": "smith-front-squat-clean-grip",
+      "name": "Agachamento frontal no Smith, Clean pegada",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Ajuste a altura da barra no Smith e carregue o peso adequado. Posicione-se sob a barra.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/smith-front-squat-clean-grip.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-front-squat-clean-grip.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-front-squat-clean-grip.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-full-squat",
+      "slug": "smith-full-squat",
+      "name": "Agachamento no Smith, completo",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Ajuste a altura da barra no Smith e carregue o peso adequado. Posicione-se sob a barra.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/smith-full-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-full-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-full-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-hack-squat",
+      "slug": "smith-hack-squat",
+      "name": "Agachamento no Smith, hack",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Ajuste a altura da barra no Smith e carregue o peso adequado. Posicione-se sob a barra.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/smith-hack-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-hack-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-hack-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-leg-press",
+      "slug": "smith-leg-press",
+      "name": "Leg press no Smith",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste a altura da barra no Smith e carregue o peso adequado. Posicione-se sob a barra.",
+        "Ative o core e fixe as escápulas. Inicie o empurrão de uma base estável.",
+        "Empurre o peso afastando-o do corpo em uma trajetória controlada, estendendo completamente sem travar as articulações bruscamente.",
+        "Retorne o peso com controle, mantendo tensão em toda a amplitude de movimento.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/smith-leg-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-leg-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-leg-press.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-low-bar-squat",
+      "slug": "smith-low-bar-squat",
+      "name": "Agachamento no Smith, baixo, barra",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Ajuste a altura da barra no Smith e carregue o peso adequado. Posicione-se sob a barra.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/smith-low-bar-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-low-bar-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-low-bar-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-sprint-lunge",
+      "slug": "smith-sprint-lunge",
+      "name": "Avanço no Smith, sprint",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Ajuste a altura da barra no Smith e carregue o peso adequado. Posicione-se sob a barra.",
+        "Em pé com os pés na largura dos quadris (trilhos de trem, não corda bamba). Avance com o tronco ereto como um mastro.",
+        "Desça o joelho traseiro reto como um elevador — não avance para frente. Mire 90° em ambos os joelhos. Mantenha a canela da frente vertical.",
+        "Empurre pelo calcanhar da frente para retornar. Imagine empurrar o chão para baixo pelo pé da frente.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/smith-sprint-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-sprint-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-sprint-lunge.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-squat",
+      "slug": "smith-squat",
+      "name": "Agachamento no Smith",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Ajuste a altura da barra no Smith e carregue o peso adequado. Posicione-se sob a barra.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/smith-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-sumo-squat",
+      "slug": "smith-sumo-squat",
+      "name": "Agachamento sumo no Smith",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Ajuste a altura da barra no Smith e carregue o peso adequado. Posicione-se sob a barra.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/smith-sumo-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-sumo-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-sumo-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/spider-crawl-push-up",
+      "slug": "spider-crawl-push-up",
+      "name": "Flexão spider, rastejamento",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Deite-se de peito no banco inclinado com os braços pendurados retos para baixo. A gravidade trabalha contra você durante toda a repetição.",
+        "Curl o peso para cima, apertando os bíceps com força no topo. O ângulo do banco mantém tensão constante — sem descanso embaixo.",
+        "Desça com controle até a extensão completa. O ângulo torna a trapaça quase impossível — use menos peso e foque na forma.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/spider-crawl-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/spider-crawl-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/spider-crawl-push-up.thumb.webp"
+    },
+    {
+      "id": "glutes/swimmer-kicks-v-2-male",
+      "slug": "swimmer-kicks-v-2-male",
+      "name": "Nadador chutes",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Deite-se de barriga para cima com as pernas estendidas e mãos sob os glúteos ou nas laterais. Pressione a lombar contra o chão.",
+        "Levante ambas as pernas alguns centímetros do chão e alterne chutando para cima e para baixo em um movimento curto e rápido.",
+        "Mantenha o core ativo e a lombar colada ao chão. Se as costas arquearem, levante as pernas um pouco mais.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/swimmer-kicks-v-2-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/swimmer-kicks-v-2-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/swimmer-kicks-v-2-male.thumb.webp"
+    },
+    {
+      "id": "glutes/tire-flip",
+      "slug": "tire-flip",
+      "name": "Pneu virar",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Posicione-se atrás do trenó inclinado a 45°, mãos nas alças. Impulsione seu peso para frente.",
+        "Empurre levando os joelhos para cima e para frente, cravando os pés no chão a cada passo.",
+        "Mantenha o core ativo e potência constante. Passos curtos e rápidos geram mais força que passadas longas.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/tire-flip.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/tire-flip.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/tire-flip.thumb.webp"
+    },
+    {
+      "id": "glutes/trap-bar-deadlift",
+      "slug": "trap-bar-deadlift",
+      "name": "Levantamento terra com barra hexagonal",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Dobradiça no quadril, peito alto, e aperte as axilas para ativar os dorsais.",
+        "Empurre o chão com as pernas — quadris e ombros sobem juntos como um elevador. Arraste a barra pelas pernas como se as estivesse raspando.",
+        "Fique totalmente ereto no topo e aperte uma moeda entre os glúteos. Retorne fazendo dobradiça no quadril, deslizando a barra pelas coxas — ela nunca sai do corpo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/trap-bar-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/trap-bar-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/trap-bar-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/twist-hip-lift",
+      "slug": "twist-hip-lift",
+      "name": "Rotação quadril levantamento",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Costas superiores contra um banco (ou planas no chão para bridges). Pés apoiados, canelas verticais no topo. Queixo levemente recolhido.",
+        "Empurre pelos calcanhares e aperte os glúteos como se quebrasse uma noz. Levante até o corpo formar uma linha reta dos joelhos aos ombros — não mais.",
+        "Desça com controle, depois empurre novamente. Pense em fazer a fivela do cinto tocar o teto no topo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/twist-hip-lift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/twist-hip-lift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/twist-hip-lift.thumb.webp"
+    },
+    {
+      "id": "glutes/walking-lunge",
+      "slug": "walking-lunge",
+      "name": "Avanço caminhando",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Em pé com os pés na largura dos quadris (trilhos de trem, não corda bamba). Avance com o tronco ereto como um mastro.",
+        "Desça o joelho traseiro reto como um elevador — não avance para frente. Mire 90° em ambos os joelhos. Mantenha a canela da frente vertical.",
+        "Empurre pelo calcanhar da frente para retornar. Imagine empurrar o chão para baixo pelo pé da frente.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/walking-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/walking-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/walking-lunge.thumb.webp"
+    },
+    {
+      "id": "glutes/weighted-cossack-squats-male",
+      "slug": "weighted-cossack-squats-male",
+      "name": "Cossaco agachamentos, com carga",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/weighted-cossack-squats-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/weighted-cossack-squats-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/weighted-cossack-squats-male.thumb.webp"
+    },
+    {
+      "id": "glutes/weighted-lunge-with-swing",
+      "slug": "weighted-lunge-with-swing",
+      "name": "Avanço, com carga, balanço",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Em pé com os pés na largura dos quadris (trilhos de trem, não corda bamba). Avance com o tronco ereto como um mastro.",
+        "Desça o joelho traseiro reto como um elevador — não avance para frente. Mire 90° em ambos os joelhos. Mantenha a canela da frente vertical.",
+        "Empurre pelo calcanhar da frente para retornar. Imagine empurrar o chão para baixo pelo pé da frente.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/weighted-lunge-with-swing.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/weighted-lunge-with-swing.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/weighted-lunge-with-swing.thumb.webp"
+    },
+    {
+      "id": "glutes/weighted-squat",
+      "slug": "weighted-squat",
+      "name": "Agachamento, com carga",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Parafuse os pés no chão para criar tensão. Inspire profundamente no abdômen — infle um balão atrás da fivela do cinto.",
+        "Sente-se para trás como se houvesse uma cadeira atrás de você, empurrando o chão para os lados com os pés. Mantenha o peito apontando para o espelho à frente.",
+        "Empurre através de todo o pé e afaste o chão de você para ficar em pé. Termine ereto, como se alguém puxasse um fio do topo da cabeça.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "glutes/weighted-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/weighted-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/weighted-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/weighted-stretch-lunge",
+      "slug": "weighted-stretch-lunge",
+      "name": "Avanço, com carga, Alongamento",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Em pé com os pés na largura dos quadris (trilhos de trem, não corda bamba). Avance com o tronco ereto como um mastro.",
+        "Desça o joelho traseiro reto como um elevador — não avance para frente. Mire 90° em ambos os joelhos. Mantenha a canela da frente vertical.",
+        "Empurre pelo calcanhar da frente para retornar. Imagine empurrar o chão para baixo pelo pé da frente.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "glutes/weighted-stretch-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/weighted-stretch-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/weighted-stretch-lunge.thumb.webp"
+    }
+  ]
+}

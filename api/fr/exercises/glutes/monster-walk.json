@@ -1,0 +1,20 @@
+{
+  "id": "glutes/monster-walk",
+  "slug": "monster-walk",
+  "name": "Monstre marche",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+    "Adopte une posture droite avec une légère inclinaison vers l'avant depuis les chevilles. Bras à 90° balançant naturellement.",
+    "Pousse les genoux vers l'avant et atterris sur le milieu du pied, en gardant la cadence régulière.",
+    "Engage le core tout au long et maintiens ton rythme respiratoire — inspire par le nez, expire par la bouche.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "glutes/monster-walk.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/monster-walk.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/monster-walk.thumb.webp"
+}

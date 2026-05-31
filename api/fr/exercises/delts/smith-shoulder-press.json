@@ -1,0 +1,22 @@
+{
+  "id": "delts/smith-shoulder-press",
+  "slug": "smith-shoulder-press",
+  "name": "Développé épaules au Smith",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Règle la hauteur de la barre au Smith et charge le poids approprié. Place-toi sous la barre.",
+    "Empile tes poignets directement au-dessus des coudes comme une colonne solide. Contracte les fessiers et gaine le core comme si tu attendais un coup.",
+    "Pousse le poids droit vers le haut en déplaçant la tête. Une fois la barre passée devant ton visage, pousse la tête vers l'avant et verrouille complètement.",
+    "Descends avec contrôle à la position de départ sur les deltoïdes antérieurs. Garde le torse vertical — tu pousses vers le haut, pas un développé incliné debout.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "delts/smith-shoulder-press.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-shoulder-press.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-shoulder-press.thumb.webp"
+}

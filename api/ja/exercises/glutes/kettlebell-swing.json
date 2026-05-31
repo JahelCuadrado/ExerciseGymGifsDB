@@ -1,0 +1,26 @@
+{
+  "id": "glutes/kettlebell-swing",
+  "slug": "kettlebell-swing",
+  "name": "ケトルベルスイング",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "kettlebell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "spine",
+    "traps",
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+    "足を肩幅に開いて立ち、両手でケトルベルを持ちます。股関節でヒンジしてスイングを開始します。",
+    "股関節を爆発的に前に押し出します。力は腕ではなく腰から来ます。重りはその結果として浮き上がります。",
+    "ケトルベルが自然に落ちるに任せ、股関節でヒンジして吸収します。体幹を活性化し背中をまっすぐに保ちます。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "glutes/kettlebell-swing.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-swing.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-swing.thumb.webp"
+}

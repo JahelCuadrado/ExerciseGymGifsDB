@@ -1,0 +1,23 @@
+{
+  "id": "glutes/lever-reverse-hyperextension",
+  "slug": "lever-reverse-hyperextension",
+  "name": "Hyperextension inversé à la machine",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "spine"
+  ],
+  "instructions": [
+    "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+    "Positionne-toi sur le banc d'hyperextension avec les hanches au bord du coussin. Bras croisés ou mains derrière la tête.",
+    "Descends le torse avec contrôle en maintenant la colonne neutre. Descends jusqu'à sentir un étirement des ischio-jambiers.",
+    "Remonte en contractant fessiers et bas du dos jusqu'à ce que le corps forme une ligne droite — ne dépasse pas la position neutre.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "glutes/lever-reverse-hyperextension.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-reverse-hyperextension.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-reverse-hyperextension.thumb.webp"
+}

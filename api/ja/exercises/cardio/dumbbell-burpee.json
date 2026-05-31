@@ -1,0 +1,26 @@
+{
+  "id": "cardio/dumbbell-burpee",
+  "slug": "dumbbell-burpee",
+  "name": "ダンベル・バーピー",
+  "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "dumbbell",
+  "category": "cardio",
+  "secondaryMuscles": [
+    "pectorals",
+    "triceps",
+    "quads",
+    "glutes",
+    "abs"
+  ],
+  "instructions": [
+    "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+    "立った状態からしゃがんで手を前の床に置きます。",
+    "足を後ろにジャンプ（またはステップ）して腕立て伏せ姿勢にします。腕立て伏せをします（速度重視ならスキップ）。",
+    "足を手元にジャンプ（またはステップ）して戻し、手を頭上に上げてジャンプで爆発します。ソフトに着地して繰り返します。",
+    "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+  ],
+  "file": "cardio/dumbbell-burpee.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/dumbbell-burpee.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/dumbbell-burpee.thumb.webp"
+}

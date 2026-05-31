@@ -1,0 +1,23 @@
+{
+  "id": "traps/lever-gripless-shrug-v-2",
+  "slug": "lever-gripless-shrug-v-2",
+  "name": "Haussement d'épaules à la machine, sans prise",
+  "muscle": "traps",
+  "bodyPart": "back",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+    "Tiens le poids aux côtés, bras complètement tendus. Debout droit, épaules relâchées.",
+    "Hausse les épaules droit vers les oreilles — ne les roule pas. Contracte en haut pendant 2 secondes.",
+    "Redescends lentement. Garde les bras tendus — c'est tout trapèzes, pas de biceps.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "traps/lever-gripless-shrug-v-2.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-gripless-shrug-v-2.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-gripless-shrug-v-2.thumb.webp"
+}

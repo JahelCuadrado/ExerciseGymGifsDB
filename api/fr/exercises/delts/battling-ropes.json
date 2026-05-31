@@ -1,0 +1,24 @@
+{
+  "id": "delts/battling-ropes",
+  "slug": "battling-ropes",
+  "name": "Combat cordes",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "abs",
+    "forearms",
+    "traps"
+  ],
+  "instructions": [
+    "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+    "Debout pieds largeur d'épaules, genoux légèrement fléchis, core gainé. Saisis un bout dans chaque main.",
+    "Crée des vagues continues en alternant (ou frappant) les bras de haut en bas. La puissance vient de tout le corps, pas juste des bras.",
+    "Maintiens un rythme constant et le core serré. Ne laisse pas les cordes se relâcher — garde de la tension dans chaque mouvement.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "delts/battling-ropes.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/battling-ropes.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/battling-ropes.thumb.webp"
+}

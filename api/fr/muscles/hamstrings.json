@@ -1,0 +1,634 @@
+{
+  "muscle": "hamstrings",
+  "count": 28,
+  "exercises": [
+    {
+      "id": "hamstrings/assisted-prone-hamstring",
+      "slug": "assisted-prone-hamstring",
+      "name": "Ischio-jambier, à plat ventre, assisté",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Allonge-toi avec le dos à plat contre la surface, gainage engagé.",
+        "Active les ischio-jambiers avant d'initier le mouvement. Ressens la connexion esprit-muscle.",
+        "Effectue le mouvement avec un contrôle total, maîtrisant les phases concentrique et excentrique.",
+        "Reviens à la position de départ en contrôlant la descente — la phase excentrique construit autant de muscle que la montée.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/assisted-prone-hamstring.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/assisted-prone-hamstring.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/assisted-prone-hamstring.thumb.webp"
+    },
+    {
+      "id": "hamstrings/barbell-good-morning",
+      "slug": "barbell-good-morning",
+      "name": "Good Morning à la barre",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Avec une légère flexion des genoux, charnière aux hanches en poussant les fesses vers l'arrière — imagine fermer une porte de voiture avec tes fessiers.",
+        "Descends jusqu'à sentir un étirement profond des ischio-jambiers, en gardant le dos plat. Un manche à balai sur la colonne devrait toucher tête, milieu du dos et coccyx.",
+        "Pousse les hanches vers l'avant pour revenir debout, en contractant fortement les fessiers en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/barbell-good-morning.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/barbell-good-morning.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/barbell-good-morning.thumb.webp"
+    },
+    {
+      "id": "hamstrings/barbell-straight-leg-deadlift",
+      "slug": "barbell-straight-leg-deadlift",
+      "name": "Soulevé de terre à la barre, jambe tendue",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Place tes pieds largeur de hanches, barre au-dessus du milieu du pied. Charnière de hanches, poitrine haute, et serre les aisselles pour engager les dorsaux.",
+        "Repousse le sol avec les jambes — hanches et épaules montent ensemble comme un ascenseur. Fais glisser la barre le long des jambes comme si tu les rasais.",
+        "Redresse-toi complètement en haut et contracte les fessiers. Redescends en charnière de hanches, faisant glisser la barre le long des cuisses — elle ne quitte jamais le corps.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/barbell-straight-leg-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/barbell-straight-leg-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/barbell-straight-leg-deadlift.thumb.webp"
+    },
+    {
+      "id": "hamstrings/cable-assisted-inverse-leg-curl",
+      "slug": "cable-assisted-inverse-leg-curl",
+      "name": "Leg Curl à la poulie, assisté, inverse",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/cable-assisted-inverse-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/cable-assisted-inverse-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/cable-assisted-inverse-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/dumbbell-lying-femoral",
+      "slug": "dumbbell-lying-femoral",
+      "name": "Fémoral aux haltères, couché",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Allonge-toi avec le dos à plat contre la surface, gainage engagé.",
+        "Règle le coussin de la machine juste au-dessus des talons. Saisis les poignées et presse les hanches contre le support.",
+        "Fléchis les talons vers les fessiers en contractant fortement les ischio-jambiers au pic de contraction.",
+        "Redescends lentement — lutte contre la traction de la machine à chaque centimètre. Ne laisse pas tomber. Garde les hanches pressées pour éviter la compensation du bas du dos.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/dumbbell-lying-femoral.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/dumbbell-lying-femoral.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/dumbbell-lying-femoral.thumb.webp"
+    },
+    {
+      "id": "hamstrings/exercise-ball-seated-hamstring-stretch",
+      "slug": "exercise-ball-seated-hamstring-stretch",
+      "name": "Étirement sur Swiss ball, assis, ischio-jambier",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Va vers la position d'étirement lentement jusqu'à sentir une tension douce dans la zone cible — pas de douleur.",
+        "Tiens 20 à 40 secondes en respirant profondément. À chaque expiration, essaie de t'enfoncer un peu plus dans l'étirement.",
+        "Relâche lentement et répète si souhaité. La régularité compte plus que l'intensité — étire-toi régulièrement pour une souplesse durable.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "hamstrings/exercise-ball-seated-hamstring-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/exercise-ball-seated-hamstring-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/exercise-ball-seated-hamstring-stretch.thumb.webp"
+    },
+    {
+      "id": "hamstrings/glute-ham-raise",
+      "slug": "glute-ham-raise",
+      "name": "Élévation, fessier ischio",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Règle le coussin de la machine juste au-dessus des talons. Saisis les poignées et presse les hanches contre le support.",
+        "Fléchis les talons vers les fessiers en contractant fortement les ischio-jambiers au pic de contraction.",
+        "Redescends lentement — lutte contre la traction de la machine à chaque centimètre. Ne laisse pas tomber. Garde les hanches pressées pour éviter la compensation du bas du dos.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/glute-ham-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/glute-ham-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/glute-ham-raise.thumb.webp"
+    },
+    {
+      "id": "hamstrings/hamstring-stretch",
+      "slug": "hamstring-stretch",
+      "name": "Étirement, ischio-jambier",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Va vers la position d'étirement lentement jusqu'à sentir une tension douce dans la zone cible — pas de douleur.",
+        "Tiens 20 à 40 secondes en respirant profondément. À chaque expiration, essaie de t'enfoncer un peu plus dans l'étirement.",
+        "Relâche lentement et répète si souhaité. La régularité compte plus que l'intensité — étire-toi régulièrement pour une souplesse durable.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "hamstrings/hamstring-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/hamstring-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/hamstring-stretch.thumb.webp"
+    },
+    {
+      "id": "hamstrings/inverse-leg-curl-bench-support",
+      "slug": "inverse-leg-curl-bench-support",
+      "name": "Leg Curl, inverse banc appui",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/inverse-leg-curl-bench-support.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/inverse-leg-curl-bench-support.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/inverse-leg-curl-bench-support.thumb.webp"
+    },
+    {
+      "id": "hamstrings/inverse-leg-curl-on-pull-up-cable-machine",
+      "slug": "inverse-leg-curl-on-pull-up-cable-machine",
+      "name": "Traction à la poulie à la machine, inverse Leg Curl",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Suspends-toi à la barre, bras complètement tendus. Fixe tes épaules en tirant les omoplates vers le bas et l'arrière — range-les dans tes poches arrière.",
+        "Tire en poussant tes coudes vers les poches arrière, en menant avec la poitrine, pas le menton. Imagine plier la barre autour de tes clavicules.",
+        "Passe le menton au-dessus de la barre et contracte en haut. Redescends avec contrôle total jusqu'à être complètement suspendu — mérite chaque rep depuis un étirement complet.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/inverse-leg-curl-on-pull-up-cable-machine.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/inverse-leg-curl-on-pull-up-cable-machine.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/inverse-leg-curl-on-pull-up-cable-machine.thumb.webp"
+    },
+    {
+      "id": "hamstrings/kettlebell-hang-clean",
+      "slug": "kettlebell-hang-clean",
+      "name": "Hang Clean au kettlebell",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Choisis le bon poids de kettlebell. Saisis la poignée fermement avec le poignet neutre.",
+        "Pieds largeur de hanches, poids au-dessus du milieu du pied. Descends les hanches, poitrine haute, bras tendus — enlève le mou de le kettlebell.",
+        "Pousse explosivement le sol, étends hanches et genoux. Quand le kettlebell passe les genoux, accélère avec une extension violente des hanches et un haussement.",
+        "Réceptionne le kettlebell aux épaules (clean) ou au-dessus de la tête (snatch) en descendant rapidement sous le kettlebell. Absorbe avec des genoux souples, puis lève-toi.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/kettlebell-hang-clean.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/kettlebell-hang-clean.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/kettlebell-hang-clean.thumb.webp"
+    },
+    {
+      "id": "hamstrings/kick-out-sit",
+      "slug": "kick-out-sit",
+      "name": "Coup de pied dehors assis",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Active les ischio-jambiers avant d'initier le mouvement. Ressens la connexion esprit-muscle.",
+        "Effectue le mouvement avec un contrôle total, maîtrisant les phases concentrique et excentrique.",
+        "Reviens à la position de départ en contrôlant la descente — la phase excentrique construit autant de muscle que la montée.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/kick-out-sit.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/kick-out-sit.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/kick-out-sit.thumb.webp"
+    },
+    {
+      "id": "hamstrings/leg-up-hamstring-stretch",
+      "slug": "leg-up-hamstring-stretch",
+      "name": "Étirement, jambe vers le haut ischio-jambier",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Va vers la position d'étirement lentement jusqu'à sentir une tension douce dans la zone cible — pas de douleur.",
+        "Tiens 20 à 40 secondes en respirant profondément. À chaque expiration, essaie de t'enfoncer un peu plus dans l'étirement.",
+        "Relâche lentement et répète si souhaité. La régularité compte plus que l'intensité — étire-toi régulièrement pour une souplesse durable.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "hamstrings/leg-up-hamstring-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/leg-up-hamstring-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/leg-up-hamstring-stretch.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-kneeling-leg-curl",
+      "slug": "lever-kneeling-leg-curl",
+      "name": "Leg Curl à la machine, à genoux",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "À genoux, hanches empilées au-dessus des genoux, torse droit.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/lever-kneeling-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-kneeling-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-kneeling-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-lying-leg-curl",
+      "slug": "lever-lying-leg-curl",
+      "name": "Leg Curl à la machine, couché",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Allonge-toi avec le dos à plat contre la surface, gainage engagé.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/lever-lying-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-lying-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-lying-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-lying-two-one-leg-curl",
+      "slug": "lever-lying-two-one-leg-curl",
+      "name": "Curl à la machine, couché, une jambe, deux",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Allonge-toi avec le dos à plat contre la surface, gainage engagé.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/lever-lying-two-one-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-lying-two-one-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-lying-two-one-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-seated-leg-curl",
+      "slug": "lever-seated-leg-curl",
+      "name": "Leg Curl à la machine, assis",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/lever-seated-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-seated-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-seated-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/power-clean",
+      "slug": "power-clean",
+      "name": "Power Clean",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Pieds largeur de hanches, barre au-dessus du milieu du pied. Descends les hanches, poitrine haute, bras tendus — enlève le mou de la barre.",
+        "Pousse explosivement le sol, étends hanches et genoux. Quand la barre passe les genoux, accélère avec une extension violente des hanches et un haussement.",
+        "Réceptionne la barre aux épaules (clean) ou au-dessus de la tête (snatch) en descendant rapidement sous la barre. Absorbe avec des genoux souples, puis lève-toi.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/power-clean.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/power-clean.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/power-clean.thumb.webp"
+    },
+    {
+      "id": "hamstrings/reclining-big-toe-pose-with-rope",
+      "slug": "reclining-big-toe-pose-with-rope",
+      "name": "Incliné grand orteils pose, à la corde",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Entre dans la pose progressivement, en trouvant ta limite confortable. Ne te force pas dans une position plus profonde que ton corps ne le permet.",
+        "Tiens la position en respirant profondément et régulièrement. À chaque expiration, essaie de te relâcher un peu plus dans l'étirement.",
+        "Sors de la pose lentement et en pleine conscience. Note la différence de ressenti de ton corps avant et après.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/reclining-big-toe-pose-with-rope.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/reclining-big-toe-pose-with-rope.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/reclining-big-toe-pose-with-rope.thumb.webp"
+    },
+    {
+      "id": "hamstrings/runners-stretch",
+      "slug": "runners-stretch",
+      "name": "Étirement, coureur",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Va vers la position d'étirement lentement jusqu'à sentir une tension douce dans la zone cible — pas de douleur.",
+        "Tiens 20 à 40 secondes en respirant profondément. À chaque expiration, essaie de t'enfoncer un peu plus dans l'étirement.",
+        "Relâche lentement et répète si souhaité. La régularité compte plus que l'intensité — étire-toi régulièrement pour une souplesse durable.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "hamstrings/runners-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/runners-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/runners-stretch.thumb.webp"
+    },
+    {
+      "id": "hamstrings/seated-wide-angle-pose-sequence",
+      "slug": "seated-wide-angle-pose-sequence",
+      "name": "Angle pose séquence, assis, large",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Entre dans la pose progressivement, en trouvant ta limite confortable. Ne te force pas dans une position plus profonde que ton corps ne le permet.",
+        "Tiens la position en respirant profondément et régulièrement. À chaque expiration, essaie de te relâcher un peu plus dans l'étirement.",
+        "Sors de la pose lentement et en pleine conscience. Note la différence de ressenti de ton corps avant et après.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/seated-wide-angle-pose-sequence.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/seated-wide-angle-pose-sequence.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/seated-wide-angle-pose-sequence.thumb.webp"
+    },
+    {
+      "id": "hamstrings/self-assisted-inverse-leg-curl-1766",
+      "slug": "self-assisted-inverse-leg-curl-1766",
+      "name": "Leg Curl, assisté, inverse",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/self-assisted-inverse-leg-curl-1766.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/self-assisted-inverse-leg-curl-1766.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/self-assisted-inverse-leg-curl-1766.thumb.webp"
+    },
+    {
+      "id": "hamstrings/self-assisted-inverse-leg-curl-on-floor",
+      "slug": "self-assisted-inverse-leg-curl-on-floor",
+      "name": "Leg Curl, assisté, inverse sol",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/self-assisted-inverse-leg-curl-on-floor.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/self-assisted-inverse-leg-curl-on-floor.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/self-assisted-inverse-leg-curl-on-floor.thumb.webp"
+    },
+    {
+      "id": "hamstrings/self-assisted-inverse-leg-curl",
+      "slug": "self-assisted-inverse-leg-curl",
+      "name": "Leg Curl, assisté, inverse",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/self-assisted-inverse-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/self-assisted-inverse-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/self-assisted-inverse-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/single-leg-platform-slide",
+      "slug": "single-leg-platform-slide",
+      "name": "Plateforme glisser, une jambe",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Active l'ischio-jambier avant d'initier le mouvement. Ressens la connexion esprit-muscle.",
+        "Effectue le mouvement avec un contrôle total, maîtrisant les phases concentrique et excentrique.",
+        "Reviens à la position de départ en contrôlant la descente — la phase excentrique construit autant de muscle que la montée.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/single-leg-platform-slide.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/single-leg-platform-slide.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/single-leg-platform-slide.thumb.webp"
+    },
+    {
+      "id": "hamstrings/standing-hamstring-and-calf-stretch-with-strap",
+      "slug": "standing-hamstring-and-calf-stretch-with-strap",
+      "name": "Étirement, debout, ischio-jambier mollet sangle",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Va vers la position d'étirement lentement jusqu'à sentir une tension douce dans la zone cible — pas de douleur.",
+        "Tiens 20 à 40 secondes en respirant profondément. À chaque expiration, essaie de t'enfoncer un peu plus dans l'étirement.",
+        "Relâche lentement et répète si souhaité. La régularité compte plus que l'intensité — étire-toi régulièrement pour une souplesse durable.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "hamstrings/standing-hamstring-and-calf-stretch-with-strap.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/standing-hamstring-and-calf-stretch-with-strap.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/standing-hamstring-and-calf-stretch-with-strap.thumb.webp"
+    },
+    {
+      "id": "hamstrings/standing-single-leg-curl",
+      "slug": "standing-single-leg-curl",
+      "name": "Curl, debout, une jambe",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Prépare ton matériel et adopte une position de départ stable avec une bonne posture.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/standing-single-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/standing-single-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/standing-single-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/world-greatest-stretch",
+      "slug": "world-greatest-stretch",
+      "name": "Étirement, monde plus grand",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Va vers la position d'étirement lentement jusqu'à sentir une tension douce dans la zone cible — pas de douleur.",
+        "Tiens 20 à 40 secondes en respirant profondément. À chaque expiration, essaie de t'enfoncer un peu plus dans l'étirement.",
+        "Relâche lentement et répète si souhaité. La régularité compte plus que l'intensité — étire-toi régulièrement pour une souplesse durable.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "hamstrings/world-greatest-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/world-greatest-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/world-greatest-stretch.thumb.webp"
+    }
+  ]
+}

@@ -1,0 +1,983 @@
+{
+  "equipment": "kettlebell",
+  "count": 41,
+  "exercises": [
+    {
+      "id": "abs/kettlebell-advanced-windmill",
+      "slug": "kettlebell-advanced-windmill",
+      "name": "ケトルベル・ウィンドミル・アドバンスド",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "重りを頭上に押し上げ、腕をロックします。足を荷重側から約45°外に向けます。",
+        "股関節でヒンジし、頭上の重りから目を離さずに前脚に沿って空いた手を滑らせます。",
+        "腰を前に押して立ち上がります。上の腕は動作中ずっとロックされ垂直を保ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "abs/kettlebell-advanced-windmill.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-advanced-windmill.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-advanced-windmill.thumb.webp"
+    },
+    {
+      "id": "abs/kettlebell-bent-press",
+      "slug": "kettlebell-bent-press",
+      "name": "ケトルベル・プレス・ベント",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "abs/kettlebell-bent-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-bent-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-bent-press.thumb.webp"
+    },
+    {
+      "id": "abs/kettlebell-double-windmill",
+      "slug": "kettlebell-double-windmill",
+      "name": "ケトルベル・ウィンドミル・ダブル",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "重りを頭上に押し上げ、腕をロックします。足を荷重側から約45°外に向けます。",
+        "股関節でヒンジし、頭上の重りから目を離さずに前脚に沿って空いた手を滑らせます。",
+        "腰を前に押して立ち上がります。上の腕は動作中ずっとロックされ垂直を保ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "abs/kettlebell-double-windmill.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-double-windmill.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-double-windmill.thumb.webp"
+    },
+    {
+      "id": "abs/kettlebell-figure-8",
+      "slug": "kettlebell-figure-8",
+      "name": "ケトルベル・フィギュア",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "足を肩幅より広く開き、片手に重りを持って立ちます。膝を軽く曲げたアスレチック姿勢。",
+        "指示されたパターンで脚の周りまたは間を通して重りを渡し、流れるような動きで手から手へ移します。",
+        "体幹を活性化し、目は前方を見ます。重りを見下ろさないでください。動きはスムーズでリズミカルであるべきです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "abs/kettlebell-figure-8.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-figure-8.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-figure-8.thumb.webp"
+    },
+    {
+      "id": "abs/kettlebell-windmill",
+      "slug": "kettlebell-windmill",
+      "name": "ケトルベル・ウィンドミル",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "重りを頭上に押し上げ、腕をロックします。足を荷重側から約45°外に向けます。",
+        "股関節でヒンジし、頭上の重りから目を離さずに前脚に沿って空いた手を滑らせます。",
+        "腰を前に押して立ち上がります。上の腕は動作中ずっとロックされ垂直を保ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "abs/kettlebell-windmill.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-windmill.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-windmill.thumb.webp"
+    },
+    {
+      "id": "biceps/kettlebell-bottoms-up-clean-from-the-hang-position",
+      "slug": "kettlebell-bottoms-up-clean-from-the-hang-position",
+      "name": "ケトルベル・クリーン・ボトム・アップ・ハング・ポジション",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "仰向けに寝て膝を曲げ、足は固定（またはV-upなら自由）。腕は指示された位置に。",
+        "体幹を使って完全に起き上がります。顎ではなく胸でリードします。V-upでは脚と上体を同時に上げます。",
+        "コントロールして下ろします。勢いで上がらないでください。必要なら動作を簡単にします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/kettlebell-bottoms-up-clean-from-the-hang-position.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/kettlebell-bottoms-up-clean-from-the-hang-position.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/kettlebell-bottoms-up-clean-from-the-hang-position.thumb.webp"
+    },
+    {
+      "id": "biceps/kettlebell-double-alternating-hang-clean",
+      "slug": "kettlebell-double-alternating-hang-clean",
+      "name": "ケトルベル・オルタネイト・ハングクリーン・ダブル",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "足は腰幅、バーは足の中央上。腰を落とし、胸を張り、腕はまっすぐ。バーのたるみを取ります。",
+        "爆発的に床を押し、腰と膝を伸ばします。バーが膝を通過したら、激しい股関節伸展とシュラッグで加速します。",
+        "肩（クリーン）または頭上（スナッチ）でバーを受け、素早くバーの下に潜ります。柔らかい膝で吸収し、立ち上がります。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/kettlebell-double-alternating-hang-clean.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/kettlebell-double-alternating-hang-clean.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/kettlebell-double-alternating-hang-clean.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-alternating-press",
+      "slug": "kettlebell-alternating-press",
+      "name": "ケトルベル・オルタネイト・プレス",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "delts/kettlebell-alternating-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-alternating-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-alternating-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-arnold-press",
+      "slug": "kettlebell-arnold-press",
+      "name": "ケトルベル・アーノルドプレス",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "手首を肘の真上に積み上げ、固い柱のようにします。臀筋を締め、腹筋をパンチを受けるように引き締めます。",
+        "重りを真上に押し上げ、頭を邪魔にならないように移動させます。バーが顔を通過したら、頭を前に出して完全にロックアウトします。",
+        "前部三角筋の上にコントロールしながら戻します。体幹を垂直に保ちましょう。立ったままのインクラインベンチではありません。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "delts/kettlebell-arnold-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-arnold-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-arnold-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-double-jerk",
+      "slug": "kettlebell-double-jerk",
+      "name": "ケトルベル・ダブル・ジャーク",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "手首を肘の真上に積み上げ、固い柱のようにします。臀筋を締め、腹筋をパンチを受けるように引き締めます。",
+        "重りを真上に押し上げ、頭を邪魔にならないように移動させます。バーが顔を通過したら、頭を前に出して完全にロックアウトします。",
+        "前部三角筋の上にコントロールしながら戻します。体幹を垂直に保ちましょう。立ったままのインクラインベンチではありません。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "delts/kettlebell-double-jerk.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-double-jerk.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-double-jerk.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-double-push-press",
+      "slug": "kettlebell-double-push-press",
+      "name": "ケトルベル・プッシュプレス・ダブル",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "手首を肘の真上に積み上げ、固い柱のようにします。臀筋を締め、腹筋をパンチを受けるように引き締めます。",
+        "重りを真上に押し上げ、頭を邪魔にならないように移動させます。バーが顔を通過したら、頭を前に出して完全にロックアウトします。",
+        "前部三角筋の上にコントロールしながら戻します。体幹を垂直に保ちましょう。立ったままのインクラインベンチではありません。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "delts/kettlebell-double-push-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-double-push-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-double-push-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-double-snatch",
+      "slug": "kettlebell-double-snatch",
+      "name": "ケトルベル・スナッチ・ダブル",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "足は腰幅、バーは足の中央上。腰を落とし、胸を張り、腕はまっすぐ。バーのたるみを取ります。",
+        "爆発的に床を押し、腰と膝を伸ばします。バーが膝を通過したら、激しい股関節伸展とシュラッグで加速します。",
+        "肩（クリーン）または頭上（スナッチ）でバーを受け、素早くバーの下に潜ります。柔らかい膝で吸収し、立ち上がります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "delts/kettlebell-double-snatch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-double-snatch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-double-snatch.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-clean-and-jerk",
+      "slug": "kettlebell-one-arm-clean-and-jerk",
+      "name": "ケトルベル・ワンアーム・クリーン・ジャーク",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "手首を肘の真上に積み上げ、固い柱のようにします。臀筋を締め、腹筋をパンチを受けるように引き締めます。",
+        "重りを真上に押し上げ、頭を邪魔にならないように移動させます。バーが顔を通過したら、頭を前に出して完全にロックアウトします。",
+        "前部三角筋の上にコントロールしながら戻します。体幹を垂直に保ちましょう。立ったままのインクラインベンチではありません。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "delts/kettlebell-one-arm-clean-and-jerk.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-clean-and-jerk.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-clean-and-jerk.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-jerk",
+      "slug": "kettlebell-one-arm-jerk",
+      "name": "ケトルベル・ワンアーム・ジャーク",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "手首を肘の真上に積み上げ、固い柱のようにします。臀筋を締め、腹筋をパンチを受けるように引き締めます。",
+        "重りを真上に押し上げ、頭を邪魔にならないように移動させます。バーが顔を通過したら、頭を前に出して完全にロックアウトします。",
+        "前部三角筋の上にコントロールしながら戻します。体幹を垂直に保ちましょう。立ったままのインクラインベンチではありません。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "delts/kettlebell-one-arm-jerk.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-jerk.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-jerk.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-military-press-to-the-side",
+      "slug": "kettlebell-one-arm-military-press-to-the-side",
+      "name": "ケトルベル・サイド・ワンアーム・ミリタリープレス",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "手首を肘の真上に積み上げ、固い柱のようにします。臀筋を締め、腹筋をパンチを受けるように引き締めます。",
+        "重りを真上に押し上げ、頭を邪魔にならないように移動させます。バーが顔を通過したら、頭を前に出して完全にロックアウトします。",
+        "前部三角筋の上にコントロールしながら戻します。体幹を垂直に保ちましょう。立ったままのインクラインベンチではありません。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "delts/kettlebell-one-arm-military-press-to-the-side.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-military-press-to-the-side.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-military-press-to-the-side.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-push-press",
+      "slug": "kettlebell-one-arm-push-press",
+      "name": "ケトルベル・ワンアーム・プッシュプレス",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "手首を肘の真上に積み上げ、固い柱のようにします。臀筋を締め、腹筋をパンチを受けるように引き締めます。",
+        "重りを真上に押し上げ、頭を邪魔にならないように移動させます。バーが顔を通過したら、頭を前に出して完全にロックアウトします。",
+        "前部三角筋の上にコントロールしながら戻します。体幹を垂直に保ちましょう。立ったままのインクラインベンチではありません。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "delts/kettlebell-one-arm-push-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-push-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-push-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-snatch",
+      "slug": "kettlebell-one-arm-snatch",
+      "name": "ケトルベル・ワンアーム・スナッチ",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "足は腰幅、バーは足の中央上。腰を落とし、胸を張り、腕はまっすぐ。バーのたるみを取ります。",
+        "爆発的に床を押し、腰と膝を伸ばします。バーが膝を通過したら、激しい股関節伸展とシュラッグで加速します。",
+        "肩（クリーン）または頭上（スナッチ）でバーを受け、素早くバーの下に潜ります。柔らかい膝で吸収し、立ち上がります。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "delts/kettlebell-one-arm-snatch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-snatch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-snatch.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-pirate-supper-legs",
+      "slug": "kettlebell-pirate-supper-legs",
+      "name": "ケトルベル・レッグパス",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "足を肩幅より広く開き、片手に重りを持って立ちます。膝を軽く曲げたアスレチック姿勢。",
+        "指示されたパターンで脚の周りまたは間を通して重りを渡し、流れるような動きで手から手へ移します。",
+        "体幹を活性化し、目は前方を見ます。重りを見下ろさないでください。動きはスムーズでリズミカルであるべきです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "delts/kettlebell-pirate-supper-legs.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-pirate-supper-legs.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-pirate-supper-legs.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-seated-press",
+      "slug": "kettlebell-seated-press",
+      "name": "ケトルベル・シーテッド・プレス",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "delts/kettlebell-seated-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-seated-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-seated-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-seated-two-arm-military-press",
+      "slug": "kettlebell-seated-two-arm-military-press",
+      "name": "ケトルベル・シーテッド・ツーアーム・ミリタリープレス",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "手首を肘の真上に積み上げ、固い柱のようにします。臀筋を締め、腹筋をパンチを受けるように引き締めます。",
+        "重りを真上に押し上げ、頭を邪魔にならないように移動させます。バーが顔を通過したら、頭を前に出して完全にロックアウトします。",
+        "前部三角筋の上にコントロールしながら戻します。体幹を垂直に保ちましょう。立ったままのインクラインベンチではありません。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "delts/kettlebell-seated-two-arm-military-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-seated-two-arm-military-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-seated-two-arm-military-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-seesaw-press",
+      "slug": "kettlebell-seesaw-press",
+      "name": "ケトルベル・プレス・シーソー",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "手首を肘の真上に積み上げ、固い柱のようにします。臀筋を締め、腹筋をパンチを受けるように引き締めます。",
+        "重りを真上に押し上げ、頭を邪魔にならないように移動させます。バーが顔を通過したら、頭を前に出して完全にロックアウトします。",
+        "前部三角筋の上にコントロールしながら戻します。体幹を垂直に保ちましょう。立ったままのインクラインベンチではありません。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "delts/kettlebell-seesaw-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-seesaw-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-seesaw-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-thruster",
+      "slug": "kettlebell-thruster",
+      "name": "ケトルベル・スラスター",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "quads",
+        "triceps",
+        "abs"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "手首を肘の真上に積み上げ、固い柱のようにします。臀筋を締め、腹筋をパンチを受けるように引き締めます。",
+        "重りを真上に押し上げ、頭を邪魔にならないように移動させます。バーが顔を通過したら、頭を前に出して完全にロックアウトします。",
+        "前部三角筋の上にコントロールしながら戻します。体幹を垂直に保ちましょう。立ったままのインクラインベンチではありません。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "delts/kettlebell-thruster.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-thruster.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-thruster.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-two-arm-clean",
+      "slug": "kettlebell-two-arm-clean",
+      "name": "ケトルベル・ツーアーム・クリーン",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "足は腰幅、バーは足の中央上。腰を落とし、胸を張り、腕はまっすぐ。バーのたるみを取ります。",
+        "爆発的に床を押し、腰と膝を伸ばします。バーが膝を通過したら、激しい股関節伸展とシュラッグで加速します。",
+        "肩（クリーン）または頭上（スナッチ）でバーを受け、素早くバーの下に潜ります。柔らかい膝で吸収し、立ち上がります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "delts/kettlebell-two-arm-clean.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-two-arm-clean.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-two-arm-clean.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-two-arm-military-press",
+      "slug": "kettlebell-two-arm-military-press",
+      "name": "ケトルベル・ツーアーム・ミリタリープレス",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "手首を肘の真上に積み上げ、固い柱のようにします。臀筋を締め、腹筋をパンチを受けるように引き締めます。",
+        "重りを真上に押し上げ、頭を邪魔にならないように移動させます。バーが顔を通過したら、頭を前に出して完全にロックアウトします。",
+        "前部三角筋の上にコントロールしながら戻します。体幹を垂直に保ちましょう。立ったままのインクラインベンチではありません。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "delts/kettlebell-two-arm-military-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-two-arm-military-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-two-arm-military-press.thumb.webp"
+    },
+    {
+      "id": "forearms/kettlebell-alternating-hang-clean",
+      "slug": "kettlebell-alternating-hang-clean",
+      "name": "ケトルベル・オルタネイト・ハングクリーン",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "足は腰幅、バーは足の中央上。腰を落とし、胸を張り、腕はまっすぐ。バーのたるみを取ります。",
+        "爆発的に床を押し、腰と膝を伸ばします。バーが膝を通過したら、激しい股関節伸展とシュラッグで加速します。",
+        "肩（クリーン）または頭上（スナッチ）でバーを受け、素早くバーの下に潜ります。柔らかい膝で吸収し、立ち上がります。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "forearms/kettlebell-alternating-hang-clean.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/kettlebell-alternating-hang-clean.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/kettlebell-alternating-hang-clean.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-front-squat",
+      "slug": "kettlebell-front-squat",
+      "name": "ケトルベル・フロントスクワット",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "glutes/kettlebell-front-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-front-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-front-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-goblet-squat",
+      "slug": "kettlebell-goblet-squat",
+      "name": "ケトルベル・ゴブレットスクワット",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "glutes/kettlebell-goblet-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-goblet-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-goblet-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-lunge-pass-through",
+      "slug": "kettlebell-lunge-pass-through",
+      "name": "ケトルベル・ランジ・パス・スルー",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "足を腰幅に開いて立ちます（線路の上、綱渡りではなく）。体幹を柱のようにまっすぐにして踏み出します。",
+        "後ろの膝をエレベーターのようにまっすぐ下ろします。前に出さないでください。両膝90°を目指します。前脚のすねを垂直に保ちます。",
+        "前足のかかとで押して戻ります。前足で床を下に押すイメージです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "glutes/kettlebell-lunge-pass-through.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-lunge-pass-through.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-lunge-pass-through.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-pistol-squat",
+      "slug": "kettlebell-pistol-squat",
+      "name": "ケトルベル・ピストル・スクワット",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "glutes/kettlebell-pistol-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-pistol-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-pistol-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-swing",
+      "slug": "kettlebell-swing",
+      "name": "ケトルベルスイング",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "足を肩幅に開いて立ち、両手でケトルベルを持ちます。股関節でヒンジしてスイングを開始します。",
+        "股関節を爆発的に前に押し出します。力は腕ではなく腰から来ます。重りはその結果として浮き上がります。",
+        "ケトルベルが自然に落ちるに任せ、股関節でヒンジして吸収します。体幹を活性化し背中をまっすぐに保ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "glutes/kettlebell-swing.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-swing.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-swing.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-turkish-get-up-squat-style",
+      "slug": "kettlebell-turkish-get-up-squat-style",
+      "name": "ケトルベル・スクワット・ターキッシュゲットアップ・スタイル",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "glutes/kettlebell-turkish-get-up-squat-style.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-turkish-get-up-squat-style.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-turkish-get-up-squat-style.thumb.webp"
+    },
+    {
+      "id": "hamstrings/kettlebell-hang-clean",
+      "slug": "kettlebell-hang-clean",
+      "name": "ケトルベル・ハングクリーン",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "足は腰幅、バーは足の中央上。腰を落とし、胸を張り、腕はまっすぐ。バーのたるみを取ります。",
+        "爆発的に床を押し、腰と膝を伸ばします。バーが膝を通過したら、激しい股関節伸展とシュラッグで加速します。",
+        "肩（クリーン）または頭上（スナッチ）でバーを受け、素早くバーの下に潜ります。柔らかい膝で吸収し、立ち上がります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/kettlebell-hang-clean.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/kettlebell-hang-clean.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/kettlebell-hang-clean.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-alternating-press-on-floor",
+      "slug": "kettlebell-alternating-press-on-floor",
+      "name": "ケトルベル・オルタネイト・プレス・フロア",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/kettlebell-alternating-press-on-floor.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-alternating-press-on-floor.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-alternating-press-on-floor.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-extended-range-one-arm-press-on-floor",
+      "slug": "kettlebell-extended-range-one-arm-press-on-floor",
+      "name": "ケトルベル・ワンアーム・プレス・エクステンデッド・レンジ・フロア",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/kettlebell-extended-range-one-arm-press-on-floor.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-extended-range-one-arm-press-on-floor.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-extended-range-one-arm-press-on-floor.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-one-arm-floor-press",
+      "slug": "kettlebell-one-arm-floor-press",
+      "name": "ケトルベル・ワンアーム・フロアプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/kettlebell-one-arm-floor-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-one-arm-floor-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-one-arm-floor-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-plyo-push-up",
+      "slug": "kettlebell-plyo-push-up",
+      "name": "ケトルベル・腕立て伏せ・プライオ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：ジャンプや爆発的な動作で鋭く息を吐きます。力を溜める局面で吸います。"
+      ],
+      "file": "pectorals/kettlebell-plyo-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-plyo-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-plyo-push-up.thumb.webp"
+    },
+    {
+      "id": "traps/kettlebell-sumo-high-pull",
+      "slug": "kettlebell-sumo-high-pull",
+      "name": "ケトルベル・ハイ・スモー・プル",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "ワイドスタンス（スモー）または腰幅でスタートします。腕を伸ばし、腰を溜めて重りを持ちます。",
+        "爆発的に床を押し、腰と膝を伸ばし、次に肘でリードして重りを顎の高さまで引き上げます。",
+        "コントロールしてスタート位置に重りを戻します。力は腕ではなく脚と腰から来ます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "traps/kettlebell-sumo-high-pull.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/kettlebell-sumo-high-pull.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/kettlebell-sumo-high-pull.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-alternating-renegade-row",
+      "slug": "kettlebell-alternating-renegade-row",
+      "name": "ケトルベル・オルタネイト・ロウ・レネゲード",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/kettlebell-alternating-renegade-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-renegade-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-renegade-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-alternating-row",
+      "slug": "kettlebell-alternating-row",
+      "name": "ケトルベル・オルタネイト・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/kettlebell-alternating-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-one-arm-row",
+      "slug": "kettlebell-one-arm-row",
+      "name": "ケトルベル・ワンアームロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/kettlebell-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-two-arm-row",
+      "slug": "kettlebell-two-arm-row",
+      "name": "ケトルベル・ツーアーム・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/kettlebell-two-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-two-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-two-arm-row.thumb.webp"
+    }
+  ]
+}

@@ -263,7 +263,7 @@
     {
       "id": "cardio/push-to-run",
       "slug": "push-to-run",
-      "name": "Push-run",
+      "name": "Empuje y carrera",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -283,7 +283,7 @@
     {
       "id": "cardio/run-equipment",
       "slug": "run-equipment",
-      "name": "Correr equipment",
+      "name": "Correr en máquina",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -343,7 +343,7 @@
     {
       "id": "cardio/semi-squat-jump-male",
       "slug": "semi-squat-jump-male",
-      "name": "Sentadilla, semi jump",
+      "name": "Sentadilla, semi salto",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -487,7 +487,7 @@
     {
       "id": "cardio/swing-360",
       "slug": "swing-360",
-      "name": "Swing 360",
+      "name": "Giro 360",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -514,7 +514,7 @@
     {
       "id": "cardio/walk-elliptical-cross-trainer",
       "slug": "walk-elliptical-cross-trainer",
-      "name": "Caminata elíptica cruzado trainer",
+      "name": "Caminata en elíptica",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "machine",
@@ -534,7 +534,7 @@
     {
       "id": "cardio/walking-high-knees-lunge",
       "slug": "walking-high-knees-lunge",
-      "name": "Rodillas altas, caminando lunge",
+      "name": "Zancada caminando con rodillas altas",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -599,7 +599,7 @@
     {
       "id": "cardio/wheel-run",
       "slug": "wheel-run",
-      "name": "Wheel correr",
+      "name": "Correr en rueda",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",

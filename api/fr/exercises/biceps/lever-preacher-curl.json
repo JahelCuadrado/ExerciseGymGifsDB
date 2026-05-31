@@ -1,0 +1,22 @@
+{
+  "id": "biceps/lever-preacher-curl",
+  "slug": "lever-preacher-curl",
+  "name": "Curl au pupitre à la machine",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+    "Assieds-toi au pupitre avec les aisselles contre le bord supérieur. Laisse tes bras complètement étendus sur le coussin.",
+    "Monte le poids en contractant les biceps, gardant les bras pressés contre le coussin tout le temps.",
+    "Redescends sous contrôle strict jusqu'à l'extension complète — le coussin empêche de tricher, alors maîtrise toute l'amplitude.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "biceps/lever-preacher-curl.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-preacher-curl.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-preacher-curl.thumb.webp"
+}

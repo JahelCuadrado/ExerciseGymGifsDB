@@ -109,7 +109,7 @@
     {
       "id": "abs/barbell-sitted-alternate-leg-raise-female",
       "slug": "barbell-sitted-alternate-leg-raise-female",
-      "name": "Barbell Sitted Alternate Leg Raise Female",
+      "name": "Barbell Seated Alternate Leg Raise",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "barbell",
@@ -130,7 +130,7 @@
     {
       "id": "abs/barbell-sitted-alternate-leg-raise",
       "slug": "barbell-sitted-alternate-leg-raise",
-      "name": "Barbell Sitted Alternate Leg Raise",
+      "name": "Barbell Seated Alternate Leg Raise",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "barbell",
@@ -1158,7 +1158,7 @@
     {
       "id": "forearms/barbell-revers-wrist-curl-v-2",
       "slug": "barbell-revers-wrist-curl-v-2",
-      "name": "Barbell Revers Wrist Curl v2",
+      "name": "Barbell Reverse Wrist Curl v2",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -2592,7 +2592,7 @@
     {
       "id": "quads/barbell-side-split-squat-v-2",
       "slug": "barbell-side-split-squat-v-2",
-      "name": "Barbell Side Split Squat v2",
+      "name": "Lateral Barbell Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -2616,7 +2616,7 @@
     {
       "id": "quads/barbell-side-split-squat",
       "slug": "barbell-side-split-squat",
-      "name": "Barbell Side Split Squat",
+      "name": "Lateral Barbell Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -2640,7 +2640,7 @@
     {
       "id": "quads/barbell-single-leg-split-squat",
       "slug": "barbell-single-leg-split-squat",
-      "name": "Barbell Single Leg Split Squat",
+      "name": "Barbell Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -2665,7 +2665,7 @@
     {
       "id": "quads/barbell-split-squat-v-2",
       "slug": "barbell-split-squat-v-2",
-      "name": "Barbell Split Squat v2",
+      "name": "Barbell Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",

@@ -1,0 +1,23 @@
+{
+  "id": "traps/smith-shrug",
+  "slug": "smith-shrug",
+  "name": "Haussement d'épaules au Smith",
+  "muscle": "traps",
+  "bodyPart": "back",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "Règle la hauteur de la barre au Smith et charge le poids approprié. Place-toi sous la barre.",
+    "Tiens le poids aux côtés, bras complètement tendus. Debout droit, épaules relâchées.",
+    "Hausse les épaules droit vers les oreilles — ne les roule pas. Contracte en haut pendant 2 secondes.",
+    "Redescends lentement. Garde les bras tendus — c'est tout trapèzes, pas de biceps.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "traps/smith-shrug.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-shrug.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-shrug.thumb.webp"
+}

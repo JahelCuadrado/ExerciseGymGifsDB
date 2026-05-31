@@ -1,0 +1,23 @@
+{
+  "id": "triceps/barbell-lying-extension",
+  "slug": "barbell-lying-extension",
+  "name": "Extension à la barre, couché",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+    "Allonge-toi avec le dos à plat contre la surface, gainage engagé.",
+    "Tends les bras droit au-dessus de la poitrine. Les coudes pointent vers le plafond et restent fixés pendant tout le mouvement.",
+    "Descends le poids vers le front ou juste derrière en fléchissant uniquement les coudes — tes bras sont des piliers de béton qui ne bougent pas.",
+    "Remonte en extension complète en contractant fortement les triceps en haut.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "triceps/barbell-lying-extension.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-lying-extension.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-lying-extension.thumb.webp"
+}

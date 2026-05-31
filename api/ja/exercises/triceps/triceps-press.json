@@ -1,0 +1,22 @@
+{
+  "id": "triceps/triceps-press",
+  "slug": "triceps-press",
+  "name": "プレス・トライセプス",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+    "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+    "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+    "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "triceps/triceps-press.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/triceps-press.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/triceps-press.thumb.webp"
+}

@@ -1,0 +1,1237 @@
+{
+  "muscle": "calves",
+  "count": 59,
+  "exercises": [
+    {
+      "id": "calves/ankle-circles",
+      "slug": "ankle-circles",
+      "name": "Tornozelo círculos",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Fique de quatro (ou de lado para clamshells) com o core ativo e coluna neutra.",
+        "Mova a perna indicada pelo seu arco de movimento lentamente, focando em apertar o glúteo no pico de cada repetição.",
+        "Mantenha os quadris estáveis e alinhados — não os deixe balançar ou rotacionar. O movimento vem apenas da articulação do quadril.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/ankle-circles.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/ankle-circles.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/ankle-circles.thumb.webp"
+    },
+    {
+      "id": "calves/assisted-lying-calves-stretch",
+      "slug": "assisted-lying-calves-stretch",
+      "name": "Alongamento, deitado, assistido, panturrilhas",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Deite-se com as costas retas contra a superfície, core ativado.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "calves/assisted-lying-calves-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/assisted-lying-calves-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/assisted-lying-calves-stretch.thumb.webp"
+    },
+    {
+      "id": "calves/band-single-leg-calf-raise",
+      "slug": "band-single-leg-calf-raise",
+      "name": "Panturrilha com faixa elástica, unilateral",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe a faixa elástica no ponto de ancoragem correto e certifique-se de que há tensão inicial.",
+        "Fique na borda de um degrau ou plataforma com o calcanhar pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando a panturrilha com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/band-single-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/band-single-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/band-single-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/band-single-leg-reverse-calf-raise",
+      "slug": "band-single-leg-reverse-calf-raise",
+      "name": "Panturrilha inverso com faixa elástica, unilateral",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe a faixa elástica no ponto de ancoragem correto e certifique-se de que há tensão inicial.",
+        "Fique na borda de um degrau ou plataforma com o calcanhar pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando a panturrilha com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/band-single-leg-reverse-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/band-single-leg-reverse-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/band-single-leg-reverse-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/band-two-legs-calf-raise-band-under-both-legs-v-2",
+      "slug": "band-two-legs-calf-raise-band-under-both-legs-v-2",
+      "name": "Panturrilha com faixa elástica, dois pernas sob",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe a faixa elástica no ponto de ancoragem correto e certifique-se de que há tensão inicial.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/band-two-legs-calf-raise-band-under-both-legs-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/band-two-legs-calf-raise-band-under-both-legs-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/band-two-legs-calf-raise-band-under-both-legs-v-2.thumb.webp"
+    },
+    {
+      "id": "calves/barbell-floor-calf-raise",
+      "slug": "barbell-floor-calf-raise",
+      "name": "Panturrilha com barra, chão",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/barbell-floor-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-floor-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-floor-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/barbell-seated-calf-raise-1371",
+      "slug": "barbell-seated-calf-raise-1371",
+      "name": "Panturrilha com barra, sentado",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/barbell-seated-calf-raise-1371.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-seated-calf-raise-1371.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-seated-calf-raise-1371.thumb.webp"
+    },
+    {
+      "id": "calves/barbell-seated-calf-raise",
+      "slug": "barbell-seated-calf-raise",
+      "name": "Panturrilha com barra, sentado",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/barbell-seated-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-seated-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-seated-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/barbell-standing-calf-raise",
+      "slug": "barbell-standing-calf-raise",
+      "name": "Panturrilha com barra, em pé",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/barbell-standing-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-standing-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-standing-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/barbell-standing-leg-calf-raise",
+      "slug": "barbell-standing-leg-calf-raise",
+      "name": "Panturrilha com barra, em pé, perna",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/barbell-standing-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-standing-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-standing-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/barbell-standing-rocking-leg-calf-raise",
+      "slug": "barbell-standing-rocking-leg-calf-raise",
+      "name": "Panturrilha com barra, em pé, balanço perna",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/barbell-standing-rocking-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-standing-rocking-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-standing-rocking-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/bodyweight-standing-calf-raise",
+      "slug": "bodyweight-standing-calf-raise",
+      "name": "Panturrilha com peso corporal, em pé",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/bodyweight-standing-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/bodyweight-standing-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/bodyweight-standing-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/box-jump-down-with-one-leg-stabilization",
+      "slug": "box-jump-down-with-one-leg-stabilization",
+      "name": "Salto na caixa, unilateral, para baixo estabilização",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Em pé com os pés na largura dos quadris a ombros. Carregue a perna com uma rápida flexão — dobre joelhos e quadris para acumular tensão.",
+        "Exploda para cima, estendendo completamente quadris, joelhos e tornozelos. Impulsione com os braços para mais altura se aplicável.",
+        "Aterrisse suave flexionando o joelho e absorvendo o impacto pelas pernas. Pense em aterrissar silenciosamente como um gato.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire de forma explosiva no salto ou esforço. Inspire durante a fase de carga."
+      ],
+      "file": "calves/box-jump-down-with-one-leg-stabilization.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/box-jump-down-with-one-leg-stabilization.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/box-jump-down-with-one-leg-stabilization.thumb.webp"
+    },
+    {
+      "id": "calves/cable-standing-calf-raise",
+      "slug": "cable-standing-calf-raise",
+      "name": "Panturrilha na polia, em pé",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coloque a pegada adequada, ajuste a altura da polia e selecione o peso de trabalho.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/cable-standing-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/cable-standing-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/cable-standing-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/cable-standing-one-leg-calf-raise",
+      "slug": "cable-standing-one-leg-calf-raise",
+      "name": "Panturrilha na polia, em pé, unilateral",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Coloque a pegada adequada, ajuste a altura da polia e selecione o peso de trabalho.",
+        "Fique na borda de um degrau ou plataforma com o calcanhar pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando a panturrilha com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/cable-standing-one-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/cable-standing-one-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/cable-standing-one-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/calf-push-stretch-with-hands-against-wall",
+      "slug": "calf-push-stretch-with-hands-against-wall",
+      "name": "Alongamento, panturrilha empurrar mãos contra parede",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Vá para a posição de alongamento lentamente até sentir uma tensão suave na área alvo — não dor.",
+        "Segure de 20 a 40 segundos respirando profundamente. A cada expiração, tente afundar um pouco mais no alongamento.",
+        "Solte lentamente e repita se desejar. Consistência importa mais que intensidade — alongue regularmente para flexibilidade duradoura.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "calves/calf-push-stretch-with-hands-against-wall.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/calf-push-stretch-with-hands-against-wall.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/calf-push-stretch-with-hands-against-wall.thumb.webp"
+    },
+    {
+      "id": "calves/calf-stretch-with-hands-against-wall",
+      "slug": "calf-stretch-with-hands-against-wall",
+      "name": "Alongamento, panturrilha mãos contra parede",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Vá para a posição de alongamento lentamente até sentir uma tensão suave na área alvo — não dor.",
+        "Segure de 20 a 40 segundos respirando profundamente. A cada expiração, tente afundar um pouco mais no alongamento.",
+        "Solte lentamente e repita se desejar. Consistência importa mais que intensidade — alongue regularmente para flexibilidade duradoura.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "calves/calf-stretch-with-hands-against-wall.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/calf-stretch-with-hands-against-wall.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/calf-stretch-with-hands-against-wall.thumb.webp"
+    },
+    {
+      "id": "calves/calf-stretch-with-rope",
+      "slug": "calf-stretch-with-rope",
+      "name": "Alongamento, com corda, panturrilha",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Vá para a posição de alongamento lentamente até sentir uma tensão suave na área alvo — não dor.",
+        "Segure de 20 a 40 segundos respirando profundamente. A cada expiração, tente afundar um pouco mais no alongamento.",
+        "Solte lentamente e repita se desejar. Consistência importa mais que intensidade — alongue regularmente para flexibilidade duradoura.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "calves/calf-stretch-with-rope.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/calf-stretch-with-rope.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/calf-stretch-with-rope.thumb.webp"
+    },
+    {
+      "id": "calves/circles-knee-stretch",
+      "slug": "circles-knee-stretch",
+      "name": "Alongamento, círculos joelho",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Vá para a posição de alongamento lentamente até sentir uma tensão suave na área alvo — não dor.",
+        "Segure de 20 a 40 segundos respirando profundamente. A cada expiração, tente afundar um pouco mais no alongamento.",
+        "Solte lentamente e repita se desejar. Consistência importa mais que intensidade — alongue regularmente para flexibilidade duradoura.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "calves/circles-knee-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/circles-knee-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/circles-knee-stretch.thumb.webp"
+    },
+    {
+      "id": "calves/donkey-calf-raise",
+      "slug": "donkey-calf-raise",
+      "name": "Panturrilha, burro",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/donkey-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/donkey-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/donkey-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/dumbbell-seated-calf-raise",
+      "slug": "dumbbell-seated-calf-raise",
+      "name": "Panturrilha com halteres, sentado",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/dumbbell-seated-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-seated-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-seated-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/dumbbell-seated-one-leg-calf-raise-hammer-grip",
+      "slug": "dumbbell-seated-one-leg-calf-raise-hammer-grip",
+      "name": "Panturrilha com halteres, sentado, pegada martelo, unilateral",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Fique na borda de um degrau ou plataforma com o calcanhar pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando a panturrilha com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/dumbbell-seated-one-leg-calf-raise-hammer-grip.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-seated-one-leg-calf-raise-hammer-grip.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-seated-one-leg-calf-raise-hammer-grip.thumb.webp"
+    },
+    {
+      "id": "calves/dumbbell-seated-one-leg-calf-raise-palm-up",
+      "slug": "dumbbell-seated-one-leg-calf-raise-palm-up",
+      "name": "Panturrilha com halteres, sentado, unilateral, palma para cima",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Fique na borda de um degrau ou plataforma com o calcanhar pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando a panturrilha com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/dumbbell-seated-one-leg-calf-raise-palm-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-seated-one-leg-calf-raise-palm-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-seated-one-leg-calf-raise-palm-up.thumb.webp"
+    },
+    {
+      "id": "calves/dumbbell-seated-one-leg-calf-raise",
+      "slug": "dumbbell-seated-one-leg-calf-raise",
+      "name": "Panturrilha com halteres, sentado, unilateral",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Fique na borda de um degrau ou plataforma com o calcanhar pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando a panturrilha com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/dumbbell-seated-one-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-seated-one-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-seated-one-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/dumbbell-single-leg-calf-raise",
+      "slug": "dumbbell-single-leg-calf-raise",
+      "name": "Panturrilha com halteres, unilateral",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Fique na borda de um degrau ou plataforma com o calcanhar pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando a panturrilha com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/dumbbell-single-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-single-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-single-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/dumbbell-standing-calf-raise",
+      "slug": "dumbbell-standing-calf-raise",
+      "name": "Panturrilha com halteres, em pé",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/dumbbell-standing-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-standing-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-standing-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/exercise-ball-on-the-wall-calf-raise-tennis-ball-between-ankles",
+      "slug": "exercise-ball-on-the-wall-calf-raise-tennis-ball-between-ankles",
+      "name": "Panturrilha na bola suíça, parede tênis bola tornozelos",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/exercise-ball-on-the-wall-calf-raise-tennis-ball-between-ankles.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/exercise-ball-on-the-wall-calf-raise-tennis-ball-between-ankles.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/exercise-ball-on-the-wall-calf-raise-tennis-ball-between-ankles.thumb.webp"
+    },
+    {
+      "id": "calves/exercise-ball-on-the-wall-calf-raise-tennis-ball-between-knees",
+      "slug": "exercise-ball-on-the-wall-calf-raise-tennis-ball-between-knees",
+      "name": "Panturrilha na bola suíça, parede tênis bola joelhos",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/exercise-ball-on-the-wall-calf-raise-tennis-ball-between-knees.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/exercise-ball-on-the-wall-calf-raise-tennis-ball-between-knees.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/exercise-ball-on-the-wall-calf-raise-tennis-ball-between-knees.thumb.webp"
+    },
+    {
+      "id": "calves/exercise-ball-on-the-wall-calf-raise",
+      "slug": "exercise-ball-on-the-wall-calf-raise",
+      "name": "Panturrilha na bola suíça, parede",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/exercise-ball-on-the-wall-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/exercise-ball-on-the-wall-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/exercise-ball-on-the-wall-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/hack-calf-raise",
+      "slug": "hack-calf-raise",
+      "name": "Panturrilha, hack",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/hack-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/hack-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/hack-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/hack-one-leg-calf-raise",
+      "slug": "hack-one-leg-calf-raise",
+      "name": "Panturrilha, unilateral, hack",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Fique na borda de um degrau ou plataforma com o calcanhar pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando a panturrilha com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/hack-one-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/hack-one-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/hack-one-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/lever-calf-press",
+      "slug": "lever-calf-press",
+      "name": "Press na máquina, panturrilha",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Ative o core e fixe as escápulas. Inicie o empurrão de uma base estável.",
+        "Empurre o peso afastando-o do corpo em uma trajetória controlada, estendendo completamente sem travar as articulações bruscamente.",
+        "Retorne o peso com controle, mantendo tensão em toda a amplitude de movimento.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/lever-calf-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-calf-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-calf-press.thumb.webp"
+    },
+    {
+      "id": "calves/lever-donkey-calf-raise",
+      "slug": "lever-donkey-calf-raise",
+      "name": "Panturrilha na máquina, burro",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/lever-donkey-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-donkey-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-donkey-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/lever-rotary-calf",
+      "slug": "lever-rotary-calf",
+      "name": "Rotatório panturrilha na máquina",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Fique com os calcanhares na borda de uma plataforma (ou chão plano). Segure em um apoio para equilíbrio.",
+        "Levante os dedos e a planta dos pés o mais alto possível, apertando a frente das canelas.",
+        "Desça lentamente com controle. Isso fortalece o tibial anterior — músculo chave para estabilidade do tornozelo e prevenção de canelite.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/lever-rotary-calf.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-rotary-calf.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-rotary-calf.thumb.webp"
+    },
+    {
+      "id": "calves/lever-seated-calf-press",
+      "slug": "lever-seated-calf-press",
+      "name": "Press na máquina, sentado, panturrilha",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Ative o core e fixe as escápulas. Inicie o empurrão de uma base estável.",
+        "Empurre o peso afastando-o do corpo em uma trajetória controlada, estendendo completamente sem travar as articulações bruscamente.",
+        "Retorne o peso com controle, mantendo tensão em toda a amplitude de movimento.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/lever-seated-calf-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-seated-calf-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-seated-calf-press.thumb.webp"
+    },
+    {
+      "id": "calves/lever-seated-calf-raise",
+      "slug": "lever-seated-calf-raise",
+      "name": "Panturrilha na máquina, sentado",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/lever-seated-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-seated-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-seated-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/lever-seated-squat-calf-raise-on-leg-press-machine",
+      "slug": "lever-seated-squat-calf-raise-on-leg-press-machine",
+      "name": "Agachamento na máquina, sentado, Panturrilha Leg press",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Ative o core e fixe as escápulas. Inicie o empurrão de uma base estável.",
+        "Empurre o peso afastando-o do corpo em uma trajetória controlada, estendendo completamente sem travar as articulações bruscamente.",
+        "Retorne o peso com controle, mantendo tensão em toda a amplitude de movimento.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/lever-seated-squat-calf-raise-on-leg-press-machine.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-seated-squat-calf-raise-on-leg-press-machine.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-seated-squat-calf-raise-on-leg-press-machine.thumb.webp"
+    },
+    {
+      "id": "calves/lever-standing-calf-raise",
+      "slug": "lever-standing-calf-raise",
+      "name": "Panturrilha na máquina, em pé",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/lever-standing-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-standing-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-standing-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/one-leg-donkey-calf-raise",
+      "slug": "one-leg-donkey-calf-raise",
+      "name": "Panturrilha, unilateral, burro",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Fique na borda de um degrau ou plataforma com o calcanhar pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando a panturrilha com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/one-leg-donkey-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/one-leg-donkey-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/one-leg-donkey-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/one-leg-floor-calf-raise",
+      "slug": "one-leg-floor-calf-raise",
+      "name": "Panturrilha, unilateral, chão",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Fique na borda de um degrau ou plataforma com o calcanhar pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando a panturrilha com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/one-leg-floor-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/one-leg-floor-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/one-leg-floor-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/peroneals-stretch",
+      "slug": "peroneals-stretch",
+      "name": "Alongamento, fibulares",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Vá para a posição de alongamento lentamente até sentir uma tensão suave na área alvo — não dor.",
+        "Segure de 20 a 40 segundos respirando profundamente. A cada expiração, tente afundar um pouco mais no alongamento.",
+        "Solte lentamente e repita se desejar. Consistência importa mais que intensidade — alongue regularmente para flexibilidade duradoura.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "calves/peroneals-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/peroneals-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/peroneals-stretch.thumb.webp"
+    },
+    {
+      "id": "calves/posterior-tibialis-stretch",
+      "slug": "posterior-tibialis-stretch",
+      "name": "Alongamento, posterior tibial",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Vá para a posição de alongamento lentamente até sentir uma tensão suave na área alvo — não dor.",
+        "Segure de 20 a 40 segundos respirando profundamente. A cada expiração, tente afundar um pouco mais no alongamento.",
+        "Solte lentamente e repita se desejar. Consistência importa mais que intensidade — alongue regularmente para flexibilidade duradoura.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "calves/posterior-tibialis-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/posterior-tibialis-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/posterior-tibialis-stretch.thumb.webp"
+    },
+    {
+      "id": "calves/seated-calf-stretch-male",
+      "slug": "seated-calf-stretch-male",
+      "name": "Alongamento, sentado, panturrilha",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Vá para a posição de alongamento lentamente até sentir uma tensão suave na área alvo — não dor.",
+        "Segure de 20 a 40 segundos respirando profundamente. A cada expiração, tente afundar um pouco mais no alongamento.",
+        "Solte lentamente e repita se desejar. Consistência importa mais que intensidade — alongue regularmente para flexibilidade duradoura.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "calves/seated-calf-stretch-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/seated-calf-stretch-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/seated-calf-stretch-male.thumb.webp"
+    },
+    {
+      "id": "calves/single-leg-calf-raise-on-a-dumbbell",
+      "slug": "single-leg-calf-raise-on-a-dumbbell",
+      "name": "Panturrilha com halteres, unilateral",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Fique na borda de um degrau ou plataforma com o calcanhar pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando a panturrilha com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/single-leg-calf-raise-on-a-dumbbell.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/single-leg-calf-raise-on-a-dumbbell.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/single-leg-calf-raise-on-a-dumbbell.thumb.webp"
+    },
+    {
+      "id": "calves/sled-45-calf-press",
+      "slug": "sled-45-calf-press",
+      "name": "Press no trenó, panturrilha",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Carregue o trenó com peso adequado e segure as alças com firmeza.",
+        "Ative o core e fixe as escápulas. Inicie o empurrão de uma base estável.",
+        "Empurre o peso afastando-o do corpo em uma trajetória controlada, estendendo completamente sem travar as articulações bruscamente.",
+        "Retorne o peso com controle, mantendo tensão em toda a amplitude de movimento.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/sled-45-calf-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-45-calf-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-45-calf-press.thumb.webp"
+    },
+    {
+      "id": "calves/sled-calf-press-on-leg-press",
+      "slug": "sled-calf-press-on-leg-press",
+      "name": "Leg press no trenó, panturrilha Press",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Carregue o trenó com peso adequado e segure as alças com firmeza.",
+        "Ative o core e fixe as escápulas. Inicie o empurrão de uma base estável.",
+        "Empurre o peso afastando-o do corpo em uma trajetória controlada, estendendo completamente sem travar as articulações bruscamente.",
+        "Retorne o peso com controle, mantendo tensão em toda a amplitude de movimento.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/sled-calf-press-on-leg-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-calf-press-on-leg-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-calf-press-on-leg-press.thumb.webp"
+    },
+    {
+      "id": "calves/sled-forward-angled-calf-raise",
+      "slug": "sled-forward-angled-calf-raise",
+      "name": "Panturrilha no trenó, à frente angulado",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carregue o trenó com peso adequado e segure as alças com firmeza.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/sled-forward-angled-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-forward-angled-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-forward-angled-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/sled-lying-calf-press",
+      "slug": "sled-lying-calf-press",
+      "name": "Press no trenó, deitado, panturrilha",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Carregue o trenó com peso adequado e segure as alças com firmeza.",
+        "Deite-se com as costas retas contra a superfície, core ativado.",
+        "Ative o core e fixe as escápulas. Inicie o empurrão de uma base estável.",
+        "Empurre o peso afastando-o do corpo em uma trajetória controlada, estendendo completamente sem travar as articulações bruscamente.",
+        "Retorne o peso com controle, mantendo tensão em toda a amplitude de movimento.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/sled-lying-calf-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-lying-calf-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-lying-calf-press.thumb.webp"
+    },
+    {
+      "id": "calves/sled-one-leg-calf-press-on-leg-press",
+      "slug": "sled-one-leg-calf-press-on-leg-press",
+      "name": "Leg press no trenó, unilateral, panturrilha Press",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Carregue o trenó com peso adequado e segure as alças com firmeza.",
+        "Ative o core e fixe as escápulas. Inicie o empurrão de uma base estável.",
+        "Empurre o peso afastando-o do corpo em uma trajetória controlada, estendendo completamente sem travar as articulações bruscamente.",
+        "Retorne o peso com controle, mantendo tensão em toda a amplitude de movimento.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/sled-one-leg-calf-press-on-leg-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-one-leg-calf-press-on-leg-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-one-leg-calf-press-on-leg-press.thumb.webp"
+    },
+    {
+      "id": "calves/smith-one-leg-floor-calf-raise",
+      "slug": "smith-one-leg-floor-calf-raise",
+      "name": "Panturrilha no Smith, unilateral, chão",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste a altura da barra no Smith e carregue o peso adequado. Posicione-se sob a barra.",
+        "Fique na borda de um degrau ou plataforma com o calcanhar pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando a panturrilha com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/smith-one-leg-floor-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-one-leg-floor-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-one-leg-floor-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/smith-reverse-calf-raises-1394",
+      "slug": "smith-reverse-calf-raises-1394",
+      "name": "Elevações inverso no Smith, panturrilha",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste a altura da barra no Smith e carregue o peso adequado. Posicione-se sob a barra.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/smith-reverse-calf-raises-1394.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-reverse-calf-raises-1394.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-reverse-calf-raises-1394.thumb.webp"
+    },
+    {
+      "id": "calves/smith-reverse-calf-raises",
+      "slug": "smith-reverse-calf-raises",
+      "name": "Elevações inverso no Smith, panturrilha",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste a altura da barra no Smith e carregue o peso adequado. Posicione-se sob a barra.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/smith-reverse-calf-raises.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-reverse-calf-raises.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-reverse-calf-raises.thumb.webp"
+    },
+    {
+      "id": "calves/smith-seated-one-leg-calf-raise",
+      "slug": "smith-seated-one-leg-calf-raise",
+      "name": "Panturrilha no Smith, sentado, unilateral",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste a altura da barra no Smith e carregue o peso adequado. Posicione-se sob a barra.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Fique na borda de um degrau ou plataforma com o calcanhar pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando a panturrilha com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/smith-seated-one-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-seated-one-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-seated-one-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/smith-standing-leg-calf-raise",
+      "slug": "smith-standing-leg-calf-raise",
+      "name": "Panturrilha no Smith, em pé, perna",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste a altura da barra no Smith e carregue o peso adequado. Posicione-se sob a barra.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/smith-standing-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-standing-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-standing-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/smith-toe-raise",
+      "slug": "smith-toe-raise",
+      "name": "Elevação no Smith, dedos do pé",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste a altura da barra no Smith e carregue o peso adequado. Posicione-se sob a barra.",
+        "Em pé ou sentado na posição inicial com o peso pronto e core ativo.",
+        "Levante o peso pela trajetória indicada com leve flexão de cotovelo. Pare na altura dos ombros salvo indicação contrária.",
+        "Desça lentamente com controle, resistindo à gravidade durante toda a descida. Não use impulso — controle cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/smith-toe-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-toe-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-toe-raise.thumb.webp"
+    },
+    {
+      "id": "calves/standing-calf-raise-on-a-staircase",
+      "slug": "standing-calf-raise-on-a-staircase",
+      "name": "Panturrilha, em pé, escada",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/standing-calf-raise-on-a-staircase.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/standing-calf-raise-on-a-staircase.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/standing-calf-raise-on-a-staircase.thumb.webp"
+    },
+    {
+      "id": "calves/standing-calves-calf-stretch",
+      "slug": "standing-calves-calf-stretch",
+      "name": "Alongamento, em pé, panturrilhas panturrilha",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "calves/standing-calves-calf-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/standing-calves-calf-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/standing-calves-calf-stretch.thumb.webp"
+    },
+    {
+      "id": "calves/standing-calves",
+      "slug": "standing-calves",
+      "name": "Panturrilhas, em pé",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/standing-calves.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/standing-calves.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/standing-calves.thumb.webp"
+    },
+    {
+      "id": "calves/weighted-donkey-calf-raise",
+      "slug": "weighted-donkey-calf-raise",
+      "name": "Panturrilha, com carga, burro",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Fique na borda de um degrau ou plataforma com os calcanhares pendendo. Segure em um apoio se precisar de equilíbrio.",
+        "Suba nas pontas dos pés o mais alto possível, apertando as panturrilhas com força no topo por 2 segundos.",
+        "Desça lentamente além da borda da plataforma até sentir um alongamento profundo nas panturrilhas. Sem quicar — domine cada centímetro.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "calves/weighted-donkey-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/weighted-donkey-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/weighted-donkey-calf-raise.thumb.webp"
+    }
+  ]
+}

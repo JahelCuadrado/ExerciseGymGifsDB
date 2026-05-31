@@ -1,0 +1,3645 @@
+{
+  "muscle": "pectorals",
+  "count": 158,
+  "exercises": [
+    {
+      "id": "pectorals/archer-push-up",
+      "slug": "archer-push-up",
+      "name": "腕立て伏せ・アーチャー",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/archer-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/archer-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/archer-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/assisted-chest-dip-kneeling",
+      "slug": "assisted-chest-dip-kneeling",
+      "name": "ニーリング・アシスト・チェストディップ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "膝を立て、腰を膝の真上に位置させ、上体を直立に保ちます。",
+        "平行バーを握り、トップでロックします。胸を強調するなら少し前傾、三頭筋なら直立を保ちます。",
+        "上腕が少なくとも床と平行になるまで肘を曲げて下ります。下降をコントロールします。落ちてはいけません。",
+        "爆発的にロックアウトまで押し上げ、トップでターゲット筋を絞ります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/assisted-chest-dip-kneeling.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/assisted-chest-dip-kneeling.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/assisted-chest-dip-kneeling.thumb.webp"
+    },
+    {
+      "id": "pectorals/assisted-seated-pectoralis-major-stretch-with-stability-ball",
+      "slug": "assisted-seated-pectoralis-major-stretch-with-stability-ball",
+      "name": "バランスボール・シーテッド・アシスト・ストレッチ・大胸筋・メジャー",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "ターゲットエリアに優しい緊張を感じるまでゆっくりストレッチ位置に移動します。痛みではありません。",
+        "深く呼吸しながら20〜40秒キープします。各呼気で、もう少しストレッチに沈んでみます。",
+        "ゆっくり解放し、必要に応じて繰り返します。強度より一貫性が重要です。持続的な柔軟性のために定期的にストレッチしましょう。",
+        "ホールド中は深く安定した呼吸を続けてください。ストレッチ中は決して息を止めないでください。"
+      ],
+      "file": "pectorals/assisted-seated-pectoralis-major-stretch-with-stability-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/assisted-seated-pectoralis-major-stretch-with-stability-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/assisted-seated-pectoralis-major-stretch-with-stability-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/assisted-wide-grip-chest-dip-kneeling",
+      "slug": "assisted-wide-grip-chest-dip-kneeling",
+      "name": "ニーリング・ワイドグリップ・アシスト・チェストディップ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "膝を立て、腰を膝の真上に位置させ、上体を直立に保ちます。",
+        "ワイドグリップを使い、肩幅よりかなり広く握って、ストレッチと外側への刺激を高めます。",
+        "平行バーを握り、トップでロックします。胸を強調するなら少し前傾、三頭筋なら直立を保ちます。",
+        "上腕が少なくとも床と平行になるまで肘を曲げて下ります。下降をコントロールします。落ちてはいけません。",
+        "爆発的にロックアウトまで押し上げ、トップでターゲット筋を絞ります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/assisted-wide-grip-chest-dip-kneeling.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/assisted-wide-grip-chest-dip-kneeling.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/assisted-wide-grip-chest-dip-kneeling.thumb.webp"
+    },
+    {
+      "id": "pectorals/band-bench-press",
+      "slug": "band-bench-press",
+      "name": "バンド・ベンチプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "レジスタンスバンドを正しいアンカーポイントに固定し、初期テンションがあることを確認します。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/band-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/band-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/band-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/band-one-arm-twisting-chest-press",
+      "slug": "band-one-arm-twisting-chest-press",
+      "name": "バンド・ワンアーム・ツイスト・チェストプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "レジスタンスバンドを正しいアンカーポイントに固定し、初期テンションがあることを確認します。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/band-one-arm-twisting-chest-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/band-one-arm-twisting-chest-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/band-one-arm-twisting-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-bench-press",
+      "slug": "barbell-bench-press",
+      "name": "バーベル・ベンチプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/barbell-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-decline-bench-press",
+      "slug": "barbell-decline-bench-press",
+      "name": "バーベル・デクライン・ベンチプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "ベンチをデクラインに設定し、足をパッドの下に固定します。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/barbell-decline-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-decline-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-decline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-decline-pullover",
+      "slug": "barbell-decline-pullover",
+      "name": "バーベル・デクライン・プルオーバー",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "ベンチをデクラインに設定し、足をパッドの下に固定します。",
+        "ベンチに仰向けになり、重りを胸の上で腕を伸ばして持ちます。肘に軽い曲がりを保ちます。",
+        "重りを頭の後ろにアーチを描いて下ろし、広背筋と胸に深いストレッチを感じます。快適な範囲だけ行きます。",
+        "広背筋を使って重りを胸の上に戻します。大きなアーチで重りをすくい上げるイメージです。肘の曲がりは同じに保ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/barbell-decline-pullover.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-decline-pullover.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-decline-pullover.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-decline-wide-grip-press",
+      "slug": "barbell-decline-wide-grip-press",
+      "name": "バーベル・ワイドグリップ・デクライン・プレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "ベンチをデクラインに設定し、足をパッドの下に固定します。",
+        "ワイドグリップを使い、肩幅よりかなり広く握って、ストレッチと外側への刺激を高めます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/barbell-decline-wide-grip-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-decline-wide-grip-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-decline-wide-grip-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-front-raise-and-pullover",
+      "slug": "barbell-front-raise-and-pullover",
+      "name": "バーベル・フロントレイズ・プルオーバー",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "重りを太ももの前に持ち、まっすぐ立ちます。体幹を引き締めます。",
+        "軽い肘の曲がりで肩の高さまで重りを前に上げます。体幹を固定し、後ろに傾くなら重すぎです。",
+        "トップで一時停止し、コントロールして下ろします。重りを振らず、毎センチをマスターします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/barbell-front-raise-and-pullover.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-front-raise-and-pullover.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-front-raise-and-pullover.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-guillotine-bench-press",
+      "slug": "barbell-guillotine-bench-press",
+      "name": "バーベル・ベンチプレス・ギロチン",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/barbell-guillotine-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-guillotine-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-guillotine-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-incline-bench-press",
+      "slug": "barbell-incline-bench-press",
+      "name": "バーベル・インクライン・ベンチプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/barbell-incline-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-incline-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-incline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-reverse-grip-decline-bench-press",
+      "slug": "barbell-reverse-grip-decline-bench-press",
+      "name": "バーベル・リバースグリップ・デクライン・ベンチプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "ベンチをデクラインに設定し、足をパッドの下に固定します。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/barbell-reverse-grip-decline-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-reverse-grip-decline-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-reverse-grip-decline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-reverse-grip-incline-bench-press",
+      "slug": "barbell-reverse-grip-incline-bench-press",
+      "name": "バーベル・リバースグリップ・インクライン・ベンチプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/barbell-reverse-grip-incline-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-reverse-grip-incline-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-reverse-grip-incline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-wide-bench-press",
+      "slug": "barbell-wide-bench-press",
+      "name": "バーベル・ワイド・ベンチプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/barbell-wide-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-wide-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-wide-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-wide-reverse-grip-bench-press",
+      "slug": "barbell-wide-reverse-grip-bench-press",
+      "name": "バーベル・リバースグリップ・ワイド・ベンチプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/barbell-wide-reverse-grip-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-wide-reverse-grip-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-wide-reverse-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/behind-head-chest-stretch",
+      "slug": "behind-head-chest-stretch",
+      "name": "ストレッチ・ビハインド・ヘッド・チェスト",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ターゲットエリアに優しい緊張を感じるまでゆっくりストレッチ位置に移動します。痛みではありません。",
+        "深く呼吸しながら20〜40秒キープします。各呼気で、もう少しストレッチに沈んでみます。",
+        "ゆっくり解放し、必要に応じて繰り返します。強度より一貫性が重要です。持続的な柔軟性のために定期的にストレッチしましょう。",
+        "ホールド中は深く安定した呼吸を続けてください。ストレッチ中は決して息を止めないでください。"
+      ],
+      "file": "pectorals/behind-head-chest-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/behind-head-chest-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/behind-head-chest-stretch.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-bench-press",
+      "slug": "cable-bench-press",
+      "name": "ケーブル・ベンチプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/cable-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-cross-over-variation",
+      "slug": "cable-cross-over-variation",
+      "name": "ケーブル・クロス・オーバー・バリエーション",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/cable-cross-over-variation.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-cross-over-variation.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-cross-over-variation.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-decline-fly",
+      "slug": "cable-decline-fly",
+      "name": "ケーブル・デクライン・フライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "ベンチをデクラインに設定し、足をパッドの下に固定します。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/cable-decline-fly.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-decline-fly.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-decline-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-decline-one-arm-press",
+      "slug": "cable-decline-one-arm-press",
+      "name": "ケーブル・ワンアーム・デクライン・プレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "ベンチをデクラインに設定し、足をパッドの下に固定します。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/cable-decline-one-arm-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-decline-one-arm-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-decline-one-arm-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-decline-press",
+      "slug": "cable-decline-press",
+      "name": "ケーブル・デクライン・プレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "ベンチをデクラインに設定し、足をパッドの下に固定します。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/cable-decline-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-decline-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-decline-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-incline-bench-press",
+      "slug": "cable-incline-bench-press",
+      "name": "ケーブル・インクライン・ベンチプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/cable-incline-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-incline-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-incline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-incline-fly-on-stability-ball",
+      "slug": "cable-incline-fly-on-stability-ball",
+      "name": "ケーブル・バランスボール・インクライン・フライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/cable-incline-fly-on-stability-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-incline-fly-on-stability-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-incline-fly-on-stability-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-incline-fly",
+      "slug": "cable-incline-fly",
+      "name": "ケーブル・インクライン・フライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/cable-incline-fly.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-incline-fly.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-incline-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-low-fly",
+      "slug": "cable-low-fly",
+      "name": "ケーブル・ロー・フライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/cable-low-fly.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-low-fly.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-low-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-lying-fly",
+      "slug": "cable-lying-fly",
+      "name": "ケーブル・ライイング・フライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/cable-lying-fly.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-lying-fly.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-lying-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-middle-fly",
+      "slug": "cable-middle-fly",
+      "name": "ケーブル・フライ・ミドル",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/cable-middle-fly.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-middle-fly.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-middle-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-one-arm-decline-chest-fly",
+      "slug": "cable-one-arm-decline-chest-fly",
+      "name": "ケーブル・ワンアーム・デクライン・チェストフライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "ベンチをデクラインに設定し、足をパッドの下に固定します。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/cable-one-arm-decline-chest-fly.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-one-arm-decline-chest-fly.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-one-arm-decline-chest-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-one-arm-fly-on-exercise-ball",
+      "slug": "cable-one-arm-fly-on-exercise-ball",
+      "name": "ケーブル・バランスボール・ワンアーム・フライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/cable-one-arm-fly-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-one-arm-fly-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-one-arm-fly-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-one-arm-incline-fly-on-exercise-ball",
+      "slug": "cable-one-arm-incline-fly-on-exercise-ball",
+      "name": "ケーブル・バランスボール・ワンアーム・インクライン・フライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/cable-one-arm-incline-fly-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-one-arm-incline-fly-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-one-arm-incline-fly-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-one-arm-incline-press-on-exercise-ball",
+      "slug": "cable-one-arm-incline-press-on-exercise-ball",
+      "name": "ケーブル・バランスボール・ワンアーム・インクライン・プレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/cable-one-arm-incline-press-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-one-arm-incline-press-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-one-arm-incline-press-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-one-arm-incline-press",
+      "slug": "cable-one-arm-incline-press",
+      "name": "ケーブル・ワンアーム・インクライン・プレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/cable-one-arm-incline-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-one-arm-incline-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-one-arm-incline-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-one-arm-lateral-bent-over",
+      "slug": "cable-one-arm-lateral-bent-over",
+      "name": "ケーブル・ワンアーム・ベントオーバー・ラテラル",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "重りを体側に持ち、わずかに前傾します。肘に軽い曲がりを持たせます。",
+        "2つの水差しから水を注ぐように肘でリードしながら腕を横に上げます。肩の高さで止めます。",
+        "重力に抵抗しながらゆっくりコントロールして下ろします。勢いを使わないでください。必要なら軽い重量にします。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/cable-one-arm-lateral-bent-over.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-one-arm-lateral-bent-over.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-one-arm-lateral-bent-over.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-one-arm-press-on-exercise-ball",
+      "slug": "cable-one-arm-press-on-exercise-ball",
+      "name": "ケーブル・バランスボール・ワンアーム・プレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/cable-one-arm-press-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-one-arm-press-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-one-arm-press-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-press-on-exercise-ball",
+      "slug": "cable-press-on-exercise-ball",
+      "name": "ケーブル・バランスボール・プレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/cable-press-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-press-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-press-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-seated-chest-press",
+      "slug": "cable-seated-chest-press",
+      "name": "ケーブル・シーテッド・チェストプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/cable-seated-chest-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-seated-chest-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-seated-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-standing-fly",
+      "slug": "cable-standing-fly",
+      "name": "ケーブル・スタンディング・フライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/cable-standing-fly.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-standing-fly.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-standing-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-standing-up-straight-crossovers",
+      "slug": "cable-standing-up-straight-crossovers",
+      "name": "ケーブル・スタンディング・アップ・ストレート・クロスオーバー",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/cable-standing-up-straight-crossovers.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-standing-up-straight-crossovers.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-standing-up-straight-crossovers.thumb.webp"
+    },
+    {
+      "id": "pectorals/cable-upper-chest-crossovers",
+      "slug": "cable-upper-chest-crossovers",
+      "name": "ケーブル・アッパー・チェスト・クロスオーバー",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/cable-upper-chest-crossovers.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-upper-chest-crossovers.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-upper-chest-crossovers.thumb.webp"
+    },
+    {
+      "id": "pectorals/chest-and-front-of-shoulder-stretch",
+      "slug": "chest-and-front-of-shoulder-stretch",
+      "name": "フロント・ストレッチ・チェスト・ショルダー",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ターゲットエリアに優しい緊張を感じるまでゆっくりストレッチ位置に移動します。痛みではありません。",
+        "深く呼吸しながら20〜40秒キープします。各呼気で、もう少しストレッチに沈んでみます。",
+        "ゆっくり解放し、必要に応じて繰り返します。強度より一貫性が重要です。持続的な柔軟性のために定期的にストレッチしましょう。",
+        "ホールド中は深く安定した呼吸を続けてください。ストレッチ中は決して息を止めないでください。"
+      ],
+      "file": "pectorals/chest-and-front-of-shoulder-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/chest-and-front-of-shoulder-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/chest-and-front-of-shoulder-stretch.thumb.webp"
+    },
+    {
+      "id": "pectorals/chest-dip-on-dip-pull-up-cage",
+      "slug": "chest-dip-on-dip-pull-up-cage",
+      "name": "懸垂・チェストディップ・ディップ・ケージ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "バーから腕を完全に伸ばしてぶら下がります。肩甲骨を下げて寄せ、後ろのポケットにしまうようにセットします。",
+        "肘を後ろのポケットに向け、胸でリードしながら引き上げます。顎ではなく胸で。バーを鎖骨に巻き付けるイメージです。",
+        "顎がバーの上に出たらトップで絞ります。完全にぶら下がった状態までコントロールして下ろします。毎レップ、完全なストレッチから始めましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/chest-dip-on-dip-pull-up-cage.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/chest-dip-on-dip-pull-up-cage.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/chest-dip-on-dip-pull-up-cage.thumb.webp"
+    },
+    {
+      "id": "pectorals/chest-dip-on-straight-bar",
+      "slug": "chest-dip-on-straight-bar",
+      "name": "ストレートバー・チェストディップ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "平行バーを握り、トップでロックします。胸を強調するなら少し前傾、三頭筋なら直立を保ちます。",
+        "上腕が少なくとも床と平行になるまで肘を曲げて下ります。下降をコントロールします。落ちてはいけません。",
+        "爆発的にロックアウトまで押し上げ、トップでターゲット筋を絞ります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/chest-dip-on-straight-bar.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/chest-dip-on-straight-bar.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/chest-dip-on-straight-bar.thumb.webp"
+    },
+    {
+      "id": "pectorals/chest-dip",
+      "slug": "chest-dip",
+      "name": "チェストディップ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "平行バーを握り、トップでロックします。胸を強調するなら少し前傾、三頭筋なら直立を保ちます。",
+        "上腕が少なくとも床と平行になるまで肘を曲げて下ります。下降をコントロールします。落ちてはいけません。",
+        "爆発的にロックアウトまで押し上げ、トップでターゲット筋を絞ります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/chest-dip.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/chest-dip.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/chest-dip.thumb.webp"
+    },
+    {
+      "id": "pectorals/chest-stretch-with-exercise-ball",
+      "slug": "chest-stretch-with-exercise-ball",
+      "name": "バランスボール・ストレッチ・チェスト",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ターゲットエリアに優しい緊張を感じるまでゆっくりストレッチ位置に移動します。痛みではありません。",
+        "深く呼吸しながら20〜40秒キープします。各呼気で、もう少しストレッチに沈んでみます。",
+        "ゆっくり解放し、必要に応じて繰り返します。強度より一貫性が重要です。持続的な柔軟性のために定期的にストレッチしましょう。",
+        "ホールド中は深く安定した呼吸を続けてください。ストレッチ中は決して息を止めないでください。"
+      ],
+      "file": "pectorals/chest-stretch-with-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/chest-stretch-with-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/chest-stretch-with-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/chest-tap-push-up-male",
+      "slug": "chest-tap-push-up-male",
+      "name": "腕立て伏せ・チェスト・タップ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/chest-tap-push-up-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/chest-tap-push-up-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/chest-tap-push-up-male.thumb.webp"
+    },
+    {
+      "id": "pectorals/clap-push-up",
+      "slug": "clap-push-up",
+      "name": "腕立て伏せ・クラップ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/clap-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/clap-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/clap-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/clock-push-up",
+      "slug": "clock-push-up",
+      "name": "腕立て伏せ・クロック",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/clock-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/clock-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/clock-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/decline-push-up",
+      "slug": "decline-push-up",
+      "name": "デクライン・腕立て伏せ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ベンチをデクラインに設定し、足をパッドの下に固定します。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/decline-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/decline-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/decline-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/deep-push-up",
+      "slug": "deep-push-up",
+      "name": "腕立て伏せ・ディープ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/deep-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/deep-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/deep-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/drop-push-up",
+      "slug": "drop-push-up",
+      "name": "腕立て伏せ・ドロップ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/drop-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/drop-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/drop-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-around-pullover",
+      "slug": "dumbbell-around-pullover",
+      "name": "ダンベル・プルオーバー・アラウンド",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチに仰向けになり、重りを胸の上で腕を伸ばして持ちます。肘に軽い曲がりを保ちます。",
+        "重りを頭の後ろにアーチを描いて下ろし、広背筋と胸に深いストレッチを感じます。快適な範囲だけ行きます。",
+        "広背筋を使って重りを胸の上に戻します。大きなアーチで重りをすくい上げるイメージです。肘の曲がりは同じに保ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-around-pullover.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-around-pullover.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-around-pullover.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-bench-press",
+      "slug": "dumbbell-bench-press",
+      "name": "ダンベル・ベンチプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-decline-bench-press",
+      "slug": "dumbbell-decline-bench-press",
+      "name": "ダンベル・デクライン・ベンチプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチをデクラインに設定し、足をパッドの下に固定します。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-decline-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-decline-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-decline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-decline-fly",
+      "slug": "dumbbell-decline-fly",
+      "name": "ダンベル・デクライン・フライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチをデクラインに設定し、足をパッドの下に固定します。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-decline-fly.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-decline-fly.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-decline-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-decline-hammer-press",
+      "slug": "dumbbell-decline-hammer-press",
+      "name": "ダンベル・デクライン・ハンマー・プレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチをデクラインに設定し、足をパッドの下に固定します。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-decline-hammer-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-decline-hammer-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-decline-hammer-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-decline-one-arm-fly",
+      "slug": "dumbbell-decline-one-arm-fly",
+      "name": "ダンベル・ワンアーム・デクライン・フライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチをデクラインに設定し、足をパッドの下に固定します。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-decline-one-arm-fly.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-decline-one-arm-fly.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-decline-one-arm-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-decline-twist-fly",
+      "slug": "dumbbell-decline-twist-fly",
+      "name": "ダンベル・デクライン・フライ・ツイスト",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチをデクラインに設定し、足をパッドの下に固定します。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-decline-twist-fly.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-decline-twist-fly.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-decline-twist-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-fly-on-exercise-ball",
+      "slug": "dumbbell-fly-on-exercise-ball",
+      "name": "ダンベル・バランスボール・フライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-fly-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-fly-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-fly-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-fly",
+      "slug": "dumbbell-fly",
+      "name": "ダンベル・フライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-fly.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-fly.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-alternate-press",
+      "slug": "dumbbell-incline-alternate-press",
+      "name": "ダンベル・オルタネイト・インクライン・プレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-incline-alternate-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-alternate-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-alternate-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-bench-press",
+      "slug": "dumbbell-incline-bench-press",
+      "name": "ダンベル・インクライン・ベンチプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-incline-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-breeding",
+      "slug": "dumbbell-incline-breeding",
+      "name": "ダンベル・インクライン・フライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-incline-breeding.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-breeding.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-breeding.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-fly-on-exercise-ball",
+      "slug": "dumbbell-incline-fly-on-exercise-ball",
+      "name": "ダンベル・バランスボール・インクライン・フライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-incline-fly-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-fly-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-fly-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-fly",
+      "slug": "dumbbell-incline-fly",
+      "name": "ダンベル・インクライン・フライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-incline-fly.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-fly.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-hammer-press",
+      "slug": "dumbbell-incline-hammer-press",
+      "name": "ダンベル・インクライン・ハンマー・プレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-incline-hammer-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-hammer-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-hammer-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-one-arm-fly-on-exercise-ball",
+      "slug": "dumbbell-incline-one-arm-fly-on-exercise-ball",
+      "name": "ダンベル・バランスボール・ワンアーム・インクライン・フライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-incline-one-arm-fly-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-one-arm-fly-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-one-arm-fly-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-one-arm-fly",
+      "slug": "dumbbell-incline-one-arm-fly",
+      "name": "ダンベル・ワンアーム・インクライン・フライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-incline-one-arm-fly.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-one-arm-fly.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-one-arm-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-one-arm-press-on-exercise-ball",
+      "slug": "dumbbell-incline-one-arm-press-on-exercise-ball",
+      "name": "ダンベル・バランスボール・ワンアーム・インクライン・プレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-incline-one-arm-press-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-one-arm-press-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-one-arm-press-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-one-arm-press",
+      "slug": "dumbbell-incline-one-arm-press",
+      "name": "ダンベル・ワンアーム・インクライン・プレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-incline-one-arm-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-one-arm-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-one-arm-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-palm-in-press",
+      "slug": "dumbbell-incline-palm-in-press",
+      "name": "ダンベル・インクライン・プレス・パーム",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-incline-palm-in-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-palm-in-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-palm-in-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-press-on-exercise-ball",
+      "slug": "dumbbell-incline-press-on-exercise-ball",
+      "name": "ダンベル・バランスボール・インクライン・プレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-incline-press-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-press-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-press-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-incline-twisted-flyes",
+      "slug": "dumbbell-incline-twisted-flyes",
+      "name": "ダンベル・インクライン・ツイスト・フライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-incline-twisted-flyes.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-twisted-flyes.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-incline-twisted-flyes.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-lying-hammer-press",
+      "slug": "dumbbell-lying-hammer-press",
+      "name": "ダンベル・ライイング・ハンマー・プレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-lying-hammer-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-lying-hammer-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-lying-hammer-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-lying-one-arm-press-v-2",
+      "slug": "dumbbell-lying-one-arm-press-v-2",
+      "name": "ダンベル・ライイング・ワンアーム・プレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-lying-one-arm-press-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-lying-one-arm-press-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-lying-one-arm-press-v-2.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-lying-one-arm-press",
+      "slug": "dumbbell-lying-one-arm-press",
+      "name": "ダンベル・ライイング・ワンアーム・プレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-lying-one-arm-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-lying-one-arm-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-lying-one-arm-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-lying-pullover-on-exercise-ball",
+      "slug": "dumbbell-lying-pullover-on-exercise-ball",
+      "name": "ダンベル・バランスボール・ライイング・プルオーバー",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "ベンチに仰向けになり、重りを胸の上で腕を伸ばして持ちます。肘に軽い曲がりを保ちます。",
+        "重りを頭の後ろにアーチを描いて下ろし、広背筋と胸に深いストレッチを感じます。快適な範囲だけ行きます。",
+        "広背筋を使って重りを胸の上に戻します。大きなアーチで重りをすくい上げるイメージです。肘の曲がりは同じに保ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-lying-pullover-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-lying-pullover-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-lying-pullover-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-bench-fly",
+      "slug": "dumbbell-one-arm-bench-fly",
+      "name": "ダンベル・ワンアーム・フライ・ベンチ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-one-arm-bench-fly.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-one-arm-bench-fly.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-one-arm-bench-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-chest-fly-on-exercise-ball",
+      "slug": "dumbbell-one-arm-chest-fly-on-exercise-ball",
+      "name": "ダンベル・バランスボール・ワンアーム・チェストフライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-one-arm-chest-fly-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-one-arm-chest-fly-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-one-arm-chest-fly-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-decline-chest-press",
+      "slug": "dumbbell-one-arm-decline-chest-press",
+      "name": "ダンベル・ワンアーム・デクライン・チェストプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチをデクラインに設定し、足をパッドの下に固定します。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-one-arm-decline-chest-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-one-arm-decline-chest-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-one-arm-decline-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-fly-on-exercise-ball",
+      "slug": "dumbbell-one-arm-fly-on-exercise-ball",
+      "name": "ダンベル・バランスボール・ワンアーム・フライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-one-arm-fly-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-one-arm-fly-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-one-arm-fly-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-incline-chest-press",
+      "slug": "dumbbell-one-arm-incline-chest-press",
+      "name": "ダンベル・ワンアーム・インクライン・チェストプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-one-arm-incline-chest-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-one-arm-incline-chest-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-one-arm-incline-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-press-on-exercise-ball",
+      "slug": "dumbbell-one-arm-press-on-exercise-ball",
+      "name": "ダンベル・バランスボール・ワンアーム・プレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-one-arm-press-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-one-arm-press-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-one-arm-press-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-pullover-on-exercise-ball",
+      "slug": "dumbbell-one-arm-pullover-on-exercise-ball",
+      "name": "ダンベル・バランスボール・ワンアーム・プルオーバー",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチに仰向けになり、重りを胸の上で腕を伸ばして持ちます。肘に軽い曲がりを保ちます。",
+        "重りを頭の後ろにアーチを描いて下ろし、広背筋と胸に深いストレッチを感じます。快適な範囲だけ行きます。",
+        "広背筋を使って重りを胸の上に戻します。大きなアーチで重りをすくい上げるイメージです。肘の曲がりは同じに保ちます。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-one-arm-pullover-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-one-arm-pullover-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-one-arm-pullover-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-one-arm-reverse-grip-press",
+      "slug": "dumbbell-one-arm-reverse-grip-press",
+      "name": "ダンベル・リバースグリップ・ワンアーム・プレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-one-arm-reverse-grip-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-one-arm-reverse-grip-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-one-arm-reverse-grip-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-one-leg-fly-on-exercise-ball",
+      "slug": "dumbbell-one-leg-fly-on-exercise-ball",
+      "name": "ダンベル・バランスボール・ワンレッグ・フライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-one-leg-fly-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-one-leg-fly-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-one-leg-fly-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-press-on-exercise-ball",
+      "slug": "dumbbell-press-on-exercise-ball",
+      "name": "ダンベル・バランスボール・プレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-press-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-press-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-press-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-pullover-hip-extension-on-exercise-ball",
+      "slug": "dumbbell-pullover-hip-extension-on-exercise-ball",
+      "name": "ダンベル・バランスボール・プルオーバー・ヒップ・エクステンション",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘を定位置にロックします。空間の固定点です。前腕だけが蝶番のように動きます。",
+        "完全に伸ばし、ロックアウト時に三頭筋を強く絞ります。完全伸展で一時停止します。",
+        "ゆっくりスタート位置に戻します。ボトムでのストレッチとトップでの収縮に集中します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-pullover-hip-extension-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-pullover-hip-extension-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-pullover-hip-extension-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-pullover-on-exercise-ball",
+      "slug": "dumbbell-pullover-on-exercise-ball",
+      "name": "ダンベル・バランスボール・プルオーバー",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチに仰向けになり、重りを胸の上で腕を伸ばして持ちます。肘に軽い曲がりを保ちます。",
+        "重りを頭の後ろにアーチを描いて下ろし、広背筋と胸に深いストレッチを感じます。快適な範囲だけ行きます。",
+        "広背筋を使って重りを胸の上に戻します。大きなアーチで重りをすくい上げるイメージです。肘の曲がりは同じに保ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-pullover-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-pullover-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-pullover-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-pullover",
+      "slug": "dumbbell-pullover",
+      "name": "ダンベル・プルオーバー",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチに仰向けになり、重りを胸の上で腕を伸ばして持ちます。肘に軽い曲がりを保ちます。",
+        "重りを頭の後ろにアーチを描いて下ろし、広背筋と胸に深いストレッチを感じます。快適な範囲だけ行きます。",
+        "広背筋を使って重りを胸の上に戻します。大きなアーチで重りをすくい上げるイメージです。肘の曲がりは同じに保ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-pullover.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-pullover.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-pullover.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-reverse-bench-press",
+      "slug": "dumbbell-reverse-bench-press",
+      "name": "ダンベル・リバース・ベンチプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-reverse-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-reverse-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-reverse-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/dumbbell-straight-arm-pullover",
+      "slug": "dumbbell-straight-arm-pullover",
+      "name": "ダンベル・ストレートアーム・プルオーバー",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチに仰向けになり、重りを胸の上で腕を伸ばして持ちます。肘に軽い曲がりを保ちます。",
+        "重りを頭の後ろにアーチを描いて下ろし、広背筋と胸に深いストレッチを感じます。快適な範囲だけ行きます。",
+        "広背筋を使って重りを胸の上に戻します。大きなアーチで重りをすくい上げるイメージです。肘の曲がりは同じに保ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/dumbbell-straight-arm-pullover.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-straight-arm-pullover.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-straight-arm-pullover.thumb.webp"
+    },
+    {
+      "id": "pectorals/dynamic-chest-stretch-male",
+      "slug": "dynamic-chest-stretch-male",
+      "name": "ストレッチ・ダイナミック・チェスト",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ターゲットエリアに優しい緊張を感じるまでゆっくりストレッチ位置に移動します。痛みではありません。",
+        "深く呼吸しながら20〜40秒キープします。各呼気で、もう少しストレッチに沈んでみます。",
+        "ゆっくり解放し、必要に応じて繰り返します。強度より一貫性が重要です。持続的な柔軟性のために定期的にストレッチしましょう。",
+        "ホールド中は深く安定した呼吸を続けてください。ストレッチ中は決して息を止めないでください。"
+      ],
+      "file": "pectorals/dynamic-chest-stretch-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dynamic-chest-stretch-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dynamic-chest-stretch-male.thumb.webp"
+    },
+    {
+      "id": "pectorals/exercise-ball-pike-push-up",
+      "slug": "exercise-ball-pike-push-up",
+      "name": "バランスボール・腕立て伏せ・パイク",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "abs",
+        "traps"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "バーにぶら下がるか、腕を支えた状態でセットします。脚をまっすぐ垂らし、体幹を引き締めてスタートします。",
+        "骨盤を傾けて脚を上げます。足を上げるのではなく、ベルトのバックルを顎に近づけるイメージです。",
+        "振らずにゆっくり下ろします。振れるなら、膝を曲げてレバーアームを短くします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/exercise-ball-pike-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/exercise-ball-pike-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/exercise-ball-pike-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/floor-fly-with-barbell",
+      "slug": "floor-fly-with-barbell",
+      "name": "バーベル・フライ・フロア",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/floor-fly-with-barbell.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/floor-fly-with-barbell.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/floor-fly-with-barbell.thumb.webp"
+    },
+    {
+      "id": "pectorals/full-planche-push-up",
+      "slug": "full-planche-push-up",
+      "name": "腕立て伏せ・フル・プランシェ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "abs",
+        "traps"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/full-planche-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/full-planche-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/full-planche-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/hands-bike",
+      "slug": "hands-bike",
+      "name": "ハンド・バイク",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "サドルとハンドルを体に合わせて調整します。ペダル最下点で膝が軽く曲がるように座ります。",
+        "スムーズにペダリングし、円運動で押し下げ引き上げます。目標抵抗で一定のケイデンスを維持します。",
+        "まっすぐな姿勢を保ち、体幹を活性化し、運動中ずっとリズミカルに呼吸します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/hands-bike.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/hands-bike.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/hands-bike.thumb.webp"
+    },
+    {
+      "id": "pectorals/hyght-dumbbell-fly",
+      "slug": "hyght-dumbbell-fly",
+      "name": "ハイダンベルフライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/hyght-dumbbell-fly.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/hyght-dumbbell-fly.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/hyght-dumbbell-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/incline-push-up-depth-jump",
+      "slug": "incline-push-up-depth-jump",
+      "name": "インクライン・腕立て伏せ・デプス・ジャンプ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：ジャンプや爆発的な動作で鋭く息を吐きます。力を溜める局面で吸います。"
+      ],
+      "file": "pectorals/incline-push-up-depth-jump.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/incline-push-up-depth-jump.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/incline-push-up-depth-jump.thumb.webp"
+    },
+    {
+      "id": "pectorals/incline-push-up-on-box",
+      "slug": "incline-push-up-on-box",
+      "name": "インクライン・腕立て伏せ・ボックス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/incline-push-up-on-box.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/incline-push-up-on-box.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/incline-push-up-on-box.thumb.webp"
+    },
+    {
+      "id": "pectorals/incline-push-up",
+      "slug": "incline-push-up",
+      "name": "インクライン・腕立て伏せ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/incline-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/incline-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/incline-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/incline-reverse-grip-push-up",
+      "slug": "incline-reverse-grip-push-up",
+      "name": "リバースグリップ・インクライン・腕立て伏せ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/incline-reverse-grip-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/incline-reverse-grip-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/incline-reverse-grip-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/isometric-chest-squeeze",
+      "slug": "isometric-chest-squeeze",
+      "name": "アイソメトリック・チェスト・スクイーズ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "指示されたホールド位置に入り、カウントを始める前にターゲット筋を完全に活性化します。",
+        "処方された時間ポジションをキープします。動きを許さずに抵抗に対して押します。",
+        "ゆっくり解放し、セット間に休憩します。最大テンションに集中します。負荷下の毎秒が大切です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/isometric-chest-squeeze.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/isometric-chest-squeeze.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/isometric-chest-squeeze.thumb.webp"
+    },
+    {
+      "id": "pectorals/isometric-wipers",
+      "slug": "isometric-wipers",
+      "name": "アイソメトリック・ワイパー",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "指示されたホールド位置に入り、カウントを始める前にターゲット筋を完全に活性化します。",
+        "処方された時間ポジションをキープします。動きを許さずに抵抗に対して押します。",
+        "ゆっくり解放し、セット間に休憩します。最大テンションに集中します。負荷下の毎秒が大切です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/isometric-wipers.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/isometric-wipers.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/isometric-wipers.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-alternating-press-on-floor",
+      "slug": "kettlebell-alternating-press-on-floor",
+      "name": "ケトルベル・オルタネイト・プレス・フロア",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/kettlebell-alternating-press-on-floor.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-alternating-press-on-floor.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-alternating-press-on-floor.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-extended-range-one-arm-press-on-floor",
+      "slug": "kettlebell-extended-range-one-arm-press-on-floor",
+      "name": "ケトルベル・ワンアーム・プレス・エクステンデッド・レンジ・フロア",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/kettlebell-extended-range-one-arm-press-on-floor.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-extended-range-one-arm-press-on-floor.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-extended-range-one-arm-press-on-floor.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-one-arm-floor-press",
+      "slug": "kettlebell-one-arm-floor-press",
+      "name": "ケトルベル・ワンアーム・フロアプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/kettlebell-one-arm-floor-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-one-arm-floor-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-one-arm-floor-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-plyo-push-up",
+      "slug": "kettlebell-plyo-push-up",
+      "name": "ケトルベル・腕立て伏せ・プライオ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：ジャンプや爆発的な動作で鋭く息を吐きます。力を溜める局面で吸います。"
+      ],
+      "file": "pectorals/kettlebell-plyo-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-plyo-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-plyo-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/kneeling-push-up-male",
+      "slug": "kneeling-push-up-male",
+      "name": "ニーリング・腕立て伏せ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "膝を立て、腰を膝の真上に位置させ、上体を直立に保ちます。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/kneeling-push-up-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kneeling-push-up-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kneeling-push-up-male.thumb.webp"
+    },
+    {
+      "id": "pectorals/korean-dips",
+      "slug": "korean-dips",
+      "name": "ディップス・コリアン",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "平行バーを握り、トップでロックします。胸を強調するなら少し前傾、三頭筋なら直立を保ちます。",
+        "上腕が少なくとも床と平行になるまで肘を曲げて下ります。下降をコントロールします。落ちてはいけません。",
+        "爆発的にロックアウトまで押し上げ、トップでターゲット筋を絞ります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/korean-dips.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/korean-dips.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/korean-dips.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-chest-press-0577",
+      "slug": "lever-chest-press-0577",
+      "name": "マシン・チェストプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/lever-chest-press-0577.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-chest-press-0577.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-chest-press-0577.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-chest-press",
+      "slug": "lever-chest-press",
+      "name": "マシン・チェストプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/lever-chest-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-chest-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-decline-chest-press",
+      "slug": "lever-decline-chest-press",
+      "name": "マシン・デクライン・チェストプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "ベンチをデクラインに設定し、足をパッドの下に固定します。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/lever-decline-chest-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-decline-chest-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-decline-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-incline-chest-press-v-2",
+      "slug": "lever-incline-chest-press-v-2",
+      "name": "マシン・インクライン・チェストプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/lever-incline-chest-press-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-incline-chest-press-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-incline-chest-press-v-2.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-incline-chest-press",
+      "slug": "lever-incline-chest-press",
+      "name": "マシン・インクライン・チェストプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/lever-incline-chest-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-incline-chest-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-incline-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-seated-fly",
+      "slug": "lever-seated-fly",
+      "name": "マシン・シーテッド・フライ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/lever-seated-fly.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-seated-fly.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-seated-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-standing-chest-press",
+      "slug": "lever-standing-chest-press",
+      "name": "マシン・スタンディング・チェストプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/lever-standing-chest-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-standing-chest-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-standing-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/machine-inner-chest-press",
+      "slug": "machine-inner-chest-press",
+      "name": "マシン・チェストプレス・インナー",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/machine-inner-chest-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/machine-inner-chest-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/machine-inner-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/medicine-ball-chest-pass",
+      "slug": "medicine-ball-chest-pass",
+      "name": "メディシンボール・チェスト・パス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "メディシンボールを両手で持ちます。足を固定し、圧縮されたバネのように腰と体幹を溜めます。",
+        "全身を使って爆発的に投げるか叩きます。腰が先、次に体幹、次に腕。各レップに最大の意図を込めます。",
+        "ボールを回収（またはキャッチ）し、リセットして繰り返します。各レップは最初のレップと同じくらい強力であるべきです。量より質。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/medicine-ball-chest-pass.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/medicine-ball-chest-pass.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/medicine-ball-chest-pass.thumb.webp"
+    },
+    {
+      "id": "pectorals/medicine-ball-chest-push-from-3-point-stance",
+      "slug": "medicine-ball-chest-push-from-3-point-stance",
+      "name": "メディシンボール・チェスト・プッシュ・ポイント・スタンス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "メディシンボールを両手で持ちます。足を固定し、圧縮されたバネのように腰と体幹を溜めます。",
+        "全身を使って爆発的に投げるか叩きます。腰が先、次に体幹、次に腕。各レップに最大の意図を込めます。",
+        "ボールを回収（またはキャッチ）し、リセットして繰り返します。各レップは最初のレップと同じくらい強力であるべきです。量より質。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/medicine-ball-chest-push-from-3-point-stance.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/medicine-ball-chest-push-from-3-point-stance.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/medicine-ball-chest-push-from-3-point-stance.thumb.webp"
+    },
+    {
+      "id": "pectorals/medicine-ball-chest-push-multiple-response",
+      "slug": "medicine-ball-chest-push-multiple-response",
+      "name": "メディシンボール・チェスト・プッシュ・マルチ・レスポンス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "メディシンボールを両手で持ちます。足を固定し、圧縮されたバネのように腰と体幹を溜めます。",
+        "全身を使って爆発的に投げるか叩きます。腰が先、次に体幹、次に腕。各レップに最大の意図を込めます。",
+        "ボールを回収（またはキャッチ）し、リセットして繰り返します。各レップは最初のレップと同じくらい強力であるべきです。量より質。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/medicine-ball-chest-push-multiple-response.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/medicine-ball-chest-push-multiple-response.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/medicine-ball-chest-push-multiple-response.thumb.webp"
+    },
+    {
+      "id": "pectorals/medicine-ball-chest-push-single-response",
+      "slug": "medicine-ball-chest-push-single-response",
+      "name": "メディシンボール・チェスト・プッシュ・シングル・レスポンス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "メディシンボールを両手で持ちます。足を固定し、圧縮されたバネのように腰と体幹を溜めます。",
+        "全身を使って爆発的に投げるか叩きます。腰が先、次に体幹、次に腕。各レップに最大の意図を込めます。",
+        "ボールを回収（またはキャッチ）し、リセットして繰り返します。各レップは最初のレップと同じくらい強力であるべきです。量より質。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/medicine-ball-chest-push-single-response.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/medicine-ball-chest-push-single-response.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/medicine-ball-chest-push-single-response.thumb.webp"
+    },
+    {
+      "id": "pectorals/medicine-ball-chest-push-with-run-release",
+      "slug": "medicine-ball-chest-push-with-run-release",
+      "name": "メディシンボール・チェスト・プッシュ・ラン・リリース",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足首からわずかに前傾した直立姿勢をとります。腕は90°で自然に振ります。",
+        "膝を前に推進し、ミッドフットで着地します。スムーズで一定のケイデンスを維持します。",
+        "運動中ずっと体幹を活性化し、呼吸リズムを維持します。鼻から吸い、口から吐きます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/medicine-ball-chest-push-with-run-release.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/medicine-ball-chest-push-with-run-release.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/medicine-ball-chest-push-with-run-release.thumb.webp"
+    },
+    {
+      "id": "pectorals/modified-hindu-push-up-male",
+      "slug": "modified-hindu-push-up-male",
+      "name": "ヒンドゥー・腕立て伏せ・モディファイド",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/modified-hindu-push-up-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/modified-hindu-push-up-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/modified-hindu-push-up-male.thumb.webp"
+    },
+    {
+      "id": "pectorals/plyo-push-up",
+      "slug": "plyo-push-up",
+      "name": "腕立て伏せ・プライオ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：ジャンプや爆発的な動作で鋭く息を吐きます。力を溜める局面で吸います。"
+      ],
+      "file": "pectorals/plyo-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/plyo-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/plyo-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/push-and-pull-bodyweight",
+      "slug": "push-and-pull-bodyweight",
+      "name": "自重・プッシュ・プル",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "動作を開始する前に大胸筋を活性化させます。マインド-マッスルコネクションを感じてください。",
+        "コンセントリックとエキセントリックの両方のフェーズを完全にコントロールして動作を行います。",
+        "下降をコントロールしながらスタートポジションに戻ります——エキセントリックフェーズは挙上と同じだけ筋肉を成長させます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/push-and-pull-bodyweight.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/push-and-pull-bodyweight.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/push-and-pull-bodyweight.thumb.webp"
+    },
+    {
+      "id": "pectorals/push-up-bosu-ball",
+      "slug": "push-up-bosu-ball",
+      "name": "BOSUボール・腕立て伏せ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/push-up-bosu-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/push-up-bosu-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/push-up-bosu-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/push-up-medicine-ball",
+      "slug": "push-up-medicine-ball",
+      "name": "メディシンボール・腕立て伏せ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/push-up-medicine-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/push-up-medicine-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/push-up-medicine-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/push-up-on-bosu-ball",
+      "slug": "push-up-on-bosu-ball",
+      "name": "BOSUボール・腕立て伏せ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/push-up-on-bosu-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/push-up-on-bosu-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/push-up-on-bosu-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/push-up-on-stability-ball-0656",
+      "slug": "push-up-on-stability-ball-0656",
+      "name": "バランスボール・腕立て伏せ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/push-up-on-stability-ball-0656.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/push-up-on-stability-ball-0656.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/push-up-on-stability-ball-0656.thumb.webp"
+    },
+    {
+      "id": "pectorals/push-up-on-stability-ball",
+      "slug": "push-up-on-stability-ball",
+      "name": "バランスボール・腕立て伏せ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/push-up-on-stability-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/push-up-on-stability-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/push-up-on-stability-ball.thumb.webp"
+    },
+    {
+      "id": "pectorals/push-up-plus",
+      "slug": "push-up-plus",
+      "name": "腕立て伏せ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/push-up-plus.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/push-up-plus.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/push-up-plus.thumb.webp"
+    },
+    {
+      "id": "pectorals/push-up-wall-v-2",
+      "slug": "push-up-wall-v-2",
+      "name": "腕立て伏せ・ウォール",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/push-up-wall-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/push-up-wall-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/push-up-wall-v-2.thumb.webp"
+    },
+    {
+      "id": "pectorals/push-up-wall",
+      "slug": "push-up-wall",
+      "name": "腕立て伏せ・ウォール",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/push-up-wall.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/push-up-wall.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/push-up-wall.thumb.webp"
+    },
+    {
+      "id": "pectorals/push-up",
+      "slug": "push-up",
+      "name": "腕立て伏せ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/raise-single-arm-push-up",
+      "slug": "raise-single-arm-push-up",
+      "name": "ワンアーム・レイズ・腕立て伏せ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/raise-single-arm-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/raise-single-arm-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/raise-single-arm-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/resistance-band-seated-chest-press",
+      "slug": "resistance-band-seated-chest-press",
+      "name": "レジスタンスバンド・シーテッド・チェストプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "レジスタンスバンドを正しいアンカーポイントに固定し、初期テンションがあることを確認します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/resistance-band-seated-chest-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/resistance-band-seated-chest-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/resistance-band-seated-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/roller-seated-shoulder-flexor-depresor-retractor",
+      "slug": "roller-seated-shoulder-flexor-depresor-retractor",
+      "name": "シーテッド・ローラー・ショルダー・屈筋・デプレッサー・リトラクター",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "膝立ち（上級者は立位）でホイールに手を置きます。膝の上に腰、腕を伸ばしてスタートします。",
+        "体幹を岩のように固く保ちながら肩から伸ばして前に転がります。腰を落とさず、力強く引き締めます。",
+        "腹筋で引き戻します。へそを背骨に引き寄せるイメージです。コントロールできる範囲だけ行きます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/roller-seated-shoulder-flexor-depresor-retractor.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/roller-seated-shoulder-flexor-depresor-retractor.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/roller-seated-shoulder-flexor-depresor-retractor.thumb.webp"
+    },
+    {
+      "id": "pectorals/roller-seated-single-leg-shoulder-flexor-depresor-retractor",
+      "slug": "roller-seated-single-leg-shoulder-flexor-depresor-retractor",
+      "name": "シーテッド・ワンレッグ・ローラー・ショルダー・屈筋・デプレッサー・リトラクター",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "膝立ち（上級者は立位）でホイールに手を置きます。膝の上に腰、腕を伸ばしてスタートします。",
+        "体幹を岩のように固く保ちながら肩から伸ばして前に転がります。腰を落とさず、力強く引き締めます。",
+        "腹筋で引き戻します。へそを背骨に引き寄せるイメージです。コントロールできる範囲だけ行きます。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/roller-seated-single-leg-shoulder-flexor-depresor-retractor.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/roller-seated-single-leg-shoulder-flexor-depresor-retractor.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/roller-seated-single-leg-shoulder-flexor-depresor-retractor.thumb.webp"
+    },
+    {
+      "id": "pectorals/shoulder-tap-push-up",
+      "slug": "shoulder-tap-push-up",
+      "name": "腕立て伏せ・ショルダー・タップ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/shoulder-tap-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/shoulder-tap-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/shoulder-tap-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/single-arm-push-up",
+      "slug": "single-arm-push-up",
+      "name": "ワンアーム・腕立て伏せ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/single-arm-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/single-arm-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/single-arm-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-bench-press",
+      "slug": "smith-bench-press",
+      "name": "スミスマシン・ベンチプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "スミスマシンのバーの高さを設定し、適切な重量をセットします。バーの下にポジションを取ります。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/smith-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-decline-bench-press",
+      "slug": "smith-decline-bench-press",
+      "name": "スミスマシン・デクライン・ベンチプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "スミスマシンのバーの高さを設定し、適切な重量をセットします。バーの下にポジションを取ります。",
+        "ベンチをデクラインに設定し、足をパッドの下に固定します。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/smith-decline-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-decline-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-decline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-decline-reverse-grip-press",
+      "slug": "smith-decline-reverse-grip-press",
+      "name": "スミスマシン・リバースグリップ・デクライン・プレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "スミスマシンのバーの高さを設定し、適切な重量をセットします。バーの下にポジションを取ります。",
+        "ベンチをデクラインに設定し、足をパッドの下に固定します。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/smith-decline-reverse-grip-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-decline-reverse-grip-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-decline-reverse-grip-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-incline-bench-press",
+      "slug": "smith-incline-bench-press",
+      "name": "スミスマシン・インクライン・ベンチプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "スミスマシンのバーの高さを設定し、適切な重量をセットします。バーの下にポジションを取ります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/smith-incline-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-incline-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-incline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-incline-reverse-grip-press",
+      "slug": "smith-incline-reverse-grip-press",
+      "name": "スミスマシン・リバースグリップ・インクライン・プレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "スミスマシンのバーの高さを設定し、適切な重量をセットします。バーの下にポジションを取ります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/smith-incline-reverse-grip-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-incline-reverse-grip-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-incline-reverse-grip-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-machine-reverse-decline-close-grip-bench-press",
+      "slug": "smith-machine-reverse-decline-close-grip-bench-press",
+      "name": "スミスマシン・リバース・デクライン・ナローグリップ・ベンチプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "スミスマシンのバーの高さを設定し、適切な重量をセットします。バーの下にポジションを取ります。",
+        "ベンチをデクラインに設定し、足をパッドの下に固定します。",
+        "ナローグリップを使い、手の間隔を約15cmにして内側への刺激を高めます。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/smith-machine-reverse-decline-close-grip-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-machine-reverse-decline-close-grip-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-machine-reverse-decline-close-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-reverse-grip-press",
+      "slug": "smith-reverse-grip-press",
+      "name": "スミスマシン・リバースグリップ・プレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "スミスマシンのバーの高さを設定し、適切な重量をセットします。バーの下にポジションを取ります。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/smith-reverse-grip-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-reverse-grip-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-reverse-grip-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-wide-grip-bench-press",
+      "slug": "smith-wide-grip-bench-press",
+      "name": "スミスマシン・ワイドグリップ・ベンチプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "スミスマシンのバーの高さを設定し、適切な重量をセットします。バーの下にポジションを取ります。",
+        "ワイドグリップを使い、肩幅よりかなり広く握って、ストレッチと外側への刺激を高めます。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/smith-wide-grip-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-wide-grip-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-wide-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-wide-grip-decline-bench-press",
+      "slug": "smith-wide-grip-decline-bench-press",
+      "name": "スミスマシン・ワイドグリップ・デクライン・ベンチプレス",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "スミスマシンのバーの高さを設定し、適切な重量をセットします。バーの下にポジションを取ります。",
+        "ベンチをデクラインに設定し、足をパッドの下に固定します。",
+        "ワイドグリップを使い、肩幅よりかなり広く握って、ストレッチと外側への刺激を高めます。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/smith-wide-grip-decline-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-wide-grip-decline-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-wide-grip-decline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/superman-push-up",
+      "slug": "superman-push-up",
+      "name": "スーパーマン・腕立て伏せ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/superman-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/superman-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/superman-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/suspended-push-up",
+      "slug": "suspended-push-up",
+      "name": "サスペンション・腕立て伏せ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/suspended-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/suspended-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/suspended-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/weighted-drop-push-up",
+      "slug": "weighted-drop-push-up",
+      "name": "加重・腕立て伏せ・ドロップ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/weighted-drop-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/weighted-drop-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/weighted-drop-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/weighted-straight-bar-dip",
+      "slug": "weighted-straight-bar-dip",
+      "name": "ストレートバー・加重・ディップ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "平行バーを握り、トップでロックします。胸を強調するなら少し前傾、三頭筋なら直立を保ちます。",
+        "上腕が少なくとも床と平行になるまで肘を曲げて下ります。下降をコントロールします。落ちてはいけません。",
+        "爆発的にロックアウトまで押し上げ、トップでターゲット筋を絞ります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/weighted-straight-bar-dip.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/weighted-straight-bar-dip.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/weighted-straight-bar-dip.thumb.webp"
+    },
+    {
+      "id": "pectorals/weighted-svend-press",
+      "slug": "weighted-svend-press",
+      "name": "加重・プレス・スベンド",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/weighted-svend-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/weighted-svend-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/weighted-svend-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/wide-grip-chest-dip-on-high-parallel-bars",
+      "slug": "wide-grip-chest-dip-on-high-parallel-bars",
+      "name": "ワイドグリップ・ハイ・チェストディップ・パラレル・バー",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ワイドグリップを使い、肩幅よりかなり広く握って、ストレッチと外側への刺激を高めます。",
+        "平行バーを握り、トップでロックします。胸を強調するなら少し前傾、三頭筋なら直立を保ちます。",
+        "上腕が少なくとも床と平行になるまで肘を曲げて下ります。下降をコントロールします。落ちてはいけません。",
+        "爆発的にロックアウトまで押し上げ、トップでターゲット筋を絞ります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/wide-grip-chest-dip-on-high-parallel-bars.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/wide-grip-chest-dip-on-high-parallel-bars.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/wide-grip-chest-dip-on-high-parallel-bars.thumb.webp"
+    },
+    {
+      "id": "pectorals/wide-hand-push-up",
+      "slug": "wide-hand-push-up",
+      "name": "ワイド・腕立て伏せ・ハンド",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/wide-hand-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/wide-hand-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/wide-hand-push-up.thumb.webp"
+    }
+  ]
+}

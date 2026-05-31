@@ -1,0 +1,1115 @@
+{
+  "equipment": "smith",
+  "count": 48,
+  "exercises": [
+    {
+      "id": "abs/smith-hip-raise",
+      "slug": "smith-hip-raise",
+      "name": "史密斯机举髋",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "悬挂在杠上或用手臂支撑就位。开始时腿自然下垂，核心收紧。",
+        "通过骨盆后倾抬起双腿——想着把腰带扣带向下巴，而不是只抬脚。",
+        "缓慢控制下降，不要摆动。如果摆动，弯曲膝盖以缩短力臂。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "abs/smith-hip-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/smith-hip-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/smith-hip-raise.thumb.webp"
+    },
+    {
+      "id": "biceps/smith-machine-bicep-curl",
+      "slug": "smith-machine-bicep-curl",
+      "name": "史密斯机二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/smith-machine-bicep-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/smith-machine-bicep-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/smith-machine-bicep-curl.thumb.webp"
+    },
+    {
+      "id": "calves/smith-one-leg-floor-calf-raise",
+      "slug": "smith-one-leg-floor-calf-raise",
+      "name": "史密斯机单腿提踵地面",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "站在台阶或平台边缘，脚跟悬空。如需平衡可抓住支撑物。",
+        "尽可能高地踮起脚尖，在顶部用力收紧小腿保持2秒。",
+        "缓慢下放超过平台边缘，直到感受到小腿的深度拉伸。不要弹跳——掌控每一厘米。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "calves/smith-one-leg-floor-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-one-leg-floor-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-one-leg-floor-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/smith-reverse-calf-raises-1394",
+      "slug": "smith-reverse-calf-raises-1394",
+      "name": "史密斯机反向举小腿",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "站在台阶或平台边缘，脚跟悬空。如需平衡可抓住支撑物。",
+        "尽可能高地踮起脚尖，在顶部用力收紧小腿保持2秒。",
+        "缓慢下放超过平台边缘，直到感受到小腿的深度拉伸。不要弹跳——掌控每一厘米。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "calves/smith-reverse-calf-raises-1394.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-reverse-calf-raises-1394.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-reverse-calf-raises-1394.thumb.webp"
+    },
+    {
+      "id": "calves/smith-reverse-calf-raises",
+      "slug": "smith-reverse-calf-raises",
+      "name": "史密斯机反向举小腿",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "站在台阶或平台边缘，脚跟悬空。如需平衡可抓住支撑物。",
+        "尽可能高地踮起脚尖，在顶部用力收紧小腿保持2秒。",
+        "缓慢下放超过平台边缘，直到感受到小腿的深度拉伸。不要弹跳——掌控每一厘米。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "calves/smith-reverse-calf-raises.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-reverse-calf-raises.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-reverse-calf-raises.thumb.webp"
+    },
+    {
+      "id": "calves/smith-seated-one-leg-calf-raise",
+      "slug": "smith-seated-one-leg-calf-raise",
+      "name": "史密斯机坐姿单腿提踵",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "站在台阶或平台边缘，脚跟悬空。如需平衡可抓住支撑物。",
+        "尽可能高地踮起脚尖，在顶部用力收紧小腿保持2秒。",
+        "缓慢下放超过平台边缘，直到感受到小腿的深度拉伸。不要弹跳——掌控每一厘米。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "calves/smith-seated-one-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-seated-one-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-seated-one-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/smith-standing-leg-calf-raise",
+      "slug": "smith-standing-leg-calf-raise",
+      "name": "史密斯机站姿提踵腿",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "站在台阶或平台边缘，脚跟悬空。如需平衡可抓住支撑物。",
+        "尽可能高地踮起脚尖，在顶部用力收紧小腿保持2秒。",
+        "缓慢下放超过平台边缘，直到感受到小腿的深度拉伸。不要弹跳——掌控每一厘米。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "calves/smith-standing-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-standing-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-standing-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/smith-toe-raise",
+      "slug": "smith-toe-raise",
+      "name": "史密斯机举脚趾",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "站好或坐好在起始位置，重量准备好，核心收紧。",
+        "沿指定的运动轨迹抬起重量，肘部微曲。在肩膀高度停止，除非另有说明。",
+        "缓慢控制下放，在整个下降过程中对抗重力。不要用惯性——掌控每一厘米。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "calves/smith-toe-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-toe-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-toe-raise.thumb.webp"
+    },
+    {
+      "id": "delts/smith-behind-neck-press",
+      "slug": "smith-behind-neck-press",
+      "name": "史密斯机颈后推举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/smith-behind-neck-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-behind-neck-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-behind-neck-press.thumb.webp"
+    },
+    {
+      "id": "delts/smith-rear-delt-row",
+      "slug": "smith-rear-delt-row",
+      "name": "史密斯机后划船三角肌",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/smith-rear-delt-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-rear-delt-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-rear-delt-row.thumb.webp"
+    },
+    {
+      "id": "delts/smith-seated-shoulder-press",
+      "slug": "smith-seated-shoulder-press",
+      "name": "史密斯机坐姿肩部推举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/smith-seated-shoulder-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-seated-shoulder-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-seated-shoulder-press.thumb.webp"
+    },
+    {
+      "id": "delts/smith-shoulder-press",
+      "slug": "smith-shoulder-press",
+      "name": "史密斯机肩部推举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/smith-shoulder-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-shoulder-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-shoulder-press.thumb.webp"
+    },
+    {
+      "id": "delts/smith-standing-behind-head-military-press",
+      "slug": "smith-standing-behind-head-military-press",
+      "name": "史密斯机站姿军事推举背后头",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/smith-standing-behind-head-military-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-standing-behind-head-military-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-standing-behind-head-military-press.thumb.webp"
+    },
+    {
+      "id": "delts/smith-standing-military-press",
+      "slug": "smith-standing-military-press",
+      "name": "史密斯机站姿军事推举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/smith-standing-military-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-standing-military-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-standing-military-press.thumb.webp"
+    },
+    {
+      "id": "delts/smith-upright-row",
+      "slug": "smith-upright-row",
+      "name": "史密斯机直立划船",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "traps"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将重量持于大腿前方，手臂伸直。挺直站立，核心收紧。",
+        "沿身体向上拉重量，肘部引导朝向天花板。当肘部到达肩膀高度时停止。",
+        "将重量缓慢放回起始位置。如果感到肩膀夹痛，稍微加宽握距。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/smith-upright-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-upright-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-upright-row.thumb.webp"
+    },
+    {
+      "id": "forearms/smith-seated-wrist-curl",
+      "slug": "smith-seated-wrist-curl",
+      "name": "史密斯机坐姿腕弯举",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "将前臂放在大腿或凳子上，手腕悬出边缘。前臂紧贴支撑面。",
+        "向上弯曲手腕，在顶部收紧前臂肌肉。短暂停顿。",
+        "缓慢下放，让重量充分拉伸手腕。只有手腕在动——前臂保持不动。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "forearms/smith-seated-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/smith-seated-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/smith-seated-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/smith-standing-back-wrist-curl",
+      "slug": "smith-standing-back-wrist-curl",
+      "name": "史密斯机站姿腕弯举背",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将前臂放在大腿或凳子上，手腕悬出边缘。前臂紧贴支撑面。",
+        "向上弯曲手腕，在顶部收紧前臂肌肉。短暂停顿。",
+        "缓慢下放，让重量充分拉伸手腕。只有手腕在动——前臂保持不动。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "forearms/smith-standing-back-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/smith-standing-back-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/smith-standing-back-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-bent-knee-good-morning",
+      "slug": "smith-bent-knee-good-morning",
+      "name": "史密斯机屈膝早安式体前屈",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "膝盖微曲，从髋部折叠将臀部向后推——想象用臀部关上车门。",
+        "下降直到感受到腘绳肌的深度拉伸，保持背部平直。一根扫帚放在脊柱上应该接触头部、中背和尾骨。",
+        "将髋部向前推动站起来，在顶部用力收紧臀肌。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/smith-bent-knee-good-morning.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-bent-knee-good-morning.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-bent-knee-good-morning.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-deadlift",
+      "slug": "smith-deadlift",
+      "name": "史密斯机硬拉",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "双脚与髋同宽站立，杠铃在脚掌中间上方。屈髋，抬胸，夹紧腋窝以激活背阔肌。",
+        "用腿将地面推开——髋部和肩膀像电梯一样同时上升。让杠铃沿腿部上移，就像在刮腿毛。",
+        "在顶部完全站直，收紧臀肌像夹住一枚硬币。通过向后屈髋反向动作，让杠铃沿大腿滑下——它永远不离开身体。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/smith-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-front-squat-clean-grip",
+      "slug": "smith-front-squat-clean-grip",
+      "name": "史密斯机前蹲翻举握",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/smith-front-squat-clean-grip.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-front-squat-clean-grip.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-front-squat-clean-grip.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-full-squat",
+      "slug": "smith-full-squat",
+      "name": "史密斯机深蹲全",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/smith-full-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-full-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-full-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-hack-squat",
+      "slug": "smith-hack-squat",
+      "name": "史密斯机深蹲哈克",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/smith-hack-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-hack-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-hack-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-leg-press",
+      "slug": "smith-leg-press",
+      "name": "史密斯机腿举",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+        "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+        "控制将重量收回，在整个运动范围内保持张力。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/smith-leg-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-leg-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-leg-press.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-low-bar-squat",
+      "slug": "smith-low-bar-squat",
+      "name": "史密斯机低位深蹲杠",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/smith-low-bar-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-low-bar-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-low-bar-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-sprint-lunge",
+      "slug": "smith-sprint-lunge",
+      "name": "史密斯机弓步冲刺",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "双脚与髋同宽站立（火车轨道，不是走钢丝）。迈步就位，躯干像旗杆一样挺直。",
+        "后膝像电梯一样直直下降——不要向前冲。两膝都瞄准90度。保持前胫骨垂直。",
+        "通过前脚跟发力站回来。想象通过前脚将地面推开。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/smith-sprint-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-sprint-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-sprint-lunge.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-squat",
+      "slug": "smith-squat",
+      "name": "史密斯机深蹲",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/smith-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-sumo-squat",
+      "slug": "smith-sumo-squat",
+      "name": "史密斯机相扑深蹲",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/smith-sumo-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-sumo-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-sumo-squat.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-bench-press",
+      "slug": "smith-bench-press",
+      "name": "史密斯机卧推",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/smith-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-decline-bench-press",
+      "slug": "smith-decline-bench-press",
+      "name": "史密斯机下斜卧推",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将凳子调整到下斜角度，双脚固定在脚垫下。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/smith-decline-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-decline-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-decline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-decline-reverse-grip-press",
+      "slug": "smith-decline-reverse-grip-press",
+      "name": "史密斯机反握下斜推举",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将凳子调整到下斜角度，双脚固定在脚垫下。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+        "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+        "控制将重量收回，在整个运动范围内保持张力。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/smith-decline-reverse-grip-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-decline-reverse-grip-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-decline-reverse-grip-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-incline-bench-press",
+      "slug": "smith-incline-bench-press",
+      "name": "史密斯机上斜卧推",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/smith-incline-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-incline-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-incline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-incline-reverse-grip-press",
+      "slug": "smith-incline-reverse-grip-press",
+      "name": "史密斯机反握上斜推举",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+        "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+        "控制将重量收回，在整个运动范围内保持张力。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/smith-incline-reverse-grip-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-incline-reverse-grip-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-incline-reverse-grip-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-machine-reverse-decline-close-grip-bench-press",
+      "slug": "smith-machine-reverse-decline-close-grip-bench-press",
+      "name": "史密斯机反向下斜窄握卧推",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将凳子调整到下斜角度，双脚固定在脚垫下。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/smith-machine-reverse-decline-close-grip-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-machine-reverse-decline-close-grip-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-machine-reverse-decline-close-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-reverse-grip-press",
+      "slug": "smith-reverse-grip-press",
+      "name": "史密斯机反握推举",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+        "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+        "控制将重量收回，在整个运动范围内保持张力。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/smith-reverse-grip-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-reverse-grip-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-reverse-grip-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-wide-grip-bench-press",
+      "slug": "smith-wide-grip-bench-press",
+      "name": "史密斯机宽握卧推",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "使用宽握，双手远超肩宽，增加拉伸和外侧刺激。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/smith-wide-grip-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-wide-grip-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-wide-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-wide-grip-decline-bench-press",
+      "slug": "smith-wide-grip-decline-bench-press",
+      "name": "史密斯机宽握下斜卧推",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将凳子调整到下斜角度，双脚固定在脚垫下。",
+        "使用宽握，双手远超肩宽，增加拉伸和外侧刺激。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/smith-wide-grip-decline-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-wide-grip-decline-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-wide-grip-decline-bench-press.thumb.webp"
+    },
+    {
+      "id": "quads/smith-chair-squat",
+      "slug": "smith-chair-squat",
+      "name": "史密斯机深蹲椅子",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/smith-chair-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/smith-chair-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/smith-chair-squat.thumb.webp"
+    },
+    {
+      "id": "quads/smith-single-leg-split-squat",
+      "slug": "smith-single-leg-split-squat",
+      "name": "史密斯机保加利亚分腿蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/smith-single-leg-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/smith-single-leg-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/smith-single-leg-split-squat.thumb.webp"
+    },
+    {
+      "id": "serratus-anterior/smith-incline-shoulder-raises",
+      "slug": "smith-incline-shoulder-raises",
+      "name": "史密斯机上斜举肩",
+      "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "进入俯卧撑或倾斜位置，手臂伸直锁定。",
+        "不弯曲肘部，通过前伸肩胛骨将身体推离地面——上背部向前弓起。",
+        "让肩胛骨缓慢回缩，胸部下沉，然后再次前伸。专注于前锯肌挤压肋骨的感觉。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "serratus-anterior/smith-incline-shoulder-raises.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/smith-incline-shoulder-raises.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/smith-incline-shoulder-raises.thumb.webp"
+    },
+    {
+      "id": "traps/smith-back-shrug",
+      "slug": "smith-back-shrug",
+      "name": "史密斯机耸肩背",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "手臂完全伸直，将重量持于体侧。挺直站立，肩膀放松。",
+        "将肩膀直接向耳朵方向耸起——不要转动。在顶部收缩2秒。",
+        "缓慢下放回来。整个过程保持手臂伸直——这完全是斜方肌的工作，不是二头肌。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "traps/smith-back-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-back-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-back-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/smith-shrug",
+      "slug": "smith-shrug",
+      "name": "史密斯机耸肩",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "手臂完全伸直，将重量持于体侧。挺直站立，肩膀放松。",
+        "将肩膀直接向耳朵方向耸起——不要转动。在顶部收缩2秒。",
+        "缓慢下放回来。整个过程保持手臂伸直——这完全是斜方肌的工作，不是二头肌。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "traps/smith-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-shrug.thumb.webp"
+    },
+    {
+      "id": "triceps/smith-close-grip-bench-press",
+      "slug": "smith-close-grip-bench-press",
+      "name": "史密斯机窄握卧推",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/smith-close-grip-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/smith-close-grip-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/smith-close-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/smith-machine-decline-close-grip-bench-press",
+      "slug": "smith-machine-decline-close-grip-bench-press",
+      "name": "史密斯机下斜窄握卧推",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将凳子调整到下斜角度，双脚固定在脚垫下。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/smith-machine-decline-close-grip-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/smith-machine-decline-close-grip-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/smith-machine-decline-close-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/smith-machine-incline-tricep-extension",
+      "slug": "smith-machine-incline-tricep-extension",
+      "name": "史密斯机上斜伸展三头肌",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "将肘部锁定在位——它们是空间中的固定点。只有前臂像门铰链一样移动。",
+        "完全伸展，在锁定时用力收紧三头肌。在完全伸展位短暂停顿。",
+        "缓慢回到起始位置。专注于底部的拉伸和顶部的收缩。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/smith-machine-incline-tricep-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/smith-machine-incline-tricep-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/smith-machine-incline-tricep-extension.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-bent-over-row",
+      "slug": "smith-bent-over-row",
+      "name": "史密斯机俯身划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/smith-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-narrow-row",
+      "slug": "smith-narrow-row",
+      "name": "史密斯机窄距划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/smith-narrow-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-narrow-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-narrow-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-one-arm-row",
+      "slug": "smith-one-arm-row",
+      "name": "史密斯机单臂划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/smith-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-reverse-grip-bent-over-row",
+      "slug": "smith-reverse-grip-bent-over-row",
+      "name": "史密斯机反握俯身划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/smith-reverse-grip-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-reverse-grip-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-reverse-grip-bent-over-row.thumb.webp"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "lats/reverse-grip-machine-lat-pulldown",
+  "slug": "reverse-grip-machine-lat-pulldown",
+  "name": "マシン・リバースグリップ・ラットプルダウン",
+  "muscle": "lats",
+  "bodyPart": "back",
+  "equipment": "machine",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "delts"
+  ],
+  "instructions": [
+    "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+    "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+    "バーを握り、太ももをパッドの下に固定します。少し後ろに傾き、肩甲骨を下げます。",
+    "肘を下後方に引きながら、バーを上胸に向けて引きます。バーを鎖骨に巻き付けるイメージです。",
+    "ボトムで広背筋を一瞬絞り、バーをゆっくり頭上に戻して広背筋の完全なストレッチを感じます。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "lats/reverse-grip-machine-lat-pulldown.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/reverse-grip-machine-lat-pulldown.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/reverse-grip-machine-lat-pulldown.thumb.webp"
+}

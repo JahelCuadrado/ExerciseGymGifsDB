@@ -1,0 +1,26 @@
+{
+  "id": "cardio/burpee",
+  "slug": "burpee",
+  "name": "波比跳",
+  "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "bodyweight",
+  "category": "cardio",
+  "secondaryMuscles": [
+    "pectorals",
+    "triceps",
+    "quads",
+    "glutes",
+    "abs"
+  ],
+  "instructions": [
+    "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+    "直立站好，然后下蹲将双手放在地面上。",
+    "跳或退步到俯卧撑位置。做一个俯卧撑（或跳过以提高速度）。",
+    "跳或迈步将脚收回到手边，然后爆发跳起，双手过头。轻柔落地并重复。",
+    "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+  ],
+  "file": "cardio/burpee.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/burpee.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/burpee.thumb.webp"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "traps/band-shrug",
+  "slug": "band-shrug",
+  "name": "弹力带耸肩",
+  "muscle": "traps",
+  "bodyPart": "back",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "将弹力带固定在正确的锚点，确保有初始张力。",
+    "手臂完全伸直，将重量持于体侧。挺直站立，肩膀放松。",
+    "将肩膀直接向耳朵方向耸起——不要转动。在顶部收缩2秒。",
+    "缓慢下放回来。整个过程保持手臂伸直——这完全是斜方肌的工作，不是二头肌。",
+    "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+  ],
+  "file": "traps/band-shrug.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/band-shrug.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/band-shrug.thumb.webp"
+}

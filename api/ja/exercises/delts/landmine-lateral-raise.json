@@ -1,0 +1,22 @@
+{
+  "id": "delts/landmine-lateral-raise",
+  "slug": "landmine-lateral-raise",
+  "name": "ランドマイン・サイドレイズ",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+    "重りを体側に持ち、わずかに前傾します。肘に軽い曲がりを持たせます。",
+    "2つの水差しから水を注ぐように肘でリードしながら腕を横に上げます。肩の高さで止めます。",
+    "重力に抵抗しながらゆっくりコントロールして下ろします。勢いを使わないでください。必要なら軽い重量にします。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "delts/landmine-lateral-raise.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/landmine-lateral-raise.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/landmine-lateral-raise.thumb.webp"
+}

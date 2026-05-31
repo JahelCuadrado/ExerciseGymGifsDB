@@ -1,0 +1,2202 @@
+{
+  "muscle": "upper-back",
+  "count": 87,
+  "exercises": [
+    {
+      "id": "upper-back/back-lever",
+      "slug": "back-lever",
+      "name": "固定器械背",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "在进入保持位置之前，在全身建立张力。收紧一切——臀肌、核心、背阔肌、腿。",
+        "控制地进入位置，保持全身刚性。将你的身体想象成一块笔直的木板。",
+        "保持规定时间，或做控制的重复。如果无法保持完美形式，练习该动作的退阶版本。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/back-lever.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/back-lever.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/back-lever.thumb.webp"
+    },
+    {
+      "id": "upper-back/band-one-arm-standing-low-row",
+      "slug": "band-one-arm-standing-low-row",
+      "name": "弹力带站姿单臂低位划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "将弹力带固定在正确的锚点，确保有初始张力。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/band-one-arm-standing-low-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/band-one-arm-standing-low-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/band-one-arm-standing-low-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/band-one-arm-twisting-seated-row",
+      "slug": "band-one-arm-twisting-seated-row",
+      "name": "弹力带坐姿单臂转体划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "将弹力带固定在正确的锚点，确保有初始张力。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/band-one-arm-twisting-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/band-one-arm-twisting-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/band-one-arm-twisting-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-bent-over-row",
+      "slug": "barbell-bent-over-row",
+      "name": "杠铃俯身划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/barbell-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-incline-row",
+      "slug": "barbell-incline-row",
+      "name": "杠铃上斜划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/barbell-incline-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-incline-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-incline-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-one-arm-bent-over-row",
+      "slug": "barbell-one-arm-bent-over-row",
+      "name": "杠铃单臂俯身划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/barbell-one-arm-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-one-arm-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-one-arm-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-pendlay-row",
+      "slug": "barbell-pendlay-row",
+      "name": "杠铃彭德莱划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/barbell-pendlay-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-pendlay-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-pendlay-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-reverse-grip-bent-over-row",
+      "slug": "barbell-reverse-grip-bent-over-row",
+      "name": "杠铃反握俯身划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/barbell-reverse-grip-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-reverse-grip-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-reverse-grip-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-reverse-grip-incline-bench-row",
+      "slug": "barbell-reverse-grip-incline-bench-row",
+      "name": "杠铃反握上斜划船凳",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/barbell-reverse-grip-incline-bench-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-reverse-grip-incline-bench-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-reverse-grip-incline-bench-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-squatting-row-with-towel",
+      "slug": "bodyweight-squatting-row-with-towel",
+      "name": "自重划船蹲毛巾",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves",
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/bodyweight-squatting-row-with-towel.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-squatting-row-with-towel.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-squatting-row-with-towel.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-squatting-row",
+      "slug": "bodyweight-squatting-row",
+      "name": "自重划船蹲",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves",
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/bodyweight-squatting-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-squatting-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-squatting-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-close-grip-one-arm-row",
+      "slug": "bodyweight-standing-close-grip-one-arm-row",
+      "name": "自重站姿窄握单臂划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/bodyweight-standing-close-grip-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-close-grip-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-close-grip-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-close-grip-row",
+      "slug": "bodyweight-standing-close-grip-row",
+      "name": "自重站姿窄握划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/bodyweight-standing-close-grip-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-close-grip-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-close-grip-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-one-arm-row-with-towel",
+      "slug": "bodyweight-standing-one-arm-row-with-towel",
+      "name": "自重站姿单臂划船毛巾",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/bodyweight-standing-one-arm-row-with-towel.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-one-arm-row-with-towel.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-one-arm-row-with-towel.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-one-arm-row",
+      "slug": "bodyweight-standing-one-arm-row",
+      "name": "自重站姿单臂划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/bodyweight-standing-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-row-with-towel",
+      "slug": "bodyweight-standing-row-with-towel",
+      "name": "自重站姿划船毛巾",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/bodyweight-standing-row-with-towel.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-row-with-towel.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-row-with-towel.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-row",
+      "slug": "bodyweight-standing-row",
+      "name": "自重站姿划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/bodyweight-standing-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-decline-seated-wide-grip-row",
+      "slug": "cable-decline-seated-wide-grip-row",
+      "name": "绳索坐姿宽握下斜划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "使用宽握，双手远超肩宽，增加拉伸和外侧刺激。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/cable-decline-seated-wide-grip-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-decline-seated-wide-grip-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-decline-seated-wide-grip-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-floor-seated-wide-grip-row",
+      "slug": "cable-floor-seated-wide-grip-row",
+      "name": "绳索坐姿宽握划船地面",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "使用宽握，双手远超肩宽，增加拉伸和外侧刺激。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/cable-floor-seated-wide-grip-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-floor-seated-wide-grip-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-floor-seated-wide-grip-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-high-row-kneeling",
+      "slug": "cable-high-row-kneeling",
+      "name": "绳索跪姿高位划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "跪姿，髋部直接在膝盖上方，躯干挺直。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/cable-high-row-kneeling.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-high-row-kneeling.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-high-row-kneeling.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-incline-bench-row",
+      "slug": "cable-incline-bench-row",
+      "name": "绳索上斜划船凳",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/cable-incline-bench-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-incline-bench-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-incline-bench-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-low-seated-row",
+      "slug": "cable-low-seated-row",
+      "name": "绳索坐姿低位划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/cable-low-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-low-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-low-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-one-arm-bent-over-row",
+      "slug": "cable-one-arm-bent-over-row",
+      "name": "绳索单臂俯身划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/cable-one-arm-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-one-arm-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-one-arm-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-one-arm-straight-back-high-row-kneeling",
+      "slug": "cable-one-arm-straight-back-high-row-kneeling",
+      "name": "绳索跪姿单臂高位划船直背",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "跪姿，髋部直接在膝盖上方，躯干挺直。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/cable-one-arm-straight-back-high-row-kneeling.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-one-arm-straight-back-high-row-kneeling.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-one-arm-straight-back-high-row-kneeling.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-palm-rotational-row",
+      "slug": "cable-palm-rotational-row",
+      "name": "绳索划船掌旋转",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/cable-palm-rotational-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-palm-rotational-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-palm-rotational-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-reverse-grip-straight-back-seated-high-row",
+      "slug": "cable-reverse-grip-straight-back-seated-high-row",
+      "name": "绳索坐姿反握高位划船直背",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/cable-reverse-grip-straight-back-seated-high-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-reverse-grip-straight-back-seated-high-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-reverse-grip-straight-back-seated-high-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-rope-crossover-seated-row",
+      "slug": "cable-rope-crossover-seated-row",
+      "name": "绳索绳索坐姿划船交叉",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/cable-rope-crossover-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-crossover-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-crossover-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-rope-elevated-seated-row",
+      "slug": "cable-rope-elevated-seated-row",
+      "name": "绳索绳索坐姿划船抬高",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/cable-rope-elevated-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-elevated-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-elevated-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-rope-extension-incline-bench-row",
+      "slug": "cable-rope-extension-incline-bench-row",
+      "name": "绳索绳索上斜划船伸展凳",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/cable-rope-extension-incline-bench-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-extension-incline-bench-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-extension-incline-bench-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-rope-seated-row",
+      "slug": "cable-rope-seated-row",
+      "name": "绳索绳索坐姿划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/cable-rope-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-seated-one-arm-alternate-row",
+      "slug": "cable-seated-one-arm-alternate-row",
+      "name": "绳索坐姿单臂交替划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/cable-seated-one-arm-alternate-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-one-arm-alternate-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-one-arm-alternate-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-seated-row",
+      "slug": "cable-seated-row",
+      "name": "绳索坐姿划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/cable-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-seated-wide-grip-row",
+      "slug": "cable-seated-wide-grip-row",
+      "name": "绳索坐姿宽握划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "使用宽握，双手远超肩宽，增加拉伸和外侧刺激。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/cable-seated-wide-grip-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-wide-grip-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-wide-grip-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-standing-row-v-bar",
+      "slug": "cable-standing-row-v-bar",
+      "name": "绳索V形把手站姿划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/cable-standing-row-v-bar.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-standing-row-v-bar.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-standing-row-v-bar.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-standing-twist-row-v-bar",
+      "slug": "cable-standing-twist-row-v-bar",
+      "name": "绳索V形把手站姿划船转体",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/cable-standing-twist-row-v-bar.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-standing-twist-row-v-bar.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-standing-twist-row-v-bar.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-straight-back-seated-row",
+      "slug": "cable-straight-back-seated-row",
+      "name": "绳索坐姿划船直背",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/cable-straight-back-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-straight-back-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-straight-back-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-upper-row",
+      "slug": "cable-upper-row",
+      "name": "绳索划船上",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/cable-upper-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-upper-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-upper-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cambered-bar-lying-row",
+      "slug": "cambered-bar-lying-row",
+      "name": "仰卧划船弯曲杠",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/cambered-bar-lying-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cambered-bar-lying-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cambered-bar-lying-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/chin-ups-narrow-parallel-grip",
+      "slug": "chin-ups-narrow-parallel-grip",
+      "name": "窄距反握引体向上平行握",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "lats",
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "手臂完全伸直悬挂在杠上。通过将肩胛骨向下向后拉来设置肩膀——把它们塞进后裤袋。",
+        "将肘部驱向后裤袋来拉，用胸部引导，而不是下巴。想象将杠铃弯过你的锁骨。",
+        "下巴过杠并在顶部收紧。完全控制下放至悬垂状态——从完全拉伸中赢得每一次重复。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/chin-ups-narrow-parallel-grip.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/chin-ups-narrow-parallel-grip.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/chin-ups-narrow-parallel-grip.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-bent-over-row",
+      "slug": "dumbbell-bent-over-row",
+      "name": "哑铃俯身划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/dumbbell-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-incline-row",
+      "slug": "dumbbell-incline-row",
+      "name": "哑铃上斜划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/dumbbell-incline-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-incline-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-incline-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-incline-y-raise",
+      "slug": "dumbbell-incline-y-raise",
+      "name": "哑铃上斜举Y",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "站立，重量在体侧，轻微前倾。肘部微曲。",
+        "将手臂向两侧抬起，用肘部引导，就像从两个水壶中倒水。在肩膀高度停止。",
+        "缓慢控制下放，在整个下降过程中对抗重力。不要摆动——如果需要借力，减轻重量。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/dumbbell-incline-y-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-incline-y-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-incline-y-raise.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-lying-rear-delt-row",
+      "slug": "dumbbell-lying-rear-delt-row",
+      "name": "哑铃仰卧后划船三角肌",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/dumbbell-lying-rear-delt-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-lying-rear-delt-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-lying-rear-delt-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-one-arm-bent-over-row",
+      "slug": "dumbbell-one-arm-bent-over-row",
+      "name": "哑铃单臂俯身划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/dumbbell-one-arm-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-one-arm-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-one-arm-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-palm-rotational-bent-over-row",
+      "slug": "dumbbell-palm-rotational-bent-over-row",
+      "name": "哑铃俯身划船掌旋转",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/dumbbell-palm-rotational-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-palm-rotational-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-palm-rotational-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-reverse-grip-incline-bench-one-arm-row",
+      "slug": "dumbbell-reverse-grip-incline-bench-one-arm-row",
+      "name": "哑铃反握上斜单臂划船凳",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/dumbbell-reverse-grip-incline-bench-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-incline-bench-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-incline-bench-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-reverse-grip-incline-bench-two-arm-row",
+      "slug": "dumbbell-reverse-grip-incline-bench-two-arm-row",
+      "name": "哑铃反握双臂上斜划船凳",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/dumbbell-reverse-grip-incline-bench-two-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-incline-bench-two-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-incline-bench-two-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-reverse-grip-row-female",
+      "slug": "dumbbell-reverse-grip-row-female",
+      "name": "哑铃反握划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/dumbbell-reverse-grip-row-female.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-row-female.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-row-female.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-side-plank-with-rear-fly",
+      "slug": "dumbbell-side-plank-with-rear-fly",
+      "name": "哑铃后飞鸟侧平板支撑",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "abs",
+        "delts",
+        "glutes",
+        "traps"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "开始时肘部微曲——你的手臂像两把弯刀。这个弯曲在整个动作中保持不变。",
+        "以弧形打开双臂，感受胸部的深度拉伸。不要超过舒适范围。",
+        "通过收缩胸肌将把手合拢——想象拥抱一棵大树干。双手在顶部几乎接触。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/dumbbell-side-plank-with-rear-fly.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-side-plank-with-rear-fly.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-side-plank-with-rear-fly.thumb.webp"
+    },
+    {
+      "id": "upper-back/elbow-lift-reverse-push-up",
+      "slug": "elbow-lift-reverse-push-up",
+      "name": "反向俯卧撑肘举",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "双手放在略宽于肩的位置。身体从头到脚跟成一条直线——将双手拧入地面产生张力。",
+        "肘部呈45度弯曲降低身体，直到胸部几乎触地。主动将自己拉下来。",
+        "将地面推离你回到顶部。锁定时收紧胸部，整个动作保持核心紧绷。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/elbow-lift-reverse-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elbow-lift-reverse-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elbow-lift-reverse-push-up.thumb.webp"
+    },
+    {
+      "id": "upper-back/elevator",
+      "slug": "elevator",
+      "name": "电梯式",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "准备好器材，以良好的姿势采取稳定的起始位置。",
+        "悬挂在杠上或用手臂支撑就位。开始时双腿自然下垂。",
+        "分阶段抬起双腿——在45度、90度和最高点停顿——就像电梯在每层停靠。",
+        "以相同的阶段控制下放双腿。每次停顿都在整个范围内建立等长力量和控制。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/elevator.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elevator.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elevator.thumb.webp"
+    },
+    {
+      "id": "upper-back/ez-bar-reverse-grip-bent-over-row",
+      "slug": "ez-bar-reverse-grip-bent-over-row",
+      "name": "曲杆反握俯身划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/ez-bar-reverse-grip-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/ez-bar-reverse-grip-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/ez-bar-reverse-grip-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/front-lever-reps",
+      "slug": "front-lever-reps",
+      "name": "固定器械前次数",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "在进入保持位置之前，在全身建立张力。收紧一切——臀肌、核心、背阔肌、腿。",
+        "控制地进入位置，保持全身刚性。将你的身体想象成一块笔直的木板。",
+        "保持规定时间，或做控制的重复。如果无法保持完美形式，练习该动作的退阶版本。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/front-lever-reps.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/front-lever-reps.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/front-lever-reps.thumb.webp"
+    },
+    {
+      "id": "upper-back/inverted-row-bent-knees",
+      "slug": "inverted-row-bent-knees",
+      "name": "划船倒立屈膝",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/inverted-row-bent-knees.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-bent-knees.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-bent-knees.thumb.webp"
+    },
+    {
+      "id": "upper-back/inverted-row-on-bench",
+      "slug": "inverted-row-on-bench",
+      "name": "划船倒立凳",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/inverted-row-on-bench.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-on-bench.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-on-bench.thumb.webp"
+    },
+    {
+      "id": "upper-back/inverted-row-v-2",
+      "slug": "inverted-row-v-2",
+      "name": "划船倒立",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/inverted-row-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-v-2.thumb.webp"
+    },
+    {
+      "id": "upper-back/inverted-row-with-straps",
+      "slug": "inverted-row-with-straps",
+      "name": "划船倒立带",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/inverted-row-with-straps.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-with-straps.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-with-straps.thumb.webp"
+    },
+    {
+      "id": "upper-back/inverted-row",
+      "slug": "inverted-row",
+      "name": "划船倒立",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/inverted-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-alternating-renegade-row",
+      "slug": "kettlebell-alternating-renegade-row",
+      "name": "壶铃交替划船叛逆",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/kettlebell-alternating-renegade-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-renegade-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-renegade-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-alternating-row",
+      "slug": "kettlebell-alternating-row",
+      "name": "壶铃交替划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/kettlebell-alternating-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-one-arm-row",
+      "slug": "kettlebell-one-arm-row",
+      "name": "壶铃单臂划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/kettlebell-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-two-arm-row",
+      "slug": "kettlebell-two-arm-row",
+      "name": "壶铃双臂划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/kettlebell-two-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-two-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-two-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-alternating-narrow-grip-seated-row",
+      "slug": "lever-alternating-narrow-grip-seated-row",
+      "name": "固定器械坐姿窄握交替划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/lever-alternating-narrow-grip-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-alternating-narrow-grip-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-alternating-narrow-grip-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-bent-over-row-with-v-bar",
+      "slug": "lever-bent-over-row-with-v-bar",
+      "name": "固定器械V形把手俯身划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/lever-bent-over-row-with-v-bar.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-bent-over-row-with-v-bar.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-bent-over-row-with-v-bar.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-bent-over-row",
+      "slug": "lever-bent-over-row",
+      "name": "固定器械俯身划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/lever-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-high-row",
+      "slug": "lever-high-row",
+      "name": "固定器械高位划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/lever-high-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-high-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-high-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-narrow-grip-seated-row",
+      "slug": "lever-narrow-grip-seated-row",
+      "name": "固定器械坐姿窄握划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/lever-narrow-grip-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-narrow-grip-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-narrow-grip-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-one-arm-bent-over-row",
+      "slug": "lever-one-arm-bent-over-row",
+      "name": "固定器械单臂俯身划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/lever-one-arm-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-one-arm-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-one-arm-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-one-arm-lateral-high-row",
+      "slug": "lever-one-arm-lateral-high-row",
+      "name": "固定器械单臂高位划船侧",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/lever-one-arm-lateral-high-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-one-arm-lateral-high-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-one-arm-lateral-high-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-reverse-grip-vertical-row",
+      "slug": "lever-reverse-grip-vertical-row",
+      "name": "固定器械反握划船垂直",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/lever-reverse-grip-vertical-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-reverse-grip-vertical-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-reverse-grip-vertical-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-reverse-t-bar-row",
+      "slug": "lever-reverse-t-bar-row",
+      "name": "固定器械反向T杠划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/lever-reverse-t-bar-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-reverse-t-bar-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-reverse-t-bar-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-seated-row",
+      "slug": "lever-seated-row",
+      "name": "固定器械坐姿划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/lever-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-t-bar-reverse-grip-row",
+      "slug": "lever-t-bar-reverse-grip-row",
+      "name": "固定器械反握划船T杠",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/lever-t-bar-reverse-grip-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-t-bar-reverse-grip-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-t-bar-reverse-grip-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-t-bar-row",
+      "slug": "lever-t-bar-row",
+      "name": "固定器械T杠划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/lever-t-bar-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-t-bar-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-t-bar-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-unilateral-row",
+      "slug": "lever-unilateral-row",
+      "name": "固定器械划船单侧",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/lever-unilateral-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-unilateral-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-unilateral-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/medicine-ball-overhead-slam",
+      "slug": "medicine-ball-overhead-slam",
+      "name": "药球过头砸",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "双手持住药球。固定双脚，像压缩的弹簧一样蓄力于髋部和核心。",
+        "用全身爆发性地投掷或砸球——髋部先驱动，然后核心，然后手臂。每次重复都投入最大意图。",
+        "取回球（或接住），重置位置并重复。每次重复都应和第一次一样有力——质量优于数量。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/medicine-ball-overhead-slam.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/medicine-ball-overhead-slam.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/medicine-ball-overhead-slam.thumb.webp"
+    },
+    {
+      "id": "upper-back/one-arm-towel-row",
+      "slug": "one-arm-towel-row",
+      "name": "单臂划船毛巾",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/one-arm-towel-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/one-arm-towel-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/one-arm-towel-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/resistance-band-seated-straight-back-row",
+      "slug": "resistance-band-seated-straight-back-row",
+      "name": "弹力带坐姿划船直背",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "将弹力带固定在正确的锚点，确保有初始张力。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/resistance-band-seated-straight-back-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/resistance-band-seated-straight-back-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/resistance-band-seated-straight-back-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/rope-climb",
+      "slug": "rope-climb",
+      "name": "绳索攀爬",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "双手在头顶上方握住绳索。将绳子绕在一只脚上，另一只脚踩在上面。",
+        "站在脚锁上站起来，然后双手向上抓更高位置。重新锁定双脚并重复。",
+        "通过缓慢地手过手下降来控制下来。永远不要滑下——绳子会烧伤手和胫骨。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/rope-climb.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/rope-climb.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/rope-climb.thumb.webp"
+    },
+    {
+      "id": "upper-back/skin-the-cat",
+      "slug": "skin-the-cat",
+      "name": "表皮猫式",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "在进入保持位置之前，在全身建立张力。收紧一切——臀肌、核心、背阔肌、腿。",
+        "控制地进入位置，保持全身刚性。将你的身体想象成一块笔直的木板。",
+        "保持规定时间，或做控制的重复。如果无法保持完美形式，练习该动作的退阶版本。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/skin-the-cat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/skin-the-cat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/skin-the-cat.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-bent-over-row",
+      "slug": "smith-bent-over-row",
+      "name": "史密斯机俯身划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/smith-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-narrow-row",
+      "slug": "smith-narrow-row",
+      "name": "史密斯机窄距划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/smith-narrow-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-narrow-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-narrow-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-one-arm-row",
+      "slug": "smith-one-arm-row",
+      "name": "史密斯机单臂划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/smith-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-reverse-grip-bent-over-row",
+      "slug": "smith-reverse-grip-bent-over-row",
+      "name": "史密斯机反握俯身划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/smith-reverse-grip-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-reverse-grip-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-reverse-grip-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/standing-archer",
+      "slug": "standing-archer",
+      "name": "站姿弓箭手",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "准备好器材，以良好的姿势采取稳定的起始位置。",
+        "在开始动作前激活上背部。感受意念-肌肉连接。",
+        "以完全控制执行动作，掌控向心和离心两个阶段。",
+        "控制下降回到起始位置——离心阶段和向心阶段一样能增长肌肉。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/standing-archer.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/standing-archer.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/standing-archer.thumb.webp"
+    },
+    {
+      "id": "upper-back/suspended-row",
+      "slug": "suspended-row",
+      "name": "悬挂划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/suspended-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/suspended-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/suspended-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/upper-back-stretch",
+      "slug": "upper-back-stretch",
+      "name": "拉伸上背",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "缓慢移动到拉伸位置，直到感受到目标区域的轻柔拉力——不是疼痛。",
+        "保持20到40秒，深呼吸。每次呼气时，尝试更深地沉入拉伸。",
+        "缓慢释放，如需要可重复。坚持比强度更重要——定期拉伸获得持久柔韧性。",
+        "在整个保持阶段深呼吸，保持均匀。拉伸时绝不要憋气。"
+      ],
+      "file": "upper-back/upper-back-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/upper-back-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/upper-back-stretch.thumb.webp"
+    }
+  ]
+}

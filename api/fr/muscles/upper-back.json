@@ -1,0 +1,2202 @@
+{
+  "muscle": "upper-back",
+  "count": 87,
+  "exercises": [
+    {
+      "id": "upper-back/back-lever",
+      "slug": "back-lever",
+      "name": "Dos à la machine",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Construis de la tension dans tout le corps avant d'entrer dans la position. Contracte tout — fessiers, core, dorsaux, jambes.",
+        "Entre dans la position avec contrôle, maintenant une rigidité totale. Pense à ton corps comme une planche de bois droite.",
+        "Tiens le temps prescrit ou effectue des reps contrôlées. Si tu ne peux pas maintenir la forme parfaite, travaille une régression du mouvement.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/back-lever.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/back-lever.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/back-lever.thumb.webp"
+    },
+    {
+      "id": "upper-back/band-one-arm-standing-low-row",
+      "slug": "band-one-arm-standing-low-row",
+      "name": "Rowing à l'élastique, debout, un bras bas",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/band-one-arm-standing-low-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/band-one-arm-standing-low-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/band-one-arm-standing-low-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/band-one-arm-twisting-seated-row",
+      "slug": "band-one-arm-twisting-seated-row",
+      "name": "Rowing à l'élastique, assis, un bras avec rotation",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/band-one-arm-twisting-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/band-one-arm-twisting-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/band-one-arm-twisting-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-bent-over-row",
+      "slug": "barbell-bent-over-row",
+      "name": "Rowing penché à la barre",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/barbell-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-incline-row",
+      "slug": "barbell-incline-row",
+      "name": "Rowing incliné à la barre",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Règle le banc à l'inclinaison indiquée et presse fermement ton dos contre le dossier.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/barbell-incline-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-incline-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-incline-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-one-arm-bent-over-row",
+      "slug": "barbell-one-arm-bent-over-row",
+      "name": "Rowing penché à la barre, un bras",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/barbell-one-arm-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-one-arm-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-one-arm-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-pendlay-row",
+      "slug": "barbell-pendlay-row",
+      "name": "Rowing Pendlay à la barre",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/barbell-pendlay-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-pendlay-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-pendlay-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-reverse-grip-bent-over-row",
+      "slug": "barbell-reverse-grip-bent-over-row",
+      "name": "Rowing penché à la barre, prise supination",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Utilise une prise supination pour changer l'angle de traction et l'accent musculaire.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/barbell-reverse-grip-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-reverse-grip-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-reverse-grip-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-reverse-grip-incline-bench-row",
+      "slug": "barbell-reverse-grip-incline-bench-row",
+      "name": "Rowing incliné à la barre, prise supination, banc",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Règle le banc à l'inclinaison indiquée et presse fermement ton dos contre le dossier.",
+        "Utilise une prise supination pour changer l'angle de traction et l'accent musculaire.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/barbell-reverse-grip-incline-bench-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-reverse-grip-incline-bench-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-reverse-grip-incline-bench-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-squatting-row-with-towel",
+      "slug": "bodyweight-squatting-row-with-towel",
+      "name": "Rowing au poids du corps, avec serviette, en squat",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves",
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/bodyweight-squatting-row-with-towel.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-squatting-row-with-towel.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-squatting-row-with-towel.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-squatting-row",
+      "slug": "bodyweight-squatting-row",
+      "name": "Rowing au poids du corps, en squat",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves",
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/bodyweight-squatting-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-squatting-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-squatting-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-close-grip-one-arm-row",
+      "slug": "bodyweight-standing-close-grip-one-arm-row",
+      "name": "Rowing un bras au poids du corps, debout, prise serrée",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Utilise une prise serrée, mains à environ 15 cm d'écart, pour accentuer la partie interne.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/bodyweight-standing-close-grip-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-close-grip-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-close-grip-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-close-grip-row",
+      "slug": "bodyweight-standing-close-grip-row",
+      "name": "Rowing au poids du corps, debout, prise serrée",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Utilise une prise serrée, mains à environ 15 cm d'écart, pour accentuer la partie interne.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/bodyweight-standing-close-grip-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-close-grip-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-close-grip-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-one-arm-row-with-towel",
+      "slug": "bodyweight-standing-one-arm-row-with-towel",
+      "name": "Rowing un bras au poids du corps, debout, avec serviette",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/bodyweight-standing-one-arm-row-with-towel.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-one-arm-row-with-towel.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-one-arm-row-with-towel.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-one-arm-row",
+      "slug": "bodyweight-standing-one-arm-row",
+      "name": "Rowing un bras au poids du corps, debout",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/bodyweight-standing-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-row-with-towel",
+      "slug": "bodyweight-standing-row-with-towel",
+      "name": "Rowing au poids du corps, debout, avec serviette",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/bodyweight-standing-row-with-towel.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-row-with-towel.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-row-with-towel.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-row",
+      "slug": "bodyweight-standing-row",
+      "name": "Rowing au poids du corps, debout",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/bodyweight-standing-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-decline-seated-wide-grip-row",
+      "slug": "cable-decline-seated-wide-grip-row",
+      "name": "Rowing décliné à la poulie, assis, prise large",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Prends une prise large, mains bien au-delà de la largeur des épaules, pour plus d'étirement et d'accent externe.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/cable-decline-seated-wide-grip-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-decline-seated-wide-grip-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-decline-seated-wide-grip-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-floor-seated-wide-grip-row",
+      "slug": "cable-floor-seated-wide-grip-row",
+      "name": "Rowing à la poulie, assis, prise large, sol",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Prends une prise large, mains bien au-delà de la largeur des épaules, pour plus d'étirement et d'accent externe.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/cable-floor-seated-wide-grip-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-floor-seated-wide-grip-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-floor-seated-wide-grip-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-high-row-kneeling",
+      "slug": "cable-high-row-kneeling",
+      "name": "Rowing à la poulie, à genoux, haut",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "À genoux, hanches empilées au-dessus des genoux, torse droit.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/cable-high-row-kneeling.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-high-row-kneeling.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-high-row-kneeling.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-incline-bench-row",
+      "slug": "cable-incline-bench-row",
+      "name": "Rowing incliné à la poulie, banc",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Règle le banc à l'inclinaison indiquée et presse fermement ton dos contre le dossier.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/cable-incline-bench-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-incline-bench-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-incline-bench-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-low-seated-row",
+      "slug": "cable-low-seated-row",
+      "name": "Rowing à la poulie, assis, bas",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/cable-low-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-low-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-low-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-one-arm-bent-over-row",
+      "slug": "cable-one-arm-bent-over-row",
+      "name": "Rowing penché à la poulie, un bras",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/cable-one-arm-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-one-arm-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-one-arm-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-one-arm-straight-back-high-row-kneeling",
+      "slug": "cable-one-arm-straight-back-high-row-kneeling",
+      "name": "Rowing à la poulie, à genoux, un bras haut, droit dos",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "À genoux, hanches empilées au-dessus des genoux, torse droit.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/cable-one-arm-straight-back-high-row-kneeling.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-one-arm-straight-back-high-row-kneeling.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-one-arm-straight-back-high-row-kneeling.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-palm-rotational-row",
+      "slug": "cable-palm-rotational-row",
+      "name": "Rowing à la poulie, paume rotatoire",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/cable-palm-rotational-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-palm-rotational-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-palm-rotational-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-reverse-grip-straight-back-seated-high-row",
+      "slug": "cable-reverse-grip-straight-back-seated-high-row",
+      "name": "Rowing à la poulie, assis, prise supination, haut, droit dos",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Utilise une prise supination pour changer l'angle de traction et l'accent musculaire.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/cable-reverse-grip-straight-back-seated-high-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-reverse-grip-straight-back-seated-high-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-reverse-grip-straight-back-seated-high-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-rope-crossover-seated-row",
+      "slug": "cable-rope-crossover-seated-row",
+      "name": "Rowing à la poulie à la corde, assis, croisé",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/cable-rope-crossover-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-crossover-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-crossover-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-rope-elevated-seated-row",
+      "slug": "cable-rope-elevated-seated-row",
+      "name": "Rowing à la poulie à la corde, assis, surélevé",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/cable-rope-elevated-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-elevated-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-elevated-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-rope-extension-incline-bench-row",
+      "slug": "cable-rope-extension-incline-bench-row",
+      "name": "Rowing incliné à la poulie à la corde, Extension banc",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Règle le banc à l'inclinaison indiquée et presse fermement ton dos contre le dossier.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/cable-rope-extension-incline-bench-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-extension-incline-bench-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-extension-incline-bench-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-rope-seated-row",
+      "slug": "cable-rope-seated-row",
+      "name": "Rowing à la poulie à la corde, assis",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/cable-rope-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-seated-one-arm-alternate-row",
+      "slug": "cable-seated-one-arm-alternate-row",
+      "name": "Rowing à la poulie, assis, un bras alterné",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/cable-seated-one-arm-alternate-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-one-arm-alternate-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-one-arm-alternate-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-seated-row",
+      "slug": "cable-seated-row",
+      "name": "Rowing à la poulie, assis",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/cable-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-seated-wide-grip-row",
+      "slug": "cable-seated-wide-grip-row",
+      "name": "Rowing à la poulie, assis, prise large",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Prends une prise large, mains bien au-delà de la largeur des épaules, pour plus d'étirement et d'accent externe.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/cable-seated-wide-grip-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-wide-grip-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-wide-grip-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-standing-row-v-bar",
+      "slug": "cable-standing-row-v-bar",
+      "name": "Rowing à la poulie barre en V, debout",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/cable-standing-row-v-bar.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-standing-row-v-bar.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-standing-row-v-bar.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-standing-twist-row-v-bar",
+      "slug": "cable-standing-twist-row-v-bar",
+      "name": "Rowing à la poulie barre en V, debout, rotation",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/cable-standing-twist-row-v-bar.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-standing-twist-row-v-bar.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-standing-twist-row-v-bar.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-straight-back-seated-row",
+      "slug": "cable-straight-back-seated-row",
+      "name": "Rowing à la poulie, assis, droit dos",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/cable-straight-back-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-straight-back-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-straight-back-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-upper-row",
+      "slug": "cable-upper-row",
+      "name": "Rowing à la poulie, supérieur",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/cable-upper-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-upper-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-upper-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cambered-bar-lying-row",
+      "slug": "cambered-bar-lying-row",
+      "name": "Rowing, couché, cambré barre",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Allonge-toi avec le dos à plat contre la surface, gainage engagé.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/cambered-bar-lying-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cambered-bar-lying-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cambered-bar-lying-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/chin-ups-narrow-parallel-grip",
+      "slug": "chin-ups-narrow-parallel-grip",
+      "name": "Tractions supination, serré, parallèle prise",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "lats",
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Suspends-toi à la barre, bras complètement tendus. Fixe tes épaules en tirant les omoplates vers le bas et l'arrière — range-les dans tes poches arrière.",
+        "Tire en poussant tes coudes vers les poches arrière, en menant avec la poitrine, pas le menton. Imagine plier la barre autour de tes clavicules.",
+        "Passe le menton au-dessus de la barre et contracte en haut. Redescends avec contrôle total jusqu'à être complètement suspendu — mérite chaque rep depuis un étirement complet.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/chin-ups-narrow-parallel-grip.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/chin-ups-narrow-parallel-grip.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/chin-ups-narrow-parallel-grip.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-bent-over-row",
+      "slug": "dumbbell-bent-over-row",
+      "name": "Rowing penché aux haltères",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/dumbbell-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-incline-row",
+      "slug": "dumbbell-incline-row",
+      "name": "Rowing incliné aux haltères",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Règle le banc à l'inclinaison indiquée et presse fermement ton dos contre le dossier.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/dumbbell-incline-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-incline-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-incline-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-incline-y-raise",
+      "slug": "dumbbell-incline-y-raise",
+      "name": "Élévation incliné aux haltères, y",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Règle le banc à l'inclinaison indiquée et presse fermement ton dos contre le dossier.",
+        "Debout avec le poids aux côtés et une légère inclinaison vers l'avant. Légère flexion des coudes.",
+        "Monte les bras sur les côtés en menant avec les coudes comme si tu versais de l'eau de deux cruches. Arrête à hauteur d'épaules.",
+        "Redescends lentement avec contrôle, résistant à la gravité tout le long. Ne balance pas — si tu as besoin d'élan, réduis le poids.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/dumbbell-incline-y-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-incline-y-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-incline-y-raise.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-lying-rear-delt-row",
+      "slug": "dumbbell-lying-rear-delt-row",
+      "name": "Rowing aux haltères, couché, arrière, deltoïde",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Allonge-toi avec le dos à plat contre la surface, gainage engagé.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/dumbbell-lying-rear-delt-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-lying-rear-delt-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-lying-rear-delt-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-one-arm-bent-over-row",
+      "slug": "dumbbell-one-arm-bent-over-row",
+      "name": "Rowing penché aux haltères, un bras",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/dumbbell-one-arm-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-one-arm-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-one-arm-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-palm-rotational-bent-over-row",
+      "slug": "dumbbell-palm-rotational-bent-over-row",
+      "name": "Rowing penché aux haltères, paume rotatoire",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/dumbbell-palm-rotational-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-palm-rotational-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-palm-rotational-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-reverse-grip-incline-bench-one-arm-row",
+      "slug": "dumbbell-reverse-grip-incline-bench-one-arm-row",
+      "name": "Rowing un bras incliné aux haltères, prise supination, banc",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Règle le banc à l'inclinaison indiquée et presse fermement ton dos contre le dossier.",
+        "Utilise une prise supination pour changer l'angle de traction et l'accent musculaire.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/dumbbell-reverse-grip-incline-bench-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-incline-bench-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-incline-bench-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-reverse-grip-incline-bench-two-arm-row",
+      "slug": "dumbbell-reverse-grip-incline-bench-two-arm-row",
+      "name": "Rowing incliné aux haltères, prise supination, deux bras, banc",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Règle le banc à l'inclinaison indiquée et presse fermement ton dos contre le dossier.",
+        "Utilise une prise supination pour changer l'angle de traction et l'accent musculaire.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/dumbbell-reverse-grip-incline-bench-two-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-incline-bench-two-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-incline-bench-two-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-reverse-grip-row-female",
+      "slug": "dumbbell-reverse-grip-row-female",
+      "name": "Rowing aux haltères, prise supination",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Utilise une prise supination pour changer l'angle de traction et l'accent musculaire.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/dumbbell-reverse-grip-row-female.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-row-female.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-row-female.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-side-plank-with-rear-fly",
+      "slug": "dumbbell-side-plank-with-rear-fly",
+      "name": "Écarté aux haltères, arrière, Planche latérale",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "abs",
+        "delts",
+        "glutes",
+        "traps"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Commence avec une légère flexion des coudes — tes bras sont comme deux épées courbes. Cette flexion reste constante.",
+        "Ouvre les bras en arc, sentant un étirement profond dans la poitrine. Ne dépasse pas l'amplitude confortable.",
+        "Rapproche les poignées en contractant la poitrine — imagine enlacer un gros tronc d'arbre. Les mains se touchent presque en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/dumbbell-side-plank-with-rear-fly.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-side-plank-with-rear-fly.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-side-plank-with-rear-fly.thumb.webp"
+    },
+    {
+      "id": "upper-back/elbow-lift-reverse-push-up",
+      "slug": "elbow-lift-reverse-push-up",
+      "name": "Pompe inversé, coude lever",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Place les mains un peu plus larges que les épaules. Corps en ligne droite de la tête aux talons — visse les mains dans le sol pour créer de la tension.",
+        "Descends en fléchissant les coudes à 45° jusqu'à ce que la poitrine touche presque le sol. Tire-toi activement vers le bas.",
+        "Repousse le sol pour remonter. Contracte la poitrine au verrouillage et garde le core gainé tout au long.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/elbow-lift-reverse-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elbow-lift-reverse-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elbow-lift-reverse-push-up.thumb.webp"
+    },
+    {
+      "id": "upper-back/elevator",
+      "slug": "elevator",
+      "name": "Ascenseur",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prépare ton matériel et adopte une position de départ stable avec une bonne posture.",
+        "Suspends-toi à une barre ou positionne-toi avec les bras en appui. Commence jambes pendant droites.",
+        "Monte les jambes par étapes — arrêt à 45°, 90° et hauteur maximale — comme un ascenseur s'arrêtant à chaque étage.",
+        "Redescends les jambes par les mêmes étapes avec contrôle. Chaque pause construit force isométrique et contrôle dans toute l'amplitude.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/elevator.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elevator.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elevator.thumb.webp"
+    },
+    {
+      "id": "upper-back/ez-bar-reverse-grip-bent-over-row",
+      "slug": "ez-bar-reverse-grip-bent-over-row",
+      "name": "Rowing penché à la barre EZ, prise supination",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Charge la barre EZ et saisis-la à la partie coudée qui convient à tes poignets.",
+        "Utilise une prise supination pour changer l'angle de traction et l'accent musculaire.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/ez-bar-reverse-grip-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/ez-bar-reverse-grip-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/ez-bar-reverse-grip-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/front-lever-reps",
+      "slug": "front-lever-reps",
+      "name": "Répétitions à la machine, avant",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Construis de la tension dans tout le corps avant d'entrer dans la position. Contracte tout — fessiers, core, dorsaux, jambes.",
+        "Entre dans la position avec contrôle, maintenant une rigidité totale. Pense à ton corps comme une planche de bois droite.",
+        "Tiens le temps prescrit ou effectue des reps contrôlées. Si tu ne peux pas maintenir la forme parfaite, travaille une régression du mouvement.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/front-lever-reps.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/front-lever-reps.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/front-lever-reps.thumb.webp"
+    },
+    {
+      "id": "upper-back/inverted-row-bent-knees",
+      "slug": "inverted-row-bent-knees",
+      "name": "Rowing, inversé penché genoux",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/inverted-row-bent-knees.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-bent-knees.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-bent-knees.thumb.webp"
+    },
+    {
+      "id": "upper-back/inverted-row-on-bench",
+      "slug": "inverted-row-on-bench",
+      "name": "Rowing, inversé banc",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/inverted-row-on-bench.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-on-bench.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-on-bench.thumb.webp"
+    },
+    {
+      "id": "upper-back/inverted-row-v-2",
+      "slug": "inverted-row-v-2",
+      "name": "Rowing, inversé",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/inverted-row-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-v-2.thumb.webp"
+    },
+    {
+      "id": "upper-back/inverted-row-with-straps",
+      "slug": "inverted-row-with-straps",
+      "name": "Rowing, inversé sangles",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/inverted-row-with-straps.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-with-straps.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-with-straps.thumb.webp"
+    },
+    {
+      "id": "upper-back/inverted-row",
+      "slug": "inverted-row",
+      "name": "Rowing, inversé",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/inverted-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-alternating-renegade-row",
+      "slug": "kettlebell-alternating-renegade-row",
+      "name": "Rowing au kettlebell, alterné, renégat",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Choisis le bon poids de kettlebell. Saisis la poignée fermement avec le poignet neutre.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Alterne les côtés à chaque rep. Termine une rep complète avant de passer à l'autre côté.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/kettlebell-alternating-renegade-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-renegade-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-renegade-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-alternating-row",
+      "slug": "kettlebell-alternating-row",
+      "name": "Rowing au kettlebell, alterné",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Choisis le bon poids de kettlebell. Saisis la poignée fermement avec le poignet neutre.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Alterne les côtés à chaque rep. Termine une rep complète avant de passer à l'autre côté.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/kettlebell-alternating-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-one-arm-row",
+      "slug": "kettlebell-one-arm-row",
+      "name": "Rowing un bras au kettlebell",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Choisis le bon poids de kettlebell. Saisis la poignée fermement avec le poignet neutre.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/kettlebell-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-two-arm-row",
+      "slug": "kettlebell-two-arm-row",
+      "name": "Rowing au kettlebell, deux bras",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Choisis le bon poids de kettlebell. Saisis la poignée fermement avec le poignet neutre.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/kettlebell-two-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-two-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-two-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-alternating-narrow-grip-seated-row",
+      "slug": "lever-alternating-narrow-grip-seated-row",
+      "name": "Rowing à la machine, assis, prise serrée, alterné",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Alterne les côtés à chaque rep. Termine une rep complète avant de passer à l'autre côté.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-alternating-narrow-grip-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-alternating-narrow-grip-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-alternating-narrow-grip-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-bent-over-row-with-v-bar",
+      "slug": "lever-bent-over-row-with-v-bar",
+      "name": "Rowing penché à la machine barre en V",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-bent-over-row-with-v-bar.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-bent-over-row-with-v-bar.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-bent-over-row-with-v-bar.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-bent-over-row",
+      "slug": "lever-bent-over-row",
+      "name": "Rowing penché à la machine",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-high-row",
+      "slug": "lever-high-row",
+      "name": "Rowing à la machine, haut",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-high-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-high-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-high-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-narrow-grip-seated-row",
+      "slug": "lever-narrow-grip-seated-row",
+      "name": "Rowing à la machine, assis, prise serrée",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-narrow-grip-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-narrow-grip-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-narrow-grip-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-one-arm-bent-over-row",
+      "slug": "lever-one-arm-bent-over-row",
+      "name": "Rowing penché à la machine, un bras",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-one-arm-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-one-arm-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-one-arm-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-one-arm-lateral-high-row",
+      "slug": "lever-one-arm-lateral-high-row",
+      "name": "Rowing à la machine, un bras haut, latéral",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-one-arm-lateral-high-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-one-arm-lateral-high-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-one-arm-lateral-high-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-reverse-grip-vertical-row",
+      "slug": "lever-reverse-grip-vertical-row",
+      "name": "Rowing à la machine, prise supination, vertical",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Utilise une prise supination pour changer l'angle de traction et l'accent musculaire.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-reverse-grip-vertical-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-reverse-grip-vertical-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-reverse-grip-vertical-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-reverse-t-bar-row",
+      "slug": "lever-reverse-t-bar-row",
+      "name": "Rowing T-barre inversé à la machine",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-reverse-t-bar-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-reverse-t-bar-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-reverse-t-bar-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-seated-row",
+      "slug": "lever-seated-row",
+      "name": "Rowing à la machine, assis",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-t-bar-reverse-grip-row",
+      "slug": "lever-t-bar-reverse-grip-row",
+      "name": "Rowing à la machine, prise supination, t barre",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Utilise une prise supination pour changer l'angle de traction et l'accent musculaire.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-t-bar-reverse-grip-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-t-bar-reverse-grip-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-t-bar-reverse-grip-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-t-bar-row",
+      "slug": "lever-t-bar-row",
+      "name": "Rowing T-barre à la machine",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-t-bar-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-t-bar-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-t-bar-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-unilateral-row",
+      "slug": "lever-unilateral-row",
+      "name": "Rowing à la machine, unilatéral",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-unilateral-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-unilateral-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-unilateral-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/medicine-ball-overhead-slam",
+      "slug": "medicine-ball-overhead-slam",
+      "name": "Slam au-dessus de la tête au médecine-ball",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Tiens le médecine-ball à deux mains. Fixe tes pieds et charge hanches et core comme un ressort comprimé.",
+        "Lance ou frappe le ballon explosivement avec tout le corps — hanches d'abord, puis core, puis bras. Intention maximale à chaque rep.",
+        "Récupère le ballon (ou attrape-le), repositionne-toi et répète. Chaque rep doit être aussi puissante que la première — qualité plutôt que volume.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/medicine-ball-overhead-slam.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/medicine-ball-overhead-slam.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/medicine-ball-overhead-slam.thumb.webp"
+    },
+    {
+      "id": "upper-back/one-arm-towel-row",
+      "slug": "one-arm-towel-row",
+      "name": "Rowing, un bras, serviette",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/one-arm-towel-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/one-arm-towel-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/one-arm-towel-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/resistance-band-seated-straight-back-row",
+      "slug": "resistance-band-seated-straight-back-row",
+      "name": "Rowing à l'élastique, assis, droit dos",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/resistance-band-seated-straight-back-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/resistance-band-seated-straight-back-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/resistance-band-seated-straight-back-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/rope-climb",
+      "slug": "rope-climb",
+      "name": "Grimper à la corde",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Saisis la corde au-dessus de la tête à deux mains. Bloque la corde autour d'un pied, l'autre pied par-dessus.",
+        "Lève-toi sur le blocage du pied, puis monte les mains plus haut. Re-bloque les pieds et répète.",
+        "Descends avec contrôle en descendant main après main lentement. Ne glisse jamais — la corde brûlerait les mains et les tibias.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/rope-climb.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/rope-climb.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/rope-climb.thumb.webp"
+    },
+    {
+      "id": "upper-back/skin-the-cat",
+      "slug": "skin-the-cat",
+      "name": "Peau chat",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Construis de la tension dans tout le corps avant d'entrer dans la position. Contracte tout — fessiers, core, dorsaux, jambes.",
+        "Entre dans la position avec contrôle, maintenant une rigidité totale. Pense à ton corps comme une planche de bois droite.",
+        "Tiens le temps prescrit ou effectue des reps contrôlées. Si tu ne peux pas maintenir la forme parfaite, travaille une régression du mouvement.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/skin-the-cat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/skin-the-cat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/skin-the-cat.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-bent-over-row",
+      "slug": "smith-bent-over-row",
+      "name": "Rowing penché au Smith",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Règle la hauteur de la barre au Smith et charge le poids approprié. Place-toi sous la barre.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/smith-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-narrow-row",
+      "slug": "smith-narrow-row",
+      "name": "Rowing au Smith, serré",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Règle la hauteur de la barre au Smith et charge le poids approprié. Place-toi sous la barre.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/smith-narrow-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-narrow-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-narrow-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-one-arm-row",
+      "slug": "smith-one-arm-row",
+      "name": "Rowing un bras au Smith",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Règle la hauteur de la barre au Smith et charge le poids approprié. Place-toi sous la barre.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/smith-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-reverse-grip-bent-over-row",
+      "slug": "smith-reverse-grip-bent-over-row",
+      "name": "Rowing penché au Smith, prise supination",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Règle la hauteur de la barre au Smith et charge le poids approprié. Place-toi sous la barre.",
+        "Utilise une prise supination pour changer l'angle de traction et l'accent musculaire.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/smith-reverse-grip-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-reverse-grip-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-reverse-grip-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/standing-archer",
+      "slug": "standing-archer",
+      "name": "Archer, debout",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prépare ton matériel et adopte une position de départ stable avec une bonne posture.",
+        "Active le haut du dos avant d'initier le mouvement. Ressens la connexion esprit-muscle.",
+        "Effectue le mouvement avec un contrôle total, maîtrisant les phases concentrique et excentrique.",
+        "Reviens à la position de départ en contrôlant la descente — la phase excentrique construit autant de muscle que la montée.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/standing-archer.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/standing-archer.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/standing-archer.thumb.webp"
+    },
+    {
+      "id": "upper-back/suspended-row",
+      "slug": "suspended-row",
+      "name": "Rowing, suspendu",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/suspended-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/suspended-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/suspended-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/upper-back-stretch",
+      "slug": "upper-back-stretch",
+      "name": "Étirement, supérieur dos",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Va vers la position d'étirement lentement jusqu'à sentir une tension douce dans la zone cible — pas de douleur.",
+        "Tiens 20 à 40 secondes en respirant profondément. À chaque expiration, essaie de t'enfoncer un peu plus dans l'étirement.",
+        "Relâche lentement et répète si souhaité. La régularité compte plus que l'intensité — étire-toi régulièrement pour une souplesse durable.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "upper-back/upper-back-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/upper-back-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/upper-back-stretch.thumb.webp"
+    }
+  ]
+}

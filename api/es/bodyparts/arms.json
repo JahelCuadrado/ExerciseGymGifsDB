@@ -1373,7 +1373,7 @@
     {
       "id": "biceps/dumbbell-biceps-curl-v-sit-on-bosu-ball",
       "slug": "dumbbell-biceps-curl-v-sit-on-bosu-ball",
-      "name": "Curl de bíceps con mancuerna, en bosu, sit",
+      "name": "Curl de bíceps con mancuerna, en bosu, sentado",
       "muscle": "biceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -2151,7 +2151,7 @@
     {
       "id": "biceps/dumbbell-peacher-hammer-curl",
       "slug": "dumbbell-peacher-hammer-curl",
-      "name": "Curl martillo con mancuerna, peacher",
+      "name": "Curl martillo en banco predicador con mancuerna",
       "muscle": "biceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -2263,7 +2263,7 @@
     {
       "id": "biceps/dumbbell-revers-grip-biceps-curl",
       "slug": "dumbbell-revers-grip-biceps-curl",
-      "name": "Curl de bíceps con mancuerna, revers",
+      "name": "Curl de biceps con mancuerna en agarre inverso",
       "muscle": "biceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -2564,7 +2564,7 @@
     {
       "id": "biceps/dumbbell-seated-revers-grip-concentration-curl",
       "slug": "dumbbell-seated-revers-grip-concentration-curl",
-      "name": "Curl concentrado con mancuerna, sentado, revers",
+      "name": "Curl de concentracion sentado con mancuerna en agarre inverso",
       "muscle": "biceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -3177,7 +3177,7 @@
     {
       "id": "biceps/kettlebell-bottoms-up-clean-from-the-hang-position",
       "slug": "kettlebell-bottoms-up-clean-from-the-hang-position",
-      "name": "Cargada con kettlebell, fondo up colgado",
+      "name": "Cargada con kettlebell, fondo arriba colgado",
       "muscle": "biceps",
       "bodyPart": "arms",
       "equipment": "kettlebell",
@@ -3543,7 +3543,7 @@
     {
       "id": "forearms/barbell-revers-wrist-curl-v-2",
       "slug": "barbell-revers-wrist-curl-v-2",
-      "name": "Curl de muñeca con barra, revers",
+      "name": "Curl de muñeca invertido con barra",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -3940,7 +3940,7 @@
     {
       "id": "forearms/dumbbell-over-bench-revers-wrist-curl",
       "slug": "dumbbell-over-bench-revers-wrist-curl",
-      "name": "Curl de muñeca con mancuerna, sobre banco, revers",
+      "name": "Curl inverso de muneca con mancuerna sobre banco",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -4252,7 +4252,7 @@
     {
       "id": "forearms/wrist-rollerer",
       "slug": "wrist-rollerer",
-      "name": "Enrollador de muñeca",
+      "name": "Rodillo de muneca",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "bodyweight",
@@ -4828,7 +4828,7 @@
     {
       "id": "triceps/body-up",
       "slug": "body-up",
-      "name": "Body-up",
+      "name": "Elevación corporal",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "bodyweight",
@@ -5526,7 +5526,7 @@
     {
       "id": "triceps/dumbbell-forward-lunge-triceps-extension",
       "slug": "dumbbell-forward-lunge-triceps-extension",
-      "name": "Extensión de tríceps con mancuerna, hacia adelante lunge",
+      "name": "Extensión de tríceps en zancada frontal con mancuerna",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",

@@ -1,0 +1,23 @@
+{
+  "id": "pectorals/dumbbell-bench-press",
+  "slug": "dumbbell-bench-press",
+  "name": "ダンベル・ベンチプレス",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+    "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+    "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+    "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "pectorals/dumbbell-bench-press.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-bench-press.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/dumbbell-bench-press.thumb.webp"
+}

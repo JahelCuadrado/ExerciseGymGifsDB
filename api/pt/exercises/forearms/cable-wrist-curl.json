@@ -1,0 +1,22 @@
+{
+  "id": "forearms/cable-wrist-curl",
+  "slug": "cable-wrist-curl",
+  "name": "Rosca de punho na polia",
+  "muscle": "forearms",
+  "bodyPart": "arms",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": [
+    "Coloque a pegada adequada, ajuste a altura da polia e selecione o peso de trabalho.",
+    "Apoie os antebraços nas coxas ou em um banco com os pulsos pendendo sobre a borda. Mantenha os antebraços colados à superfície.",
+    "Flexione os pulsos para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+    "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas os pulsos se movem — os antebraços ficam parados.",
+    "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+  ],
+  "file": "forearms/cable-wrist-curl.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/cable-wrist-curl.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/cable-wrist-curl.thumb.webp"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "biceps/barbell-drag-curl",
+  "slug": "barbell-drag-curl",
+  "name": "杠铃拖曳弯举",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+    "将杠铃靠在大腿上。不要做弧形弯举，而是沿身体直线向上拖拽杠铃——肘部向后移动。",
+    "在杠铃沿躯干上滑时将肘部拉到身后。这强调了二头肌的长头。",
+    "反向路径，控制地将杠铃沿身体滑回。杠铃永远不离开躯干。",
+    "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+  ],
+  "file": "biceps/barbell-drag-curl.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-drag-curl.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-drag-curl.thumb.webp"
+}

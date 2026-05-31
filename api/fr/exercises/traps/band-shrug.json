@@ -1,0 +1,23 @@
+{
+  "id": "traps/band-shrug",
+  "slug": "band-shrug",
+  "name": "Haussement d'épaules à l'élastique",
+  "muscle": "traps",
+  "bodyPart": "back",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+    "Tiens le poids aux côtés, bras complètement tendus. Debout droit, épaules relâchées.",
+    "Hausse les épaules droit vers les oreilles — ne les roule pas. Contracte en haut pendant 2 secondes.",
+    "Redescends lentement. Garde les bras tendus — c'est tout trapèzes, pas de biceps.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "traps/band-shrug.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/band-shrug.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/band-shrug.thumb.webp"
+}

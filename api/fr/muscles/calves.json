@@ -1,0 +1,1237 @@
+{
+  "muscle": "calves",
+  "count": 59,
+  "exercises": [
+    {
+      "id": "calves/ankle-circles",
+      "slug": "ankle-circles",
+      "name": "Cheville cercles",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Mets-toi à quatre pattes (ou sur le côté pour les clamshells) avec le core engagé et la colonne neutre.",
+        "Bouge la jambe indiquée dans son amplitude lentement, en contractant le fessier au sommet de chaque rep.",
+        "Garde les hanches stables et droites — ne les laisse pas basculer ou tourner. Le mouvement vient uniquement de l'articulation de la hanche.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/ankle-circles.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/ankle-circles.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/ankle-circles.thumb.webp"
+    },
+    {
+      "id": "calves/assisted-lying-calves-stretch",
+      "slug": "assisted-lying-calves-stretch",
+      "name": "Étirement, couché, assisté, mollets",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Allonge-toi avec le dos à plat contre la surface, gainage engagé.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "calves/assisted-lying-calves-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/assisted-lying-calves-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/assisted-lying-calves-stretch.thumb.webp"
+    },
+    {
+      "id": "calves/band-single-leg-calf-raise",
+      "slug": "band-single-leg-calf-raise",
+      "name": "Mollets à l'élastique, une jambe",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement le mollet pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/band-single-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/band-single-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/band-single-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/band-single-leg-reverse-calf-raise",
+      "slug": "band-single-leg-reverse-calf-raise",
+      "name": "Mollets inversé à l'élastique, une jambe",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement le mollet pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/band-single-leg-reverse-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/band-single-leg-reverse-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/band-single-leg-reverse-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/band-two-legs-calf-raise-band-under-both-legs-v-2",
+      "slug": "band-two-legs-calf-raise-band-under-both-legs-v-2",
+      "name": "Mollets à l'élastique, deux jambes sous",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/band-two-legs-calf-raise-band-under-both-legs-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/band-two-legs-calf-raise-band-under-both-legs-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/band-two-legs-calf-raise-band-under-both-legs-v-2.thumb.webp"
+    },
+    {
+      "id": "calves/barbell-floor-calf-raise",
+      "slug": "barbell-floor-calf-raise",
+      "name": "Mollets à la barre, sol",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/barbell-floor-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-floor-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-floor-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/barbell-seated-calf-raise-1371",
+      "slug": "barbell-seated-calf-raise-1371",
+      "name": "Mollets à la barre, assis",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/barbell-seated-calf-raise-1371.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-seated-calf-raise-1371.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-seated-calf-raise-1371.thumb.webp"
+    },
+    {
+      "id": "calves/barbell-seated-calf-raise",
+      "slug": "barbell-seated-calf-raise",
+      "name": "Mollets à la barre, assis",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/barbell-seated-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-seated-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-seated-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/barbell-standing-calf-raise",
+      "slug": "barbell-standing-calf-raise",
+      "name": "Mollets à la barre, debout",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/barbell-standing-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-standing-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-standing-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/barbell-standing-leg-calf-raise",
+      "slug": "barbell-standing-leg-calf-raise",
+      "name": "Mollets à la barre, debout, jambe",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/barbell-standing-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-standing-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-standing-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/barbell-standing-rocking-leg-calf-raise",
+      "slug": "barbell-standing-rocking-leg-calf-raise",
+      "name": "Mollets à la barre, debout, balancement jambe",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/barbell-standing-rocking-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-standing-rocking-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-standing-rocking-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/bodyweight-standing-calf-raise",
+      "slug": "bodyweight-standing-calf-raise",
+      "name": "Mollets au poids du corps, debout",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/bodyweight-standing-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/bodyweight-standing-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/bodyweight-standing-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/box-jump-down-with-one-leg-stabilization",
+      "slug": "box-jump-down-with-one-leg-stabilization",
+      "name": "Box Jump, une jambe, vers le bas stabilisation",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Debout pieds largeur hanches à épaules. Charge la jambe avec une rapide flexion — plie genoux et hanches pour créer de la tension.",
+        "Explose vers le haut en extension complète des hanches, genoux et chevilles. Utilise les bras pour plus de hauteur si applicable.",
+        "Atterris en souplesse en pliant le genou et absorbant l'impact par la jambe. Pense à atterrir silencieusement comme un chat.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire fortement lors du saut ou de l'effort explosif. Inspire pendant la phase de chargement."
+      ],
+      "file": "calves/box-jump-down-with-one-leg-stabilization.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/box-jump-down-with-one-leg-stabilization.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/box-jump-down-with-one-leg-stabilization.thumb.webp"
+    },
+    {
+      "id": "calves/cable-standing-calf-raise",
+      "slug": "cable-standing-calf-raise",
+      "name": "Mollets à la poulie, debout",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/cable-standing-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/cable-standing-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/cable-standing-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/cable-standing-one-leg-calf-raise",
+      "slug": "cable-standing-one-leg-calf-raise",
+      "name": "Mollets à la poulie, debout, une jambe",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement le mollet pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/cable-standing-one-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/cable-standing-one-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/cable-standing-one-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/calf-push-stretch-with-hands-against-wall",
+      "slug": "calf-push-stretch-with-hands-against-wall",
+      "name": "Étirement, mollet poussée mains contre mur",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Va vers la position d'étirement lentement jusqu'à sentir une tension douce dans la zone cible — pas de douleur.",
+        "Tiens 20 à 40 secondes en respirant profondément. À chaque expiration, essaie de t'enfoncer un peu plus dans l'étirement.",
+        "Relâche lentement et répète si souhaité. La régularité compte plus que l'intensité — étire-toi régulièrement pour une souplesse durable.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "calves/calf-push-stretch-with-hands-against-wall.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/calf-push-stretch-with-hands-against-wall.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/calf-push-stretch-with-hands-against-wall.thumb.webp"
+    },
+    {
+      "id": "calves/calf-stretch-with-hands-against-wall",
+      "slug": "calf-stretch-with-hands-against-wall",
+      "name": "Étirement, mollet mains contre mur",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Va vers la position d'étirement lentement jusqu'à sentir une tension douce dans la zone cible — pas de douleur.",
+        "Tiens 20 à 40 secondes en respirant profondément. À chaque expiration, essaie de t'enfoncer un peu plus dans l'étirement.",
+        "Relâche lentement et répète si souhaité. La régularité compte plus que l'intensité — étire-toi régulièrement pour une souplesse durable.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "calves/calf-stretch-with-hands-against-wall.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/calf-stretch-with-hands-against-wall.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/calf-stretch-with-hands-against-wall.thumb.webp"
+    },
+    {
+      "id": "calves/calf-stretch-with-rope",
+      "slug": "calf-stretch-with-rope",
+      "name": "Étirement, à la corde, mollet",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Va vers la position d'étirement lentement jusqu'à sentir une tension douce dans la zone cible — pas de douleur.",
+        "Tiens 20 à 40 secondes en respirant profondément. À chaque expiration, essaie de t'enfoncer un peu plus dans l'étirement.",
+        "Relâche lentement et répète si souhaité. La régularité compte plus que l'intensité — étire-toi régulièrement pour une souplesse durable.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "calves/calf-stretch-with-rope.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/calf-stretch-with-rope.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/calf-stretch-with-rope.thumb.webp"
+    },
+    {
+      "id": "calves/circles-knee-stretch",
+      "slug": "circles-knee-stretch",
+      "name": "Étirement, cercles genou",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Va vers la position d'étirement lentement jusqu'à sentir une tension douce dans la zone cible — pas de douleur.",
+        "Tiens 20 à 40 secondes en respirant profondément. À chaque expiration, essaie de t'enfoncer un peu plus dans l'étirement.",
+        "Relâche lentement et répète si souhaité. La régularité compte plus que l'intensité — étire-toi régulièrement pour une souplesse durable.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "calves/circles-knee-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/circles-knee-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/circles-knee-stretch.thumb.webp"
+    },
+    {
+      "id": "calves/donkey-calf-raise",
+      "slug": "donkey-calf-raise",
+      "name": "Mollets, âne",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/donkey-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/donkey-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/donkey-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/dumbbell-seated-calf-raise",
+      "slug": "dumbbell-seated-calf-raise",
+      "name": "Mollets aux haltères, assis",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/dumbbell-seated-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-seated-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-seated-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/dumbbell-seated-one-leg-calf-raise-hammer-grip",
+      "slug": "dumbbell-seated-one-leg-calf-raise-hammer-grip",
+      "name": "Mollets aux haltères, assis, prise marteau, une jambe",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement le mollet pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/dumbbell-seated-one-leg-calf-raise-hammer-grip.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-seated-one-leg-calf-raise-hammer-grip.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-seated-one-leg-calf-raise-hammer-grip.thumb.webp"
+    },
+    {
+      "id": "calves/dumbbell-seated-one-leg-calf-raise-palm-up",
+      "slug": "dumbbell-seated-one-leg-calf-raise-palm-up",
+      "name": "Mollets aux haltères, assis, une jambe, paume vers le haut",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement le mollet pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/dumbbell-seated-one-leg-calf-raise-palm-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-seated-one-leg-calf-raise-palm-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-seated-one-leg-calf-raise-palm-up.thumb.webp"
+    },
+    {
+      "id": "calves/dumbbell-seated-one-leg-calf-raise",
+      "slug": "dumbbell-seated-one-leg-calf-raise",
+      "name": "Mollets aux haltères, assis, une jambe",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement le mollet pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/dumbbell-seated-one-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-seated-one-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-seated-one-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/dumbbell-single-leg-calf-raise",
+      "slug": "dumbbell-single-leg-calf-raise",
+      "name": "Mollets aux haltères, une jambe",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement le mollet pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/dumbbell-single-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-single-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-single-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/dumbbell-standing-calf-raise",
+      "slug": "dumbbell-standing-calf-raise",
+      "name": "Mollets aux haltères, debout",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/dumbbell-standing-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-standing-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/dumbbell-standing-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/exercise-ball-on-the-wall-calf-raise-tennis-ball-between-ankles",
+      "slug": "exercise-ball-on-the-wall-calf-raise-tennis-ball-between-ankles",
+      "name": "Mollets sur Swiss ball, mur tennis ballon chevilles",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/exercise-ball-on-the-wall-calf-raise-tennis-ball-between-ankles.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/exercise-ball-on-the-wall-calf-raise-tennis-ball-between-ankles.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/exercise-ball-on-the-wall-calf-raise-tennis-ball-between-ankles.thumb.webp"
+    },
+    {
+      "id": "calves/exercise-ball-on-the-wall-calf-raise-tennis-ball-between-knees",
+      "slug": "exercise-ball-on-the-wall-calf-raise-tennis-ball-between-knees",
+      "name": "Mollets sur Swiss ball, mur tennis ballon genoux",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/exercise-ball-on-the-wall-calf-raise-tennis-ball-between-knees.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/exercise-ball-on-the-wall-calf-raise-tennis-ball-between-knees.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/exercise-ball-on-the-wall-calf-raise-tennis-ball-between-knees.thumb.webp"
+    },
+    {
+      "id": "calves/exercise-ball-on-the-wall-calf-raise",
+      "slug": "exercise-ball-on-the-wall-calf-raise",
+      "name": "Mollets sur Swiss ball, mur",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/exercise-ball-on-the-wall-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/exercise-ball-on-the-wall-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/exercise-ball-on-the-wall-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/hack-calf-raise",
+      "slug": "hack-calf-raise",
+      "name": "Mollets, hack",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/hack-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/hack-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/hack-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/hack-one-leg-calf-raise",
+      "slug": "hack-one-leg-calf-raise",
+      "name": "Mollets, une jambe, hack",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement le mollet pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/hack-one-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/hack-one-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/hack-one-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/lever-calf-press",
+      "slug": "lever-calf-press",
+      "name": "Développé à la machine, mollet",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Gaine ton core et fixe tes omoplates. Initie la poussée depuis une base stable.",
+        "Pousse le poids en l'éloignant du corps sur une trajectoire contrôlée, en extension complète sans verrouiller les articulations brusquement.",
+        "Ramène le poids avec contrôle, maintenant la tension dans toute l'amplitude de mouvement.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/lever-calf-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-calf-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-calf-press.thumb.webp"
+    },
+    {
+      "id": "calves/lever-donkey-calf-raise",
+      "slug": "lever-donkey-calf-raise",
+      "name": "Mollets à la machine, âne",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/lever-donkey-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-donkey-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-donkey-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/lever-rotary-calf",
+      "slug": "lever-rotary-calf",
+      "name": "Rotatoire mollet à la machine",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Place-toi les talons sur le bord d'une plateforme (ou sol plat). Tiens-toi à un support pour l'équilibre.",
+        "Lève les orteils et l'avant des pieds le plus haut possible en contractant l'avant des tibias.",
+        "Redescends lentement avec contrôle. Cela renforce le tibial antérieur — muscle clé pour la stabilité de la cheville et la prévention des périostites.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/lever-rotary-calf.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-rotary-calf.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-rotary-calf.thumb.webp"
+    },
+    {
+      "id": "calves/lever-seated-calf-press",
+      "slug": "lever-seated-calf-press",
+      "name": "Développé à la machine, assis, mollet",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Gaine ton core et fixe tes omoplates. Initie la poussée depuis une base stable.",
+        "Pousse le poids en l'éloignant du corps sur une trajectoire contrôlée, en extension complète sans verrouiller les articulations brusquement.",
+        "Ramène le poids avec contrôle, maintenant la tension dans toute l'amplitude de mouvement.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/lever-seated-calf-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-seated-calf-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-seated-calf-press.thumb.webp"
+    },
+    {
+      "id": "calves/lever-seated-calf-raise",
+      "slug": "lever-seated-calf-raise",
+      "name": "Mollets à la machine, assis",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/lever-seated-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-seated-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-seated-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/lever-seated-squat-calf-raise-on-leg-press-machine",
+      "slug": "lever-seated-squat-calf-raise-on-leg-press-machine",
+      "name": "Squat à la machine, assis, Mollets Presse à cuisses",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Gaine ton core et fixe tes omoplates. Initie la poussée depuis une base stable.",
+        "Pousse le poids en l'éloignant du corps sur une trajectoire contrôlée, en extension complète sans verrouiller les articulations brusquement.",
+        "Ramène le poids avec contrôle, maintenant la tension dans toute l'amplitude de mouvement.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/lever-seated-squat-calf-raise-on-leg-press-machine.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-seated-squat-calf-raise-on-leg-press-machine.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-seated-squat-calf-raise-on-leg-press-machine.thumb.webp"
+    },
+    {
+      "id": "calves/lever-standing-calf-raise",
+      "slug": "lever-standing-calf-raise",
+      "name": "Mollets à la machine, debout",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/lever-standing-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-standing-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-standing-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/one-leg-donkey-calf-raise",
+      "slug": "one-leg-donkey-calf-raise",
+      "name": "Mollets, une jambe, âne",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement le mollet pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/one-leg-donkey-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/one-leg-donkey-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/one-leg-donkey-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/one-leg-floor-calf-raise",
+      "slug": "one-leg-floor-calf-raise",
+      "name": "Mollets, une jambe, sol",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement le mollet pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/one-leg-floor-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/one-leg-floor-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/one-leg-floor-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/peroneals-stretch",
+      "slug": "peroneals-stretch",
+      "name": "Étirement, péroniers",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Va vers la position d'étirement lentement jusqu'à sentir une tension douce dans la zone cible — pas de douleur.",
+        "Tiens 20 à 40 secondes en respirant profondément. À chaque expiration, essaie de t'enfoncer un peu plus dans l'étirement.",
+        "Relâche lentement et répète si souhaité. La régularité compte plus que l'intensité — étire-toi régulièrement pour une souplesse durable.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "calves/peroneals-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/peroneals-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/peroneals-stretch.thumb.webp"
+    },
+    {
+      "id": "calves/posterior-tibialis-stretch",
+      "slug": "posterior-tibialis-stretch",
+      "name": "Étirement, postérieur tibial",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Va vers la position d'étirement lentement jusqu'à sentir une tension douce dans la zone cible — pas de douleur.",
+        "Tiens 20 à 40 secondes en respirant profondément. À chaque expiration, essaie de t'enfoncer un peu plus dans l'étirement.",
+        "Relâche lentement et répète si souhaité. La régularité compte plus que l'intensité — étire-toi régulièrement pour une souplesse durable.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "calves/posterior-tibialis-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/posterior-tibialis-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/posterior-tibialis-stretch.thumb.webp"
+    },
+    {
+      "id": "calves/seated-calf-stretch-male",
+      "slug": "seated-calf-stretch-male",
+      "name": "Étirement, assis, mollet",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Va vers la position d'étirement lentement jusqu'à sentir une tension douce dans la zone cible — pas de douleur.",
+        "Tiens 20 à 40 secondes en respirant profondément. À chaque expiration, essaie de t'enfoncer un peu plus dans l'étirement.",
+        "Relâche lentement et répète si souhaité. La régularité compte plus que l'intensité — étire-toi régulièrement pour une souplesse durable.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "calves/seated-calf-stretch-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/seated-calf-stretch-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/seated-calf-stretch-male.thumb.webp"
+    },
+    {
+      "id": "calves/single-leg-calf-raise-on-a-dumbbell",
+      "slug": "single-leg-calf-raise-on-a-dumbbell",
+      "name": "Mollets aux haltères, une jambe",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement le mollet pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/single-leg-calf-raise-on-a-dumbbell.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/single-leg-calf-raise-on-a-dumbbell.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/single-leg-calf-raise-on-a-dumbbell.thumb.webp"
+    },
+    {
+      "id": "calves/sled-45-calf-press",
+      "slug": "sled-45-calf-press",
+      "name": "Développé au traîneau, mollet",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Charge le traîneau avec un poids approprié et saisis les poignées fermement.",
+        "Gaine ton core et fixe tes omoplates. Initie la poussée depuis une base stable.",
+        "Pousse le poids en l'éloignant du corps sur une trajectoire contrôlée, en extension complète sans verrouiller les articulations brusquement.",
+        "Ramène le poids avec contrôle, maintenant la tension dans toute l'amplitude de mouvement.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/sled-45-calf-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-45-calf-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-45-calf-press.thumb.webp"
+    },
+    {
+      "id": "calves/sled-calf-press-on-leg-press",
+      "slug": "sled-calf-press-on-leg-press",
+      "name": "Presse à cuisses au traîneau, mollet Développé",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Charge le traîneau avec un poids approprié et saisis les poignées fermement.",
+        "Gaine ton core et fixe tes omoplates. Initie la poussée depuis une base stable.",
+        "Pousse le poids en l'éloignant du corps sur une trajectoire contrôlée, en extension complète sans verrouiller les articulations brusquement.",
+        "Ramène le poids avec contrôle, maintenant la tension dans toute l'amplitude de mouvement.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/sled-calf-press-on-leg-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-calf-press-on-leg-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-calf-press-on-leg-press.thumb.webp"
+    },
+    {
+      "id": "calves/sled-forward-angled-calf-raise",
+      "slug": "sled-forward-angled-calf-raise",
+      "name": "Mollets au traîneau, avant incliné",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Charge le traîneau avec un poids approprié et saisis les poignées fermement.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/sled-forward-angled-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-forward-angled-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-forward-angled-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/sled-lying-calf-press",
+      "slug": "sled-lying-calf-press",
+      "name": "Développé au traîneau, couché, mollet",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Charge le traîneau avec un poids approprié et saisis les poignées fermement.",
+        "Allonge-toi avec le dos à plat contre la surface, gainage engagé.",
+        "Gaine ton core et fixe tes omoplates. Initie la poussée depuis une base stable.",
+        "Pousse le poids en l'éloignant du corps sur une trajectoire contrôlée, en extension complète sans verrouiller les articulations brusquement.",
+        "Ramène le poids avec contrôle, maintenant la tension dans toute l'amplitude de mouvement.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/sled-lying-calf-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-lying-calf-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-lying-calf-press.thumb.webp"
+    },
+    {
+      "id": "calves/sled-one-leg-calf-press-on-leg-press",
+      "slug": "sled-one-leg-calf-press-on-leg-press",
+      "name": "Presse à cuisses au traîneau, une jambe, mollet Développé",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Charge le traîneau avec un poids approprié et saisis les poignées fermement.",
+        "Gaine ton core et fixe tes omoplates. Initie la poussée depuis une base stable.",
+        "Pousse le poids en l'éloignant du corps sur une trajectoire contrôlée, en extension complète sans verrouiller les articulations brusquement.",
+        "Ramène le poids avec contrôle, maintenant la tension dans toute l'amplitude de mouvement.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/sled-one-leg-calf-press-on-leg-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-one-leg-calf-press-on-leg-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-one-leg-calf-press-on-leg-press.thumb.webp"
+    },
+    {
+      "id": "calves/smith-one-leg-floor-calf-raise",
+      "slug": "smith-one-leg-floor-calf-raise",
+      "name": "Mollets au Smith, une jambe, sol",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Règle la hauteur de la barre au Smith et charge le poids approprié. Place-toi sous la barre.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement le mollet pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/smith-one-leg-floor-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-one-leg-floor-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-one-leg-floor-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/smith-reverse-calf-raises-1394",
+      "slug": "smith-reverse-calf-raises-1394",
+      "name": "Élévations inversé au Smith, mollet",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Règle la hauteur de la barre au Smith et charge le poids approprié. Place-toi sous la barre.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/smith-reverse-calf-raises-1394.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-reverse-calf-raises-1394.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-reverse-calf-raises-1394.thumb.webp"
+    },
+    {
+      "id": "calves/smith-reverse-calf-raises",
+      "slug": "smith-reverse-calf-raises",
+      "name": "Élévations inversé au Smith, mollet",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Règle la hauteur de la barre au Smith et charge le poids approprié. Place-toi sous la barre.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/smith-reverse-calf-raises.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-reverse-calf-raises.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-reverse-calf-raises.thumb.webp"
+    },
+    {
+      "id": "calves/smith-seated-one-leg-calf-raise",
+      "slug": "smith-seated-one-leg-calf-raise",
+      "name": "Mollets au Smith, assis, une jambe",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Règle la hauteur de la barre au Smith et charge le poids approprié. Place-toi sous la barre.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement le mollet pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/smith-seated-one-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-seated-one-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-seated-one-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/smith-standing-leg-calf-raise",
+      "slug": "smith-standing-leg-calf-raise",
+      "name": "Mollets au Smith, debout, jambe",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Règle la hauteur de la barre au Smith et charge le poids approprié. Place-toi sous la barre.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/smith-standing-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-standing-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-standing-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/smith-toe-raise",
+      "slug": "smith-toe-raise",
+      "name": "Élévation au Smith, orteils",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Règle la hauteur de la barre au Smith et charge le poids approprié. Place-toi sous la barre.",
+        "Debout ou assis en position de départ, poids prêt et core gainé.",
+        "Monte le poids dans la trajectoire indiquée avec une légère flexion des coudes. Arrête à hauteur d'épaules sauf indication contraire.",
+        "Redescends lentement avec contrôle, résistant à la gravité pendant toute la descente. Pas d'élan — contrôle chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/smith-toe-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-toe-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-toe-raise.thumb.webp"
+    },
+    {
+      "id": "calves/standing-calf-raise-on-a-staircase",
+      "slug": "standing-calf-raise-on-a-staircase",
+      "name": "Mollets, debout, escalier",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/standing-calf-raise-on-a-staircase.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/standing-calf-raise-on-a-staircase.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/standing-calf-raise-on-a-staircase.thumb.webp"
+    },
+    {
+      "id": "calves/standing-calves-calf-stretch",
+      "slug": "standing-calves-calf-stretch",
+      "name": "Étirement, debout, mollets mollet",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "calves/standing-calves-calf-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/standing-calves-calf-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/standing-calves-calf-stretch.thumb.webp"
+    },
+    {
+      "id": "calves/standing-calves",
+      "slug": "standing-calves",
+      "name": "Mollets, debout",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/standing-calves.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/standing-calves.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/standing-calves.thumb.webp"
+    },
+    {
+      "id": "calves/weighted-donkey-calf-raise",
+      "slug": "weighted-donkey-calf-raise",
+      "name": "Mollets, lesté, âne",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/weighted-donkey-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/weighted-donkey-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/weighted-donkey-calf-raise.thumb.webp"
+    }
+  ]
+}

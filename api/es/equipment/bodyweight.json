@@ -149,7 +149,7 @@
     {
       "id": "abs/arm-slingers-hanging-bent-knee-legs",
       "slug": "arm-slingers-hanging-bent-knee-legs",
-      "name": "Arm slingers, colgado, con rodillas flexionadas",
+      "name": "Balanceo de brazos, colgado, con rodillas flexionadas",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -169,7 +169,7 @@
     {
       "id": "abs/arm-slingers-hanging-straight-legs",
       "slug": "arm-slingers-hanging-straight-legs",
-      "name": "Arm slingers, colgado, con piernas rectas",
+      "name": "Balanceo de brazos, colgado, con piernas rectas",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -376,7 +376,7 @@
     {
       "id": "abs/bottoms-up",
       "slug": "bottoms-up",
-      "name": "Fondo up",
+      "name": "Fondo arriba",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -1301,7 +1301,7 @@
     {
       "id": "abs/leg-pull-in-flat-bench",
       "slug": "leg-pull-in-flat-bench",
-      "name": "Pull-in de piernas en banco plano",
+      "name": "Encogimiento de piernas en banco plano",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -1637,7 +1637,7 @@
     {
       "id": "abs/pull-in-on-stability-ball",
       "slug": "pull-in-on-stability-ball",
-      "name": "Pull-in en fitball",
+      "name": "Encogimiento en fitball",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -1968,7 +1968,7 @@
     {
       "id": "abs/spell-caster",
       "slug": "spell-caster",
-      "name": "Spell caster",
+      "name": "Hechicero",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -2759,7 +2759,7 @@
     {
       "id": "calves/box-jump-down-with-one-leg-stabilization",
       "slug": "box-jump-down-with-one-leg-stabilization",
-      "name": "Salto al cajón, a una pierna, down stabilization",
+      "name": "Salto al cajón con estabilización a una pierna",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3063,7 +3063,7 @@
     {
       "id": "calves/standing-calves-calf-stretch",
       "slug": "standing-calves-calf-stretch",
-      "name": "Estiramiento, gemelos de pie, gemelo",
+      "name": "Estiramiento de gemelo de pie",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3335,7 +3335,7 @@
     {
       "id": "cardio/push-to-run",
       "slug": "push-to-run",
-      "name": "Push-run",
+      "name": "Empuje y carrera",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -3355,7 +3355,7 @@
     {
       "id": "cardio/run-equipment",
       "slug": "run-equipment",
-      "name": "Correr equipment",
+      "name": "Correr en máquina",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -3415,7 +3415,7 @@
     {
       "id": "cardio/semi-squat-jump-male",
       "slug": "semi-squat-jump-male",
-      "name": "Sentadilla, semi jump",
+      "name": "Sentadilla, semi salto",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -3559,7 +3559,7 @@
     {
       "id": "cardio/swing-360",
       "slug": "swing-360",
-      "name": "Swing 360",
+      "name": "Giro 360",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -3586,7 +3586,7 @@
     {
       "id": "cardio/walking-high-knees-lunge",
       "slug": "walking-high-knees-lunge",
-      "name": "Rodillas altas, caminando lunge",
+      "name": "Zancada caminando con rodillas altas",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -3610,7 +3610,7 @@
     {
       "id": "cardio/wheel-run",
       "slug": "wheel-run",
-      "name": "Wheel correr",
+      "name": "Correr en rueda",
       "muscle": "cardio",
       "bodyPart": "cardio",
       "equipment": "bodyweight",
@@ -3714,7 +3714,7 @@
     {
       "id": "delts/weighted-kneeling-step-with-swing",
       "slug": "weighted-kneeling-step-with-swing",
-      "name": "Swing, de rodillas, con peso, paso",
+      "name": "Paso de rodillas con peso y balanceo",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "bodyweight",
@@ -3868,7 +3868,7 @@
     {
       "id": "forearms/wrist-rollerer",
       "slug": "wrist-rollerer",
-      "name": "Enrollador de muñeca",
+      "name": "Rodillo de muneca",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "bodyweight",
@@ -3890,7 +3890,7 @@
     {
       "id": "glutes/arms-apart-circular-toe-touch-male",
       "slug": "arms-apart-circular-toe-touch-male",
-      "name": "Tocar punta del pie, brazos apart circular",
+      "name": "Tocar punta del pie con brazos separados, circular",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3952,7 +3952,7 @@
     {
       "id": "glutes/basic-toe-touch-male",
       "slug": "basic-toe-touch-male",
-      "name": "Tocar punta del pie, basic",
+      "name": "Tocar punta del pie, básico",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -4016,7 +4016,7 @@
     {
       "id": "glutes/bodyweight-drop-jump-squat",
       "slug": "bodyweight-drop-jump-squat",
-      "name": "Sentadilla con salto con peso corporal, drop",
+      "name": "Sentadilla con salto en caída, con peso corporal",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -4082,7 +4082,7 @@
     {
       "id": "glutes/exercise-ball-one-leg-prone-lower-body-rotation",
       "slug": "exercise-ball-one-leg-prone-lower-body-rotation",
-      "name": "Inferior body rotation tumbado boca abajo en fitball, a una pierna",
+      "name": "Rotación de tren inferior tumbado boca abajo en fitball, a una pierna",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -4191,7 +4191,7 @@
     {
       "id": "glutes/glute-bridge-march",
       "slug": "glute-bridge-march",
-      "name": "Puente de glúteos, march",
+      "name": "Puente de glúteos con marcha",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -4237,7 +4237,7 @@
     {
       "id": "glutes/hands-clasped-circular-toe-touch-male",
       "slug": "hands-clasped-circular-toe-touch-male",
-      "name": "Tocar punta del pie, manos clasped circular",
+      "name": "Tocar punta del pie con manos juntas, circular",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -4257,7 +4257,7 @@
     {
       "id": "glutes/hands-reversed-clasped-circular-toe-touch-male",
       "slug": "hands-reversed-clasped-circular-toe-touch-male",
-      "name": "Tocar punta del pie, manos reversed clasped circular",
+      "name": "Tocar punta del pie con manos invertidas, circular",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -4414,7 +4414,7 @@
     {
       "id": "glutes/lunge-with-jump",
       "slug": "lunge-with-jump",
-      "name": "Zancada, jump",
+      "name": "Zancada, salto",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -4437,7 +4437,7 @@
     {
       "id": "glutes/march-sit-wall",
       "slug": "march-sit-wall",
-      "name": "March sit pared",
+      "name": "Marcha sentado en pared",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -4457,7 +4457,7 @@
     {
       "id": "glutes/monster-walk",
       "slug": "monster-walk",
-      "name": "Monster caminata",
+      "name": "Caminata del monstruo",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -4961,7 +4961,7 @@
     {
       "id": "glutes/weighted-lunge-with-swing",
       "slug": "weighted-lunge-with-swing",
-      "name": "Zancada, con peso, swing",
+      "name": "Zancada con peso y balanceo",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -5076,7 +5076,7 @@
     {
       "id": "hamstrings/glute-ham-raise",
       "slug": "glute-ham-raise",
-      "name": "Glute ham raise",
+      "name": "Elevación glúteo-isquiotibial",
       "muscle": "hamstrings",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -5139,7 +5139,7 @@
     {
       "id": "hamstrings/kick-out-sit",
       "slug": "kick-out-sit",
-      "name": "Kick-out sit",
+      "name": "Patada y sentadilla",
       "muscle": "hamstrings",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -5159,7 +5159,7 @@
     {
       "id": "hamstrings/leg-up-hamstring-stretch",
       "slug": "leg-up-hamstring-stretch",
-      "name": "Estiramiento, pierna up isquiotibial",
+      "name": "Estiramiento, pierna arriba isquiotibial",
       "muscle": "hamstrings",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -5266,7 +5266,7 @@
     {
       "id": "hamstrings/self-assisted-inverse-leg-curl-1766",
       "slug": "self-assisted-inverse-leg-curl-1766",
-      "name": "Curl femoral nórdico, asistido, self",
+      "name": "Curl femoral nórdico autoasistido",
       "muscle": "hamstrings",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -5289,7 +5289,7 @@
     {
       "id": "hamstrings/self-assisted-inverse-leg-curl-on-floor",
       "slug": "self-assisted-inverse-leg-curl-on-floor",
-      "name": "Curl femoral nórdico, asistido en el suelo, self",
+      "name": "Curl femoral nórdico autoasistido en el suelo",
       "muscle": "hamstrings",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -5312,7 +5312,7 @@
     {
       "id": "hamstrings/self-assisted-inverse-leg-curl",
       "slug": "self-assisted-inverse-leg-curl",
-      "name": "Curl femoral nórdico, asistido, self",
+      "name": "Curl femoral nórdico autoasistido",
       "muscle": "hamstrings",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -5355,7 +5355,7 @@
     {
       "id": "hamstrings/world-greatest-stretch",
       "slug": "world-greatest-stretch",
-      "name": "Estiramiento, world greatest",
+      "name": "Estiramiento, el mejor del mundo",
       "muscle": "hamstrings",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -6728,7 +6728,7 @@
     {
       "id": "pectorals/drop-push-up",
       "slug": "drop-push-up",
-      "name": "Flexión, drop",
+      "name": "Flexión, en caída",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "bodyweight",
@@ -6841,7 +6841,7 @@
     {
       "id": "pectorals/incline-push-up-depth-jump",
       "slug": "incline-push-up-depth-jump",
-      "name": "Flexión inclinada, depth jump",
+      "name": "Flexión inclinada, con salto en profundidad",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "bodyweight",
@@ -7558,7 +7558,7 @@
     {
       "id": "pectorals/weighted-drop-push-up",
       "slug": "weighted-drop-push-up",
-      "name": "Flexión, con peso, drop",
+      "name": "Flexión, con peso, en caída",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "bodyweight",
@@ -7947,7 +7947,7 @@
     {
       "id": "quads/split-squats",
       "slug": "split-squats",
-      "name": "Split squat",
+      "name": "Sentadilla búlgara",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -8071,7 +8071,7 @@
     {
       "id": "quads/suspended-split-squat",
       "slug": "suspended-split-squat",
-      "name": "Split squat, suspendido",
+      "name": "Sentadilla búlgara suspendida",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -8258,7 +8258,7 @@
     {
       "id": "spine/exercise-ball-back-extension-with-rotation",
       "slug": "exercise-ball-back-extension-with-rotation",
-      "name": "Extensión en fitball, espalda rotation",
+      "name": "Extensión en fitball, espalda rotación",
       "muscle": "spine",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -8671,7 +8671,7 @@
     {
       "id": "triceps/body-up",
       "slug": "body-up",
-      "name": "Body-up",
+      "name": "Elevación corporal",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "bodyweight",
@@ -9909,7 +9909,7 @@
     {
       "id": "upper-back/skin-the-cat",
       "slug": "skin-the-cat",
-      "name": "Skin the cat",
+      "name": "Vuelta completa en barra",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "bodyweight",

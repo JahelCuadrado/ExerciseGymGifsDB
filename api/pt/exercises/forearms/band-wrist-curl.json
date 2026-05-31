@@ -1,0 +1,22 @@
+{
+  "id": "forearms/band-wrist-curl",
+  "slug": "band-wrist-curl",
+  "name": "Rosca de punho com faixa elástica",
+  "muscle": "forearms",
+  "bodyPart": "arms",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": [
+    "Fixe a faixa elástica no ponto de ancoragem correto e certifique-se de que há tensão inicial.",
+    "Apoie os antebraços nas coxas ou em um banco com os pulsos pendendo sobre a borda. Mantenha os antebraços colados à superfície.",
+    "Flexione os pulsos para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+    "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas os pulsos se movem — os antebraços ficam parados.",
+    "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+  ],
+  "file": "forearms/band-wrist-curl.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/band-wrist-curl.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/band-wrist-curl.thumb.webp"
+}

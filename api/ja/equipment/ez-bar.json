@@ -1,0 +1,535 @@
+{
+  "equipment": "ez-bar",
+  "count": 23,
+  "exercises": [
+    {
+      "id": "biceps/ez-bar-biceps-curl-with-arm-blaster",
+      "slug": "ez-bar-biceps-curl-with-arm-blaster",
+      "name": "EZバー・バイセプスカール・アーム・ブラスター",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/ez-bar-biceps-curl-with-arm-blaster.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-bar-biceps-curl-with-arm-blaster.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-bar-biceps-curl-with-arm-blaster.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-bar-seated-close-grip-concentration-curl",
+      "slug": "ez-bar-seated-close-grip-concentration-curl",
+      "name": "EZバー・シーテッド・ナローグリップ・コンセントレーションカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "ナローグリップを使い、手の間隔を約15cmにして内側への刺激を高めます。",
+        "足を広げて座り、ワーキングアームの裏側を内ももに当てます。これで上腕が固定されます。",
+        "ゆっくりカールし、上腕二頭筋の収縮に完全に集中します。トップでオレンジの汁を絞り出すようにします。",
+        "3秒かけて下ろし、完全に伸ばします。太ももがガードレールの役割を果たし、振りが不可能になります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/ez-bar-seated-close-grip-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-bar-seated-close-grip-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-bar-seated-close-grip-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-close-grip-curl",
+      "slug": "ez-barbell-close-grip-curl",
+      "name": "EZバー・ナローグリップ・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "ナローグリップを使い、手の間隔を約15cmにして内側への刺激を高めます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/ez-barbell-close-grip-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-close-grip-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-close-grip-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-close-grip-preacher-curl",
+      "slug": "ez-barbell-close-grip-preacher-curl",
+      "name": "EZバー・ナローグリップ・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "ナローグリップを使い、手の間隔を約15cmにして内側への刺激を高めます。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/ez-barbell-close-grip-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-close-grip-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-close-grip-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-curl",
+      "slug": "ez-barbell-curl",
+      "name": "EZバー・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/ez-barbell-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-reverse-grip-curl",
+      "slug": "ez-barbell-reverse-grip-curl",
+      "name": "EZバー・リバースグリップ・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/ez-barbell-reverse-grip-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-reverse-grip-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-reverse-grip-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-reverse-grip-preacher-curl",
+      "slug": "ez-barbell-reverse-grip-preacher-curl",
+      "name": "EZバー・リバースグリップ・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/ez-barbell-reverse-grip-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-reverse-grip-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-reverse-grip-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-seated-curls",
+      "slug": "ez-barbell-seated-curls",
+      "name": "EZバー・シーテッド・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/ez-barbell-seated-curls.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-seated-curls.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-seated-curls.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-spider-curl-1628",
+      "slug": "ez-barbell-spider-curl-1628",
+      "name": "EZバー・スパイダーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "インクラインベンチにうつ伏せになり、腕をまっすぐ下に垂らします。重力が全レップを通じて負荷をかけます。",
+        "カールしてトップで上腕二頭筋を強く絞ります。ベンチの角度が一定のテンションを保ち、ボトムでも休めません。",
+        "完全伸展までコントロールして下ろします。この角度ではチートがほぼ不可能なので、軽い重量でフォームに集中します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/ez-barbell-spider-curl-1628.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-spider-curl-1628.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-spider-curl-1628.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-spider-curl",
+      "slug": "ez-barbell-spider-curl",
+      "name": "EZバー・スパイダーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "インクラインベンチにうつ伏せになり、腕をまっすぐ下に垂らします。重力が全レップを通じて負荷をかけます。",
+        "カールしてトップで上腕二頭筋を強く絞ります。ベンチの角度が一定のテンションを保ち、ボトムでも休めません。",
+        "完全伸展までコントロールして下ろします。この角度ではチートがほぼ不可能なので、軽い重量でフォームに集中します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/ez-barbell-spider-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-spider-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-spider-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-standing-wide-grip-biceps-curl",
+      "slug": "ez-barbell-standing-wide-grip-biceps-curl",
+      "name": "EZバー・スタンディング・ワイドグリップ・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "ワイドグリップを使い、肩幅よりかなり広く握って、ストレッチと外側への刺激を高めます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/ez-barbell-standing-wide-grip-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-standing-wide-grip-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-standing-wide-grip-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "delts/ez-barbell-anti-gravity-press",
+      "slug": "ez-barbell-anti-gravity-press",
+      "name": "EZバー・プレス・アンチ・グラビティ",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "手首を肘の真上に積み上げ、固い柱のようにします。臀筋を締め、腹筋をパンチを受けるように引き締めます。",
+        "重りを真上に押し上げ、頭を邪魔にならないように移動させます。バーが顔を通過したら、頭を前に出して完全にロックアウトします。",
+        "前部三角筋の上にコントロールしながら戻します。体幹を垂直に保ちましょう。立ったままのインクラインベンチではありません。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "delts/ez-barbell-anti-gravity-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/ez-barbell-anti-gravity-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/ez-barbell-anti-gravity-press.thumb.webp"
+    },
+    {
+      "id": "lats/ez-bar-lying-bent-arms-pullover",
+      "slug": "ez-bar-lying-bent-arms-pullover",
+      "name": "EZバー・ライイング・プルオーバー・ベント・アーム",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "ベンチに仰向けになり、重りを胸の上で腕を伸ばして持ちます。肘に軽い曲がりを保ちます。",
+        "重りを頭の後ろにアーチを描いて下ろし、広背筋と胸に深いストレッチを感じます。快適な範囲だけ行きます。",
+        "広背筋を使って重りを胸の上に戻します。大きなアーチで重りをすくい上げるイメージです。肘の曲がりは同じに保ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "lats/ez-bar-lying-bent-arms-pullover.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/ez-bar-lying-bent-arms-pullover.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/ez-bar-lying-bent-arms-pullover.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-bar-close-grip-bench-press",
+      "slug": "ez-bar-close-grip-bench-press",
+      "name": "EZバー・ナローグリップ・ベンチプレス",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "ナローグリップを使い、手の間隔を約15cmにして内側への刺激を高めます。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "triceps/ez-bar-close-grip-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-close-grip-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-close-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-bar-french-press-on-exercise-ball",
+      "slug": "ez-bar-french-press-on-exercise-ball",
+      "name": "EZバー・バランスボール・フレンチ・プレス",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "triceps/ez-bar-french-press-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-french-press-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-french-press-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-bar-lying-close-grip-triceps-extension-behind-head",
+      "slug": "ez-bar-lying-close-grip-triceps-extension-behind-head",
+      "name": "EZバー・ライイング・ナローグリップ・トライセプスエクステンション・ビハインド・ヘッド",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "ナローグリップを使い、手の間隔を約15cmにして内側への刺激を高めます。",
+        "腕を胸の真上にまっすぐ伸ばします。肘は天井を向き、動作中ずっと固定したままにします。",
+        "肘だけを曲げて、重りを額またはその少し後ろに向けて下ろします。上腕はコンクリートの柱のように動かしません。",
+        "腕を完全に伸ばして押し戻し、トップで三頭筋を力強く絞ります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "triceps/ez-bar-lying-close-grip-triceps-extension-behind-head.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-lying-close-grip-triceps-extension-behind-head.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-lying-close-grip-triceps-extension-behind-head.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-bar-standing-french-press",
+      "slug": "ez-bar-standing-french-press",
+      "name": "EZバー・スタンディング・フレンチ・プレス",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "triceps/ez-bar-standing-french-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-standing-french-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-standing-french-press.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-barbell-decline-close-grip-face-press",
+      "slug": "ez-barbell-decline-close-grip-face-press",
+      "name": "EZバー・ナローグリップ・デクライン・プレス・フェイス",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "ベンチをデクラインに設定し、足をパッドの下に固定します。",
+        "ナローグリップを使い、手の間隔を約15cmにして内側への刺激を高めます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "triceps/ez-barbell-decline-close-grip-face-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-decline-close-grip-face-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-decline-close-grip-face-press.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-barbell-decline-triceps-extension",
+      "slug": "ez-barbell-decline-triceps-extension",
+      "name": "EZバー・デクライン・トライセプスエクステンション",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "ベンチをデクラインに設定し、足をパッドの下に固定します。",
+        "肘を定位置にロックします。空間の固定点です。前腕だけが蝶番のように動きます。",
+        "完全に伸ばし、ロックアウト時に三頭筋を強く絞ります。完全伸展で一時停止します。",
+        "ゆっくりスタート位置に戻します。ボトムでのストレッチとトップでの収縮に集中します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "triceps/ez-barbell-decline-triceps-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-decline-triceps-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-decline-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-barbell-incline-triceps-extension",
+      "slug": "ez-barbell-incline-triceps-extension",
+      "name": "EZバー・インクライン・トライセプスエクステンション",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肘を定位置にロックします。空間の固定点です。前腕だけが蝶番のように動きます。",
+        "完全に伸ばし、ロックアウト時に三頭筋を強く絞ります。完全伸展で一時停止します。",
+        "ゆっくりスタート位置に戻します。ボトムでのストレッチとトップでの収縮に集中します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "triceps/ez-barbell-incline-triceps-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-incline-triceps-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-incline-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-barbell-jm-bench-press",
+      "slug": "ez-barbell-jm-bench-press",
+      "name": "EZバー・ベンチプレス・JM",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "triceps/ez-barbell-jm-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-jm-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-jm-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-barbell-seated-triceps-extension",
+      "slug": "ez-barbell-seated-triceps-extension",
+      "name": "EZバー・シーテッド・トライセプスエクステンション",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "肘を定位置にロックします。空間の固定点です。前腕だけが蝶番のように動きます。",
+        "完全に伸ばし、ロックアウト時に三頭筋を強く絞ります。完全伸展で一時停止します。",
+        "ゆっくりスタート位置に戻します。ボトムでのストレッチとトップでの収縮に集中します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "triceps/ez-barbell-seated-triceps-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-seated-triceps-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-seated-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "upper-back/ez-bar-reverse-grip-bent-over-row",
+      "slug": "ez-bar-reverse-grip-bent-over-row",
+      "name": "EZバー・リバースグリップ・ベントオーバーロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/ez-bar-reverse-grip-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/ez-bar-reverse-grip-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/ez-bar-reverse-grip-bent-over-row.thumb.webp"
+    }
+  ]
+}

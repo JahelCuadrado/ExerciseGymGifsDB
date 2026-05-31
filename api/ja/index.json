@@ -1,0 +1,123 @@
+{
+  "name": "Exercise GIF API",
+  "language": "ja",
+  "baseUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB",
+  "generatedAt": "2026-05-27T21:26:22.560Z",
+  "totals": {
+    "muscles": 19,
+    "exercises": 1323,
+    "equipment": 12,
+    "bodyParts": 7,
+    "categories": 4
+  },
+  "endpoints": {
+    "muscles": "ja/muscles.json",
+    "exercises": "ja/exercises.json",
+    "muscleDetail": "ja/muscles/{muscle}.json",
+    "exerciseDetail": "ja/exercises/{muscle}/{slug}.json",
+    "equipmentList": "ja/equipment.json",
+    "equipmentDetail": "ja/equipment/{equipment}.json",
+    "bodyPartList": "ja/bodyparts.json",
+    "bodyPartDetail": "ja/bodyparts/{bodyPart}.json",
+    "categoryList": "ja/categories.json",
+    "categoryDetail": "ja/categories/{category}.json",
+    "search": "ja/search.json"
+  },
+  "muscles": [
+    {
+      "muscle": "abductors",
+      "count": 5,
+      "endpoint": "muscles/abductors.json"
+    },
+    {
+      "muscle": "abs",
+      "count": 169,
+      "endpoint": "muscles/abs.json"
+    },
+    {
+      "muscle": "adductors",
+      "count": 6,
+      "endpoint": "muscles/adductors.json"
+    },
+    {
+      "muscle": "biceps",
+      "count": 151,
+      "endpoint": "muscles/biceps.json"
+    },
+    {
+      "muscle": "calves",
+      "count": 59,
+      "endpoint": "muscles/calves.json"
+    },
+    {
+      "muscle": "cardio",
+      "count": 29,
+      "endpoint": "muscles/cardio.json"
+    },
+    {
+      "muscle": "delts",
+      "count": 143,
+      "endpoint": "muscles/delts.json"
+    },
+    {
+      "muscle": "forearms",
+      "count": 37,
+      "endpoint": "muscles/forearms.json"
+    },
+    {
+      "muscle": "glutes",
+      "count": 144,
+      "endpoint": "muscles/glutes.json"
+    },
+    {
+      "muscle": "hamstrings",
+      "count": 28,
+      "endpoint": "muscles/hamstrings.json"
+    },
+    {
+      "muscle": "lats",
+      "count": 81,
+      "endpoint": "muscles/lats.json"
+    },
+    {
+      "muscle": "levator-scapulae",
+      "count": 2,
+      "endpoint": "muscles/levator-scapulae.json"
+    },
+    {
+      "muscle": "pectorals",
+      "count": 158,
+      "endpoint": "muscles/pectorals.json"
+    },
+    {
+      "muscle": "quads",
+      "count": 44,
+      "endpoint": "muscles/quads.json"
+    },
+    {
+      "muscle": "serratus-anterior",
+      "count": 5,
+      "endpoint": "muscles/serratus-anterior.json"
+    },
+    {
+      "muscle": "spine",
+      "count": 19,
+      "endpoint": "muscles/spine.json"
+    },
+    {
+      "muscle": "traps",
+      "count": 15,
+      "endpoint": "muscles/traps.json"
+    },
+    {
+      "muscle": "triceps",
+      "count": 141,
+      "endpoint": "muscles/triceps.json"
+    },
+    {
+      "muscle": "upper-back",
+      "count": 87,
+      "endpoint": "muscles/upper-back.json"
+    }
+  ]
+}

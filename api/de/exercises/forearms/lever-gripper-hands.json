@@ -1,0 +1,22 @@
+{
+  "id": "forearms/lever-gripper-hands",
+  "slug": "lever-gripper-hands",
+  "name": "Handtrainer Hände an der Maschine",
+  "muscle": "forearms",
+  "bodyPart": "arms",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": [
+    "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+    "Halte das Gewicht (oder Griffgerät) mit gestütztem und stabilem Unterarm.",
+    "Rotiere oder drücke durch den vollen Bewegungsumfang in einer langsamen, kontrollierten Weise. Konzentriere dich auf die Unterarmmuskulatur.",
+    "Kehre kontrolliert zur Ausgangsposition zurück. Jede Wiederholung sollte 2-3 Sekunden in jede Richtung dauern.",
+    "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+  ],
+  "file": "forearms/lever-gripper-hands.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/lever-gripper-hands.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/lever-gripper-hands.thumb.webp"
+}

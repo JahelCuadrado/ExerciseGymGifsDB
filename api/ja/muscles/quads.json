@@ -1,0 +1,1035 @@
+{
+  "muscle": "quads",
+  "count": 44,
+  "exercises": [
+    {
+      "id": "quads/all-fours-squad-stretch",
+      "slug": "all-fours-squad-stretch",
+      "name": "ストレッチ・フォア・スクワッド",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ターゲットエリアに優しい緊張を感じるまでゆっくりストレッチ位置に移動します。痛みではありません。",
+        "深く呼吸しながら20〜40秒キープします。各呼気で、もう少しストレッチに沈んでみます。",
+        "ゆっくり解放し、必要に応じて繰り返します。強度より一貫性が重要です。持続的な柔軟性のために定期的にストレッチしましょう。",
+        "ホールド中は深く安定した呼吸を続けてください。ストレッチ中は決して息を止めないでください。"
+      ],
+      "file": "quads/all-fours-squad-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/all-fours-squad-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/all-fours-squad-stretch.thumb.webp"
+    },
+    {
+      "id": "quads/assisted-prone-lying-quads-stretch",
+      "slug": "assisted-prone-lying-quads-stretch",
+      "name": "うつ伏せ・ライイング・アシスト・ストレッチ・クワッド",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "ターゲットエリアに優しい緊張を感じるまでゆっくりストレッチ位置に移動します。痛みではありません。",
+        "深く呼吸しながら20〜40秒キープします。各呼気で、もう少しストレッチに沈んでみます。",
+        "ゆっくり解放し、必要に応じて繰り返します。強度より一貫性が重要です。持続的な柔軟性のために定期的にストレッチしましょう。",
+        "ホールド中は深く安定した呼吸を続けてください。ストレッチ中は決して息を止めないでください。"
+      ],
+      "file": "quads/assisted-prone-lying-quads-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/assisted-prone-lying-quads-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/assisted-prone-lying-quads-stretch.thumb.webp"
+    },
+    {
+      "id": "quads/backward-jump",
+      "slug": "backward-jump",
+      "name": "バックワード・ジャンプ",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を腰幅から肩幅に開いて立ちます。素早く曲げて脚を溜めます。膝と腰を曲げてテンションを蓄えます。",
+        "股関節、膝、足首を完全に伸ばして爆発的に上に跳びます。該当する場合は腕を振って高さを出します。",
+        "膝を曲げて脚で衝撃を吸収しながらソフトに着地します。猫のように静かに着地するイメージです。",
+        "呼吸：ジャンプや爆発的な動作で鋭く息を吐きます。力を溜める局面で吸います。"
+      ],
+      "file": "quads/backward-jump.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/backward-jump.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/backward-jump.thumb.webp"
+    },
+    {
+      "id": "quads/balance-board",
+      "slug": "balance-board",
+      "name": "バランス・ボード",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "慎重にバランス面に乗り、中心を見つけます。体幹を活性化し、前方の一点を見つめます。",
+        "バランスを保ちながら指示された動きを実行します。足首と体幹からの小さな修正は正常で有益です。",
+        "バランスを崩したら安全に降りてリセットします。固有受容感覚は練習で向上します。忍耐と一貫性を持ちましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/balance-board.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/balance-board.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/balance-board.thumb.webp"
+    },
+    {
+      "id": "quads/band-one-arm-single-leg-split-squat",
+      "slug": "band-one-arm-single-leg-split-squat",
+      "name": "片手バンド・ブルガリアンスクワット",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "レジスタンスバンドを正しいアンカーポイントに固定し、初期テンションがあることを確認します。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/band-one-arm-single-leg-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/band-one-arm-single-leg-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/band-one-arm-single-leg-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/band-single-leg-split-squat",
+      "slug": "band-single-leg-split-squat",
+      "name": "バンド・ブルガリアンスクワット",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "レジスタンスバンドを正しいアンカーポイントに固定し、初期テンションがあることを確認します。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/band-single-leg-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/band-single-leg-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/band-single-leg-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-bench-front-squat",
+      "slug": "barbell-bench-front-squat",
+      "name": "バーベル・フロントスクワット・ベンチ",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/barbell-bench-front-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-bench-front-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-bench-front-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-bench-squat",
+      "slug": "barbell-bench-squat",
+      "name": "バーベル・スクワット・ベンチ",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/barbell-bench-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-bench-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-bench-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-clean-and-press",
+      "slug": "barbell-clean-and-press",
+      "name": "バーベル・クリーン&プレス",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/barbell-clean-and-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-clean-and-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-clean-and-press.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-one-leg-squat",
+      "slug": "barbell-one-leg-squat",
+      "name": "バーベル・ワンレッグ・スクワット",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/barbell-one-leg-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-one-leg-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-one-leg-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-overhead-squat",
+      "slug": "barbell-overhead-squat",
+      "name": "バーベル・オーバーヘッド・スクワット",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/barbell-overhead-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-overhead-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-overhead-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-side-split-squat-v-2",
+      "slug": "barbell-side-split-squat-v-2",
+      "name": "サイド・バーベル・ブルガリアンスクワット",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/barbell-side-split-squat-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-side-split-squat-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-side-split-squat-v-2.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-side-split-squat",
+      "slug": "barbell-side-split-squat",
+      "name": "サイド・バーベル・ブルガリアンスクワット",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/barbell-side-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-side-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-side-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-single-leg-split-squat",
+      "slug": "barbell-single-leg-split-squat",
+      "name": "バーベル・ブルガリアンスクワット",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/barbell-single-leg-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-single-leg-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-single-leg-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-split-squat-v-2",
+      "slug": "barbell-split-squat-v-2",
+      "name": "バーベル・ブルガリアンスクワット",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/barbell-split-squat-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-split-squat-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-split-squat-v-2.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-squat-jump-step-rear-lunge",
+      "slug": "barbell-squat-jump-step-rear-lunge",
+      "name": "バーベル・リア・スクワット・ジャンプ・ステップ・ランジ",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：ジャンプや爆発的な動作で鋭く息を吐きます。力を溜める局面で吸います。"
+      ],
+      "file": "quads/barbell-squat-jump-step-rear-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-squat-jump-step-rear-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-squat-jump-step-rear-lunge.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-squat-on-knees",
+      "slug": "barbell-squat-on-knees",
+      "name": "バーベル・スクワット・ニー",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/barbell-squat-on-knees.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-squat-on-knees.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-squat-on-knees.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-wide-squat",
+      "slug": "barbell-wide-squat",
+      "name": "バーベル・ワイド・スクワット",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/barbell-wide-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-wide-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-wide-squat.thumb.webp"
+    },
+    {
+      "id": "quads/chair-leg-extended-stretch",
+      "slug": "chair-leg-extended-stretch",
+      "name": "ストレッチ・チェア・レッグ・エクステンデッド",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ターゲットエリアに優しい緊張を感じるまでゆっくりストレッチ位置に移動します。痛みではありません。",
+        "深く呼吸しながら20〜40秒キープします。各呼気で、もう少しストレッチに沈んでみます。",
+        "ゆっくり解放し、必要に応じて繰り返します。強度より一貫性が重要です。持続的な柔軟性のために定期的にストレッチしましょう。",
+        "ホールド中は深く安定した呼吸を続けてください。ストレッチ中は決して息を止めないでください。"
+      ],
+      "file": "quads/chair-leg-extended-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/chair-leg-extended-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/chair-leg-extended-stretch.thumb.webp"
+    },
+    {
+      "id": "quads/dumbbell-goblet-squat",
+      "slug": "dumbbell-goblet-squat",
+      "name": "ダンベル・ゴブレットスクワット",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/dumbbell-goblet-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-goblet-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-goblet-squat.thumb.webp"
+    },
+    {
+      "id": "quads/dumbbell-single-leg-split-squat",
+      "slug": "dumbbell-single-leg-split-squat",
+      "name": "ダンベル・ブルガリアンスクワット",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/dumbbell-single-leg-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-single-leg-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-single-leg-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/dumbbell-step-up-lunge",
+      "slug": "dumbbell-step-up-lunge",
+      "name": "ダンベル・ランジ・ステップアップ",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "足を腰幅に開いて立ちます（線路の上、綱渡りではなく）。体幹を柱のようにまっすぐにして踏み出します。",
+        "後ろの膝をエレベーターのようにまっすぐ下ろします。前に出さないでください。両膝90°を目指します。前脚のすねを垂直に保ちます。",
+        "前足のかかとで押して戻ります。前足で床を下に押すイメージです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/dumbbell-step-up-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-step-up-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-step-up-lunge.thumb.webp"
+    },
+    {
+      "id": "quads/dumbbell-step-up-split-squat",
+      "slug": "dumbbell-step-up-split-squat",
+      "name": "ステップ台ダンベル・ブルガリアンスクワット",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/dumbbell-step-up-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-step-up-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-step-up-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/dumbbell-supported-squat",
+      "slug": "dumbbell-supported-squat",
+      "name": "ダンベル・スクワット・サポーテッド",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/dumbbell-supported-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-supported-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-supported-squat.thumb.webp"
+    },
+    {
+      "id": "quads/farmers-walk",
+      "slug": "farmers-walk",
+      "name": "ファーマーズ・ウォーク",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足首からわずかに前傾した直立姿勢をとります。腕は90°で自然に振ります。",
+        "膝を前に推進し、ミッドフットで着地します。スムーズで一定のケイデンスを維持します。",
+        "運動中ずっと体幹を活性化し、呼吸リズムを維持します。鼻から吸い、口から吐きます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/farmers-walk.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/farmers-walk.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/farmers-walk.thumb.webp"
+    },
+    {
+      "id": "quads/forward-jump",
+      "slug": "forward-jump",
+      "name": "フォワード・ジャンプ",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を腰幅から肩幅に開いて立ちます。素早く曲げて脚を溜めます。膝と腰を曲げてテンションを蓄えます。",
+        "股関節、膝、足首を完全に伸ばして爆発的に上に跳びます。該当する場合は腕を振って高さを出します。",
+        "膝を曲げて脚で衝撃を吸収しながらソフトに着地します。猫のように静かに着地するイメージです。",
+        "呼吸：ジャンプや爆発的な動作で鋭く息を吐きます。力を溜める局面で吸います。"
+      ],
+      "file": "quads/forward-jump.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/forward-jump.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/forward-jump.thumb.webp"
+    },
+    {
+      "id": "quads/intermediate-hip-flexor-and-quad-stretch",
+      "slug": "intermediate-hip-flexor-and-quad-stretch",
+      "name": "ストレッチ・中級・ヒップ・屈筋・クワッド",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ターゲットエリアに優しい緊張を感じるまでゆっくりストレッチ位置に移動します。痛みではありません。",
+        "深く呼吸しながら20〜40秒キープします。各呼気で、もう少しストレッチに沈んでみます。",
+        "ゆっくり解放し、必要に応じて繰り返します。強度より一貫性が重要です。持続的な柔軟性のために定期的にストレッチしましょう。",
+        "ホールド中は深く安定した呼吸を続けてください。ストレッチ中は決して息を止めないでください。"
+      ],
+      "file": "quads/intermediate-hip-flexor-and-quad-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/intermediate-hip-flexor-and-quad-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/intermediate-hip-flexor-and-quad-stretch.thumb.webp"
+    },
+    {
+      "id": "quads/lever-alternate-leg-press",
+      "slug": "lever-alternate-leg-press",
+      "name": "マシン・オルタネイト・レッグプレス",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/lever-alternate-leg-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lever-alternate-leg-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lever-alternate-leg-press.thumb.webp"
+    },
+    {
+      "id": "quads/lever-leg-extension",
+      "slug": "lever-leg-extension",
+      "name": "マシン・レッグエクステンション",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "肘を定位置にロックします。空間の固定点です。前腕だけが蝶番のように動きます。",
+        "完全に伸ばし、ロックアウト時に三頭筋を強く絞ります。完全伸展で一時停止します。",
+        "ゆっくりスタート位置に戻します。ボトムでのストレッチとトップでの収縮に集中します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/lever-leg-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lever-leg-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lever-leg-extension.thumb.webp"
+    },
+    {
+      "id": "quads/lying-side-quads-stretch",
+      "slug": "lying-side-quads-stretch",
+      "name": "ライイング・サイド・ストレッチ・クワッド",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "ターゲットエリアに優しい緊張を感じるまでゆっくりストレッチ位置に移動します。痛みではありません。",
+        "深く呼吸しながら20〜40秒キープします。各呼気で、もう少しストレッチに沈んでみます。",
+        "ゆっくり解放し、必要に応じて繰り返します。強度より一貫性が重要です。持続的な柔軟性のために定期的にストレッチしましょう。",
+        "ホールド中は深く安定した呼吸を続けてください。ストレッチ中は決して息を止めないでください。"
+      ],
+      "file": "quads/lying-side-quads-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lying-side-quads-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lying-side-quads-stretch.thumb.webp"
+    },
+    {
+      "id": "quads/quads",
+      "slug": "quads",
+      "name": "クワッド",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "動作を開始する前に大腿四頭筋を活性化させます。マインド-マッスルコネクションを感じてください。",
+        "コンセントリックとエキセントリックの両方のフェーズを完全にコントロールして動作を行います。",
+        "下降をコントロールしながらスタートポジションに戻ります——エキセントリックフェーズは挙上と同じだけ筋肉を成長させます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/quads.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/quads.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/quads.thumb.webp"
+    },
+    {
+      "id": "quads/quick-feet-v-2",
+      "slug": "quick-feet-v-2",
+      "name": "クイック・フィート",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足首からわずかに前傾した直立姿勢をとります。腕は90°で自然に振ります。",
+        "膝を前に推進し、ミッドフットで着地します。スムーズで一定のケイデンスを維持します。",
+        "運動中ずっと体幹を活性化し、呼吸リズムを維持します。鼻から吸い、口から吐きます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/quick-feet-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/quick-feet-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/quick-feet-v-2.thumb.webp"
+    },
+    {
+      "id": "quads/resistance-band-leg-extension",
+      "slug": "resistance-band-leg-extension",
+      "name": "レジスタンスバンド・レッグエクステンション",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "レジスタンスバンドを正しいアンカーポイントに固定し、初期テンションがあることを確認します。",
+        "肘を定位置にロックします。空間の固定点です。前腕だけが蝶番のように動きます。",
+        "完全に伸ばし、ロックアウト時に三頭筋を強く絞ります。完全伸展で一時停止します。",
+        "ゆっくりスタート位置に戻します。ボトムでのストレッチとトップでの収縮に集中します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/resistance-band-leg-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/resistance-band-leg-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/resistance-band-leg-extension.thumb.webp"
+    },
+    {
+      "id": "quads/sissy-squat",
+      "slug": "sissy-squat",
+      "name": "シシースクワット",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/sissy-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/sissy-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/sissy-squat.thumb.webp"
+    },
+    {
+      "id": "quads/smith-chair-squat",
+      "slug": "smith-chair-squat",
+      "name": "スミスマシン・スクワット・チェア",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "スミスマシンのバーの高さを設定し、適切な重量をセットします。バーの下にポジションを取ります。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/smith-chair-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/smith-chair-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/smith-chair-squat.thumb.webp"
+    },
+    {
+      "id": "quads/smith-single-leg-split-squat",
+      "slug": "smith-single-leg-split-squat",
+      "name": "スミスマシン・ブルガリアンスクワット",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "スミスマシンのバーの高さを設定し、適切な重量をセットします。バーの下にポジションを取ります。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/smith-single-leg-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/smith-single-leg-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/smith-single-leg-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/snatch-pull",
+      "slug": "snatch-pull",
+      "name": "スナッチ・プル",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足は腰幅、バーは足の中央上。腰を落とし、胸を張り、腕はまっすぐ。バーのたるみを取ります。",
+        "爆発的に床を押し、腰と膝を伸ばします。バーが膝を通過したら、激しい股関節伸展とシュラッグで加速します。",
+        "肩（クリーン）または頭上（スナッチ）でバーを受け、素早くバーの下に潜ります。柔らかい膝で吸収し、立ち上がります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/snatch-pull.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/snatch-pull.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/snatch-pull.thumb.webp"
+    },
+    {
+      "id": "quads/split-squats",
+      "slug": "split-squats",
+      "name": "ブルガリアンスクワット",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/split-squats.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/split-squats.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/split-squats.thumb.webp"
+    },
+    {
+      "id": "quads/squat-jerk",
+      "slug": "squat-jerk",
+      "name": "スクワット・ジャーク",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手首を肘の真上に積み上げ、固い柱のようにします。臀筋を締め、腹筋をパンチを受けるように引き締めます。",
+        "重りを真上に押し上げ、頭を邪魔にならないように移動させます。バーが顔を通過したら、頭を前に出して完全にロックアウトします。",
+        "前部三角筋の上にコントロールしながら戻します。体幹を垂直に保ちましょう。立ったままのインクラインベンチではありません。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/squat-jerk.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-jerk.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-jerk.thumb.webp"
+    },
+    {
+      "id": "quads/squat-on-bosu-ball",
+      "slug": "squat-on-bosu-ball",
+      "name": "BOSUボール・スクワット",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/squat-on-bosu-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-on-bosu-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-on-bosu-ball.thumb.webp"
+    },
+    {
+      "id": "quads/squat-to-overhead-reach-with-twist",
+      "slug": "squat-to-overhead-reach-with-twist",
+      "name": "オーバーヘッド・スクワット・リーチ・ツイスト",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/squat-to-overhead-reach-with-twist.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-to-overhead-reach-with-twist.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-to-overhead-reach-with-twist.thumb.webp"
+    },
+    {
+      "id": "quads/squat-to-overhead-reach",
+      "slug": "squat-to-overhead-reach",
+      "name": "オーバーヘッド・スクワット・リーチ",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/squat-to-overhead-reach.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-to-overhead-reach.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-to-overhead-reach.thumb.webp"
+    },
+    {
+      "id": "quads/suspended-split-squat",
+      "slug": "suspended-split-squat",
+      "name": "サスペンデッド・ブルガリアンスクワット",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/suspended-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/suspended-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/suspended-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/weighted-sissy-squat",
+      "slug": "weighted-sissy-squat",
+      "name": "加重・シシースクワット",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "quads/weighted-sissy-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/weighted-sissy-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/weighted-sissy-squat.thumb.webp"
+    }
+  ]
+}

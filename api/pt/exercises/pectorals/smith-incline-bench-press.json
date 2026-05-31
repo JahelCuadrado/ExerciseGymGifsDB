@@ -1,0 +1,24 @@
+{
+  "id": "pectorals/smith-incline-bench-press",
+  "slug": "smith-incline-bench-press",
+  "name": "Supino inclinado no Smith",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Ajuste a altura da barra no Smith e carregue o peso adequado. Posicione-se sob a barra.",
+    "Ajuste o banco na inclinação indicada e pressione as costas firmemente contra o encosto.",
+    "Junte as escápulas como se segurasse um lápis entre elas — isso cria uma base estável para empurrar.",
+    "Desça a barra até o meio do peito com os cotovelos a cerca de 45° — pense em forma de seta, não de T — controlando a descida por 2-3 segundos.",
+    "Empurre-se contra o banco, afastando-se da barra. Direcione a barra em um leve arco de volta para o suporte para completar a repetição.",
+    "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+  ],
+  "file": "pectorals/smith-incline-bench-press.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-incline-bench-press.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-incline-bench-press.thumb.webp"
+}

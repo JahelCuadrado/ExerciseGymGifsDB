@@ -1,0 +1,28 @@
+{
+  "id": "quads/squat-jerk",
+  "slug": "squat-jerk",
+  "name": "Kniebeuge, Jerk",
+  "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves",
+    "spine",
+    "traps",
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+    "Stapele die Handgelenke direkt über den Ellbogen wie eine feste Säule. Spanne Gesäß und Core an, als ob du einen Schlag erwartest.",
+    "Drücke das Gewicht gerade nach oben und bewege den Kopf aus dem Weg. Sobald die Stange am Gesicht vorbei ist, schiebe den Kopf durch das Fenster und strecke die Arme vollständig.",
+    "Senke mit Kontrolle zurück zur Startposition auf den vorderen Schultern. Halte den Oberkörper vertikal — du drückst über Kopf, nicht ein stehendes Schrägbankdrücken.",
+    "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+  ],
+  "file": "quads/squat-jerk.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-jerk.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-jerk.thumb.webp"
+}

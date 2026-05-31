@@ -1,0 +1,23 @@
+{
+  "id": "pectorals/machine-inner-chest-press",
+  "slug": "machine-inner-chest-press",
+  "name": "Presse pectorale à la machine, intérieur",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "machine",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+    "Serre tes omoplates comme si tu tenais un crayon entre elles — cela crée une base stable pour pousser.",
+    "Descends la barre vers le milieu de la poitrine avec les coudes à environ 45° — pense à une forme de flèche, pas un T — contrôle la descente pendant 2-3 secondes.",
+    "Pousse-toi toi-même dans le banc, éloignant la barre. Dirige la barre dans un léger arc vers les supports pour terminer la répétition.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "pectorals/machine-inner-chest-press.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/machine-inner-chest-press.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/machine-inner-chest-press.thumb.webp"
+}

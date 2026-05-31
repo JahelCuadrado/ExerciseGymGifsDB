@@ -1,0 +1,353 @@
+{
+  "muscle": "traps",
+  "count": 15,
+  "exercises": [
+    {
+      "id": "traps/band-shrug",
+      "slug": "band-shrug",
+      "name": "弹力带耸肩",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "将弹力带固定在正确的锚点，确保有初始张力。",
+        "手臂完全伸直，将重量持于体侧。挺直站立，肩膀放松。",
+        "将肩膀直接向耳朵方向耸起——不要转动。在顶部收缩2秒。",
+        "缓慢下放回来。整个过程保持手臂伸直——这完全是斜方肌的工作，不是二头肌。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "traps/band-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/band-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/band-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/barbell-shrug",
+      "slug": "barbell-shrug",
+      "name": "杠铃耸肩",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "手臂完全伸直，将重量持于体侧。挺直站立，肩膀放松。",
+        "将肩膀直接向耳朵方向耸起——不要转动。在顶部收缩2秒。",
+        "缓慢下放回来。整个过程保持手臂伸直——这完全是斜方肌的工作，不是二头肌。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "traps/barbell-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/barbell-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/barbell-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/cable-shrug",
+      "slug": "cable-shrug",
+      "name": "绳索耸肩",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "手臂完全伸直，将重量持于体侧。挺直站立，肩膀放松。",
+        "将肩膀直接向耳朵方向耸起——不要转动。在顶部收缩2秒。",
+        "缓慢下放回来。整个过程保持手臂伸直——这完全是斜方肌的工作，不是二头肌。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "traps/cable-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/cable-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/cable-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/dumbbell-decline-shrug-v-2",
+      "slug": "dumbbell-decline-shrug-v-2",
+      "name": "哑铃下斜耸肩",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将凳子调整到下斜角度，双脚固定在脚垫下。",
+        "手臂完全伸直，将重量持于体侧。挺直站立，肩膀放松。",
+        "将肩膀直接向耳朵方向耸起——不要转动。在顶部收缩2秒。",
+        "缓慢下放回来。整个过程保持手臂伸直——这完全是斜方肌的工作，不是二头肌。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "traps/dumbbell-decline-shrug-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-decline-shrug-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-decline-shrug-v-2.thumb.webp"
+    },
+    {
+      "id": "traps/dumbbell-decline-shrug",
+      "slug": "dumbbell-decline-shrug",
+      "name": "哑铃下斜耸肩",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将凳子调整到下斜角度，双脚固定在脚垫下。",
+        "手臂完全伸直，将重量持于体侧。挺直站立，肩膀放松。",
+        "将肩膀直接向耳朵方向耸起——不要转动。在顶部收缩2秒。",
+        "缓慢下放回来。整个过程保持手臂伸直——这完全是斜方肌的工作，不是二头肌。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "traps/dumbbell-decline-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-decline-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-decline-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/dumbbell-incline-shrug",
+      "slug": "dumbbell-incline-shrug",
+      "name": "哑铃上斜耸肩",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "手臂完全伸直，将重量持于体侧。挺直站立，肩膀放松。",
+        "将肩膀直接向耳朵方向耸起——不要转动。在顶部收缩2秒。",
+        "缓慢下放回来。整个过程保持手臂伸直——这完全是斜方肌的工作，不是二头肌。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "traps/dumbbell-incline-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-incline-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-incline-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/dumbbell-shrug",
+      "slug": "dumbbell-shrug",
+      "name": "哑铃耸肩",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "手臂完全伸直，将重量持于体侧。挺直站立，肩膀放松。",
+        "将肩膀直接向耳朵方向耸起——不要转动。在顶部收缩2秒。",
+        "缓慢下放回来。整个过程保持手臂伸直——这完全是斜方肌的工作，不是二头肌。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "traps/dumbbell-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/kettlebell-sumo-high-pull",
+      "slug": "kettlebell-sumo-high-pull",
+      "name": "壶铃高位相扑拉",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "以宽站距（相扑）或髋宽开始。手臂伸直、髋部蓄力握住重量。",
+        "爆发性推地，伸展髋部和膝盖，然后用肘部引导将重量拉到下巴高度。",
+        "控制将重量下放到起始位置。力量来自腿和髋部，不是手臂。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "traps/kettlebell-sumo-high-pull.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/kettlebell-sumo-high-pull.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/kettlebell-sumo-high-pull.thumb.webp"
+    },
+    {
+      "id": "traps/lever-gripless-shrug-v-2",
+      "slug": "lever-gripless-shrug-v-2",
+      "name": "固定器械耸肩无握",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "手臂完全伸直，将重量持于体侧。挺直站立，肩膀放松。",
+        "将肩膀直接向耳朵方向耸起——不要转动。在顶部收缩2秒。",
+        "缓慢下放回来。整个过程保持手臂伸直——这完全是斜方肌的工作，不是二头肌。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "traps/lever-gripless-shrug-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-gripless-shrug-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-gripless-shrug-v-2.thumb.webp"
+    },
+    {
+      "id": "traps/lever-gripless-shrug",
+      "slug": "lever-gripless-shrug",
+      "name": "固定器械耸肩无握",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "手臂完全伸直，将重量持于体侧。挺直站立，肩膀放松。",
+        "将肩膀直接向耳朵方向耸起——不要转动。在顶部收缩2秒。",
+        "缓慢下放回来。整个过程保持手臂伸直——这完全是斜方肌的工作，不是二头肌。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "traps/lever-gripless-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-gripless-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-gripless-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/lever-shrug",
+      "slug": "lever-shrug",
+      "name": "固定器械耸肩",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "手臂完全伸直，将重量持于体侧。挺直站立，肩膀放松。",
+        "将肩膀直接向耳朵方向耸起——不要转动。在顶部收缩2秒。",
+        "缓慢下放回来。整个过程保持手臂伸直——这完全是斜方肌的工作，不是二头肌。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "traps/lever-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/scapula-dips",
+      "slug": "scapula-dips",
+      "name": "臂屈伸肩胛骨",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "握住双杠，在顶部锁定手臂。微微前倾强调胸部，或保持直立强调三头肌。",
+        "弯曲肘部下降，直到上臂至少与地面平行。控制下降——不要掉落。",
+        "爆发性地推回至完全锁定，在顶部收紧目标肌肉。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "traps/scapula-dips.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/scapula-dips.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/scapula-dips.thumb.webp"
+    },
+    {
+      "id": "traps/scapular-pull-up",
+      "slug": "scapular-pull-up",
+      "name": "引体向上肩胛",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "手臂完全伸直悬挂在杠上。通过将肩胛骨向下向后拉来设置肩膀——把它们塞进后裤袋。",
+        "将肘部驱向后裤袋来拉，用胸部引导，而不是下巴。想象将杠铃弯过你的锁骨。",
+        "下巴过杠并在顶部收紧。完全控制下放至悬垂状态——从完全拉伸中赢得每一次重复。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "traps/scapular-pull-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/scapular-pull-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/scapular-pull-up.thumb.webp"
+    },
+    {
+      "id": "traps/smith-back-shrug",
+      "slug": "smith-back-shrug",
+      "name": "史密斯机耸肩背",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "手臂完全伸直，将重量持于体侧。挺直站立，肩膀放松。",
+        "将肩膀直接向耳朵方向耸起——不要转动。在顶部收缩2秒。",
+        "缓慢下放回来。整个过程保持手臂伸直——这完全是斜方肌的工作，不是二头肌。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "traps/smith-back-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-back-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-back-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/smith-shrug",
+      "slug": "smith-shrug",
+      "name": "史密斯机耸肩",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "手臂完全伸直，将重量持于体侧。挺直站立，肩膀放松。",
+        "将肩膀直接向耳朵方向耸起——不要转动。在顶部收缩2秒。",
+        "缓慢下放回来。整个过程保持手臂伸直——这完全是斜方肌的工作，不是二头肌。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "traps/smith-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-shrug.thumb.webp"
+    }
+  ]
+}

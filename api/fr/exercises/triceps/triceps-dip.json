@@ -1,0 +1,23 @@
+{
+  "id": "triceps/triceps-dip",
+  "slug": "triceps-dip",
+  "name": "Dip triceps",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "pectorals"
+  ],
+  "instructions": [
+    "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+    "Saisis les barres et verrouille en haut. Penche-toi légèrement en avant pour cibler la poitrine, ou reste droit pour les triceps.",
+    "Descends en fléchissant les coudes jusqu'à ce que les bras soient au moins parallèles au sol. Contrôle la descente — pas de chute.",
+    "Remonte de façon explosive jusqu'au verrouillage complet, en contractant le muscle cible en haut.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "triceps/triceps-dip.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/triceps-dip.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/triceps-dip.thumb.webp"
+}

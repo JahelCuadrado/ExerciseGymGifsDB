@@ -1,0 +1,23 @@
+{
+  "id": "abs/kettlebell-bent-press",
+  "slug": "kettlebell-bent-press",
+  "name": "Développé au kettlebell, penché",
+  "muscle": "abs",
+  "bodyPart": "core",
+  "equipment": "kettlebell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Choisis le bon poids de kettlebell. Saisis la poignée fermement avec le poignet neutre.",
+    "Gaine ton core et fixe tes omoplates. Initie la poussée depuis une base stable.",
+    "Pousse le poids en l'éloignant du corps sur une trajectoire contrôlée, en extension complète sans verrouiller les articulations brusquement.",
+    "Ramène le poids avec contrôle, maintenant la tension dans toute l'amplitude de mouvement.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "abs/kettlebell-bent-press.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-bent-press.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-bent-press.thumb.webp"
+}

@@ -1,0 +1,156 @@
+{
+  "equipment": "machine",
+  "count": 7,
+  "exercises": [
+    {
+      "id": "cardio/cycle-cross-trainer",
+      "slug": "cycle-cross-trainer",
+      "name": "骑行交叉训练器",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "调整座位和把手适合你的身体。坐下时在踏板最低点膝盖微曲。",
+        "平稳踩踏，向下推、向上拉形成圆形运动。在目标阻力下保持稳定的踏频。",
+        "保持挺直的姿势，收紧核心，全程有节奏地呼吸。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/cycle-cross-trainer.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/cycle-cross-trainer.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/cycle-cross-trainer.thumb.webp"
+    },
+    {
+      "id": "cardio/walk-elliptical-cross-trainer",
+      "slug": "walk-elliptical-cross-trainer",
+      "name": "走椭圆机交叉训练器",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "采取挺直的姿势，从踝关节处微微前倾。手臂呈90度自然摆动。",
+        "驱动膝盖向前，中足着地，保持节奏平稳一致。",
+        "全程收紧核心，保持呼吸节奏——鼻吸口呼，配合步伐。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/walk-elliptical-cross-trainer.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walk-elliptical-cross-trainer.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walk-elliptical-cross-trainer.thumb.webp"
+    },
+    {
+      "id": "cardio/walking-on-incline-treadmill",
+      "slug": "walking-on-incline-treadmill",
+      "name": "上斜行走跑步机",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "采取挺直的姿势，从踝关节处微微前倾。手臂呈90度自然摆动。",
+        "驱动膝盖向前，中足着地，保持节奏平稳一致。",
+        "全程收紧核心，保持呼吸节奏——鼻吸口呼，配合步伐。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/walking-on-incline-treadmill.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-incline-treadmill.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-incline-treadmill.thumb.webp"
+    },
+    {
+      "id": "cardio/walking-on-stepmill",
+      "slug": "walking-on-stepmill",
+      "name": "行走登梯机",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "采取挺直的姿势，从踝关节处微微前倾。手臂呈90度自然摆动。",
+        "驱动膝盖向前，中足着地，保持节奏平稳一致。",
+        "全程收紧核心，保持呼吸节奏——鼻吸口呼，配合步伐。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/walking-on-stepmill.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-stepmill.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-stepmill.thumb.webp"
+    },
+    {
+      "id": "hamstrings/single-leg-platform-slide",
+      "slug": "single-leg-platform-slide",
+      "name": "单腿平台滑动",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "在开始动作前激活腘绳肌。感受意念-肌肉连接。",
+        "以完全控制执行动作，掌控向心和离心两个阶段。",
+        "控制下降回到起始位置——离心阶段和向心阶段一样能增长肌肉。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "hamstrings/single-leg-platform-slide.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/single-leg-platform-slide.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/single-leg-platform-slide.thumb.webp"
+    },
+    {
+      "id": "lats/reverse-grip-machine-lat-pulldown",
+      "slug": "reverse-grip-machine-lat-pulldown",
+      "name": "器械反握高位下拉",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "握住横杆，大腿固定在垫板下。微微后倾，肩胛骨下沉。",
+        "通过将肘部向下向后驱动，将横杆拉向上胸。想象将杠弯过你的锁骨。",
+        "在底部收紧背阔肌一瞬间，然后让横杆缓慢回到头顶，感受背阔肌的充分拉伸。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "lats/reverse-grip-machine-lat-pulldown.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/reverse-grip-machine-lat-pulldown.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/reverse-grip-machine-lat-pulldown.thumb.webp"
+    },
+    {
+      "id": "pectorals/machine-inner-chest-press",
+      "slug": "machine-inner-chest-press",
+      "name": "器械推胸内侧",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/machine-inner-chest-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/machine-inner-chest-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/machine-inner-chest-press.thumb.webp"
+    }
+  ]
+}

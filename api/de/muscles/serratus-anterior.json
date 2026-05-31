@@ -1,0 +1,116 @@
+{
+  "muscle": "serratus-anterior",
+  "count": 5,
+  "exercises": [
+    {
+      "id": "serratus-anterior/barbell-incline-shoulder-raise",
+      "slug": "barbell-incline-shoulder-raise",
+      "name": "Schräg-Schulterheben mit Langhantel",
+      "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Lade die Langhantel mit angemessenem Gewicht. Greife die Stange fest und stelle die Füße schulterbreit auf.",
+        "Stelle die Bank auf die angegebene Neigung ein und drücke deinen Rücken fest gegen das Polster.",
+        "Gehe in eine Liegestütz- oder Schrägposition mit durchgestreckten Armen.",
+        "Ohne die Ellbogen zu beugen, drücke den Körper vom Boden weg, indem du die Schulterblätter protrahierst — runde den oberen Rücken nach vorne.",
+        "Lass die Schulterblätter langsam retrahieren und die Brust absinken, dann protrahiere erneut. Konzentriere dich auf den Serratus, der die Rippen zusammendrückt.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "serratus-anterior/barbell-incline-shoulder-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/barbell-incline-shoulder-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/barbell-incline-shoulder-raise.thumb.webp"
+    },
+    {
+      "id": "serratus-anterior/dumbbell-incline-shoulder-raise",
+      "slug": "dumbbell-incline-shoulder-raise",
+      "name": "Schräg-Schulterheben mit Kurzhantel",
+      "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Wähle das passende Kurzhantel-Gewicht. Greife fest zu und positioniere dich mit stabiler Basis.",
+        "Stelle die Bank auf die angegebene Neigung ein und drücke deinen Rücken fest gegen das Polster.",
+        "Gehe in eine Liegestütz- oder Schrägposition mit durchgestreckten Armen.",
+        "Ohne die Ellbogen zu beugen, drücke den Körper vom Boden weg, indem du die Schulterblätter protrahierst — runde den oberen Rücken nach vorne.",
+        "Lass die Schulterblätter langsam retrahieren und die Brust absinken, dann protrahiere erneut. Konzentriere dich auf den Serratus, der die Rippen zusammendrückt.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "serratus-anterior/dumbbell-incline-shoulder-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/dumbbell-incline-shoulder-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/dumbbell-incline-shoulder-raise.thumb.webp"
+    },
+    {
+      "id": "serratus-anterior/incline-scapula-push-up",
+      "slug": "incline-scapula-push-up",
+      "name": "Schräg-Liegestütz, Schulterblatt",
+      "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Stelle die Bank auf die angegebene Neigung ein und drücke deinen Rücken fest gegen das Polster.",
+        "Gehe in eine Liegestütz- oder Schrägposition mit durchgestreckten Armen.",
+        "Ohne die Ellbogen zu beugen, drücke den Körper vom Boden weg, indem du die Schulterblätter protrahierst — runde den oberen Rücken nach vorne.",
+        "Lass die Schulterblätter langsam retrahieren und die Brust absinken, dann protrahiere erneut. Konzentriere dich auf den Serratus, der die Rippen zusammendrückt.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "serratus-anterior/incline-scapula-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/incline-scapula-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/incline-scapula-push-up.thumb.webp"
+    },
+    {
+      "id": "serratus-anterior/scapula-push-up",
+      "slug": "scapula-push-up",
+      "name": "Liegestütz, Schulterblatt",
+      "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Gehe in eine Liegestütz- oder Schrägposition mit durchgestreckten Armen.",
+        "Ohne die Ellbogen zu beugen, drücke den Körper vom Boden weg, indem du die Schulterblätter protrahierst — runde den oberen Rücken nach vorne.",
+        "Lass die Schulterblätter langsam retrahieren und die Brust absinken, dann protrahiere erneut. Konzentriere dich auf den Serratus, der die Rippen zusammendrückt.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "serratus-anterior/scapula-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/scapula-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/scapula-push-up.thumb.webp"
+    },
+    {
+      "id": "serratus-anterior/smith-incline-shoulder-raises",
+      "slug": "smith-incline-shoulder-raises",
+      "name": "Schräg-Schulter Heben an der Smith-Maschine",
+      "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Stelle die Bank auf die angegebene Neigung ein und drücke deinen Rücken fest gegen das Polster.",
+        "Gehe in eine Liegestütz- oder Schrägposition mit durchgestreckten Armen.",
+        "Ohne die Ellbogen zu beugen, drücke den Körper vom Boden weg, indem du die Schulterblätter protrahierst — runde den oberen Rücken nach vorne.",
+        "Lass die Schulterblätter langsam retrahieren und die Brust absinken, dann protrahiere erneut. Konzentriere dich auf den Serratus, der die Rippen zusammendrückt.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "serratus-anterior/smith-incline-shoulder-raises.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/smith-incline-shoulder-raises.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/smith-incline-shoulder-raises.thumb.webp"
+    }
+  ]
+}

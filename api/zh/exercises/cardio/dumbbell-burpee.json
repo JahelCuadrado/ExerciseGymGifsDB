@@ -1,0 +1,26 @@
+{
+  "id": "cardio/dumbbell-burpee",
+  "slug": "dumbbell-burpee",
+  "name": "哑铃波比跳",
+  "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "dumbbell",
+  "category": "cardio",
+  "secondaryMuscles": [
+    "pectorals",
+    "triceps",
+    "quads",
+    "glutes",
+    "abs"
+  ],
+  "instructions": [
+    "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+    "直立站好，然后下蹲将双手放在地面上。",
+    "跳或退步到俯卧撑位置。做一个俯卧撑（或跳过以提高速度）。",
+    "跳或迈步将脚收回到手边，然后爆发跳起，双手过头。轻柔落地并重复。",
+    "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+  ],
+  "file": "cardio/dumbbell-burpee.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/dumbbell-burpee.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/dumbbell-burpee.thumb.webp"
+}

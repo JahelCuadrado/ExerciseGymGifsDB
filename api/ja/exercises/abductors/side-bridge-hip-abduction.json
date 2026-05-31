@@ -1,0 +1,23 @@
+{
+  "id": "abductors/side-bridge-hip-abduction",
+  "slug": "side-bridge-hip-abduction",
+  "name": "サイド・ヒップアブダクション・ブリッジ",
+  "muscle": "abductors",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "abs"
+  ],
+  "instructions": [
+    "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+    "マシンにセットするか、横向きに寝て脚を重ね、体幹を安定させます。",
+    "抵抗に対して脚を外に押し開き、外側の臀筋を絞ります。靴のロゴを横の壁に見せるイメージです。",
+    "開いた位置で短くキープし、ゆっくりコントロールして閉じます。重りが戻ってぶつからないようにします。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "abductors/side-bridge-hip-abduction.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/side-bridge-hip-abduction.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/side-bridge-hip-abduction.thumb.webp"
+}

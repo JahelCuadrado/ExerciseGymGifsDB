@@ -1,0 +1,323 @@
+{
+  "category": "plyometrics",
+  "count": 14,
+  "exercises": [
+    {
+      "id": "calves/box-jump-down-with-one-leg-stabilization",
+      "slug": "box-jump-down-with-one-leg-stabilization",
+      "name": "ワンレッグ・ボックスジャンプ・ダウン・スタビライゼーション",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を腰幅から肩幅に開いて立ちます。素早く曲げて脚を溜めます。膝と腰を曲げてテンションを蓄えます。",
+        "股関節、膝、足首を完全に伸ばして爆発的に上に跳びます。該当する場合は腕を振って高さを出します。",
+        "膝を曲げて脚で衝撃を吸収しながらソフトに着地します。猫のように静かに着地するイメージです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：ジャンプや爆発的な動作で鋭く息を吐きます。力を溜める局面で吸います。"
+      ],
+      "file": "calves/box-jump-down-with-one-leg-stabilization.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/box-jump-down-with-one-leg-stabilization.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/box-jump-down-with-one-leg-stabilization.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-jump-squat",
+      "slug": "barbell-jump-squat",
+      "name": "バーベル・スクワット・ジャンプ",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：ジャンプや爆発的な動作で鋭く息を吐きます。力を溜める局面で吸います。"
+      ],
+      "file": "glutes/barbell-jump-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-jump-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-jump-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/bodyweight-drop-jump-squat",
+      "slug": "bodyweight-drop-jump-squat",
+      "name": "自重・スクワット・ドロップ・ジャンプ",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：ジャンプや爆発的な動作で鋭く息を吐きます。力を溜める局面で吸います。"
+      ],
+      "file": "glutes/bodyweight-drop-jump-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/bodyweight-drop-jump-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/bodyweight-drop-jump-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/dumbbell-plyo-squat",
+      "slug": "dumbbell-plyo-squat",
+      "name": "ダンベル・スクワット・プライオ",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：ジャンプや爆発的な動作で鋭く息を吐きます。力を溜める局面で吸います。"
+      ],
+      "file": "glutes/dumbbell-plyo-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-plyo-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/dumbbell-plyo-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/jump-squat-v-2",
+      "slug": "jump-squat-v-2",
+      "name": "スクワット・ジャンプ",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：ジャンプや爆発的な動作で鋭く息を吐きます。力を溜める局面で吸います。"
+      ],
+      "file": "glutes/jump-squat-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/jump-squat-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/jump-squat-v-2.thumb.webp"
+    },
+    {
+      "id": "glutes/jump-squat",
+      "slug": "jump-squat",
+      "name": "スクワット・ジャンプ",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：ジャンプや爆発的な動作で鋭く息を吐きます。力を溜める局面で吸います。"
+      ],
+      "file": "glutes/jump-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/jump-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/jump-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/kneeling-jump-squat",
+      "slug": "kneeling-jump-squat",
+      "name": "ニーリング・スクワット・ジャンプ",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "膝を立て、腰を膝の真上に位置させ、上体を直立に保ちます。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：ジャンプや爆発的な動作で鋭く息を吐きます。力を溜める局面で吸います。"
+      ],
+      "file": "glutes/kneeling-jump-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kneeling-jump-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kneeling-jump-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/lunge-with-jump",
+      "slug": "lunge-with-jump",
+      "name": "ランジ・ジャンプ",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を腰幅に開いて立ちます（線路の上、綱渡りではなく）。体幹を柱のようにまっすぐにして踏み出します。",
+        "後ろの膝をエレベーターのようにまっすぐ下ろします。前に出さないでください。両膝90°を目指します。前脚のすねを垂直に保ちます。",
+        "前足のかかとで押して戻ります。前足で床を下に押すイメージです。",
+        "呼吸：ジャンプや爆発的な動作で鋭く息を吐きます。力を溜める局面で吸います。"
+      ],
+      "file": "glutes/lunge-with-jump.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lunge-with-jump.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lunge-with-jump.thumb.webp"
+    },
+    {
+      "id": "pectorals/incline-push-up-depth-jump",
+      "slug": "incline-push-up-depth-jump",
+      "name": "インクライン・腕立て伏せ・デプス・ジャンプ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：ジャンプや爆発的な動作で鋭く息を吐きます。力を溜める局面で吸います。"
+      ],
+      "file": "pectorals/incline-push-up-depth-jump.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/incline-push-up-depth-jump.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/incline-push-up-depth-jump.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-plyo-push-up",
+      "slug": "kettlebell-plyo-push-up",
+      "name": "ケトルベル・腕立て伏せ・プライオ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：ジャンプや爆発的な動作で鋭く息を吐きます。力を溜める局面で吸います。"
+      ],
+      "file": "pectorals/kettlebell-plyo-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-plyo-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-plyo-push-up.thumb.webp"
+    },
+    {
+      "id": "pectorals/plyo-push-up",
+      "slug": "plyo-push-up",
+      "name": "腕立て伏せ・プライオ",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：ジャンプや爆発的な動作で鋭く息を吐きます。力を溜める局面で吸います。"
+      ],
+      "file": "pectorals/plyo-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/plyo-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/plyo-push-up.thumb.webp"
+    },
+    {
+      "id": "quads/backward-jump",
+      "slug": "backward-jump",
+      "name": "バックワード・ジャンプ",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を腰幅から肩幅に開いて立ちます。素早く曲げて脚を溜めます。膝と腰を曲げてテンションを蓄えます。",
+        "股関節、膝、足首を完全に伸ばして爆発的に上に跳びます。該当する場合は腕を振って高さを出します。",
+        "膝を曲げて脚で衝撃を吸収しながらソフトに着地します。猫のように静かに着地するイメージです。",
+        "呼吸：ジャンプや爆発的な動作で鋭く息を吐きます。力を溜める局面で吸います。"
+      ],
+      "file": "quads/backward-jump.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/backward-jump.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/backward-jump.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-squat-jump-step-rear-lunge",
+      "slug": "barbell-squat-jump-step-rear-lunge",
+      "name": "バーベル・リア・スクワット・ジャンプ・ステップ・ランジ",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：ジャンプや爆発的な動作で鋭く息を吐きます。力を溜める局面で吸います。"
+      ],
+      "file": "quads/barbell-squat-jump-step-rear-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-squat-jump-step-rear-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-squat-jump-step-rear-lunge.thumb.webp"
+    },
+    {
+      "id": "quads/forward-jump",
+      "slug": "forward-jump",
+      "name": "フォワード・ジャンプ",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を腰幅から肩幅に開いて立ちます。素早く曲げて脚を溜めます。膝と腰を曲げてテンションを蓄えます。",
+        "股関節、膝、足首を完全に伸ばして爆発的に上に跳びます。該当する場合は腕を振って高さを出します。",
+        "膝を曲げて脚で衝撃を吸収しながらソフトに着地します。猫のように静かに着地するイメージです。",
+        "呼吸：ジャンプや爆発的な動作で鋭く息を吐きます。力を溜める局面で吸います。"
+      ],
+      "file": "quads/forward-jump.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/forward-jump.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/forward-jump.thumb.webp"
+    }
+  ]
+}

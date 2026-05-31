@@ -1,0 +1,24 @@
+{
+  "id": "quads/lever-alternate-leg-press",
+  "slug": "lever-alternate-leg-press",
+  "name": "マシン・オルタネイト・レッグプレス",
+  "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+    "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+    "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+    "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+    "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "quads/lever-alternate-leg-press.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lever-alternate-leg-press.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lever-alternate-leg-press.thumb.webp"
+}

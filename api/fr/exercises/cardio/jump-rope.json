@@ -1,0 +1,20 @@
+{
+  "id": "cardio/jump-rope",
+  "slug": "jump-rope",
+  "name": "Corde à sauter",
+  "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "bodyweight",
+  "category": "cardio",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+    "Debout pieds largeur hanches à épaules. Charge les jambes avec une rapide flexion — plie genoux et hanches pour créer de la tension.",
+    "Explose vers le haut en extension complète des hanches, genoux et chevilles. Utilise les bras pour plus de hauteur si applicable.",
+    "Atterris en souplesse en pliant les genoux et absorbant l'impact par les jambes. Pense à atterrir silencieusement comme un chat.",
+    "Respire de manière rythmique — inspire par le nez et expire par la bouche, en suivant ton rythme."
+  ],
+  "file": "cardio/jump-rope.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jump-rope.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jump-rope.thumb.webp"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "traps/smith-back-shrug",
+  "slug": "smith-back-shrug",
+  "name": "Encolhimento de ombros no Smith, costas",
+  "muscle": "traps",
+  "bodyPart": "back",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "Ajuste a altura da barra no Smith e carregue o peso adequado. Posicione-se sob a barra.",
+    "Segure o peso nas laterais com os braços totalmente estendidos. Fique ereto com os ombros relaxados.",
+    "Encolha os ombros retos em direção às orelhas — não os gire. Aperte no topo por 2 segundos.",
+    "Desça lentamente. Mantenha os braços retos o tempo todo — isso é tudo trapézio, nada de bíceps.",
+    "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+  ],
+  "file": "traps/smith-back-shrug.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-back-shrug.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-back-shrug.thumb.webp"
+}

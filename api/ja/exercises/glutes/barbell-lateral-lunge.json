@@ -1,0 +1,23 @@
+{
+  "id": "glutes/barbell-lateral-lunge",
+  "slug": "barbell-lateral-lunge",
+  "name": "バーベル・ランジ・ラテラル",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+    "足を腰幅に開いて立ちます（線路の上、綱渡りではなく）。体幹を柱のようにまっすぐにして踏み出します。",
+    "後ろの膝をエレベーターのようにまっすぐ下ろします。前に出さないでください。両膝90°を目指します。前脚のすねを垂直に保ちます。",
+    "前足のかかとで押して戻ります。前足で床を下に押すイメージです。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "glutes/barbell-lateral-lunge.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-lateral-lunge.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-lateral-lunge.thumb.webp"
+}

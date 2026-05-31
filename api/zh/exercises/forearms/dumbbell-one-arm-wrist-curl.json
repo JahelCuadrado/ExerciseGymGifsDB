@@ -1,0 +1,23 @@
+{
+  "id": "forearms/dumbbell-one-arm-wrist-curl",
+  "slug": "dumbbell-one-arm-wrist-curl",
+  "name": "哑铃单臂腕弯举",
+  "muscle": "forearms",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": [
+    "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+    "将前臂放在大腿或凳子上，手腕悬出边缘。前臂紧贴支撑面。",
+    "向上弯曲手腕，在顶部收紧前臂肌肉。短暂停顿。",
+    "缓慢下放，让重量充分拉伸手腕。只有手腕在动——前臂保持不动。",
+    "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+    "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+  ],
+  "file": "forearms/dumbbell-one-arm-wrist-curl.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-one-arm-wrist-curl.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-one-arm-wrist-curl.thumb.webp"
+}

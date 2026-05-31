@@ -1,0 +1,22 @@
+{
+  "id": "delts/barbell-rear-delt-raise",
+  "slug": "barbell-rear-delt-raise",
+  "name": "Élévation arrière à la barre",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+    "Penche-toi en avant aux hanches ou règle la machine pour les deltoïdes postérieurs. Laisse les bras pendre avec une légère flexion.",
+    "Monte le poids vers l'extérieur et l'arrière en serrant les omoplates. Mène avec les coudes, pas les mains.",
+    "Tiens brièvement en haut en sentant la contraction entre les omoplates, puis redescends avec contrôle.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "delts/barbell-rear-delt-raise.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-rear-delt-raise.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-rear-delt-raise.thumb.webp"
+}

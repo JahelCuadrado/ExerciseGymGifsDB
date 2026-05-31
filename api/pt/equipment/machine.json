@@ -1,0 +1,156 @@
+{
+  "equipment": "machine",
+  "count": 7,
+  "exercises": [
+    {
+      "id": "cardio/cycle-cross-trainer",
+      "slug": "cycle-cross-trainer",
+      "name": "Bicicleta elíptica",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Ajuste o selim e os agarres ao seu corpo. Sente-se com leve flexão do joelho no ponto mais baixo da pedalada.",
+        "Pedale suavemente, empurrando para baixo e puxando para cima em movimento circular. Mantenha uma cadência constante na resistência alvo.",
+        "Mantenha postura ereta, ative o core e respire ritmicamente durante todo o exercício.",
+        "Respire ritmicamente — inspire pelo nariz e expire pela boca, seguindo seu ritmo."
+      ],
+      "file": "cardio/cycle-cross-trainer.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/cycle-cross-trainer.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/cycle-cross-trainer.thumb.webp"
+    },
+    {
+      "id": "cardio/walk-elliptical-cross-trainer",
+      "slug": "walk-elliptical-cross-trainer",
+      "name": "Caminhada no elíptico",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Adote uma postura ereta com leve inclinação para frente a partir dos tornozelos. Braços a 90° balançando naturalmente.",
+        "Impulsione os joelhos para frente e aterrisse no meio do pé, mantendo a cadência suave e constante.",
+        "Ative o core durante todo o exercício e mantenha o ritmo de respiração — inspire pelo nariz, expire pela boca.",
+        "Respire ritmicamente — inspire pelo nariz e expire pela boca, seguindo seu ritmo."
+      ],
+      "file": "cardio/walk-elliptical-cross-trainer.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walk-elliptical-cross-trainer.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walk-elliptical-cross-trainer.thumb.webp"
+    },
+    {
+      "id": "cardio/walking-on-incline-treadmill",
+      "slug": "walking-on-incline-treadmill",
+      "name": "Caminhando esteira inclinado",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Ajuste o banco na inclinação indicada e pressione as costas firmemente contra o encosto.",
+        "Adote uma postura ereta com leve inclinação para frente a partir dos tornozelos. Braços a 90° balançando naturalmente.",
+        "Impulsione os joelhos para frente e aterrisse no meio do pé, mantendo a cadência suave e constante.",
+        "Ative o core durante todo o exercício e mantenha o ritmo de respiração — inspire pelo nariz, expire pela boca.",
+        "Respire ritmicamente — inspire pelo nariz e expire pela boca, seguindo seu ritmo."
+      ],
+      "file": "cardio/walking-on-incline-treadmill.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-incline-treadmill.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-incline-treadmill.thumb.webp"
+    },
+    {
+      "id": "cardio/walking-on-stepmill",
+      "slug": "walking-on-stepmill",
+      "name": "Caminhando stepmill",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Adote uma postura ereta com leve inclinação para frente a partir dos tornozelos. Braços a 90° balançando naturalmente.",
+        "Impulsione os joelhos para frente e aterrisse no meio do pé, mantendo a cadência suave e constante.",
+        "Ative o core durante todo o exercício e mantenha o ritmo de respiração — inspire pelo nariz, expire pela boca.",
+        "Respire ritmicamente — inspire pelo nariz e expire pela boca, seguindo seu ritmo."
+      ],
+      "file": "cardio/walking-on-stepmill.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-stepmill.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-stepmill.thumb.webp"
+    },
+    {
+      "id": "hamstrings/single-leg-platform-slide",
+      "slug": "single-leg-platform-slide",
+      "name": "Plataforma deslizamento, unilateral",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Ative o posterior de coxa antes de iniciar o movimento. Sinta a conexão mente-músculo.",
+        "Realize o movimento com controle total, dominando as fases concêntrica e excêntrica.",
+        "Volte à posição inicial controlando a descida — a fase excêntrica constrói tanto músculo quanto a subida.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/single-leg-platform-slide.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/single-leg-platform-slide.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/single-leg-platform-slide.thumb.webp"
+    },
+    {
+      "id": "lats/reverse-grip-machine-lat-pulldown",
+      "slug": "reverse-grip-machine-lat-pulldown",
+      "name": "Puxada alta na máquina, pegada supinada",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Use pegada supinada para mudar o ângulo de tração e a ênfase muscular.",
+        "Agarre a barra e fixe as coxas sob o apoio. Incline-se levemente para trás e abaixe as escápulas.",
+        "Puxe a barra até a parte alta do peito direcionando os cotovelos para baixo e para trás. Imagine dobrar a barra ao redor das clavículas.",
+        "Aperte os dorsais por um instante embaixo, depois deixe a barra subir lentamente sobre a cabeça, sentindo o alongamento completo nos dorsais.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "lats/reverse-grip-machine-lat-pulldown.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/reverse-grip-machine-lat-pulldown.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/reverse-grip-machine-lat-pulldown.thumb.webp"
+    },
+    {
+      "id": "pectorals/machine-inner-chest-press",
+      "slug": "machine-inner-chest-press",
+      "name": "Press de peito na máquina, interno",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Junte as escápulas como se segurasse um lápis entre elas — isso cria uma base estável para empurrar.",
+        "Desça a barra até o meio do peito com os cotovelos a cerca de 45° — pense em forma de seta, não de T — controlando a descida por 2-3 segundos.",
+        "Empurre-se contra o banco, afastando-se da barra. Direcione a barra em um leve arco de volta para o suporte para completar a repetição.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "pectorals/machine-inner-chest-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/machine-inner-chest-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/machine-inner-chest-press.thumb.webp"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "traps/barbell-shrug",
+  "slug": "barbell-shrug",
+  "name": "Haussement d'épaules à la barre",
+  "muscle": "traps",
+  "bodyPart": "back",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+    "Tiens le poids aux côtés, bras complètement tendus. Debout droit, épaules relâchées.",
+    "Hausse les épaules droit vers les oreilles — ne les roule pas. Contracte en haut pendant 2 secondes.",
+    "Redescends lentement. Garde les bras tendus — c'est tout trapèzes, pas de biceps.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "traps/barbell-shrug.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/barbell-shrug.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/barbell-shrug.thumb.webp"
+}

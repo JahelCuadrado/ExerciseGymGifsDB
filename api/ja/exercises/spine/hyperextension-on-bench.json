@@ -1,0 +1,23 @@
+{
+  "id": "spine/hyperextension-on-bench",
+  "slug": "hyperextension-on-bench",
+  "name": "バックエクステンション・ベンチ",
+  "muscle": "spine",
+  "bodyPart": "back",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+    "ハイパーエクステンションベンチでパッドの端に腰を合わせてセットします。腕を胸の前で組むか、頭の後ろに置きます。",
+    "背骨をニュートラルに保ちながらコントロールして上体を下ろします。ハムストリングスにストレッチを感じるまで下ろします。",
+    "臀筋と腰部を絞りながら体が一直線になるまで上げます。ニュートラルを超えて反らないでください。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "spine/hyperextension-on-bench.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/hyperextension-on-bench.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/hyperextension-on-bench.thumb.webp"
+}

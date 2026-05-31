@@ -1,0 +1,20 @@
+{
+  "id": "cardio/cycle-cross-trainer",
+  "slug": "cycle-cross-trainer",
+  "name": "Bicicleta elíptica",
+  "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "machine",
+  "category": "cardio",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+    "Ajuste o selim e os agarres ao seu corpo. Sente-se com leve flexão do joelho no ponto mais baixo da pedalada.",
+    "Pedale suavemente, empurrando para baixo e puxando para cima em movimento circular. Mantenha uma cadência constante na resistência alvo.",
+    "Mantenha postura ereta, ative o core e respire ritmicamente durante todo o exercício.",
+    "Respire ritmicamente — inspire pelo nariz e expire pela boca, seguindo seu ritmo."
+  ],
+  "file": "cardio/cycle-cross-trainer.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/cycle-cross-trainer.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/cycle-cross-trainer.thumb.webp"
+}

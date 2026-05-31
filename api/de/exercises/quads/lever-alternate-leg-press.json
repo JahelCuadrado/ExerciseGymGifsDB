@@ -1,0 +1,24 @@
+{
+  "id": "quads/lever-alternate-leg-press",
+  "slug": "lever-alternate-leg-press",
+  "name": "Beinpresse an der Maschine, alternierend",
+  "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+    "Spanne den Core an und fixiere die Schulterblätter. Starte den Druck aus einer stabilen Basis.",
+    "Drücke das Gewicht in einer kontrollierten Bahn vom Körper weg, strecke vollständig, ohne die Gelenke ruckartig zu blockieren.",
+    "Bringe das Gewicht kontrolliert zurück und halte die Spannung im gesamten Bewegungsumfang aufrecht.",
+    "Wechsle jede Wiederholung die Seite ab. Schließe eine komplette Wiederholung ab, bevor du die andere Seite beginnst.",
+    "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+  ],
+  "file": "quads/lever-alternate-leg-press.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lever-alternate-leg-press.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lever-alternate-leg-press.thumb.webp"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "pectorals/smith-reverse-grip-press",
+  "slug": "smith-reverse-grip-press",
+  "name": "史密斯机反握推举",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+    "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+    "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+    "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+    "控制将重量收回，在整个运动范围内保持张力。",
+    "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+  ],
+  "file": "pectorals/smith-reverse-grip-press.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-reverse-grip-press.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-reverse-grip-press.thumb.webp"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "traps/dumbbell-shrug",
+  "slug": "dumbbell-shrug",
+  "name": "Schulterheben mit Kurzhantel",
+  "muscle": "traps",
+  "bodyPart": "back",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "Wähle das passende Kurzhantel-Gewicht. Greife fest zu und positioniere dich mit stabiler Basis.",
+    "Halte das Gewicht an den Seiten mit voll gestreckten Armen. Steh aufrecht mit entspannten Schultern.",
+    "Ziehe die Schultern gerade nach oben zu den Ohren — nicht rollen. Spanne oben 2 Sekunden an.",
+    "Senke langsam zurück. Halte die Arme die ganze Zeit gerade — das ist alles Trapezius, kein Bizeps.",
+    "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+  ],
+  "file": "traps/dumbbell-shrug.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-shrug.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-shrug.thumb.webp"
+}

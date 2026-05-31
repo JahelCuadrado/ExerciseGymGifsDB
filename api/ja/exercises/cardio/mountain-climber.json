@@ -1,0 +1,20 @@
+{
+  "id": "cardio/mountain-climber",
+  "slug": "mountain-climber",
+  "name": "マウンテンクライマー",
+  "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "bodyweight",
+  "category": "cardio",
+  "secondaryMuscles": [],
+  "instructions": [
+    "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+    "腕立て伏せ姿勢で体幹を引き締め、体を一直線にしてスタートします。",
+    "片膝を胸に引き寄せ、素早く脚を入れ替えてランニングモーションにします。腰を水平に保ちます。",
+    "速いがコントロールされたペースを維持します。腰が跳ねないように。水平にその場で走るイメージで引き締めます。",
+    "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+  ],
+  "file": "cardio/mountain-climber.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/mountain-climber.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/mountain-climber.thumb.webp"
+}

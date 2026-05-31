@@ -1,0 +1,156 @@
+{
+  "equipment": "machine",
+  "count": 7,
+  "exercises": [
+    {
+      "id": "cardio/cycle-cross-trainer",
+      "slug": "cycle-cross-trainer",
+      "name": "サイクル・クロス・トレーナー",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "サドルとハンドルを体に合わせて調整します。ペダル最下点で膝が軽く曲がるように座ります。",
+        "スムーズにペダリングし、円運動で押し下げ引き上げます。目標抵抗で一定のケイデンスを維持します。",
+        "まっすぐな姿勢を保ち、体幹を活性化し、運動中ずっとリズミカルに呼吸します。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/cycle-cross-trainer.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/cycle-cross-trainer.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/cycle-cross-trainer.thumb.webp"
+    },
+    {
+      "id": "cardio/walk-elliptical-cross-trainer",
+      "slug": "walk-elliptical-cross-trainer",
+      "name": "ウォーク・エリプティカル・クロス・トレーナー",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "足首からわずかに前傾した直立姿勢をとります。腕は90°で自然に振ります。",
+        "膝を前に推進し、ミッドフットで着地します。スムーズで一定のケイデンスを維持します。",
+        "運動中ずっと体幹を活性化し、呼吸リズムを維持します。鼻から吸い、口から吐きます。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/walk-elliptical-cross-trainer.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walk-elliptical-cross-trainer.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walk-elliptical-cross-trainer.thumb.webp"
+    },
+    {
+      "id": "cardio/walking-on-incline-treadmill",
+      "slug": "walking-on-incline-treadmill",
+      "name": "インクライン・ウォーキング・トレッドミル",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "足首からわずかに前傾した直立姿勢をとります。腕は90°で自然に振ります。",
+        "膝を前に推進し、ミッドフットで着地します。スムーズで一定のケイデンスを維持します。",
+        "運動中ずっと体幹を活性化し、呼吸リズムを維持します。鼻から吸い、口から吐きます。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/walking-on-incline-treadmill.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-incline-treadmill.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-incline-treadmill.thumb.webp"
+    },
+    {
+      "id": "cardio/walking-on-stepmill",
+      "slug": "walking-on-stepmill",
+      "name": "ウォーキング・ステップミル",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "足首からわずかに前傾した直立姿勢をとります。腕は90°で自然に振ります。",
+        "膝を前に推進し、ミッドフットで着地します。スムーズで一定のケイデンスを維持します。",
+        "運動中ずっと体幹を活性化し、呼吸リズムを維持します。鼻から吸い、口から吐きます。",
+        "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+      ],
+      "file": "cardio/walking-on-stepmill.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-stepmill.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-stepmill.thumb.webp"
+    },
+    {
+      "id": "hamstrings/single-leg-platform-slide",
+      "slug": "single-leg-platform-slide",
+      "name": "ワンレッグ・プラットフォーム・スライド",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "動作を開始する前にハムストリングを活性化させます。マインド-マッスルコネクションを感じてください。",
+        "コンセントリックとエキセントリックの両方のフェーズを完全にコントロールして動作を行います。",
+        "下降をコントロールしながらスタートポジションに戻ります——エキセントリックフェーズは挙上と同じだけ筋肉を成長させます。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/single-leg-platform-slide.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/single-leg-platform-slide.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/single-leg-platform-slide.thumb.webp"
+    },
+    {
+      "id": "lats/reverse-grip-machine-lat-pulldown",
+      "slug": "reverse-grip-machine-lat-pulldown",
+      "name": "マシン・リバースグリップ・ラットプルダウン",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "バーを握り、太ももをパッドの下に固定します。少し後ろに傾き、肩甲骨を下げます。",
+        "肘を下後方に引きながら、バーを上胸に向けて引きます。バーを鎖骨に巻き付けるイメージです。",
+        "ボトムで広背筋を一瞬絞り、バーをゆっくり頭上に戻して広背筋の完全なストレッチを感じます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "lats/reverse-grip-machine-lat-pulldown.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/reverse-grip-machine-lat-pulldown.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/reverse-grip-machine-lat-pulldown.thumb.webp"
+    },
+    {
+      "id": "pectorals/machine-inner-chest-press",
+      "slug": "machine-inner-chest-press",
+      "name": "マシン・チェストプレス・インナー",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+        "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+        "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "pectorals/machine-inner-chest-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/machine-inner-chest-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/machine-inner-chest-press.thumb.webp"
+    }
+  ]
+}

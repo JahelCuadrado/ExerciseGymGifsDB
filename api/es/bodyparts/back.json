@@ -220,7 +220,7 @@
     {
       "id": "lats/band-fixed-back-close-grip-pulldown",
       "slug": "band-fixed-back-close-grip-pulldown",
-      "name": "Jalón al pecho con banda, con agarre cerrado, fixed espalda",
+      "name": "Jalón al pecho con banda, agarre cerrado, espalda fija",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "band",
@@ -245,7 +245,7 @@
     {
       "id": "lats/band-fixed-back-underhand-pulldown",
       "slug": "band-fixed-back-underhand-pulldown",
-      "name": "Jalón al pecho con banda, fixed espalda underhand",
+      "name": "Jalón al pecho con banda, agarre supino, espalda fija",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "band",
@@ -296,7 +296,7 @@
     {
       "id": "lats/band-underhand-pulldown",
       "slug": "band-underhand-pulldown",
-      "name": "Jalón al pecho con banda, underhand",
+      "name": "Jalón al pecho con banda, agarre supino",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "band",
@@ -610,7 +610,7 @@
     {
       "id": "lats/cable-lying-extension-pullover-with-rope-attachment",
       "slug": "cable-lying-extension-pullover-with-rope-attachment",
-      "name": "Pullover en polea, tumbado, con cuerda, extension",
+      "name": "Pullover en polea, tumbado, con cuerda, extensión",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -777,7 +777,7 @@
     {
       "id": "lats/cable-squat-row-with-rope-attachment",
       "slug": "cable-squat-row-with-rope-attachment",
-      "name": "Sentadilla en polea, con cuerda, row",
+      "name": "Sentadilla en polea, con cuerda, remo",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -896,7 +896,7 @@
     {
       "id": "lats/cable-underhand-pulldown",
       "slug": "cable-underhand-pulldown",
-      "name": "Jalón al pecho en polea, underhand",
+      "name": "Jalón al pecho en polea, agarre supino",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -2059,7 +2059,7 @@
     {
       "id": "spine/exercise-ball-back-extension-with-rotation",
       "slug": "exercise-ball-back-extension-with-rotation",
-      "name": "Extensión en fitball, espalda rotation",
+      "name": "Extensión en fitball, espalda rotación",
       "muscle": "spine",
       "bodyPart": "back",
       "equipment": "bodyweight",
@@ -3430,7 +3430,7 @@
     {
       "id": "upper-back/cable-rope-extension-incline-bench-row",
       "slug": "cable-rope-extension-incline-bench-row",
-      "name": "Remo en polea con cuerda, en banco inclinado, extension",
+      "name": "Remo en polea con cuerda, en banco inclinado, extensión",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "cable",
@@ -3765,7 +3765,7 @@
     {
       "id": "upper-back/dumbbell-incline-y-raise",
       "slug": "dumbbell-incline-y-raise",
-      "name": "Y-raise inclinado con mancuerna",
+      "name": "Elevación en Y inclinado con mancuerna",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "dumbbell",
@@ -3992,7 +3992,7 @@
     {
       "id": "upper-back/elevator",
       "slug": "elevator",
-      "name": "Elevator",
+      "name": "Elevador",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "other",
@@ -4711,7 +4711,7 @@
     {
       "id": "upper-back/skin-the-cat",
       "slug": "skin-the-cat",
-      "name": "Skin the cat",
+      "name": "Vuelta completa en barra",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "bodyweight",

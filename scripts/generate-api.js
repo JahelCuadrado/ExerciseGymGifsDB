@@ -35,7 +35,10 @@ const {
 const {
 	generateInstructionsEn,
 	generateInstructionsEs,
+	generateInstructionsForLang,
 } = require("./instructions");
+const { translateSlugForLang } = require("./i18n");
+const { normalizeSlugForNaming } = require("./i18n/slug-normalize");
 
 const ROOT = path.resolve(__dirname, "..");
 const OUT = path.join(ROOT, "api");
@@ -51,7 +54,7 @@ const BASE_URL = (
    "https://jahelcuadrado.github.io/ExerciseGymGigsDB"
 ).replace(/\/+$/, "");
 
-const LANGS = ["en", "es"];
+const LANGS = ["en", "es", "de", "fr", "zh", "pt", "ja"];
 
 const IGNORE = new Set([
 	"api",
@@ -176,24 +179,24 @@ function buildExercise(lang, muscle, slug, file, override) {
 	const bodyPart = inferBodyPart(muscle);
 	const equipment = inferEquipment(slug);
 	const category = inferCategory(muscle, slug);
-	const nameInferred =
-		lang === "es" ? translateSlug(slug) : titleCase(slug);
-	const instructionsInferred =
-		lang === "es"
-			? generateInstructionsEs({
-					slug,
-					name: nameInferred,
-					muscle,
-					equipment,
-					category,
-			  })
-			: generateInstructionsEn({
-					slug,
-					name: nameInferred,
-					muscle,
-					equipment,
-					category,
-			  });
+	const slugForNaming = normalizeSlugForNaming(slug);
+
+	let nameInferred;
+	if (lang === "en") {
+		nameInferred = titleCase(slugForNaming);
+	} else if (lang === "es") {
+		nameInferred = translateSlug(slugForNaming);
+	} else {
+		nameInferred = translateSlugForLang(slugForNaming, lang);
+	}
+
+	const instructionsInferred = generateInstructionsForLang(lang, {
+		slug,
+		name: nameInferred,
+		muscle,
+		equipment,
+		category,
+	});
 
 	const base = {
 		id: `${muscle}/${slug}`,

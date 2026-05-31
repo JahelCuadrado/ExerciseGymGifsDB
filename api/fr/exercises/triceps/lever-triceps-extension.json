@@ -1,0 +1,22 @@
+{
+  "id": "triceps/lever-triceps-extension",
+  "slug": "lever-triceps-extension",
+  "name": "Extension triceps à la machine",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+    "Verrouille les coudes en position — ce sont des points fixes dans l'espace. Seuls les avant-bras bougent comme des charnières.",
+    "Étends complètement en contractant les triceps au verrouillage. Fais une pause en extension complète.",
+    "Reviens lentement à la position de départ. Concentre-toi sur l'étirement en bas et la contraction en haut.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "triceps/lever-triceps-extension.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/lever-triceps-extension.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/lever-triceps-extension.thumb.webp"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "quads/snatch-pull",
+  "slug": "snatch-pull",
+  "name": "抓举拉",
+  "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "spine",
+    "traps",
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+    "双脚与髋同宽，杠铃在脚掌中间上方。下沉髋部，抬起胸部，手臂伸直——消除杠铃的松弛。",
+    "爆发性地推地，伸展髋部和膝盖。当杠铃过膝后，以猛烈的伸髋和耸肩加速。",
+    "快速下沉到杠铃下方，在肩膀（翻举）或头顶（抓举）接住杠铃。用柔软的膝盖缓冲接杠，然后站起。",
+    "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+  ],
+  "file": "quads/snatch-pull.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/snatch-pull.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/snatch-pull.thumb.webp"
+}

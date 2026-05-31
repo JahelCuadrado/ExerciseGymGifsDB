@@ -1,0 +1,22 @@
+{
+  "id": "forearms/cable-wrist-curl",
+  "slug": "cable-wrist-curl",
+  "name": "Curl de poignet à la poulie",
+  "muscle": "forearms",
+  "bodyPart": "arms",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": [
+    "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+    "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde les avant-bras collés à la surface.",
+    "Fléchis les poignets vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+    "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls les poignets bougent — les avant-bras restent immobiles.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "forearms/cable-wrist-curl.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/cable-wrist-curl.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/cable-wrist-curl.thumb.webp"
+}

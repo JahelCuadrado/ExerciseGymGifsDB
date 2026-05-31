@@ -1,0 +1,23 @@
+{
+  "id": "traps/barbell-shrug",
+  "slug": "barbell-shrug",
+  "name": "Encolhimento de ombros com barra",
+  "muscle": "traps",
+  "bodyPart": "back",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+    "Segure o peso nas laterais com os braços totalmente estendidos. Fique ereto com os ombros relaxados.",
+    "Encolha os ombros retos em direção às orelhas — não os gire. Aperte no topo por 2 segundos.",
+    "Desça lentamente. Mantenha os braços retos o tempo todo — isso é tudo trapézio, nada de bíceps.",
+    "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+  ],
+  "file": "traps/barbell-shrug.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/barbell-shrug.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/barbell-shrug.thumb.webp"
+}

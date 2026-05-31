@@ -1,0 +1,97 @@
+[
+  {
+    "muscle": "abductors",
+    "count": 5,
+    "endpoint": "muscles/abductors.json"
+  },
+  {
+    "muscle": "abs",
+    "count": 169,
+    "endpoint": "muscles/abs.json"
+  },
+  {
+    "muscle": "adductors",
+    "count": 6,
+    "endpoint": "muscles/adductors.json"
+  },
+  {
+    "muscle": "biceps",
+    "count": 151,
+    "endpoint": "muscles/biceps.json"
+  },
+  {
+    "muscle": "calves",
+    "count": 59,
+    "endpoint": "muscles/calves.json"
+  },
+  {
+    "muscle": "cardio",
+    "count": 29,
+    "endpoint": "muscles/cardio.json"
+  },
+  {
+    "muscle": "delts",
+    "count": 143,
+    "endpoint": "muscles/delts.json"
+  },
+  {
+    "muscle": "forearms",
+    "count": 37,
+    "endpoint": "muscles/forearms.json"
+  },
+  {
+    "muscle": "glutes",
+    "count": 144,
+    "endpoint": "muscles/glutes.json"
+  },
+  {
+    "muscle": "hamstrings",
+    "count": 28,
+    "endpoint": "muscles/hamstrings.json"
+  },
+  {
+    "muscle": "lats",
+    "count": 81,
+    "endpoint": "muscles/lats.json"
+  },
+  {
+    "muscle": "levator-scapulae",
+    "count": 2,
+    "endpoint": "muscles/levator-scapulae.json"
+  },
+  {
+    "muscle": "pectorals",
+    "count": 158,
+    "endpoint": "muscles/pectorals.json"
+  },
+  {
+    "muscle": "quads",
+    "count": 44,
+    "endpoint": "muscles/quads.json"
+  },
+  {
+    "muscle": "serratus-anterior",
+    "count": 5,
+    "endpoint": "muscles/serratus-anterior.json"
+  },
+  {
+    "muscle": "spine",
+    "count": 19,
+    "endpoint": "muscles/spine.json"
+  },
+  {
+    "muscle": "traps",
+    "count": 15,
+    "endpoint": "muscles/traps.json"
+  },
+  {
+    "muscle": "triceps",
+    "count": 141,
+    "endpoint": "muscles/triceps.json"
+  },
+  {
+    "muscle": "upper-back",
+    "count": 87,
+    "endpoint": "muscles/upper-back.json"
+  }
+]

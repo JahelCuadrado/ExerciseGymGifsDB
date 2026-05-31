@@ -1,0 +1,70 @@
+{
+  "equipment": "other",
+  "count": 3,
+  "exercises": [
+    {
+      "id": "hamstrings/standing-single-leg-curl",
+      "slug": "standing-single-leg-curl",
+      "name": "站姿单腿弯举",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "准备好器材，以良好的姿势采取稳定的起始位置。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "hamstrings/standing-single-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/standing-single-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/standing-single-leg-curl.thumb.webp"
+    },
+    {
+      "id": "upper-back/elevator",
+      "slug": "elevator",
+      "name": "电梯式",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "准备好器材，以良好的姿势采取稳定的起始位置。",
+        "悬挂在杠上或用手臂支撑就位。开始时双腿自然下垂。",
+        "分阶段抬起双腿——在45度、90度和最高点停顿——就像电梯在每层停靠。",
+        "以相同的阶段控制下放双腿。每次停顿都在整个范围内建立等长力量和控制。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/elevator.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elevator.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elevator.thumb.webp"
+    },
+    {
+      "id": "upper-back/standing-archer",
+      "slug": "standing-archer",
+      "name": "站姿弓箭手",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "准备好器材，以良好的姿势采取稳定的起始位置。",
+        "在开始动作前激活上背部。感受意念-肌肉连接。",
+        "以完全控制执行动作，掌控向心和离心两个阶段。",
+        "控制下降回到起始位置——离心阶段和向心阶段一样能增长肌肉。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/standing-archer.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/standing-archer.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/standing-archer.thumb.webp"
+    }
+  ]
+}

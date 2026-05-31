@@ -1,0 +1,22 @@
+{
+  "id": "biceps/cable-drag-curl",
+  "slug": "cable-drag-curl",
+  "name": "Drag Curl à la poulie",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+    "Tiens la barre contre les cuisses. Au lieu de monter en arc, fais glisser la barre droit le long du corps — les coudes vont vers l'arrière.",
+    "Pousse les coudes derrière toi pendant que la barre monte le long du torse. Cela accentue le long chef du biceps.",
+    "Inverse le trajet en faisant glisser la barre le long du corps avec contrôle. La barre ne perd jamais le contact avec le torse.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "biceps/cable-drag-curl.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-drag-curl.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-drag-curl.thumb.webp"
+}

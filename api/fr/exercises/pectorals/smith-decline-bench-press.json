@@ -1,0 +1,24 @@
+{
+  "id": "pectorals/smith-decline-bench-press",
+  "slug": "smith-decline-bench-press",
+  "name": "Développé décliné au Smith",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Règle la hauteur de la barre au Smith et charge le poids approprié. Place-toi sous la barre.",
+    "Règle le banc en décliné et bloque tes pieds sous les coussins.",
+    "Serre tes omoplates comme si tu tenais un crayon entre elles — cela crée une base stable pour pousser.",
+    "Descends la barre vers le milieu de la poitrine avec les coudes à environ 45° — pense à une forme de flèche, pas un T — contrôle la descente pendant 2-3 secondes.",
+    "Pousse-toi toi-même dans le banc, éloignant la barre. Dirige la barre dans un léger arc vers les supports pour terminer la répétition.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "pectorals/smith-decline-bench-press.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-decline-bench-press.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-decline-bench-press.thumb.webp"
+}

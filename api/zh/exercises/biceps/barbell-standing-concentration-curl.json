@@ -1,0 +1,22 @@
+{
+  "id": "biceps/barbell-standing-concentration-curl",
+  "slug": "barbell-standing-concentration-curl",
+  "name": "杠铃站姿集中弯举",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+    "双腿分开坐下，将工作臂的后侧靠在大腿内侧。这锁定了上臂。",
+    "缓慢弯举重量，完全专注于二头肌的收缩。在顶部像挤橙汁一样挤压。",
+    "用3秒下放并完全伸展。你的大腿就是护栏——不可能摆动。",
+    "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+  ],
+  "file": "biceps/barbell-standing-concentration-curl.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-concentration-curl.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-concentration-curl.thumb.webp"
+}

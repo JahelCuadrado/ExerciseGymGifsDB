@@ -1,0 +1,111 @@
+{
+  "muscle": "abductors",
+  "count": 5,
+  "exercises": [
+    {
+      "id": "abductors/lever-seated-hip-abduction",
+      "slug": "lever-seated-hip-abduction",
+      "name": "Hüftabduktion an der Maschine, sitzend",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+        "Sitze aufrecht mit geradem Rücken und den Füßen flach auf dem Boden.",
+        "Positioniere dich an der Maschine oder lege dich auf die Seite mit gestapelten Beinen und stabilem Oberkörper.",
+        "Drücke die Beine gegen den Widerstand auseinander und spanne die äußeren Gesäßmuskeln an. Denke daran, das Logo deiner Schuhe den Seitenwänden zu zeigen.",
+        "Halte die offene Position kurz, dann schließe langsam kontrolliert. Lass das Gewicht nicht zurückknallen.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "abductors/lever-seated-hip-abduction.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/lever-seated-hip-abduction.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/lever-seated-hip-abduction.thumb.webp"
+    },
+    {
+      "id": "abductors/resistance-band-seated-hip-abduction",
+      "slug": "resistance-band-seated-hip-abduction",
+      "name": "Hüftabduktion mit Widerstandsband, sitzend",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Befestige das Widerstandsband am richtigen Ankerpunkt und stelle sicher, dass Grundspannung vorhanden ist.",
+        "Sitze aufrecht mit geradem Rücken und den Füßen flach auf dem Boden.",
+        "Positioniere dich an der Maschine oder lege dich auf die Seite mit gestapelten Beinen und stabilem Oberkörper.",
+        "Drücke die Beine gegen den Widerstand auseinander und spanne die äußeren Gesäßmuskeln an. Denke daran, das Logo deiner Schuhe den Seitenwänden zu zeigen.",
+        "Halte die offene Position kurz, dann schließe langsam kontrolliert. Lass das Gewicht nicht zurückknallen.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "abductors/resistance-band-seated-hip-abduction.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/resistance-band-seated-hip-abduction.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/resistance-band-seated-hip-abduction.thumb.webp"
+    },
+    {
+      "id": "abductors/side-bridge-hip-abduction",
+      "slug": "side-bridge-hip-abduction",
+      "name": "Hüftabduktion, seitlich, bridge",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Positioniere dich an der Maschine oder lege dich auf die Seite mit gestapelten Beinen und stabilem Oberkörper.",
+        "Drücke die Beine gegen den Widerstand auseinander und spanne die äußeren Gesäßmuskeln an. Denke daran, das Logo deiner Schuhe den Seitenwänden zu zeigen.",
+        "Halte die offene Position kurz, dann schließe langsam kontrolliert. Lass das Gewicht nicht zurückknallen.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "abductors/side-bridge-hip-abduction.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/side-bridge-hip-abduction.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/side-bridge-hip-abduction.thumb.webp"
+    },
+    {
+      "id": "abductors/side-hip-abduction",
+      "slug": "side-hip-abduction",
+      "name": "Hüftabduktion, seitlich",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Positioniere dich an der Maschine oder lege dich auf die Seite mit gestapelten Beinen und stabilem Oberkörper.",
+        "Drücke die Beine gegen den Widerstand auseinander und spanne die äußeren Gesäßmuskeln an. Denke daran, das Logo deiner Schuhe den Seitenwänden zu zeigen.",
+        "Halte die offene Position kurz, dann schließe langsam kontrolliert. Lass das Gewicht nicht zurückknallen.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "abductors/side-hip-abduction.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/side-hip-abduction.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/side-hip-abduction.thumb.webp"
+    },
+    {
+      "id": "abductors/straight-leg-outer-hip-abductor",
+      "slug": "straight-leg-outer-hip-abductor",
+      "name": "Äußere Hüfte Abduktor, mit gestrecktem Bein",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Positioniere dich an der Maschine oder lege dich auf die Seite mit gestapelten Beinen und stabilem Oberkörper.",
+        "Drücke die Beine gegen den Widerstand auseinander und spanne die äußeren Gesäßmuskeln an. Denke daran, das Logo deiner Schuhe den Seitenwänden zu zeigen.",
+        "Halte die offene Position kurz, dann schließe langsam kontrolliert. Lass das Gewicht nicht zurückknallen.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "abductors/straight-leg-outer-hip-abductor.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/straight-leg-outer-hip-abductor.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/straight-leg-outer-hip-abductor.thumb.webp"
+    }
+  ]
+}

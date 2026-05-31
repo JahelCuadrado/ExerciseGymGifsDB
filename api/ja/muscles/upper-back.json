@@ -1,0 +1,2202 @@
+{
+  "muscle": "upper-back",
+  "count": 87,
+  "exercises": [
+    {
+      "id": "upper-back/back-lever",
+      "slug": "back-lever",
+      "name": "マシン・バック",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "ポジションに入る前に全身のテンションを構築します。すべてを締めます。臀筋、体幹、広背筋、脚。",
+        "全身の剛性を維持しながらコントロールしてポジションに入ります。体は1枚のまっすぐな板のように考えます。",
+        "処方された時間キープするか、コントロールされたレップを実行します。完璧なフォームを維持できないなら、退行バージョンに取り組みます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/back-lever.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/back-lever.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/back-lever.thumb.webp"
+    },
+    {
+      "id": "upper-back/band-one-arm-standing-low-row",
+      "slug": "band-one-arm-standing-low-row",
+      "name": "バンド・スタンディング・ワンアーム・ロー・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "レジスタンスバンドを正しいアンカーポイントに固定し、初期テンションがあることを確認します。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/band-one-arm-standing-low-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/band-one-arm-standing-low-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/band-one-arm-standing-low-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/band-one-arm-twisting-seated-row",
+      "slug": "band-one-arm-twisting-seated-row",
+      "name": "バンド・シーテッド・ワンアーム・ツイスト・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "レジスタンスバンドを正しいアンカーポイントに固定し、初期テンションがあることを確認します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/band-one-arm-twisting-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/band-one-arm-twisting-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/band-one-arm-twisting-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-bent-over-row",
+      "slug": "barbell-bent-over-row",
+      "name": "バーベル・ベントオーバーロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/barbell-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-incline-row",
+      "slug": "barbell-incline-row",
+      "name": "バーベル・インクライン・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/barbell-incline-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-incline-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-incline-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-one-arm-bent-over-row",
+      "slug": "barbell-one-arm-bent-over-row",
+      "name": "バーベル・ワンアーム・ベントオーバーロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/barbell-one-arm-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-one-arm-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-one-arm-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-pendlay-row",
+      "slug": "barbell-pendlay-row",
+      "name": "バーベル・ペンドレーロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/barbell-pendlay-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-pendlay-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-pendlay-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-reverse-grip-bent-over-row",
+      "slug": "barbell-reverse-grip-bent-over-row",
+      "name": "バーベル・リバースグリップ・ベントオーバーロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/barbell-reverse-grip-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-reverse-grip-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-reverse-grip-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-reverse-grip-incline-bench-row",
+      "slug": "barbell-reverse-grip-incline-bench-row",
+      "name": "バーベル・リバースグリップ・インクライン・ロウ・ベンチ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/barbell-reverse-grip-incline-bench-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-reverse-grip-incline-bench-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-reverse-grip-incline-bench-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-squatting-row-with-towel",
+      "slug": "bodyweight-squatting-row-with-towel",
+      "name": "自重・ロウ・スクワッティング・タオル",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves",
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/bodyweight-squatting-row-with-towel.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-squatting-row-with-towel.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-squatting-row-with-towel.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-squatting-row",
+      "slug": "bodyweight-squatting-row",
+      "name": "自重・ロウ・スクワッティング",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves",
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/bodyweight-squatting-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-squatting-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-squatting-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-close-grip-one-arm-row",
+      "slug": "bodyweight-standing-close-grip-one-arm-row",
+      "name": "自重・スタンディング・ナローグリップ・ワンアームロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ナローグリップを使い、手の間隔を約15cmにして内側への刺激を高めます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/bodyweight-standing-close-grip-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-close-grip-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-close-grip-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-close-grip-row",
+      "slug": "bodyweight-standing-close-grip-row",
+      "name": "自重・スタンディング・ナローグリップ・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ナローグリップを使い、手の間隔を約15cmにして内側への刺激を高めます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/bodyweight-standing-close-grip-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-close-grip-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-close-grip-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-one-arm-row-with-towel",
+      "slug": "bodyweight-standing-one-arm-row-with-towel",
+      "name": "自重・スタンディング・ワンアームロウ・タオル",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/bodyweight-standing-one-arm-row-with-towel.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-one-arm-row-with-towel.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-one-arm-row-with-towel.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-one-arm-row",
+      "slug": "bodyweight-standing-one-arm-row",
+      "name": "自重・スタンディング・ワンアームロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/bodyweight-standing-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-row-with-towel",
+      "slug": "bodyweight-standing-row-with-towel",
+      "name": "自重・スタンディング・ロウ・タオル",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/bodyweight-standing-row-with-towel.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-row-with-towel.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-row-with-towel.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-row",
+      "slug": "bodyweight-standing-row",
+      "name": "自重・スタンディング・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/bodyweight-standing-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-decline-seated-wide-grip-row",
+      "slug": "cable-decline-seated-wide-grip-row",
+      "name": "ケーブル・シーテッド・ワイドグリップ・デクライン・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "ワイドグリップを使い、肩幅よりかなり広く握って、ストレッチと外側への刺激を高めます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/cable-decline-seated-wide-grip-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-decline-seated-wide-grip-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-decline-seated-wide-grip-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-floor-seated-wide-grip-row",
+      "slug": "cable-floor-seated-wide-grip-row",
+      "name": "ケーブル・シーテッド・ワイドグリップ・ロウ・フロア",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "ワイドグリップを使い、肩幅よりかなり広く握って、ストレッチと外側への刺激を高めます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/cable-floor-seated-wide-grip-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-floor-seated-wide-grip-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-floor-seated-wide-grip-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-high-row-kneeling",
+      "slug": "cable-high-row-kneeling",
+      "name": "ケーブル・ニーリング・ハイ・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "膝を立て、腰を膝の真上に位置させ、上体を直立に保ちます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/cable-high-row-kneeling.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-high-row-kneeling.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-high-row-kneeling.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-incline-bench-row",
+      "slug": "cable-incline-bench-row",
+      "name": "ケーブル・インクライン・ロウ・ベンチ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/cable-incline-bench-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-incline-bench-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-incline-bench-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-low-seated-row",
+      "slug": "cable-low-seated-row",
+      "name": "ケーブル・シーテッド・ロー・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/cable-low-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-low-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-low-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-one-arm-bent-over-row",
+      "slug": "cable-one-arm-bent-over-row",
+      "name": "ケーブル・ワンアーム・ベントオーバーロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/cable-one-arm-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-one-arm-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-one-arm-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-one-arm-straight-back-high-row-kneeling",
+      "slug": "cable-one-arm-straight-back-high-row-kneeling",
+      "name": "ケーブル・ニーリング・ワンアーム・ハイ・ロウ・ストレート・バック",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "膝を立て、腰を膝の真上に位置させ、上体を直立に保ちます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/cable-one-arm-straight-back-high-row-kneeling.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-one-arm-straight-back-high-row-kneeling.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-one-arm-straight-back-high-row-kneeling.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-palm-rotational-row",
+      "slug": "cable-palm-rotational-row",
+      "name": "ケーブル・ロウ・パーム・回旋",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/cable-palm-rotational-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-palm-rotational-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-palm-rotational-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-reverse-grip-straight-back-seated-high-row",
+      "slug": "cable-reverse-grip-straight-back-seated-high-row",
+      "name": "ケーブル・シーテッド・リバースグリップ・ハイ・ロウ・ストレート・バック",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/cable-reverse-grip-straight-back-seated-high-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-reverse-grip-straight-back-seated-high-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-reverse-grip-straight-back-seated-high-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-rope-crossover-seated-row",
+      "slug": "cable-rope-crossover-seated-row",
+      "name": "ケーブル・ロープ・シーテッド・ロウ・クロスオーバー",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/cable-rope-crossover-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-crossover-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-crossover-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-rope-elevated-seated-row",
+      "slug": "cable-rope-elevated-seated-row",
+      "name": "ケーブル・ロープ・シーテッド・ロウ・エレベーテッド",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/cable-rope-elevated-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-elevated-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-elevated-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-rope-extension-incline-bench-row",
+      "slug": "cable-rope-extension-incline-bench-row",
+      "name": "ケーブル・ロープ・インクライン・ロウ・エクステンション・ベンチ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/cable-rope-extension-incline-bench-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-extension-incline-bench-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-extension-incline-bench-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-rope-seated-row",
+      "slug": "cable-rope-seated-row",
+      "name": "ケーブル・ロープ・シーテッド・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/cable-rope-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-seated-one-arm-alternate-row",
+      "slug": "cable-seated-one-arm-alternate-row",
+      "name": "ケーブル・シーテッド・ワンアーム・オルタネイト・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/cable-seated-one-arm-alternate-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-one-arm-alternate-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-one-arm-alternate-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-seated-row",
+      "slug": "cable-seated-row",
+      "name": "ケーブル・シーテッド・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/cable-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-seated-wide-grip-row",
+      "slug": "cable-seated-wide-grip-row",
+      "name": "ケーブル・シーテッド・ワイドグリップ・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "ワイドグリップを使い、肩幅よりかなり広く握って、ストレッチと外側への刺激を高めます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/cable-seated-wide-grip-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-wide-grip-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-wide-grip-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-standing-row-v-bar",
+      "slug": "cable-standing-row-v-bar",
+      "name": "ケーブル・Vバー・スタンディング・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/cable-standing-row-v-bar.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-standing-row-v-bar.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-standing-row-v-bar.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-standing-twist-row-v-bar",
+      "slug": "cable-standing-twist-row-v-bar",
+      "name": "ケーブル・Vバー・スタンディング・ロウ・ツイスト",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/cable-standing-twist-row-v-bar.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-standing-twist-row-v-bar.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-standing-twist-row-v-bar.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-straight-back-seated-row",
+      "slug": "cable-straight-back-seated-row",
+      "name": "ケーブル・シーテッド・ロウ・ストレート・バック",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/cable-straight-back-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-straight-back-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-straight-back-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-upper-row",
+      "slug": "cable-upper-row",
+      "name": "ケーブル・ロウ・アッパー",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/cable-upper-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-upper-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-upper-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cambered-bar-lying-row",
+      "slug": "cambered-bar-lying-row",
+      "name": "ライイング・ロウ・キャンバー・バー",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/cambered-bar-lying-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cambered-bar-lying-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cambered-bar-lying-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/chin-ups-narrow-parallel-grip",
+      "slug": "chin-ups-narrow-parallel-grip",
+      "name": "ナロー・チンアップ・パラレル・グリップ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "lats",
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "バーから腕を完全に伸ばしてぶら下がります。肩甲骨を下げて寄せ、後ろのポケットにしまうようにセットします。",
+        "肘を後ろのポケットに向け、胸でリードしながら引き上げます。顎ではなく胸で。バーを鎖骨に巻き付けるイメージです。",
+        "顎がバーの上に出たらトップで絞ります。完全にぶら下がった状態までコントロールして下ろします。毎レップ、完全なストレッチから始めましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/chin-ups-narrow-parallel-grip.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/chin-ups-narrow-parallel-grip.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/chin-ups-narrow-parallel-grip.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-bent-over-row",
+      "slug": "dumbbell-bent-over-row",
+      "name": "ダンベル・ベントオーバーロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/dumbbell-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-incline-row",
+      "slug": "dumbbell-incline-row",
+      "name": "ダンベル・インクライン・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/dumbbell-incline-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-incline-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-incline-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-incline-y-raise",
+      "slug": "dumbbell-incline-y-raise",
+      "name": "ダンベル・インクライン・レイズ・Y",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "重りを体側に持ち、わずかに前傾します。肘に軽い曲がりを持たせます。",
+        "2つの水差しから水を注ぐように肘でリードしながら腕を横に上げます。肩の高さで止めます。",
+        "重力に抵抗しながらゆっくりコントロールして下ろします。勢いを使わないでください。必要なら軽い重量にします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/dumbbell-incline-y-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-incline-y-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-incline-y-raise.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-lying-rear-delt-row",
+      "slug": "dumbbell-lying-rear-delt-row",
+      "name": "ダンベル・ライイング・リア・ロウ・デルト",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/dumbbell-lying-rear-delt-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-lying-rear-delt-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-lying-rear-delt-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-one-arm-bent-over-row",
+      "slug": "dumbbell-one-arm-bent-over-row",
+      "name": "ダンベル・ワンアーム・ベントオーバーロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/dumbbell-one-arm-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-one-arm-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-one-arm-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-palm-rotational-bent-over-row",
+      "slug": "dumbbell-palm-rotational-bent-over-row",
+      "name": "ダンベル・ベントオーバーロウ・パーム・回旋",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/dumbbell-palm-rotational-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-palm-rotational-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-palm-rotational-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-reverse-grip-incline-bench-one-arm-row",
+      "slug": "dumbbell-reverse-grip-incline-bench-one-arm-row",
+      "name": "ダンベル・リバースグリップ・インクライン・ワンアームロウ・ベンチ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/dumbbell-reverse-grip-incline-bench-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-incline-bench-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-incline-bench-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-reverse-grip-incline-bench-two-arm-row",
+      "slug": "dumbbell-reverse-grip-incline-bench-two-arm-row",
+      "name": "ダンベル・リバースグリップ・ツーアーム・インクライン・ロウ・ベンチ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/dumbbell-reverse-grip-incline-bench-two-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-incline-bench-two-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-incline-bench-two-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-reverse-grip-row-female",
+      "slug": "dumbbell-reverse-grip-row-female",
+      "name": "ダンベル・リバースグリップ・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/dumbbell-reverse-grip-row-female.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-row-female.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-row-female.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-side-plank-with-rear-fly",
+      "slug": "dumbbell-side-plank-with-rear-fly",
+      "name": "ダンベル・リア・フライ・サイドプランク",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "abs",
+        "delts",
+        "glutes",
+        "traps"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+        "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+        "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/dumbbell-side-plank-with-rear-fly.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-side-plank-with-rear-fly.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-side-plank-with-rear-fly.thumb.webp"
+    },
+    {
+      "id": "upper-back/elbow-lift-reverse-push-up",
+      "slug": "elbow-lift-reverse-push-up",
+      "name": "リバース・腕立て伏せ・エルボー・リフト",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "手を肩幅よりやや広く置きます。頭からかかとまで一直線に。手を地面にねじ込むようにテンションを作ります。",
+        "肘を45°に曲げ、胸が床にほぼ触れるまで体を下ろします。積極的に体を引き下ろします。",
+        "床を自分から押し離して元に戻ります。ロックアウト時に胸を絞り、体幹をずっと引き締めたままにします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/elbow-lift-reverse-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elbow-lift-reverse-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elbow-lift-reverse-push-up.thumb.webp"
+    },
+    {
+      "id": "upper-back/elevator",
+      "slug": "elevator",
+      "name": "エレベーター",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "器具を準備し、良い姿勢で安定したスタートポジションをとります。",
+        "バーにぶら下がるか腕を支えた状態でセットします。脚をまっすぐ垂らしてスタートします。",
+        "脚を段階的に上げます。45°、90°、最大高さで停止します。各階に止まるエレベーターのようにします。",
+        "同じ段階でコントロールして脚を下ろします。各一時停止が全可動域でのアイソメトリック筋力とコントロールを構築します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/elevator.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elevator.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elevator.thumb.webp"
+    },
+    {
+      "id": "upper-back/ez-bar-reverse-grip-bent-over-row",
+      "slug": "ez-bar-reverse-grip-bent-over-row",
+      "name": "EZバー・リバースグリップ・ベントオーバーロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/ez-bar-reverse-grip-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/ez-bar-reverse-grip-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/ez-bar-reverse-grip-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/front-lever-reps",
+      "slug": "front-lever-reps",
+      "name": "マシン・フロント・レップ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "ポジションに入る前に全身のテンションを構築します。すべてを締めます。臀筋、体幹、広背筋、脚。",
+        "全身の剛性を維持しながらコントロールしてポジションに入ります。体は1枚のまっすぐな板のように考えます。",
+        "処方された時間キープするか、コントロールされたレップを実行します。完璧なフォームを維持できないなら、退行バージョンに取り組みます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/front-lever-reps.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/front-lever-reps.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/front-lever-reps.thumb.webp"
+    },
+    {
+      "id": "upper-back/inverted-row-bent-knees",
+      "slug": "inverted-row-bent-knees",
+      "name": "ロウ・インバーテッド・ベント・ニー",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/inverted-row-bent-knees.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-bent-knees.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-bent-knees.thumb.webp"
+    },
+    {
+      "id": "upper-back/inverted-row-on-bench",
+      "slug": "inverted-row-on-bench",
+      "name": "ロウ・インバーテッド・ベンチ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/inverted-row-on-bench.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-on-bench.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-on-bench.thumb.webp"
+    },
+    {
+      "id": "upper-back/inverted-row-v-2",
+      "slug": "inverted-row-v-2",
+      "name": "ロウ・インバーテッド",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/inverted-row-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-v-2.thumb.webp"
+    },
+    {
+      "id": "upper-back/inverted-row-with-straps",
+      "slug": "inverted-row-with-straps",
+      "name": "ロウ・インバーテッド・ストラップ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/inverted-row-with-straps.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-with-straps.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-with-straps.thumb.webp"
+    },
+    {
+      "id": "upper-back/inverted-row",
+      "slug": "inverted-row",
+      "name": "ロウ・インバーテッド",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/inverted-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-alternating-renegade-row",
+      "slug": "kettlebell-alternating-renegade-row",
+      "name": "ケトルベル・オルタネイト・ロウ・レネゲード",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/kettlebell-alternating-renegade-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-renegade-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-renegade-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-alternating-row",
+      "slug": "kettlebell-alternating-row",
+      "name": "ケトルベル・オルタネイト・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/kettlebell-alternating-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-one-arm-row",
+      "slug": "kettlebell-one-arm-row",
+      "name": "ケトルベル・ワンアームロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/kettlebell-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-two-arm-row",
+      "slug": "kettlebell-two-arm-row",
+      "name": "ケトルベル・ツーアーム・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/kettlebell-two-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-two-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-two-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-alternating-narrow-grip-seated-row",
+      "slug": "lever-alternating-narrow-grip-seated-row",
+      "name": "マシン・シーテッド・ナローグリップ・オルタネイト・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/lever-alternating-narrow-grip-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-alternating-narrow-grip-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-alternating-narrow-grip-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-bent-over-row-with-v-bar",
+      "slug": "lever-bent-over-row-with-v-bar",
+      "name": "マシン・Vバー・ベントオーバーロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/lever-bent-over-row-with-v-bar.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-bent-over-row-with-v-bar.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-bent-over-row-with-v-bar.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-bent-over-row",
+      "slug": "lever-bent-over-row",
+      "name": "マシン・ベントオーバーロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/lever-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-high-row",
+      "slug": "lever-high-row",
+      "name": "マシン・ハイ・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/lever-high-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-high-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-high-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-narrow-grip-seated-row",
+      "slug": "lever-narrow-grip-seated-row",
+      "name": "マシン・シーテッド・ナローグリップ・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/lever-narrow-grip-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-narrow-grip-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-narrow-grip-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-one-arm-bent-over-row",
+      "slug": "lever-one-arm-bent-over-row",
+      "name": "マシン・ワンアーム・ベントオーバーロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/lever-one-arm-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-one-arm-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-one-arm-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-one-arm-lateral-high-row",
+      "slug": "lever-one-arm-lateral-high-row",
+      "name": "マシン・ワンアーム・ハイ・ロウ・ラテラル",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/lever-one-arm-lateral-high-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-one-arm-lateral-high-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-one-arm-lateral-high-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-reverse-grip-vertical-row",
+      "slug": "lever-reverse-grip-vertical-row",
+      "name": "マシン・リバースグリップ・ロウ・バーティカル",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/lever-reverse-grip-vertical-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-reverse-grip-vertical-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-reverse-grip-vertical-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-reverse-t-bar-row",
+      "slug": "lever-reverse-t-bar-row",
+      "name": "マシン・リバース・Tバーロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/lever-reverse-t-bar-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-reverse-t-bar-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-reverse-t-bar-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-seated-row",
+      "slug": "lever-seated-row",
+      "name": "マシン・シーテッド・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/lever-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-t-bar-reverse-grip-row",
+      "slug": "lever-t-bar-reverse-grip-row",
+      "name": "マシン・リバースグリップ・ロウ・T・バー",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/lever-t-bar-reverse-grip-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-t-bar-reverse-grip-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-t-bar-reverse-grip-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-t-bar-row",
+      "slug": "lever-t-bar-row",
+      "name": "マシン・Tバーロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/lever-t-bar-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-t-bar-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-t-bar-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-unilateral-row",
+      "slug": "lever-unilateral-row",
+      "name": "マシン・ロウ・ユニラテラル",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/lever-unilateral-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-unilateral-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-unilateral-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/medicine-ball-overhead-slam",
+      "slug": "medicine-ball-overhead-slam",
+      "name": "メディシンボール・オーバーヘッド・スラム",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "メディシンボールを両手で持ちます。足を固定し、圧縮されたバネのように腰と体幹を溜めます。",
+        "全身を使って爆発的に投げるか叩きます。腰が先、次に体幹、次に腕。各レップに最大の意図を込めます。",
+        "ボールを回収（またはキャッチ）し、リセットして繰り返します。各レップは最初のレップと同じくらい強力であるべきです。量より質。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/medicine-ball-overhead-slam.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/medicine-ball-overhead-slam.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/medicine-ball-overhead-slam.thumb.webp"
+    },
+    {
+      "id": "upper-back/one-arm-towel-row",
+      "slug": "one-arm-towel-row",
+      "name": "ワンアーム・ロウ・タオル",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/one-arm-towel-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/one-arm-towel-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/one-arm-towel-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/resistance-band-seated-straight-back-row",
+      "slug": "resistance-band-seated-straight-back-row",
+      "name": "レジスタンスバンド・シーテッド・ロウ・ストレート・バック",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "レジスタンスバンドを正しいアンカーポイントに固定し、初期テンションがあることを確認します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/resistance-band-seated-straight-back-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/resistance-band-seated-straight-back-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/resistance-band-seated-straight-back-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/rope-climb",
+      "slug": "rope-climb",
+      "name": "ロープ・クライム",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "頭上でロープを両手で掴みます。片足にロープを巻き付け、もう片足を上に載せてロックします。",
+        "足のロックで立ち上がり、手をより高い位置に移動します。足を再ロックして繰り返します。",
+        "コントロールして手を交互に降ります。ゆっくりと。滑らないでください。ロープは手とすねを焼きます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/rope-climb.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/rope-climb.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/rope-climb.thumb.webp"
+    },
+    {
+      "id": "upper-back/skin-the-cat",
+      "slug": "skin-the-cat",
+      "name": "スキン・キャット",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ポジションに入る前に全身のテンションを構築します。すべてを締めます。臀筋、体幹、広背筋、脚。",
+        "全身の剛性を維持しながらコントロールしてポジションに入ります。体は1枚のまっすぐな板のように考えます。",
+        "処方された時間キープするか、コントロールされたレップを実行します。完璧なフォームを維持できないなら、退行バージョンに取り組みます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/skin-the-cat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/skin-the-cat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/skin-the-cat.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-bent-over-row",
+      "slug": "smith-bent-over-row",
+      "name": "スミスマシン・ベントオーバーロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "スミスマシンのバーの高さを設定し、適切な重量をセットします。バーの下にポジションを取ります。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/smith-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-narrow-row",
+      "slug": "smith-narrow-row",
+      "name": "スミスマシン・ナロー・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "スミスマシンのバーの高さを設定し、適切な重量をセットします。バーの下にポジションを取ります。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/smith-narrow-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-narrow-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-narrow-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-one-arm-row",
+      "slug": "smith-one-arm-row",
+      "name": "スミスマシン・ワンアームロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "スミスマシンのバーの高さを設定し、適切な重量をセットします。バーの下にポジションを取ります。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/smith-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-reverse-grip-bent-over-row",
+      "slug": "smith-reverse-grip-bent-over-row",
+      "name": "スミスマシン・リバースグリップ・ベントオーバーロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "スミスマシンのバーの高さを設定し、適切な重量をセットします。バーの下にポジションを取ります。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/smith-reverse-grip-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-reverse-grip-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-reverse-grip-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/standing-archer",
+      "slug": "standing-archer",
+      "name": "スタンディング・アーチャー",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "器具を準備し、良い姿勢で安定したスタートポジションをとります。",
+        "動作を開始する前に上背部を活性化させます。マインド-マッスルコネクションを感じてください。",
+        "コンセントリックとエキセントリックの両方のフェーズを完全にコントロールして動作を行います。",
+        "下降をコントロールしながらスタートポジションに戻ります——エキセントリックフェーズは挙上と同じだけ筋肉を成長させます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/standing-archer.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/standing-archer.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/standing-archer.thumb.webp"
+    },
+    {
+      "id": "upper-back/suspended-row",
+      "slug": "suspended-row",
+      "name": "サスペンション・ロウ",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "股関節でヒンジし、胴体がほぼ床と平行になるまで倒します。腕は重りにつながったロープのようにまっすぐ垂らします。",
+        "肘を後ろのポケットに向けて引きます。手はただのフックです。トップで肩甲骨を寄せ、くるみを割るように絞ります。",
+        "腕を完全に伸ばしてコントロールしながら下ろし、ボトムで十分にストレッチします。胴体が10°以上動くなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/suspended-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/suspended-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/suspended-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/upper-back-stretch",
+      "slug": "upper-back-stretch",
+      "name": "ストレッチ・アッパー・バック",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ターゲットエリアに優しい緊張を感じるまでゆっくりストレッチ位置に移動します。痛みではありません。",
+        "深く呼吸しながら20〜40秒キープします。各呼気で、もう少しストレッチに沈んでみます。",
+        "ゆっくり解放し、必要に応じて繰り返します。強度より一貫性が重要です。持続的な柔軟性のために定期的にストレッチしましょう。",
+        "ホールド中は深く安定した呼吸を続けてください。ストレッチ中は決して息を止めないでください。"
+      ],
+      "file": "upper-back/upper-back-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/upper-back-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/upper-back-stretch.thumb.webp"
+    }
+  ]
+}

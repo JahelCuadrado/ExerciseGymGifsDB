@@ -1,0 +1,23 @@
+{
+  "id": "traps/barbell-shrug",
+  "slug": "barbell-shrug",
+  "name": "杠铃耸肩",
+  "muscle": "traps",
+  "bodyPart": "back",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+    "手臂完全伸直，将重量持于体侧。挺直站立，肩膀放松。",
+    "将肩膀直接向耳朵方向耸起——不要转动。在顶部收缩2秒。",
+    "缓慢下放回来。整个过程保持手臂伸直——这完全是斜方肌的工作，不是二头肌。",
+    "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+  ],
+  "file": "traps/barbell-shrug.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/barbell-shrug.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/barbell-shrug.thumb.webp"
+}

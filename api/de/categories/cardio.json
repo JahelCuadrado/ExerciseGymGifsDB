@@ -1,0 +1,620 @@
+{
+  "category": "cardio",
+  "count": 29,
+  "exercises": [
+    {
+      "id": "cardio/astride-jumps-male",
+      "slug": "astride-jumps-male",
+      "name": "Gegrätscht Sprünge",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Steh mit den Füßen hüft- bis schulterbreit. Lade die Beine mit einem schnellen Absenken — beuge Knie und Hüften, um Spannung aufzubauen.",
+        "Explodiere nach oben, strecke Hüften, Knie und Sprunggelenke voll durch. Schwinge die Arme für zusätzliche Höhe, wenn zutreffend.",
+        "Lande weich, indem du die Knie beugst und den Aufprall durch die Beine absorbierst. Denke daran, so leise wie eine Katze zu landen.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/astride-jumps-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/astride-jumps-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/astride-jumps-male.thumb.webp"
+    },
+    {
+      "id": "cardio/back-and-forth-step",
+      "slug": "back-and-forth-step",
+      "name": "Rücken vor Stufe",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Nimm eine aufrechte Haltung mit leichter Vorwärtsneigung aus den Sprunggelenken ein. Arme bei 90° natürlich schwingend.",
+        "Treibe die Knie nach vorne und lande auf dem Mittelfuß, halte die Kadenz gleichmäßig und konstant.",
+        "Aktiviere den Core durchgehend und halte deinen Atemrhythmus — durch die Nase ein, durch den Mund aus.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/back-and-forth-step.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/back-and-forth-step.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/back-and-forth-step.thumb.webp"
+    },
+    {
+      "id": "cardio/bear-crawl",
+      "slug": "bear-crawl",
+      "name": "Bär Krabbeln",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Starte auf allen Vieren mit den Knien knapp über dem Boden schwebend. Core aktiviert, Rücken flach.",
+        "Bewege dich vorwärts, indem du gegenüberliegende Hand und Fuß gleichzeitig bewegst — rechte Hand mit linkem Fuß und umgekehrt.",
+        "Halte die Hüften niedrig und stabil, bewege dich bewusst. Je kleiner und kontrollierter die Schritte, desto besser die Core-Aktivierung.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/bear-crawl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/bear-crawl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/bear-crawl.thumb.webp"
+    },
+    {
+      "id": "cardio/burpee",
+      "slug": "burpee",
+      "name": "Burpee",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "quads",
+        "glutes",
+        "abs"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Steh aufrecht, dann gehe in die Hocke und setze die Hände vor dir auf den Boden.",
+        "Springe oder trete mit den Füßen in die Liegestützposition zurück. Mache einen Liegestütz (oder überspringe ihn für mehr Tempo).",
+        "Springe oder trete mit den Füßen zurück zu den Händen, dann explodiere in einen Sprung mit den Händen über dem Kopf. Lande weich und wiederhole.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/burpee.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/burpee.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/burpee.thumb.webp"
+    },
+    {
+      "id": "cardio/cycle-cross-trainer",
+      "slug": "cycle-cross-trainer",
+      "name": "Fahrrad-Crosstrainer",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+        "Stelle Sitz und Griffe auf deinen Körper ein. Sitze mit leichter Kniebeugung am tiefsten Punkt der Pedalbewegung.",
+        "Trete gleichmäßig, drücke nach unten und ziehe nach oben in einer kreisförmigen Bewegung. Halte eine konstante Kadenz bei deinem Zielwiderstand.",
+        "Halte eine aufrechte Haltung, aktiviere den Core und atme rhythmisch während der gesamten Übung.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/cycle-cross-trainer.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/cycle-cross-trainer.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/cycle-cross-trainer.thumb.webp"
+    },
+    {
+      "id": "cardio/dumbbell-burpee",
+      "slug": "dumbbell-burpee",
+      "name": "Burpee mit Kurzhantel",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "dumbbell",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "quads",
+        "glutes",
+        "abs"
+      ],
+      "instructions": [
+        "Wähle das passende Kurzhantel-Gewicht. Greife fest zu und positioniere dich mit stabiler Basis.",
+        "Steh aufrecht, dann gehe in die Hocke und setze die Hände vor dir auf den Boden.",
+        "Springe oder trete mit den Füßen in die Liegestützposition zurück. Mache einen Liegestütz (oder überspringe ihn für mehr Tempo).",
+        "Springe oder trete mit den Füßen zurück zu den Händen, dann explodiere in einen Sprung mit den Händen über dem Kopf. Lande weich und wiederhole.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/dumbbell-burpee.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/dumbbell-burpee.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/dumbbell-burpee.thumb.webp"
+    },
+    {
+      "id": "cardio/half-knee-bends-male",
+      "slug": "half-knee-bends-male",
+      "name": "Halb Knie Beugungen",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Halte ein gleichmäßiges Tempo, angepasst an dein Fitnesslevel.",
+        "Halte deinen Rumpf aktiv und eine aufrechte Haltung während der gesamten Übung.",
+        "Setze die Übung für die geplante Zeit oder Wiederholungen mit sauberer Technik fort.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/half-knee-bends-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/half-knee-bends-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/half-knee-bends-male.thumb.webp"
+    },
+    {
+      "id": "cardio/high-knee-against-wall",
+      "slug": "high-knee-against-wall",
+      "name": "Knieheben gegen die Wand",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Nimm eine aufrechte Haltung mit leichter Vorwärtsneigung aus den Sprunggelenken ein. Arme bei 90° natürlich schwingend.",
+        "Treibe die Knie nach vorne und lande auf dem Mittelfuß, halte die Kadenz gleichmäßig und konstant.",
+        "Aktiviere den Core durchgehend und halte deinen Atemrhythmus — durch die Nase ein, durch den Mund aus.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/high-knee-against-wall.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/high-knee-against-wall.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/high-knee-against-wall.thumb.webp"
+    },
+    {
+      "id": "cardio/jack-burpee",
+      "slug": "jack-burpee",
+      "name": "Burpee, Jack",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "quads",
+        "glutes",
+        "abs"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Steh aufrecht, dann gehe in die Hocke und setze die Hände vor dir auf den Boden.",
+        "Springe oder trete mit den Füßen in die Liegestützposition zurück. Mache einen Liegestütz (oder überspringe ihn für mehr Tempo).",
+        "Springe oder trete mit den Füßen zurück zu den Händen, dann explodiere in einen Sprung mit den Händen über dem Kopf. Lande weich und wiederhole.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/jack-burpee.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jack-burpee.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jack-burpee.thumb.webp"
+    },
+    {
+      "id": "cardio/jack-jump-male",
+      "slug": "jack-jump-male",
+      "name": "Jack Sprung",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Steh mit den Füßen hüft- bis schulterbreit. Lade die Beine mit einem schnellen Absenken — beuge Knie und Hüften, um Spannung aufzubauen.",
+        "Explodiere nach oben, strecke Hüften, Knie und Sprunggelenke voll durch. Schwinge die Arme für zusätzliche Höhe, wenn zutreffend.",
+        "Lande weich, indem du die Knie beugst und den Aufprall durch die Beine absorbierst. Denke daran, so leise wie eine Katze zu landen.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/jack-jump-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jack-jump-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jack-jump-male.thumb.webp"
+    },
+    {
+      "id": "cardio/jump-rope",
+      "slug": "jump-rope",
+      "name": "Seilspringen",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Steh mit den Füßen hüft- bis schulterbreit. Lade die Beine mit einem schnellen Absenken — beuge Knie und Hüften, um Spannung aufzubauen.",
+        "Explodiere nach oben, strecke Hüften, Knie und Sprunggelenke voll durch. Schwinge die Arme für zusätzliche Höhe, wenn zutreffend.",
+        "Lande weich, indem du die Knie beugst und den Aufprall durch die Beine absorbierst. Denke daran, so leise wie eine Katze zu landen.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/jump-rope.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jump-rope.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jump-rope.thumb.webp"
+    },
+    {
+      "id": "cardio/mountain-climber",
+      "slug": "mountain-climber",
+      "name": "Mountain Climber",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Starte in Liegestützposition mit aktiviertem Core und dem Körper in einer geraden Linie.",
+        "Treibe ein Knie zur Brust, dann wechsle schnell die Beine in einer Laufbewegung, während die Hüften waagerecht bleiben.",
+        "Halte ein schnelles aber kontrolliertes Tempo. Lass die Hüften nicht auf und ab hüpfen — bleib angespannt und denke an horizontales Laufen auf der Stelle.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/mountain-climber.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/mountain-climber.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/mountain-climber.thumb.webp"
+    },
+    {
+      "id": "cardio/push-to-run",
+      "slug": "push-to-run",
+      "name": "Drücken Lauf",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Nimm eine aufrechte Haltung mit leichter Vorwärtsneigung aus den Sprunggelenken ein. Arme bei 90° natürlich schwingend.",
+        "Treibe die Knie nach vorne und lande auf dem Mittelfuß, halte die Kadenz gleichmäßig und konstant.",
+        "Aktiviere den Core durchgehend und halte deinen Atemrhythmus — durch die Nase ein, durch den Mund aus.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/push-to-run.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/push-to-run.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/push-to-run.thumb.webp"
+    },
+    {
+      "id": "cardio/run-equipment",
+      "slug": "run-equipment",
+      "name": "Lauf Gerät",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Nimm eine aufrechte Haltung mit leichter Vorwärtsneigung aus den Sprunggelenken ein. Arme bei 90° natürlich schwingend.",
+        "Treibe die Knie nach vorne und lande auf dem Mittelfuß, halte die Kadenz gleichmäßig und konstant.",
+        "Aktiviere den Core durchgehend und halte deinen Atemrhythmus — durch die Nase ein, durch den Mund aus.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/run-equipment.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/run-equipment.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/run-equipment.thumb.webp"
+    },
+    {
+      "id": "cardio/run",
+      "slug": "run",
+      "name": "Lauf",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Nimm eine aufrechte Haltung mit leichter Vorwärtsneigung aus den Sprunggelenken ein. Arme bei 90° natürlich schwingend.",
+        "Treibe die Knie nach vorne und lande auf dem Mittelfuß, halte die Kadenz gleichmäßig und konstant.",
+        "Aktiviere den Core durchgehend und halte deinen Atemrhythmus — durch die Nase ein, durch den Mund aus.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/run.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/run.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/run.thumb.webp"
+    },
+    {
+      "id": "cardio/scissor-jumps-male",
+      "slug": "scissor-jumps-male",
+      "name": "Schere Sprünge",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Lege dich mit dem Gesicht nach oben, Beine gestreckt, Hände unter dem Gesäß oder an den Seiten. Drücke den unteren Rücken in den Boden.",
+        "Hebe beide Beine ein paar Zentimeter vom Boden und trete abwechselnd in einer kurzen, schnellen Bewegung auf und ab.",
+        "Halte den Core angespannt und den unteren Rücken am Boden während der gesamten Übung. Wenn sich der Rücken wölbt, hebe die Beine höher.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/scissor-jumps-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/scissor-jumps-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/scissor-jumps-male.thumb.webp"
+    },
+    {
+      "id": "cardio/semi-squat-jump-male",
+      "slug": "semi-squat-jump-male",
+      "name": "Kniebeuge, halb Sprung",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Schraube die Füße in den Boden, um Spannung aufzubauen. Nimm einen tiefen Atemzug in den Bauch — blähe einen Ballon hinter der Gürtelschnalle auf.",
+        "Setze dich zurück, als stünde ein Stuhl hinter dir, und spreize den Boden mit den Füßen auseinander. Halte die Brust zum Spiegel vor dir gerichtet.",
+        "Drücke durch den ganzen Fuß und schiebe den Boden von dir weg, um aufzustehen. Steh aufrecht, als würde jemand an einem Faden oben am Kopf ziehen.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/semi-squat-jump-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/semi-squat-jump-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/semi-squat-jump-male.thumb.webp"
+    },
+    {
+      "id": "cardio/short-stride-run",
+      "slug": "short-stride-run",
+      "name": "Kurz Schritt Lauf",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Nimm eine aufrechte Haltung mit leichter Vorwärtsneigung aus den Sprunggelenken ein. Arme bei 90° natürlich schwingend.",
+        "Treibe die Knie nach vorne und lande auf dem Mittelfuß, halte die Kadenz gleichmäßig und konstant.",
+        "Aktiviere den Core durchgehend und halte deinen Atemrhythmus — durch die Nase ein, durch den Mund aus.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/short-stride-run.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/short-stride-run.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/short-stride-run.thumb.webp"
+    },
+    {
+      "id": "cardio/skater-hops",
+      "slug": "skater-hops",
+      "name": "Skater Hüpfer",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Steh mit den Füßen hüft- bis schulterbreit. Lade die Beine mit einem schnellen Absenken — beuge Knie und Hüften, um Spannung aufzubauen.",
+        "Explodiere nach oben, strecke Hüften, Knie und Sprunggelenke voll durch. Schwinge die Arme für zusätzliche Höhe, wenn zutreffend.",
+        "Lande weich, indem du die Knie beugst und den Aufprall durch die Beine absorbierst. Denke daran, so leise wie eine Katze zu landen.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/skater-hops.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/skater-hops.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/skater-hops.thumb.webp"
+    },
+    {
+      "id": "cardio/ski-step",
+      "slug": "ski-step",
+      "name": "Ski Stufe",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Nimm eine aufrechte Haltung mit leichter Vorwärtsneigung aus den Sprunggelenken ein. Arme bei 90° natürlich schwingend.",
+        "Treibe die Knie nach vorne und lande auf dem Mittelfuß, halte die Kadenz gleichmäßig und konstant.",
+        "Aktiviere den Core durchgehend und halte deinen Atemrhythmus — durch die Nase ein, durch den Mund aus.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/ski-step.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/ski-step.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/ski-step.thumb.webp"
+    },
+    {
+      "id": "cardio/star-jump-male",
+      "slug": "star-jump-male",
+      "name": "Stern Sprung",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Steh mit den Füßen hüft- bis schulterbreit. Lade die Beine mit einem schnellen Absenken — beuge Knie und Hüften, um Spannung aufzubauen.",
+        "Explodiere nach oben, strecke Hüften, Knie und Sprunggelenke voll durch. Schwinge die Arme für zusätzliche Höhe, wenn zutreffend.",
+        "Lande weich, indem du die Knie beugst und den Aufprall durch die Beine absorbierst. Denke daran, so leise wie eine Katze zu landen.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/star-jump-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/star-jump-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/star-jump-male.thumb.webp"
+    },
+    {
+      "id": "cardio/stationary-bike-run-v-3",
+      "slug": "stationary-bike-run-v-3",
+      "name": "Stationär Rad Lauf",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Nimm eine aufrechte Haltung mit leichter Vorwärtsneigung aus den Sprunggelenken ein. Arme bei 90° natürlich schwingend.",
+        "Treibe die Knie nach vorne und lande auf dem Mittelfuß, halte die Kadenz gleichmäßig und konstant.",
+        "Aktiviere den Core durchgehend und halte deinen Atemrhythmus — durch die Nase ein, durch den Mund aus.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/stationary-bike-run-v-3.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/stationary-bike-run-v-3.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/stationary-bike-run-v-3.thumb.webp"
+    },
+    {
+      "id": "cardio/stationary-bike-walk",
+      "slug": "stationary-bike-walk",
+      "name": "Stationär Rad Gehen",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Nimm eine aufrechte Haltung mit leichter Vorwärtsneigung aus den Sprunggelenken ein. Arme bei 90° natürlich schwingend.",
+        "Treibe die Knie nach vorne und lande auf dem Mittelfuß, halte die Kadenz gleichmäßig und konstant.",
+        "Aktiviere den Core durchgehend und halte deinen Atemrhythmus — durch die Nase ein, durch den Mund aus.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/stationary-bike-walk.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/stationary-bike-walk.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/stationary-bike-walk.thumb.webp"
+    },
+    {
+      "id": "cardio/swing-360",
+      "slug": "swing-360",
+      "name": "Schwung",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Steh mit den Füßen schulterbreit, greife die Kettlebell mit beiden Händen. Beuge dich in der Hüfte nach vorne, um den Swing zu starten.",
+        "Treibe die Hüften explosiv nach vorne — die Kraft kommt aus den Hüften, nicht aus den Armen. Das Gewicht schwebt als Konsequenz nach oben.",
+        "Lass die Kettlebell natürlich fallen und beuge dich in der Hüfte zurück, um sie aufzufangen. Halte den Core angespannt und den Rücken flach.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/swing-360.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/swing-360.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/swing-360.thumb.webp"
+    },
+    {
+      "id": "cardio/walk-elliptical-cross-trainer",
+      "slug": "walk-elliptical-cross-trainer",
+      "name": "Gehen auf dem Crosstrainer",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+        "Nimm eine aufrechte Haltung mit leichter Vorwärtsneigung aus den Sprunggelenken ein. Arme bei 90° natürlich schwingend.",
+        "Treibe die Knie nach vorne und lande auf dem Mittelfuß, halte die Kadenz gleichmäßig und konstant.",
+        "Aktiviere den Core durchgehend und halte deinen Atemrhythmus — durch die Nase ein, durch den Mund aus.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/walk-elliptical-cross-trainer.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walk-elliptical-cross-trainer.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walk-elliptical-cross-trainer.thumb.webp"
+    },
+    {
+      "id": "cardio/walking-high-knees-lunge",
+      "slug": "walking-high-knees-lunge",
+      "name": "Ausfallschritt, hoch, gehend Knie",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Steh mit den Füßen hüftbreit (Zugschienen, nicht Drahtseil). Tritt in die Position mit aufrechtem Oberkörper wie ein Fahnenmast.",
+        "Senke das hintere Knie gerade nach unten wie ein Aufzug — stürze nicht nach vorne. Ziele auf 90° an beiden Knien. Halte das vordere Schienbein vertikal.",
+        "Drücke durch die vordere Ferse, um zurückzukehren. Stelle dir vor, den Boden durch den vorderen Fuß wegzudrücken.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/walking-high-knees-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-high-knees-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-high-knees-lunge.thumb.webp"
+    },
+    {
+      "id": "cardio/walking-on-incline-treadmill",
+      "slug": "walking-on-incline-treadmill",
+      "name": "Schräg-gehend Laufband",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+        "Stelle die Bank auf die angegebene Neigung ein und drücke deinen Rücken fest gegen das Polster.",
+        "Nimm eine aufrechte Haltung mit leichter Vorwärtsneigung aus den Sprunggelenken ein. Arme bei 90° natürlich schwingend.",
+        "Treibe die Knie nach vorne und lande auf dem Mittelfuß, halte die Kadenz gleichmäßig und konstant.",
+        "Aktiviere den Core durchgehend und halte deinen Atemrhythmus — durch die Nase ein, durch den Mund aus.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/walking-on-incline-treadmill.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-incline-treadmill.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-incline-treadmill.thumb.webp"
+    },
+    {
+      "id": "cardio/walking-on-stepmill",
+      "slug": "walking-on-stepmill",
+      "name": "Gehend Stepmill",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+        "Nimm eine aufrechte Haltung mit leichter Vorwärtsneigung aus den Sprunggelenken ein. Arme bei 90° natürlich schwingend.",
+        "Treibe die Knie nach vorne und lande auf dem Mittelfuß, halte die Kadenz gleichmäßig und konstant.",
+        "Aktiviere den Core durchgehend und halte deinen Atemrhythmus — durch die Nase ein, durch den Mund aus.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/walking-on-stepmill.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-stepmill.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-stepmill.thumb.webp"
+    },
+    {
+      "id": "cardio/wheel-run",
+      "slug": "wheel-run",
+      "name": "Rad Lauf",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Nimm eine aufrechte Haltung mit leichter Vorwärtsneigung aus den Sprunggelenken ein. Arme bei 90° natürlich schwingend.",
+        "Treibe die Knie nach vorne und lande auf dem Mittelfuß, halte die Kadenz gleichmäßig und konstant.",
+        "Aktiviere den Core durchgehend und halte deinen Atemrhythmus — durch die Nase ein, durch den Mund aus.",
+        "Atme rhythmisch — durch die Nase ein und durch den Mund aus, angepasst an dein Tempo."
+      ],
+      "file": "cardio/wheel-run.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/wheel-run.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/wheel-run.thumb.webp"
+    }
+  ]
+}

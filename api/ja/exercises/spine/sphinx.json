@@ -1,0 +1,20 @@
+{
+  "id": "spine/sphinx",
+  "slug": "sphinx",
+  "name": "スフィンクス",
+  "muscle": "spine",
+  "bodyPart": "back",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+    "うつ伏せ（デッドバグなら仰向け）に寝ます。指示されたスタート位置で手足を伸ばします。",
+    "指示された手足を同時に上げ、背中の筋肉（デッドバグなら体幹）を絞ります。トップで2秒キープします。",
+    "コントロールしてスタート位置に下ろします。両端から引っ張られるように体を長くすることに集中します。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "spine/sphinx.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/sphinx.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/sphinx.thumb.webp"
+}

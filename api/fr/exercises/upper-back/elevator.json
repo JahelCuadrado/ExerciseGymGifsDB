@@ -1,0 +1,20 @@
+{
+  "id": "upper-back/elevator",
+  "slug": "elevator",
+  "name": "Ascenseur",
+  "muscle": "upper-back",
+  "bodyPart": "back",
+  "equipment": "other",
+  "category": "strength",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prépare ton matériel et adopte une position de départ stable avec une bonne posture.",
+    "Suspends-toi à une barre ou positionne-toi avec les bras en appui. Commence jambes pendant droites.",
+    "Monte les jambes par étapes — arrêt à 45°, 90° et hauteur maximale — comme un ascenseur s'arrêtant à chaque étage.",
+    "Redescends les jambes par les mêmes étapes avec contrôle. Chaque pause construit force isométrique et contrôle dans toute l'amplitude.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "upper-back/elevator.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elevator.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elevator.thumb.webp"
+}

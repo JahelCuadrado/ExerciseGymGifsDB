@@ -5,7 +5,7 @@
     {
       "id": "calves/box-jump-down-with-one-leg-stabilization",
       "slug": "box-jump-down-with-one-leg-stabilization",
-      "name": "Salto al cajón, a una pierna, down stabilization",
+      "name": "Salto al cajón con estabilización a una pierna",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -49,7 +49,7 @@
     {
       "id": "glutes/bodyweight-drop-jump-squat",
       "slug": "bodyweight-drop-jump-squat",
-      "name": "Sentadilla con salto con peso corporal, drop",
+      "name": "Sentadilla con salto en caída, con peso corporal",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -165,7 +165,7 @@
     {
       "id": "glutes/lunge-with-jump",
       "slug": "lunge-with-jump",
-      "name": "Zancada, jump",
+      "name": "Zancada, salto",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -188,7 +188,7 @@
     {
       "id": "pectorals/incline-push-up-depth-jump",
       "slug": "incline-push-up-depth-jump",
-      "name": "Flexión inclinada, depth jump",
+      "name": "Flexión inclinada, con salto en profundidad",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "bodyweight",
@@ -278,7 +278,7 @@
     {
       "id": "quads/barbell-squat-jump-step-rear-lunge",
       "slug": "barbell-squat-jump-step-rear-lunge",
-      "name": "Sentadilla con barra, posterior, jump paso lunge",
+      "name": "Sentadilla con barra, posterior, salto paso zancada",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",

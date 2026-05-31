@@ -1,0 +1,23 @@
+{
+  "id": "pectorals/band-bench-press",
+  "slug": "band-bench-press",
+  "name": "Développé couché à l'élastique",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+    "Serre tes omoplates comme si tu tenais un crayon entre elles — cela crée une base stable pour pousser.",
+    "Descends la poignée vers le milieu de la poitrine avec les coudes à environ 45° — pense à une forme de flèche, pas un T — contrôle la descente pendant 2-3 secondes.",
+    "Pousse-toi toi-même dans le banc, éloignant la poignée. Dirige la poignée dans un léger arc vers les supports pour terminer la répétition.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "pectorals/band-bench-press.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/band-bench-press.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/band-bench-press.thumb.webp"
+}

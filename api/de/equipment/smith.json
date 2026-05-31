@@ -1,0 +1,1115 @@
+{
+  "equipment": "smith",
+  "count": 48,
+  "exercises": [
+    {
+      "id": "abs/smith-hip-raise",
+      "slug": "smith-hip-raise",
+      "name": "Heben an der Smith-Maschine, Hüfte",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Hänge an einer Stange oder positioniere dich mit gestützten Armen. Beginne mit gerade hängenden Beinen und aktiviertem Core.",
+        "Hebe die Beine an, indem du das Becken kippst — denke daran, die Gürtelschnalle zum Kinn zu bringen, nicht nur die Füße zu heben.",
+        "Kontrolliere den Abstieg langsam ohne Schwingen. Wenn du schwingst, beuge die Knie, um den Hebelarm zu verkürzen.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "abs/smith-hip-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/smith-hip-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/smith-hip-raise.thumb.webp"
+    },
+    {
+      "id": "biceps/smith-machine-bicep-curl",
+      "slug": "smith-machine-bicep-curl",
+      "name": "Bizepscurl an der Smith-Maschine",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Fixiere die Ellbogen an den Seiten — stell dir vor, sie sind festgenagelt. Nur die Unterarme bewegen sich.",
+        "Curle das Gewicht nach oben und spanne den Bizeps fest an. Oben drücke den Saft aus einer Orange, bevor du senkst.",
+        "Senke in langsamen 3 Sekunden und kämpfe gegen die Schwerkraft in jedem Zentimeter. Halte die Handgelenke gerade wie Stahlstäbe. Wenn der Körper schwankt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "biceps/smith-machine-bicep-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/smith-machine-bicep-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/smith-machine-bicep-curl.thumb.webp"
+    },
+    {
+      "id": "calves/smith-one-leg-floor-calf-raise",
+      "slug": "smith-one-leg-floor-calf-raise",
+      "name": "Wadenheben an der Smith-Maschine, einbeinig, Boden",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Steh auf der Kante einer Stufe oder Plattform, die Ferse hängen über. Halte dich bei Bedarf an einem Stützpunkt fest.",
+        "Drücke dich so hoch wie möglich auf die Zehenspitzen und spanne die Wade oben 2 Sekunden lang fest an.",
+        "Senke langsam über die Plattformkante hinaus, bis du eine tiefe Dehnung in den Waden spürst. Kein Wippen — beherrsche jeden Zentimeter.",
+        "Arbeite eine Seite nach der anderen. Alle Wiederholungen auf einer Seite abschließen, dann wechseln. Die schwächere Seite gibt die Wiederholungszahl vor.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "calves/smith-one-leg-floor-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-one-leg-floor-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-one-leg-floor-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/smith-reverse-calf-raises-1394",
+      "slug": "smith-reverse-calf-raises-1394",
+      "name": "Reverse-Wade Heben an der Smith-Maschine",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Steh auf der Kante einer Stufe oder Plattform, die Fersen hängen über. Halte dich bei Bedarf an einem Stützpunkt fest.",
+        "Drücke dich so hoch wie möglich auf die Zehenspitzen und spanne die Waden oben 2 Sekunden lang fest an.",
+        "Senke langsam über die Plattformkante hinaus, bis du eine tiefe Dehnung in den Waden spürst. Kein Wippen — beherrsche jeden Zentimeter.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "calves/smith-reverse-calf-raises-1394.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-reverse-calf-raises-1394.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-reverse-calf-raises-1394.thumb.webp"
+    },
+    {
+      "id": "calves/smith-reverse-calf-raises",
+      "slug": "smith-reverse-calf-raises",
+      "name": "Reverse-Wade Heben an der Smith-Maschine",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Steh auf der Kante einer Stufe oder Plattform, die Fersen hängen über. Halte dich bei Bedarf an einem Stützpunkt fest.",
+        "Drücke dich so hoch wie möglich auf die Zehenspitzen und spanne die Waden oben 2 Sekunden lang fest an.",
+        "Senke langsam über die Plattformkante hinaus, bis du eine tiefe Dehnung in den Waden spürst. Kein Wippen — beherrsche jeden Zentimeter.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "calves/smith-reverse-calf-raises.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-reverse-calf-raises.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-reverse-calf-raises.thumb.webp"
+    },
+    {
+      "id": "calves/smith-seated-one-leg-calf-raise",
+      "slug": "smith-seated-one-leg-calf-raise",
+      "name": "Wadenheben an der Smith-Maschine, sitzend, einbeinig",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Sitze aufrecht mit geradem Rücken und den Füßen flach auf dem Boden.",
+        "Steh auf der Kante einer Stufe oder Plattform, die Ferse hängen über. Halte dich bei Bedarf an einem Stützpunkt fest.",
+        "Drücke dich so hoch wie möglich auf die Zehenspitzen und spanne die Wade oben 2 Sekunden lang fest an.",
+        "Senke langsam über die Plattformkante hinaus, bis du eine tiefe Dehnung in den Waden spürst. Kein Wippen — beherrsche jeden Zentimeter.",
+        "Arbeite eine Seite nach der anderen. Alle Wiederholungen auf einer Seite abschließen, dann wechseln. Die schwächere Seite gibt die Wiederholungszahl vor.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "calves/smith-seated-one-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-seated-one-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-seated-one-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/smith-standing-leg-calf-raise",
+      "slug": "smith-standing-leg-calf-raise",
+      "name": "Wadenheben an der Smith-Maschine, stehend, Bein",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Steh auf der Kante einer Stufe oder Plattform, die Fersen hängen über. Halte dich bei Bedarf an einem Stützpunkt fest.",
+        "Drücke dich so hoch wie möglich auf die Zehenspitzen und spanne die Waden oben 2 Sekunden lang fest an.",
+        "Senke langsam über die Plattformkante hinaus, bis du eine tiefe Dehnung in den Waden spürst. Kein Wippen — beherrsche jeden Zentimeter.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "calves/smith-standing-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-standing-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-standing-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/smith-toe-raise",
+      "slug": "smith-toe-raise",
+      "name": "Heben an der Smith-Maschine, Zehen",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Steh oder sitze in der Ausgangsposition mit dem Gewicht bereit und aktiviertem Core.",
+        "Hebe das Gewicht in der angegebenen Bewegungsbahn mit leichter Ellbogenbeugung. Stoppe auf Schulterhöhe, sofern nicht anders angegeben.",
+        "Senke langsam und kontrolliert, widerstehe der Schwerkraft den ganzen Abstieg. Nutze keinen Schwung — kontrolliere jeden Zentimeter.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "calves/smith-toe-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-toe-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/smith-toe-raise.thumb.webp"
+    },
+    {
+      "id": "delts/smith-behind-neck-press",
+      "slug": "smith-behind-neck-press",
+      "name": "Nackendrücken an der Smith-Maschine",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Stapele die Handgelenke direkt über den Ellbogen wie eine feste Säule. Spanne Gesäß und Core an, als ob du einen Schlag erwartest.",
+        "Drücke das Gewicht gerade nach oben und bewege den Kopf aus dem Weg. Sobald die Stange am Gesicht vorbei ist, schiebe den Kopf durch das Fenster und strecke die Arme vollständig.",
+        "Senke mit Kontrolle zurück zur Startposition auf den vorderen Schultern. Halte den Oberkörper vertikal — du drückst über Kopf, nicht ein stehendes Schrägbankdrücken.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "delts/smith-behind-neck-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-behind-neck-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-behind-neck-press.thumb.webp"
+    },
+    {
+      "id": "delts/smith-rear-delt-row",
+      "slug": "smith-rear-delt-row",
+      "name": "Rudern an der Smith-Maschine, hinten, Schulter",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "delts/smith-rear-delt-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-rear-delt-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-rear-delt-row.thumb.webp"
+    },
+    {
+      "id": "delts/smith-seated-shoulder-press",
+      "slug": "smith-seated-shoulder-press",
+      "name": "Schulterdrücken an der Smith-Maschine, sitzend",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Sitze aufrecht mit geradem Rücken und den Füßen flach auf dem Boden.",
+        "Stapele die Handgelenke direkt über den Ellbogen wie eine feste Säule. Spanne Gesäß und Core an, als ob du einen Schlag erwartest.",
+        "Drücke das Gewicht gerade nach oben und bewege den Kopf aus dem Weg. Sobald die Stange am Gesicht vorbei ist, schiebe den Kopf durch das Fenster und strecke die Arme vollständig.",
+        "Senke mit Kontrolle zurück zur Startposition auf den vorderen Schultern. Halte den Oberkörper vertikal — du drückst über Kopf, nicht ein stehendes Schrägbankdrücken.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "delts/smith-seated-shoulder-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-seated-shoulder-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-seated-shoulder-press.thumb.webp"
+    },
+    {
+      "id": "delts/smith-shoulder-press",
+      "slug": "smith-shoulder-press",
+      "name": "Schulterdrücken an der Smith-Maschine",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Stapele die Handgelenke direkt über den Ellbogen wie eine feste Säule. Spanne Gesäß und Core an, als ob du einen Schlag erwartest.",
+        "Drücke das Gewicht gerade nach oben und bewege den Kopf aus dem Weg. Sobald die Stange am Gesicht vorbei ist, schiebe den Kopf durch das Fenster und strecke die Arme vollständig.",
+        "Senke mit Kontrolle zurück zur Startposition auf den vorderen Schultern. Halte den Oberkörper vertikal — du drückst über Kopf, nicht ein stehendes Schrägbankdrücken.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "delts/smith-shoulder-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-shoulder-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-shoulder-press.thumb.webp"
+    },
+    {
+      "id": "delts/smith-standing-behind-head-military-press",
+      "slug": "smith-standing-behind-head-military-press",
+      "name": "Military Press an der Smith-Maschine, stehend, hinter Kopf",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Stapele die Handgelenke direkt über den Ellbogen wie eine feste Säule. Spanne Gesäß und Core an, als ob du einen Schlag erwartest.",
+        "Drücke das Gewicht gerade nach oben und bewege den Kopf aus dem Weg. Sobald die Stange am Gesicht vorbei ist, schiebe den Kopf durch das Fenster und strecke die Arme vollständig.",
+        "Senke mit Kontrolle zurück zur Startposition auf den vorderen Schultern. Halte den Oberkörper vertikal — du drückst über Kopf, nicht ein stehendes Schrägbankdrücken.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "delts/smith-standing-behind-head-military-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-standing-behind-head-military-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-standing-behind-head-military-press.thumb.webp"
+    },
+    {
+      "id": "delts/smith-standing-military-press",
+      "slug": "smith-standing-military-press",
+      "name": "Military Press an der Smith-Maschine, stehend",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Stapele die Handgelenke direkt über den Ellbogen wie eine feste Säule. Spanne Gesäß und Core an, als ob du einen Schlag erwartest.",
+        "Drücke das Gewicht gerade nach oben und bewege den Kopf aus dem Weg. Sobald die Stange am Gesicht vorbei ist, schiebe den Kopf durch das Fenster und strecke die Arme vollständig.",
+        "Senke mit Kontrolle zurück zur Startposition auf den vorderen Schultern. Halte den Oberkörper vertikal — du drückst über Kopf, nicht ein stehendes Schrägbankdrücken.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "delts/smith-standing-military-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-standing-military-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-standing-military-press.thumb.webp"
+    },
+    {
+      "id": "delts/smith-upright-row",
+      "slug": "smith-upright-row",
+      "name": "Aufrechtes Rudern an der Smith-Maschine",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "traps"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Halte das Gewicht vor den Oberschenkeln mit gestreckten Armen. Steh aufrecht mit aktiviertem Core.",
+        "Ziehe das Gewicht am Körper entlang nach oben, führe mit den Ellbogen zur Decke. Stoppe, wenn die Ellbogen Schulterhöhe erreichen.",
+        "Senke das Gewicht langsam zur Ausgangsposition. Falls du ein Schulterziehen spürst, nimm einen etwas breiteren Griff.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "delts/smith-upright-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-upright-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/smith-upright-row.thumb.webp"
+    },
+    {
+      "id": "forearms/smith-seated-wrist-curl",
+      "slug": "smith-seated-wrist-curl",
+      "name": "Handgelenkcurl an der Smith-Maschine, sitzend",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Sitze aufrecht mit geradem Rücken und den Füßen flach auf dem Boden.",
+        "Lege die Unterarme auf die Oberschenkel oder eine Bank, wobei die Handgelenke über die Kante hängen. Halte die Unterarme auf der Oberfläche fixiert.",
+        "Beuge die Handgelenke nach oben und spanne die Unterarmmuskulatur oben an. Halte kurz.",
+        "Senke langsam und lass das Gewicht das Handgelenk vollständig dehnen. Nur die Handgelenke bewegen sich — die Unterarme bleiben still.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "forearms/smith-seated-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/smith-seated-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/smith-seated-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/smith-standing-back-wrist-curl",
+      "slug": "smith-standing-back-wrist-curl",
+      "name": "Handgelenkcurl an der Smith-Maschine, stehend, Rücken",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Lege die Unterarme auf die Oberschenkel oder eine Bank, wobei die Handgelenke über die Kante hängen. Halte die Unterarme auf der Oberfläche fixiert.",
+        "Beuge die Handgelenke nach oben und spanne die Unterarmmuskulatur oben an. Halte kurz.",
+        "Senke langsam und lass das Gewicht das Handgelenk vollständig dehnen. Nur die Handgelenke bewegen sich — die Unterarme bleiben still.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "forearms/smith-standing-back-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/smith-standing-back-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/smith-standing-back-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-bent-knee-good-morning",
+      "slug": "smith-bent-knee-good-morning",
+      "name": "Good Morning an der Smith-Maschine, mit gebeugtem Knie",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Mit leichter Kniebeugung beuge dich in der Hüfte nach vorne, schiebe das Gesäß nach hinten — stell dir vor, du schließt eine Autotür mit dem Po.",
+        "Senke den Oberkörper, bis du eine tiefe Dehnung in den Beinbeugern spürst. Halte den Rücken flach. Ein Besenstiel auf der Wirbelsäule sollte Kopf, Mitte und Steißbein berühren.",
+        "Treibe die Hüften nach vorne, um wieder aufzustehen, und spanne die Gesäßmuskeln oben fest an.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "glutes/smith-bent-knee-good-morning.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-bent-knee-good-morning.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-bent-knee-good-morning.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-deadlift",
+      "slug": "smith-deadlift",
+      "name": "Kreuzheben an der Smith-Maschine",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Stelle die Füße hüftbreit auf, Stange über der Fußmitte. Beuge dich in der Hüfte nach vorne, Brust hoch, und presse die Achseln zusammen, um den Lat zu aktivieren.",
+        "Schiebe den Boden mit den Beinen weg — Hüfte und Schultern steigen gemeinsam wie ein Aufzug. Ziehe die Stange an den Beinen entlang, als würdest du sie rasieren.",
+        "Steh oben ganz aufrecht und drücke eine Münze zwischen den Gesäßmuskeln zusammen. Umkehren durch Hüftbeugung nach hinten, die Stange gleitet die Oberschenkel entlang — sie verlässt nie den Körper.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "glutes/smith-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-front-squat-clean-grip",
+      "slug": "smith-front-squat-clean-grip",
+      "name": "Frontkniebeuge an der Smith-Maschine, Clean Griff",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Schraube die Füße in den Boden, um Spannung aufzubauen. Nimm einen tiefen Atemzug in den Bauch — blähe einen Ballon hinter der Gürtelschnalle auf.",
+        "Setze dich zurück, als stünde ein Stuhl hinter dir, und spreize den Boden mit den Füßen auseinander. Halte die Brust zum Spiegel vor dir gerichtet.",
+        "Drücke durch den ganzen Fuß und schiebe den Boden von dir weg, um aufzustehen. Steh aufrecht, als würde jemand an einem Faden oben am Kopf ziehen.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "glutes/smith-front-squat-clean-grip.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-front-squat-clean-grip.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-front-squat-clean-grip.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-full-squat",
+      "slug": "smith-full-squat",
+      "name": "Kniebeuge an der Smith-Maschine, voll",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Schraube die Füße in den Boden, um Spannung aufzubauen. Nimm einen tiefen Atemzug in den Bauch — blähe einen Ballon hinter der Gürtelschnalle auf.",
+        "Setze dich zurück, als stünde ein Stuhl hinter dir, und spreize den Boden mit den Füßen auseinander. Halte die Brust zum Spiegel vor dir gerichtet.",
+        "Drücke durch den ganzen Fuß und schiebe den Boden von dir weg, um aufzustehen. Steh aufrecht, als würde jemand an einem Faden oben am Kopf ziehen.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "glutes/smith-full-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-full-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-full-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-hack-squat",
+      "slug": "smith-hack-squat",
+      "name": "Kniebeuge an der Smith-Maschine, hack",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Schraube die Füße in den Boden, um Spannung aufzubauen. Nimm einen tiefen Atemzug in den Bauch — blähe einen Ballon hinter der Gürtelschnalle auf.",
+        "Setze dich zurück, als stünde ein Stuhl hinter dir, und spreize den Boden mit den Füßen auseinander. Halte die Brust zum Spiegel vor dir gerichtet.",
+        "Drücke durch den ganzen Fuß und schiebe den Boden von dir weg, um aufzustehen. Steh aufrecht, als würde jemand an einem Faden oben am Kopf ziehen.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "glutes/smith-hack-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-hack-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-hack-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-leg-press",
+      "slug": "smith-leg-press",
+      "name": "Beinpresse an der Smith-Maschine",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Spanne den Core an und fixiere die Schulterblätter. Starte den Druck aus einer stabilen Basis.",
+        "Drücke das Gewicht in einer kontrollierten Bahn vom Körper weg, strecke vollständig, ohne die Gelenke ruckartig zu blockieren.",
+        "Bringe das Gewicht kontrolliert zurück und halte die Spannung im gesamten Bewegungsumfang aufrecht.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "glutes/smith-leg-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-leg-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-leg-press.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-low-bar-squat",
+      "slug": "smith-low-bar-squat",
+      "name": "Kniebeuge an der Smith-Maschine, tief, Stange",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Schraube die Füße in den Boden, um Spannung aufzubauen. Nimm einen tiefen Atemzug in den Bauch — blähe einen Ballon hinter der Gürtelschnalle auf.",
+        "Setze dich zurück, als stünde ein Stuhl hinter dir, und spreize den Boden mit den Füßen auseinander. Halte die Brust zum Spiegel vor dir gerichtet.",
+        "Drücke durch den ganzen Fuß und schiebe den Boden von dir weg, um aufzustehen. Steh aufrecht, als würde jemand an einem Faden oben am Kopf ziehen.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "glutes/smith-low-bar-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-low-bar-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-low-bar-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-sprint-lunge",
+      "slug": "smith-sprint-lunge",
+      "name": "Ausfallschritt an der Smith-Maschine, Sprint",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Steh mit den Füßen hüftbreit (Zugschienen, nicht Drahtseil). Tritt in die Position mit aufrechtem Oberkörper wie ein Fahnenmast.",
+        "Senke das hintere Knie gerade nach unten wie ein Aufzug — stürze nicht nach vorne. Ziele auf 90° an beiden Knien. Halte das vordere Schienbein vertikal.",
+        "Drücke durch die vordere Ferse, um zurückzukehren. Stelle dir vor, den Boden durch den vorderen Fuß wegzudrücken.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "glutes/smith-sprint-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-sprint-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-sprint-lunge.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-squat",
+      "slug": "smith-squat",
+      "name": "Kniebeuge an der Smith-Maschine",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Schraube die Füße in den Boden, um Spannung aufzubauen. Nimm einen tiefen Atemzug in den Bauch — blähe einen Ballon hinter der Gürtelschnalle auf.",
+        "Setze dich zurück, als stünde ein Stuhl hinter dir, und spreize den Boden mit den Füßen auseinander. Halte die Brust zum Spiegel vor dir gerichtet.",
+        "Drücke durch den ganzen Fuß und schiebe den Boden von dir weg, um aufzustehen. Steh aufrecht, als würde jemand an einem Faden oben am Kopf ziehen.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "glutes/smith-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/smith-sumo-squat",
+      "slug": "smith-sumo-squat",
+      "name": "Sumo-Kniebeuge an der Smith-Maschine",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Schraube die Füße in den Boden, um Spannung aufzubauen. Nimm einen tiefen Atemzug in den Bauch — blähe einen Ballon hinter der Gürtelschnalle auf.",
+        "Setze dich zurück, als stünde ein Stuhl hinter dir, und spreize den Boden mit den Füßen auseinander. Halte die Brust zum Spiegel vor dir gerichtet.",
+        "Drücke durch den ganzen Fuß und schiebe den Boden von dir weg, um aufzustehen. Steh aufrecht, als würde jemand an einem Faden oben am Kopf ziehen.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "glutes/smith-sumo-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-sumo-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/smith-sumo-squat.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-bench-press",
+      "slug": "smith-bench-press",
+      "name": "Bankdrücken an der Smith-Maschine",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Ziehe die Schulterblätter zusammen, als ob du einen Bleistift zwischen ihnen halten würdest — das schafft eine stabile Basis zum Drücken.",
+        "Senke die Stange zur Brustmitte mit den Ellbogen bei etwa 45° — denke an eine Pfeilform, nicht an ein T — kontrolliere den Abstieg 2-3 Sekunden.",
+        "Drücke dich selbst von der Stange weg in die Bank. Drücke die Stange in einem leichten Bogen zurück Richtung Ablage, um die Wiederholung abzuschließen.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "pectorals/smith-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-decline-bench-press",
+      "slug": "smith-decline-bench-press",
+      "name": "Negativ-Bankdrücken an der Smith-Maschine",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Stelle die Bank auf Negativ-Neigung ein und fixiere deine Füße unter den Polstern.",
+        "Ziehe die Schulterblätter zusammen, als ob du einen Bleistift zwischen ihnen halten würdest — das schafft eine stabile Basis zum Drücken.",
+        "Senke die Stange zur Brustmitte mit den Ellbogen bei etwa 45° — denke an eine Pfeilform, nicht an ein T — kontrolliere den Abstieg 2-3 Sekunden.",
+        "Drücke dich selbst von der Stange weg in die Bank. Drücke die Stange in einem leichten Bogen zurück Richtung Ablage, um die Wiederholung abzuschließen.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "pectorals/smith-decline-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-decline-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-decline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-decline-reverse-grip-press",
+      "slug": "smith-decline-reverse-grip-press",
+      "name": "Negativ-Drücken an der Smith-Maschine, im Untergriff",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Stelle die Bank auf Negativ-Neigung ein und fixiere deine Füße unter den Polstern.",
+        "Verwende einen Untergriff (supiniert), um den Zugwinkel und die Muskelbetonung zu verändern.",
+        "Spanne den Core an und fixiere die Schulterblätter. Starte den Druck aus einer stabilen Basis.",
+        "Drücke das Gewicht in einer kontrollierten Bahn vom Körper weg, strecke vollständig, ohne die Gelenke ruckartig zu blockieren.",
+        "Bringe das Gewicht kontrolliert zurück und halte die Spannung im gesamten Bewegungsumfang aufrecht.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "pectorals/smith-decline-reverse-grip-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-decline-reverse-grip-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-decline-reverse-grip-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-incline-bench-press",
+      "slug": "smith-incline-bench-press",
+      "name": "Schrägbankdrücken an der Smith-Maschine",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Stelle die Bank auf die angegebene Neigung ein und drücke deinen Rücken fest gegen das Polster.",
+        "Ziehe die Schulterblätter zusammen, als ob du einen Bleistift zwischen ihnen halten würdest — das schafft eine stabile Basis zum Drücken.",
+        "Senke die Stange zur Brustmitte mit den Ellbogen bei etwa 45° — denke an eine Pfeilform, nicht an ein T — kontrolliere den Abstieg 2-3 Sekunden.",
+        "Drücke dich selbst von der Stange weg in die Bank. Drücke die Stange in einem leichten Bogen zurück Richtung Ablage, um die Wiederholung abzuschließen.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "pectorals/smith-incline-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-incline-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-incline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-incline-reverse-grip-press",
+      "slug": "smith-incline-reverse-grip-press",
+      "name": "Schräg-Drücken an der Smith-Maschine, im Untergriff",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Stelle die Bank auf die angegebene Neigung ein und drücke deinen Rücken fest gegen das Polster.",
+        "Verwende einen Untergriff (supiniert), um den Zugwinkel und die Muskelbetonung zu verändern.",
+        "Spanne den Core an und fixiere die Schulterblätter. Starte den Druck aus einer stabilen Basis.",
+        "Drücke das Gewicht in einer kontrollierten Bahn vom Körper weg, strecke vollständig, ohne die Gelenke ruckartig zu blockieren.",
+        "Bringe das Gewicht kontrolliert zurück und halte die Spannung im gesamten Bewegungsumfang aufrecht.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "pectorals/smith-incline-reverse-grip-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-incline-reverse-grip-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-incline-reverse-grip-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-machine-reverse-decline-close-grip-bench-press",
+      "slug": "smith-machine-reverse-decline-close-grip-bench-press",
+      "name": "Reverse-Negativ-Bankdrücken mit engem Griff an der Smith-Maschine",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Stelle die Bank auf Negativ-Neigung ein und fixiere deine Füße unter den Polstern.",
+        "Verwende einen engen Griff, Hände etwa 15 cm auseinander, um den Fokus nach innen zu verlagern.",
+        "Ziehe die Schulterblätter zusammen, als ob du einen Bleistift zwischen ihnen halten würdest — das schafft eine stabile Basis zum Drücken.",
+        "Senke die Stange zur Brustmitte mit den Ellbogen bei etwa 45° — denke an eine Pfeilform, nicht an ein T — kontrolliere den Abstieg 2-3 Sekunden.",
+        "Drücke dich selbst von der Stange weg in die Bank. Drücke die Stange in einem leichten Bogen zurück Richtung Ablage, um die Wiederholung abzuschließen.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "pectorals/smith-machine-reverse-decline-close-grip-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-machine-reverse-decline-close-grip-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-machine-reverse-decline-close-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-reverse-grip-press",
+      "slug": "smith-reverse-grip-press",
+      "name": "Drücken an der Smith-Maschine, im Untergriff",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Verwende einen Untergriff (supiniert), um den Zugwinkel und die Muskelbetonung zu verändern.",
+        "Spanne den Core an und fixiere die Schulterblätter. Starte den Druck aus einer stabilen Basis.",
+        "Drücke das Gewicht in einer kontrollierten Bahn vom Körper weg, strecke vollständig, ohne die Gelenke ruckartig zu blockieren.",
+        "Bringe das Gewicht kontrolliert zurück und halte die Spannung im gesamten Bewegungsumfang aufrecht.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "pectorals/smith-reverse-grip-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-reverse-grip-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-reverse-grip-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-wide-grip-bench-press",
+      "slug": "smith-wide-grip-bench-press",
+      "name": "Bankdrücken an der Smith-Maschine, mit weitem Griff",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Verwende einen weiten Griff, Hände deutlich über Schulterbreite, für mehr Dehnung und äußere Betonung.",
+        "Ziehe die Schulterblätter zusammen, als ob du einen Bleistift zwischen ihnen halten würdest — das schafft eine stabile Basis zum Drücken.",
+        "Senke die Stange zur Brustmitte mit den Ellbogen bei etwa 45° — denke an eine Pfeilform, nicht an ein T — kontrolliere den Abstieg 2-3 Sekunden.",
+        "Drücke dich selbst von der Stange weg in die Bank. Drücke die Stange in einem leichten Bogen zurück Richtung Ablage, um die Wiederholung abzuschließen.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "pectorals/smith-wide-grip-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-wide-grip-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-wide-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/smith-wide-grip-decline-bench-press",
+      "slug": "smith-wide-grip-decline-bench-press",
+      "name": "Negativ-Bankdrücken an der Smith-Maschine, mit weitem Griff",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Stelle die Bank auf Negativ-Neigung ein und fixiere deine Füße unter den Polstern.",
+        "Verwende einen weiten Griff, Hände deutlich über Schulterbreite, für mehr Dehnung und äußere Betonung.",
+        "Ziehe die Schulterblätter zusammen, als ob du einen Bleistift zwischen ihnen halten würdest — das schafft eine stabile Basis zum Drücken.",
+        "Senke die Stange zur Brustmitte mit den Ellbogen bei etwa 45° — denke an eine Pfeilform, nicht an ein T — kontrolliere den Abstieg 2-3 Sekunden.",
+        "Drücke dich selbst von der Stange weg in die Bank. Drücke die Stange in einem leichten Bogen zurück Richtung Ablage, um die Wiederholung abzuschließen.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "pectorals/smith-wide-grip-decline-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-wide-grip-decline-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-wide-grip-decline-bench-press.thumb.webp"
+    },
+    {
+      "id": "quads/smith-chair-squat",
+      "slug": "smith-chair-squat",
+      "name": "Kniebeuge an der Smith-Maschine, Stuhl",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Schraube die Füße in den Boden, um Spannung aufzubauen. Nimm einen tiefen Atemzug in den Bauch — blähe einen Ballon hinter der Gürtelschnalle auf.",
+        "Setze dich zurück, als stünde ein Stuhl hinter dir, und spreize den Boden mit den Füßen auseinander. Halte die Brust zum Spiegel vor dir gerichtet.",
+        "Drücke durch den ganzen Fuß und schiebe den Boden von dir weg, um aufzustehen. Steh aufrecht, als würde jemand an einem Faden oben am Kopf ziehen.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "quads/smith-chair-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/smith-chair-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/smith-chair-squat.thumb.webp"
+    },
+    {
+      "id": "quads/smith-single-leg-split-squat",
+      "slug": "smith-single-leg-split-squat",
+      "name": "Bulgarian Split Squat an der Smith-Maschine",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Schraube die Füße in den Boden, um Spannung aufzubauen. Nimm einen tiefen Atemzug in den Bauch — blähe einen Ballon hinter der Gürtelschnalle auf.",
+        "Setze dich zurück, als stünde ein Stuhl hinter dir, und spreize den Boden mit den Füßen auseinander. Halte die Brust zum Spiegel vor dir gerichtet.",
+        "Drücke durch den ganzen Fuß und schiebe den Boden von dir weg, um aufzustehen. Steh aufrecht, als würde jemand an einem Faden oben am Kopf ziehen.",
+        "Arbeite eine Seite nach der anderen. Alle Wiederholungen auf einer Seite abschließen, dann wechseln. Die schwächere Seite gibt die Wiederholungszahl vor.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "quads/smith-single-leg-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/smith-single-leg-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/smith-single-leg-split-squat.thumb.webp"
+    },
+    {
+      "id": "serratus-anterior/smith-incline-shoulder-raises",
+      "slug": "smith-incline-shoulder-raises",
+      "name": "Schräg-Schulter Heben an der Smith-Maschine",
+      "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Stelle die Bank auf die angegebene Neigung ein und drücke deinen Rücken fest gegen das Polster.",
+        "Gehe in eine Liegestütz- oder Schrägposition mit durchgestreckten Armen.",
+        "Ohne die Ellbogen zu beugen, drücke den Körper vom Boden weg, indem du die Schulterblätter protrahierst — runde den oberen Rücken nach vorne.",
+        "Lass die Schulterblätter langsam retrahieren und die Brust absinken, dann protrahiere erneut. Konzentriere dich auf den Serratus, der die Rippen zusammendrückt.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "serratus-anterior/smith-incline-shoulder-raises.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/smith-incline-shoulder-raises.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/smith-incline-shoulder-raises.thumb.webp"
+    },
+    {
+      "id": "traps/smith-back-shrug",
+      "slug": "smith-back-shrug",
+      "name": "Schulterheben an der Smith-Maschine, Rücken",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Halte das Gewicht an den Seiten mit voll gestreckten Armen. Steh aufrecht mit entspannten Schultern.",
+        "Ziehe die Schultern gerade nach oben zu den Ohren — nicht rollen. Spanne oben 2 Sekunden an.",
+        "Senke langsam zurück. Halte die Arme die ganze Zeit gerade — das ist alles Trapezius, kein Bizeps.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "traps/smith-back-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-back-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-back-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/smith-shrug",
+      "slug": "smith-shrug",
+      "name": "Schulterheben an der Smith-Maschine",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Halte das Gewicht an den Seiten mit voll gestreckten Armen. Steh aufrecht mit entspannten Schultern.",
+        "Ziehe die Schultern gerade nach oben zu den Ohren — nicht rollen. Spanne oben 2 Sekunden an.",
+        "Senke langsam zurück. Halte die Arme die ganze Zeit gerade — das ist alles Trapezius, kein Bizeps.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "traps/smith-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-shrug.thumb.webp"
+    },
+    {
+      "id": "triceps/smith-close-grip-bench-press",
+      "slug": "smith-close-grip-bench-press",
+      "name": "Bankdrücken mit engem Griff an der Smith-Maschine",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Verwende einen engen Griff, Hände etwa 15 cm auseinander, um den Fokus nach innen zu verlagern.",
+        "Ziehe die Schulterblätter zusammen, als ob du einen Bleistift zwischen ihnen halten würdest — das schafft eine stabile Basis zum Drücken.",
+        "Senke die Stange zur Brustmitte mit den Ellbogen bei etwa 45° — denke an eine Pfeilform, nicht an ein T — kontrolliere den Abstieg 2-3 Sekunden.",
+        "Drücke dich selbst von der Stange weg in die Bank. Drücke die Stange in einem leichten Bogen zurück Richtung Ablage, um die Wiederholung abzuschließen.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "triceps/smith-close-grip-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/smith-close-grip-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/smith-close-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/smith-machine-decline-close-grip-bench-press",
+      "slug": "smith-machine-decline-close-grip-bench-press",
+      "name": "Negativ-Bankdrücken mit engem Griff an der Smith-Maschine",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Stelle die Bank auf Negativ-Neigung ein und fixiere deine Füße unter den Polstern.",
+        "Verwende einen engen Griff, Hände etwa 15 cm auseinander, um den Fokus nach innen zu verlagern.",
+        "Ziehe die Schulterblätter zusammen, als ob du einen Bleistift zwischen ihnen halten würdest — das schafft eine stabile Basis zum Drücken.",
+        "Senke die Stange zur Brustmitte mit den Ellbogen bei etwa 45° — denke an eine Pfeilform, nicht an ein T — kontrolliere den Abstieg 2-3 Sekunden.",
+        "Drücke dich selbst von der Stange weg in die Bank. Drücke die Stange in einem leichten Bogen zurück Richtung Ablage, um die Wiederholung abzuschließen.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "triceps/smith-machine-decline-close-grip-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/smith-machine-decline-close-grip-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/smith-machine-decline-close-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/smith-machine-incline-tricep-extension",
+      "slug": "smith-machine-incline-tricep-extension",
+      "name": "Schräg-Extension an der Smith-Maschine, Trizeps",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Stelle die Bank auf die angegebene Neigung ein und drücke deinen Rücken fest gegen das Polster.",
+        "Fixiere die Ellbogen in ihrer Position — sie sind feste Punkte im Raum. Nur die Unterarme bewegen sich wie Türscharniere.",
+        "Strecke vollständig und spanne die Trizeps beim Durchstrecken fest an. Pausiere kurz in voller Streckung.",
+        "Kehre langsam zur Ausgangsposition zurück. Konzentriere dich auf die Dehnung unten und die Kontraktion oben.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "triceps/smith-machine-incline-tricep-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/smith-machine-incline-tricep-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/smith-machine-incline-tricep-extension.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-bent-over-row",
+      "slug": "smith-bent-over-row",
+      "name": "Vorgebeugtes Rudern an der Smith-Maschine",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/smith-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-narrow-row",
+      "slug": "smith-narrow-row",
+      "name": "Rudern an der Smith-Maschine, eng",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/smith-narrow-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-narrow-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-narrow-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-one-arm-row",
+      "slug": "smith-one-arm-row",
+      "name": "Einarmiges Rudern an der Smith-Maschine",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass den Arm gerade hängen wie ein Seil, die am Gewicht befestigt sind.",
+        "Ziehe, indem du den Ellbogen Richtung Gesäßtaschen treibst — deine Hand ist nur ein Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Arbeite eine Seite nach der anderen. Alle Wiederholungen auf einer Seite abschließen, dann wechseln. Die schwächere Seite gibt die Wiederholungszahl vor.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/smith-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-reverse-grip-bent-over-row",
+      "slug": "smith-reverse-grip-bent-over-row",
+      "name": "Vorgebeugtes Rudern an der Smith-Maschine, im Untergriff",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Verwende einen Untergriff (supiniert), um den Zugwinkel und die Muskelbetonung zu verändern.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/smith-reverse-grip-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-reverse-grip-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-reverse-grip-bent-over-row.thumb.webp"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "calves/lever-seated-calf-press",
+  "slug": "lever-seated-calf-press",
+  "name": "マシン・シーテッド・プレス・カーフ",
+  "muscle": "calves",
+  "bodyPart": "legs",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+    "背筋を伸ばして座り、足を床に平らに置きます。",
+    "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+    "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+    "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "calves/lever-seated-calf-press.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-seated-calf-press.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-seated-calf-press.thumb.webp"
+}

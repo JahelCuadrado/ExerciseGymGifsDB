@@ -1,0 +1,2202 @@
+{
+  "muscle": "upper-back",
+  "count": 87,
+  "exercises": [
+    {
+      "id": "upper-back/back-lever",
+      "slug": "back-lever",
+      "name": "Rücken an der Maschine",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+        "Baue Spannung durch den gesamten Körper auf, bevor du in die Halteposition gehst. Spanne alles an — Gesäß, Core, Lats, Beine.",
+        "Gehe kontrolliert in die Position und halte den gesamten Körper steif. Denke an deinen Körper als ein einzelnes gerades Brett.",
+        "Halte für die vorgeschriebene Zeit oder führe kontrollierte Wiederholungen aus. Wenn du die perfekte Form nicht halten kannst, arbeite an einer Regression der Bewegung.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/back-lever.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/back-lever.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/back-lever.thumb.webp"
+    },
+    {
+      "id": "upper-back/band-one-arm-standing-low-row",
+      "slug": "band-one-arm-standing-low-row",
+      "name": "Rudern mit Widerstandsband, stehend, einarmig tief",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Befestige das Widerstandsband am richtigen Ankerpunkt und stelle sicher, dass Grundspannung vorhanden ist.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass den Arm gerade hängen wie ein Seil, die am Gewicht befestigt sind.",
+        "Ziehe, indem du den Ellbogen Richtung Gesäßtaschen treibst — deine Hand ist nur ein Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Arbeite eine Seite nach der anderen. Alle Wiederholungen auf einer Seite abschließen, dann wechseln. Die schwächere Seite gibt die Wiederholungszahl vor.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/band-one-arm-standing-low-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/band-one-arm-standing-low-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/band-one-arm-standing-low-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/band-one-arm-twisting-seated-row",
+      "slug": "band-one-arm-twisting-seated-row",
+      "name": "Rudern mit Widerstandsband, sitzend, einarmig mit Rotation",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Befestige das Widerstandsband am richtigen Ankerpunkt und stelle sicher, dass Grundspannung vorhanden ist.",
+        "Sitze aufrecht mit geradem Rücken und den Füßen flach auf dem Boden.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass den Arm gerade hängen wie ein Seil, die am Gewicht befestigt sind.",
+        "Ziehe, indem du den Ellbogen Richtung Gesäßtaschen treibst — deine Hand ist nur ein Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Arbeite eine Seite nach der anderen. Alle Wiederholungen auf einer Seite abschließen, dann wechseln. Die schwächere Seite gibt die Wiederholungszahl vor.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/band-one-arm-twisting-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/band-one-arm-twisting-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/band-one-arm-twisting-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-bent-over-row",
+      "slug": "barbell-bent-over-row",
+      "name": "Vorgebeugtes Rudern mit Langhantel",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Lade die Langhantel mit angemessenem Gewicht. Greife die Stange fest und stelle die Füße schulterbreit auf.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/barbell-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-incline-row",
+      "slug": "barbell-incline-row",
+      "name": "Schräg-Rudern mit Langhantel",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Lade die Langhantel mit angemessenem Gewicht. Greife die Stange fest und stelle die Füße schulterbreit auf.",
+        "Stelle die Bank auf die angegebene Neigung ein und drücke deinen Rücken fest gegen das Polster.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/barbell-incline-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-incline-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-incline-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-one-arm-bent-over-row",
+      "slug": "barbell-one-arm-bent-over-row",
+      "name": "Vorgebeugtes Rudern mit Langhantel, einarmig",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Lade die Langhantel mit angemessenem Gewicht. Greife die Stange fest und stelle die Füße schulterbreit auf.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass den Arm gerade hängen wie ein Seil, die am Gewicht befestigt sind.",
+        "Ziehe, indem du den Ellbogen Richtung Gesäßtaschen treibst — deine Hand ist nur ein Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Arbeite eine Seite nach der anderen. Alle Wiederholungen auf einer Seite abschließen, dann wechseln. Die schwächere Seite gibt die Wiederholungszahl vor.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/barbell-one-arm-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-one-arm-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-one-arm-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-pendlay-row",
+      "slug": "barbell-pendlay-row",
+      "name": "Pendlay Rudern mit Langhantel",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Lade die Langhantel mit angemessenem Gewicht. Greife die Stange fest und stelle die Füße schulterbreit auf.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/barbell-pendlay-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-pendlay-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-pendlay-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-reverse-grip-bent-over-row",
+      "slug": "barbell-reverse-grip-bent-over-row",
+      "name": "Vorgebeugtes Rudern mit Langhantel, im Untergriff",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Lade die Langhantel mit angemessenem Gewicht. Greife die Stange fest und stelle die Füße schulterbreit auf.",
+        "Verwende einen Untergriff (supiniert), um den Zugwinkel und die Muskelbetonung zu verändern.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/barbell-reverse-grip-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-reverse-grip-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-reverse-grip-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-reverse-grip-incline-bench-row",
+      "slug": "barbell-reverse-grip-incline-bench-row",
+      "name": "Schräg-Rudern mit Langhantel, im Untergriff, Bank",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Lade die Langhantel mit angemessenem Gewicht. Greife die Stange fest und stelle die Füße schulterbreit auf.",
+        "Stelle die Bank auf die angegebene Neigung ein und drücke deinen Rücken fest gegen das Polster.",
+        "Verwende einen Untergriff (supiniert), um den Zugwinkel und die Muskelbetonung zu verändern.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/barbell-reverse-grip-incline-bench-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-reverse-grip-incline-bench-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-reverse-grip-incline-bench-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-squatting-row-with-towel",
+      "slug": "bodyweight-squatting-row-with-towel",
+      "name": "Rudern mit Körpergewicht, mit Handtuch, kniebeugend",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves",
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/bodyweight-squatting-row-with-towel.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-squatting-row-with-towel.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-squatting-row-with-towel.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-squatting-row",
+      "slug": "bodyweight-squatting-row",
+      "name": "Rudern mit Körpergewicht, kniebeugend",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves",
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/bodyweight-squatting-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-squatting-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-squatting-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-close-grip-one-arm-row",
+      "slug": "bodyweight-standing-close-grip-one-arm-row",
+      "name": "Einarmiges Rudern mit Körpergewicht, stehend, mit engem Griff",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Verwende einen engen Griff, Hände etwa 15 cm auseinander, um den Fokus nach innen zu verlagern.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass den Arm gerade hängen wie ein Seil, die am Gewicht befestigt sind.",
+        "Ziehe, indem du den Ellbogen Richtung Gesäßtaschen treibst — deine Hand ist nur ein Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Arbeite eine Seite nach der anderen. Alle Wiederholungen auf einer Seite abschließen, dann wechseln. Die schwächere Seite gibt die Wiederholungszahl vor.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/bodyweight-standing-close-grip-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-close-grip-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-close-grip-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-close-grip-row",
+      "slug": "bodyweight-standing-close-grip-row",
+      "name": "Rudern mit Körpergewicht, stehend, mit engem Griff",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Verwende einen engen Griff, Hände etwa 15 cm auseinander, um den Fokus nach innen zu verlagern.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/bodyweight-standing-close-grip-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-close-grip-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-close-grip-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-one-arm-row-with-towel",
+      "slug": "bodyweight-standing-one-arm-row-with-towel",
+      "name": "Einarmiges Rudern mit Körpergewicht, stehend, mit Handtuch",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass den Arm gerade hängen wie ein Seil, die am Gewicht befestigt sind.",
+        "Ziehe, indem du den Ellbogen Richtung Gesäßtaschen treibst — deine Hand ist nur ein Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Arbeite eine Seite nach der anderen. Alle Wiederholungen auf einer Seite abschließen, dann wechseln. Die schwächere Seite gibt die Wiederholungszahl vor.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/bodyweight-standing-one-arm-row-with-towel.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-one-arm-row-with-towel.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-one-arm-row-with-towel.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-one-arm-row",
+      "slug": "bodyweight-standing-one-arm-row",
+      "name": "Einarmiges Rudern mit Körpergewicht, stehend",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass den Arm gerade hängen wie ein Seil, die am Gewicht befestigt sind.",
+        "Ziehe, indem du den Ellbogen Richtung Gesäßtaschen treibst — deine Hand ist nur ein Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Arbeite eine Seite nach der anderen. Alle Wiederholungen auf einer Seite abschließen, dann wechseln. Die schwächere Seite gibt die Wiederholungszahl vor.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/bodyweight-standing-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-row-with-towel",
+      "slug": "bodyweight-standing-row-with-towel",
+      "name": "Rudern mit Körpergewicht, stehend, mit Handtuch",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/bodyweight-standing-row-with-towel.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-row-with-towel.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-row-with-towel.thumb.webp"
+    },
+    {
+      "id": "upper-back/bodyweight-standing-row",
+      "slug": "bodyweight-standing-row",
+      "name": "Rudern mit Körpergewicht, stehend",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/bodyweight-standing-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/bodyweight-standing-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-decline-seated-wide-grip-row",
+      "slug": "cable-decline-seated-wide-grip-row",
+      "name": "Negativ-Rudern am Kabelzug, sitzend, mit weitem Griff",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Befestige den passenden Griff, stelle die Umlenkrolle auf die richtige Höhe und wähle das Arbeitsgewicht.",
+        "Sitze aufrecht mit geradem Rücken und den Füßen flach auf dem Boden.",
+        "Verwende einen weiten Griff, Hände deutlich über Schulterbreite, für mehr Dehnung und äußere Betonung.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/cable-decline-seated-wide-grip-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-decline-seated-wide-grip-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-decline-seated-wide-grip-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-floor-seated-wide-grip-row",
+      "slug": "cable-floor-seated-wide-grip-row",
+      "name": "Rudern am Kabelzug, sitzend, mit weitem Griff, Boden",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Befestige den passenden Griff, stelle die Umlenkrolle auf die richtige Höhe und wähle das Arbeitsgewicht.",
+        "Sitze aufrecht mit geradem Rücken und den Füßen flach auf dem Boden.",
+        "Verwende einen weiten Griff, Hände deutlich über Schulterbreite, für mehr Dehnung und äußere Betonung.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/cable-floor-seated-wide-grip-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-floor-seated-wide-grip-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-floor-seated-wide-grip-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-high-row-kneeling",
+      "slug": "cable-high-row-kneeling",
+      "name": "Rudern am Kabelzug, kniend, hoch",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Befestige den passenden Griff, stelle die Umlenkrolle auf die richtige Höhe und wähle das Arbeitsgewicht.",
+        "Knie mit den Hüften direkt über den Knien, Oberkörper aufrecht.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/cable-high-row-kneeling.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-high-row-kneeling.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-high-row-kneeling.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-incline-bench-row",
+      "slug": "cable-incline-bench-row",
+      "name": "Schräg-Rudern am Kabelzug, Bank",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Befestige den passenden Griff, stelle die Umlenkrolle auf die richtige Höhe und wähle das Arbeitsgewicht.",
+        "Stelle die Bank auf die angegebene Neigung ein und drücke deinen Rücken fest gegen das Polster.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/cable-incline-bench-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-incline-bench-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-incline-bench-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-low-seated-row",
+      "slug": "cable-low-seated-row",
+      "name": "Rudern am Kabelzug, sitzend, tief",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Befestige den passenden Griff, stelle die Umlenkrolle auf die richtige Höhe und wähle das Arbeitsgewicht.",
+        "Sitze aufrecht mit geradem Rücken und den Füßen flach auf dem Boden.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/cable-low-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-low-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-low-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-one-arm-bent-over-row",
+      "slug": "cable-one-arm-bent-over-row",
+      "name": "Vorgebeugtes Rudern am Kabelzug, einarmig",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Befestige den passenden Griff, stelle die Umlenkrolle auf die richtige Höhe und wähle das Arbeitsgewicht.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass den Arm gerade hängen wie ein Seil, die am Gewicht befestigt sind.",
+        "Ziehe, indem du den Ellbogen Richtung Gesäßtaschen treibst — deine Hand ist nur ein Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Arbeite eine Seite nach der anderen. Alle Wiederholungen auf einer Seite abschließen, dann wechseln. Die schwächere Seite gibt die Wiederholungszahl vor.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/cable-one-arm-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-one-arm-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-one-arm-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-one-arm-straight-back-high-row-kneeling",
+      "slug": "cable-one-arm-straight-back-high-row-kneeling",
+      "name": "Rudern am Kabelzug, kniend, einarmig hoch, gestreckt Rücken",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Befestige den passenden Griff, stelle die Umlenkrolle auf die richtige Höhe und wähle das Arbeitsgewicht.",
+        "Knie mit den Hüften direkt über den Knien, Oberkörper aufrecht.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass den Arm gerade hängen wie ein Seil, die am Gewicht befestigt sind.",
+        "Ziehe, indem du den Ellbogen Richtung Gesäßtaschen treibst — deine Hand ist nur ein Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Arbeite eine Seite nach der anderen. Alle Wiederholungen auf einer Seite abschließen, dann wechseln. Die schwächere Seite gibt die Wiederholungszahl vor.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/cable-one-arm-straight-back-high-row-kneeling.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-one-arm-straight-back-high-row-kneeling.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-one-arm-straight-back-high-row-kneeling.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-palm-rotational-row",
+      "slug": "cable-palm-rotational-row",
+      "name": "Rudern am Kabelzug, Handfläche rotierend",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Befestige den passenden Griff, stelle die Umlenkrolle auf die richtige Höhe und wähle das Arbeitsgewicht.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/cable-palm-rotational-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-palm-rotational-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-palm-rotational-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-reverse-grip-straight-back-seated-high-row",
+      "slug": "cable-reverse-grip-straight-back-seated-high-row",
+      "name": "Rudern am Kabelzug, sitzend, im Untergriff, hoch, gestreckt Rücken",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Befestige den passenden Griff, stelle die Umlenkrolle auf die richtige Höhe und wähle das Arbeitsgewicht.",
+        "Sitze aufrecht mit geradem Rücken und den Füßen flach auf dem Boden.",
+        "Verwende einen Untergriff (supiniert), um den Zugwinkel und die Muskelbetonung zu verändern.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/cable-reverse-grip-straight-back-seated-high-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-reverse-grip-straight-back-seated-high-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-reverse-grip-straight-back-seated-high-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-rope-crossover-seated-row",
+      "slug": "cable-rope-crossover-seated-row",
+      "name": "Rudern am Kabelzug mit Seil, sitzend, Crossover",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Befestige den passenden Griff, stelle die Umlenkrolle auf die richtige Höhe und wähle das Arbeitsgewicht.",
+        "Sitze aufrecht mit geradem Rücken und den Füßen flach auf dem Boden.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/cable-rope-crossover-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-crossover-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-crossover-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-rope-elevated-seated-row",
+      "slug": "cable-rope-elevated-seated-row",
+      "name": "Rudern am Kabelzug mit Seil, sitzend, erhöht",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Befestige den passenden Griff, stelle die Umlenkrolle auf die richtige Höhe und wähle das Arbeitsgewicht.",
+        "Sitze aufrecht mit geradem Rücken und den Füßen flach auf dem Boden.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/cable-rope-elevated-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-elevated-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-elevated-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-rope-extension-incline-bench-row",
+      "slug": "cable-rope-extension-incline-bench-row",
+      "name": "Schräg-Rudern am Kabelzug mit Seil, Extension Bank",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Befestige den passenden Griff, stelle die Umlenkrolle auf die richtige Höhe und wähle das Arbeitsgewicht.",
+        "Stelle die Bank auf die angegebene Neigung ein und drücke deinen Rücken fest gegen das Polster.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/cable-rope-extension-incline-bench-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-extension-incline-bench-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-extension-incline-bench-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-rope-seated-row",
+      "slug": "cable-rope-seated-row",
+      "name": "Rudern am Kabelzug mit Seil, sitzend",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Befestige den passenden Griff, stelle die Umlenkrolle auf die richtige Höhe und wähle das Arbeitsgewicht.",
+        "Sitze aufrecht mit geradem Rücken und den Füßen flach auf dem Boden.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/cable-rope-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-rope-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-seated-one-arm-alternate-row",
+      "slug": "cable-seated-one-arm-alternate-row",
+      "name": "Rudern am Kabelzug, sitzend, einarmig alternierend",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Befestige den passenden Griff, stelle die Umlenkrolle auf die richtige Höhe und wähle das Arbeitsgewicht.",
+        "Sitze aufrecht mit geradem Rücken und den Füßen flach auf dem Boden.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass den Arm gerade hängen wie ein Seil, die am Gewicht befestigt sind.",
+        "Ziehe, indem du den Ellbogen Richtung Gesäßtaschen treibst — deine Hand ist nur ein Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Arbeite eine Seite nach der anderen. Alle Wiederholungen auf einer Seite abschließen, dann wechseln. Die schwächere Seite gibt die Wiederholungszahl vor.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/cable-seated-one-arm-alternate-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-one-arm-alternate-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-one-arm-alternate-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-seated-row",
+      "slug": "cable-seated-row",
+      "name": "Rudern am Kabelzug, sitzend",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Befestige den passenden Griff, stelle die Umlenkrolle auf die richtige Höhe und wähle das Arbeitsgewicht.",
+        "Sitze aufrecht mit geradem Rücken und den Füßen flach auf dem Boden.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/cable-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-seated-wide-grip-row",
+      "slug": "cable-seated-wide-grip-row",
+      "name": "Rudern am Kabelzug, sitzend, mit weitem Griff",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Befestige den passenden Griff, stelle die Umlenkrolle auf die richtige Höhe und wähle das Arbeitsgewicht.",
+        "Sitze aufrecht mit geradem Rücken und den Füßen flach auf dem Boden.",
+        "Verwende einen weiten Griff, Hände deutlich über Schulterbreite, für mehr Dehnung und äußere Betonung.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/cable-seated-wide-grip-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-wide-grip-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-seated-wide-grip-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-standing-row-v-bar",
+      "slug": "cable-standing-row-v-bar",
+      "name": "Rudern am Kabelzug mit V-Griff, stehend",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Befestige den passenden Griff, stelle die Umlenkrolle auf die richtige Höhe und wähle das Arbeitsgewicht.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/cable-standing-row-v-bar.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-standing-row-v-bar.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-standing-row-v-bar.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-standing-twist-row-v-bar",
+      "slug": "cable-standing-twist-row-v-bar",
+      "name": "Rudern am Kabelzug mit V-Griff, stehend, Drehung",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Befestige den passenden Griff, stelle die Umlenkrolle auf die richtige Höhe und wähle das Arbeitsgewicht.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/cable-standing-twist-row-v-bar.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-standing-twist-row-v-bar.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-standing-twist-row-v-bar.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-straight-back-seated-row",
+      "slug": "cable-straight-back-seated-row",
+      "name": "Rudern am Kabelzug, sitzend, gestreckt Rücken",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Befestige den passenden Griff, stelle die Umlenkrolle auf die richtige Höhe und wähle das Arbeitsgewicht.",
+        "Sitze aufrecht mit geradem Rücken und den Füßen flach auf dem Boden.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/cable-straight-back-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-straight-back-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-straight-back-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cable-upper-row",
+      "slug": "cable-upper-row",
+      "name": "Rudern am Kabelzug, obere",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Befestige den passenden Griff, stelle die Umlenkrolle auf die richtige Höhe und wähle das Arbeitsgewicht.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/cable-upper-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-upper-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cable-upper-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cambered-bar-lying-row",
+      "slug": "cambered-bar-lying-row",
+      "name": "Rudern, liegend, gebogen Stange",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Lade die Langhantel mit angemessenem Gewicht. Greife die Stange fest und stelle die Füße schulterbreit auf.",
+        "Lege dich mit flachem Rücken auf die Fläche, Rumpf angespannt.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/cambered-bar-lying-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cambered-bar-lying-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cambered-bar-lying-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/chin-ups-narrow-parallel-grip",
+      "slug": "chin-ups-narrow-parallel-grip",
+      "name": "Klimmzüge im Untergriff, eng, parallel Griff",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "lats",
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Hänge an der Stange mit voll gestreckten Armen. Setze die Schultern, indem du die Schulterblätter nach unten und hinten ziehst — stecke sie in die Gesäßtaschen.",
+        "Ziehe, indem du die Ellbogen in die Gesäßtaschen treibst, führe mit der Brust, nicht mit dem Kinn. Stelle dir vor, die Stange um dein Schlüsselbein zu biegen.",
+        "Bringe das Kinn über die Stange und spanne oben an. Senke mit voller Kontrolle bis zum Tothang — verdiene jede Wiederholung aus voller Dehnung.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/chin-ups-narrow-parallel-grip.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/chin-ups-narrow-parallel-grip.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/chin-ups-narrow-parallel-grip.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-bent-over-row",
+      "slug": "dumbbell-bent-over-row",
+      "name": "Vorgebeugtes Rudern mit Kurzhantel",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Wähle das passende Kurzhantel-Gewicht. Greife fest zu und positioniere dich mit stabiler Basis.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/dumbbell-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-incline-row",
+      "slug": "dumbbell-incline-row",
+      "name": "Schräg-Rudern mit Kurzhantel",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Wähle das passende Kurzhantel-Gewicht. Greife fest zu und positioniere dich mit stabiler Basis.",
+        "Stelle die Bank auf die angegebene Neigung ein und drücke deinen Rücken fest gegen das Polster.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/dumbbell-incline-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-incline-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-incline-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-incline-y-raise",
+      "slug": "dumbbell-incline-y-raise",
+      "name": "Schräg-Heben mit Kurzhantel, y",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Wähle das passende Kurzhantel-Gewicht. Greife fest zu und positioniere dich mit stabiler Basis.",
+        "Stelle die Bank auf die angegebene Neigung ein und drücke deinen Rücken fest gegen das Polster.",
+        "Steh mit dem Gewicht an den Seiten und einer leichten Vorwärtsneigung. Leichte Ellbogenbeugung.",
+        "Hebe die Arme seitlich an, führe mit den Ellbogen, als würdest du Wasser aus zwei Krügen gießen. Stoppe auf Schulterhöhe.",
+        "Senke langsam kontrolliert und widerstehe der Schwerkraft den ganzen Weg nach unten. Nicht schwingen — wenn du Schwung brauchst, reduziere das Gewicht.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/dumbbell-incline-y-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-incline-y-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-incline-y-raise.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-lying-rear-delt-row",
+      "slug": "dumbbell-lying-rear-delt-row",
+      "name": "Rudern mit Kurzhantel, liegend, hinten, Schulter",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Wähle das passende Kurzhantel-Gewicht. Greife fest zu und positioniere dich mit stabiler Basis.",
+        "Lege dich mit flachem Rücken auf die Fläche, Rumpf angespannt.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/dumbbell-lying-rear-delt-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-lying-rear-delt-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-lying-rear-delt-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-one-arm-bent-over-row",
+      "slug": "dumbbell-one-arm-bent-over-row",
+      "name": "Vorgebeugtes Rudern mit Kurzhantel, einarmig",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Wähle das passende Kurzhantel-Gewicht. Greife fest zu und positioniere dich mit stabiler Basis.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass den Arm gerade hängen wie ein Seil, die am Gewicht befestigt sind.",
+        "Ziehe, indem du den Ellbogen Richtung Gesäßtaschen treibst — deine Hand ist nur ein Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Arbeite eine Seite nach der anderen. Alle Wiederholungen auf einer Seite abschließen, dann wechseln. Die schwächere Seite gibt die Wiederholungszahl vor.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/dumbbell-one-arm-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-one-arm-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-one-arm-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-palm-rotational-bent-over-row",
+      "slug": "dumbbell-palm-rotational-bent-over-row",
+      "name": "Vorgebeugtes Rudern mit Kurzhantel, Handfläche rotierend",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Wähle das passende Kurzhantel-Gewicht. Greife fest zu und positioniere dich mit stabiler Basis.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/dumbbell-palm-rotational-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-palm-rotational-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-palm-rotational-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-reverse-grip-incline-bench-one-arm-row",
+      "slug": "dumbbell-reverse-grip-incline-bench-one-arm-row",
+      "name": "Schräg-Einarmiges Rudern mit Kurzhantel, im Untergriff, Bank",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Wähle das passende Kurzhantel-Gewicht. Greife fest zu und positioniere dich mit stabiler Basis.",
+        "Stelle die Bank auf die angegebene Neigung ein und drücke deinen Rücken fest gegen das Polster.",
+        "Verwende einen Untergriff (supiniert), um den Zugwinkel und die Muskelbetonung zu verändern.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass den Arm gerade hängen wie ein Seil, die am Gewicht befestigt sind.",
+        "Ziehe, indem du den Ellbogen Richtung Gesäßtaschen treibst — deine Hand ist nur ein Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Arbeite eine Seite nach der anderen. Alle Wiederholungen auf einer Seite abschließen, dann wechseln. Die schwächere Seite gibt die Wiederholungszahl vor.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/dumbbell-reverse-grip-incline-bench-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-incline-bench-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-incline-bench-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-reverse-grip-incline-bench-two-arm-row",
+      "slug": "dumbbell-reverse-grip-incline-bench-two-arm-row",
+      "name": "Schräg-Rudern mit Kurzhantel, im Untergriff, beidarmig, Bank",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Wähle das passende Kurzhantel-Gewicht. Greife fest zu und positioniere dich mit stabiler Basis.",
+        "Stelle die Bank auf die angegebene Neigung ein und drücke deinen Rücken fest gegen das Polster.",
+        "Verwende einen Untergriff (supiniert), um den Zugwinkel und die Muskelbetonung zu verändern.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/dumbbell-reverse-grip-incline-bench-two-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-incline-bench-two-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-incline-bench-two-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-reverse-grip-row-female",
+      "slug": "dumbbell-reverse-grip-row-female",
+      "name": "Rudern mit Kurzhantel, im Untergriff",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Wähle das passende Kurzhantel-Gewicht. Greife fest zu und positioniere dich mit stabiler Basis.",
+        "Verwende einen Untergriff (supiniert), um den Zugwinkel und die Muskelbetonung zu verändern.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/dumbbell-reverse-grip-row-female.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-row-female.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-reverse-grip-row-female.thumb.webp"
+    },
+    {
+      "id": "upper-back/dumbbell-side-plank-with-rear-fly",
+      "slug": "dumbbell-side-plank-with-rear-fly",
+      "name": "Fliegende mit Kurzhantel, hinten, Seitliche Planke",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "abs",
+        "delts",
+        "glutes",
+        "traps"
+      ],
+      "instructions": [
+        "Wähle das passende Kurzhantel-Gewicht. Greife fest zu und positioniere dich mit stabiler Basis.",
+        "Beginne mit leichter Ellbogenbeugung — deine Arme sind wie zwei gebogene Schwerter. Diese Beugung bleibt während der gesamten Bewegung konstant.",
+        "Öffne die Arme weit in einem Bogen und spüre eine tiefe Dehnung in der Brust. Gehe nicht über den bequemen Bereich hinaus.",
+        "Bringe die Griffe zusammen, indem du die Brust anspannst — stelle dir vor, einen großen Baumstamm zu umarmen. Die Hände berühren sich fast oben.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/dumbbell-side-plank-with-rear-fly.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-side-plank-with-rear-fly.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/dumbbell-side-plank-with-rear-fly.thumb.webp"
+    },
+    {
+      "id": "upper-back/elbow-lift-reverse-push-up",
+      "slug": "elbow-lift-reverse-push-up",
+      "name": "Reverse-Liegestütz, Ellbogen Heben",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Platziere die Hände etwas breiter als schulterbreit. Körper in gerader Linie von Kopf bis Fersen — schraube die Hände für Spannung in den Boden.",
+        "Senke den Körper, indem du die Ellbogen bei 45° beugst, bis die Brust fast den Boden berührt. Ziehe dich aktiv nach unten.",
+        "Drücke den Boden von dir weg, um zurückzukehren. Spanne die Brust beim Durchstrecken an und halte den Core während der gesamten Bewegung fest.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/elbow-lift-reverse-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elbow-lift-reverse-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elbow-lift-reverse-push-up.thumb.webp"
+    },
+    {
+      "id": "upper-back/elevator",
+      "slug": "elevator",
+      "name": "Aufzug",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Bereite dein Equipment vor und nimm eine stabile Ausgangsposition mit guter Haltung ein.",
+        "Hänge an einer Stange oder positioniere dich mit gestützten Armen. Starte mit gerade hängenden Beinen.",
+        "Hebe die Beine stufenweise — bei 45°, 90° und voller Höhe stoppen — wie ein Aufzug, der in jeder Etage hält.",
+        "Senke die Beine in den gleichen Stufen kontrolliert. Jede Pause baut isometrische Kraft und Kontrolle im gesamten Bereich auf.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/elevator.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elevator.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elevator.thumb.webp"
+    },
+    {
+      "id": "upper-back/ez-bar-reverse-grip-bent-over-row",
+      "slug": "ez-bar-reverse-grip-bent-over-row",
+      "name": "Vorgebeugtes Rudern mit SZ-Stange, im Untergriff",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Lade die SZ-Stange und greife sie am gewinkelten Abschnitt, der für deine Handgelenke bequem ist.",
+        "Verwende einen Untergriff (supiniert), um den Zugwinkel und die Muskelbetonung zu verändern.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/ez-bar-reverse-grip-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/ez-bar-reverse-grip-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/ez-bar-reverse-grip-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/front-lever-reps",
+      "slug": "front-lever-reps",
+      "name": "Wiederholungen an der Maschine, vorne",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+        "Baue Spannung durch den gesamten Körper auf, bevor du in die Halteposition gehst. Spanne alles an — Gesäß, Core, Lats, Beine.",
+        "Gehe kontrolliert in die Position und halte den gesamten Körper steif. Denke an deinen Körper als ein einzelnes gerades Brett.",
+        "Halte für die vorgeschriebene Zeit oder führe kontrollierte Wiederholungen aus. Wenn du die perfekte Form nicht halten kannst, arbeite an einer Regression der Bewegung.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/front-lever-reps.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/front-lever-reps.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/front-lever-reps.thumb.webp"
+    },
+    {
+      "id": "upper-back/inverted-row-bent-knees",
+      "slug": "inverted-row-bent-knees",
+      "name": "Rudern, invertiert gebeugt Knie",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/inverted-row-bent-knees.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-bent-knees.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-bent-knees.thumb.webp"
+    },
+    {
+      "id": "upper-back/inverted-row-on-bench",
+      "slug": "inverted-row-on-bench",
+      "name": "Rudern, invertiert Bank",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/inverted-row-on-bench.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-on-bench.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-on-bench.thumb.webp"
+    },
+    {
+      "id": "upper-back/inverted-row-v-2",
+      "slug": "inverted-row-v-2",
+      "name": "Rudern, invertiert",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/inverted-row-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-v-2.thumb.webp"
+    },
+    {
+      "id": "upper-back/inverted-row-with-straps",
+      "slug": "inverted-row-with-straps",
+      "name": "Rudern, invertiert Gurte",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/inverted-row-with-straps.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-with-straps.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row-with-straps.thumb.webp"
+    },
+    {
+      "id": "upper-back/inverted-row",
+      "slug": "inverted-row",
+      "name": "Rudern, invertiert",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/inverted-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/inverted-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-alternating-renegade-row",
+      "slug": "kettlebell-alternating-renegade-row",
+      "name": "Rudern mit Kettlebell, alternierend, Renegade",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Wähle das passende Kettlebell-Gewicht. Greife den Griff fest mit neutralem Handgelenk.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass den Arm gerade hängen wie ein Seil, die am Gewicht befestigt sind.",
+        "Ziehe, indem du den Ellbogen Richtung Gesäßtaschen treibst — deine Hand ist nur ein Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Wechsle jede Wiederholung die Seite ab. Schließe eine komplette Wiederholung ab, bevor du die andere Seite beginnst.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/kettlebell-alternating-renegade-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-renegade-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-renegade-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-alternating-row",
+      "slug": "kettlebell-alternating-row",
+      "name": "Rudern mit Kettlebell, alternierend",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Wähle das passende Kettlebell-Gewicht. Greife den Griff fest mit neutralem Handgelenk.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass den Arm gerade hängen wie ein Seil, die am Gewicht befestigt sind.",
+        "Ziehe, indem du den Ellbogen Richtung Gesäßtaschen treibst — deine Hand ist nur ein Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Wechsle jede Wiederholung die Seite ab. Schließe eine komplette Wiederholung ab, bevor du die andere Seite beginnst.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/kettlebell-alternating-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-one-arm-row",
+      "slug": "kettlebell-one-arm-row",
+      "name": "Einarmiges Rudern mit Kettlebell",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Wähle das passende Kettlebell-Gewicht. Greife den Griff fest mit neutralem Handgelenk.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass den Arm gerade hängen wie ein Seil, die am Gewicht befestigt sind.",
+        "Ziehe, indem du den Ellbogen Richtung Gesäßtaschen treibst — deine Hand ist nur ein Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Arbeite eine Seite nach der anderen. Alle Wiederholungen auf einer Seite abschließen, dann wechseln. Die schwächere Seite gibt die Wiederholungszahl vor.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/kettlebell-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-two-arm-row",
+      "slug": "kettlebell-two-arm-row",
+      "name": "Rudern mit Kettlebell, beidarmig",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Wähle das passende Kettlebell-Gewicht. Greife den Griff fest mit neutralem Handgelenk.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/kettlebell-two-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-two-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-two-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-alternating-narrow-grip-seated-row",
+      "slug": "lever-alternating-narrow-grip-seated-row",
+      "name": "Rudern an der Maschine, sitzend, mit engem Griff, alternierend",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+        "Sitze aufrecht mit geradem Rücken und den Füßen flach auf dem Boden.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass den Arm gerade hängen wie ein Seil, die am Gewicht befestigt sind.",
+        "Ziehe, indem du den Ellbogen Richtung Gesäßtaschen treibst — deine Hand ist nur ein Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Wechsle jede Wiederholung die Seite ab. Schließe eine komplette Wiederholung ab, bevor du die andere Seite beginnst.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/lever-alternating-narrow-grip-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-alternating-narrow-grip-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-alternating-narrow-grip-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-bent-over-row-with-v-bar",
+      "slug": "lever-bent-over-row-with-v-bar",
+      "name": "Vorgebeugtes Rudern an der Maschine mit V-Griff",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/lever-bent-over-row-with-v-bar.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-bent-over-row-with-v-bar.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-bent-over-row-with-v-bar.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-bent-over-row",
+      "slug": "lever-bent-over-row",
+      "name": "Vorgebeugtes Rudern an der Maschine",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/lever-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-high-row",
+      "slug": "lever-high-row",
+      "name": "Rudern an der Maschine, hoch",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/lever-high-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-high-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-high-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-narrow-grip-seated-row",
+      "slug": "lever-narrow-grip-seated-row",
+      "name": "Rudern an der Maschine, sitzend, mit engem Griff",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+        "Sitze aufrecht mit geradem Rücken und den Füßen flach auf dem Boden.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/lever-narrow-grip-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-narrow-grip-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-narrow-grip-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-one-arm-bent-over-row",
+      "slug": "lever-one-arm-bent-over-row",
+      "name": "Vorgebeugtes Rudern an der Maschine, einarmig",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass den Arm gerade hängen wie ein Seil, die am Gewicht befestigt sind.",
+        "Ziehe, indem du den Ellbogen Richtung Gesäßtaschen treibst — deine Hand ist nur ein Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Arbeite eine Seite nach der anderen. Alle Wiederholungen auf einer Seite abschließen, dann wechseln. Die schwächere Seite gibt die Wiederholungszahl vor.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/lever-one-arm-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-one-arm-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-one-arm-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-one-arm-lateral-high-row",
+      "slug": "lever-one-arm-lateral-high-row",
+      "name": "Rudern an der Maschine, einarmig hoch, seitlich",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass den Arm gerade hängen wie ein Seil, die am Gewicht befestigt sind.",
+        "Ziehe, indem du den Ellbogen Richtung Gesäßtaschen treibst — deine Hand ist nur ein Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Arbeite eine Seite nach der anderen. Alle Wiederholungen auf einer Seite abschließen, dann wechseln. Die schwächere Seite gibt die Wiederholungszahl vor.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/lever-one-arm-lateral-high-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-one-arm-lateral-high-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-one-arm-lateral-high-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-reverse-grip-vertical-row",
+      "slug": "lever-reverse-grip-vertical-row",
+      "name": "Rudern an der Maschine, im Untergriff, vertikal",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+        "Verwende einen Untergriff (supiniert), um den Zugwinkel und die Muskelbetonung zu verändern.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/lever-reverse-grip-vertical-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-reverse-grip-vertical-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-reverse-grip-vertical-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-reverse-t-bar-row",
+      "slug": "lever-reverse-t-bar-row",
+      "name": "Reverse-T-Bar Rudern an der Maschine",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/lever-reverse-t-bar-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-reverse-t-bar-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-reverse-t-bar-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-seated-row",
+      "slug": "lever-seated-row",
+      "name": "Rudern an der Maschine, sitzend",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+        "Sitze aufrecht mit geradem Rücken und den Füßen flach auf dem Boden.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/lever-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-t-bar-reverse-grip-row",
+      "slug": "lever-t-bar-reverse-grip-row",
+      "name": "Rudern an der Maschine, im Untergriff, t Stange",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+        "Verwende einen Untergriff (supiniert), um den Zugwinkel und die Muskelbetonung zu verändern.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/lever-t-bar-reverse-grip-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-t-bar-reverse-grip-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-t-bar-reverse-grip-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-t-bar-row",
+      "slug": "lever-t-bar-row",
+      "name": "T-Bar Rudern an der Maschine",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/lever-t-bar-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-t-bar-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-t-bar-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-unilateral-row",
+      "slug": "lever-unilateral-row",
+      "name": "Rudern an der Maschine, einseitig",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/lever-unilateral-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-unilateral-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-unilateral-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/medicine-ball-overhead-slam",
+      "slug": "medicine-ball-overhead-slam",
+      "name": "Überkopf-Slam mit Medizinball",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Halte den Medizinball mit beiden Händen. Fixiere die Füße und lade Hüften und Core wie eine gespannte Feder.",
+        "Wirf oder schlage den Ball explosiv mit dem ganzen Körper — Hüften treiben zuerst, dann Core, dann Arme. Maximale Absicht in jeder Wiederholung.",
+        "Hole den Ball (oder fange ihn), setze deine Position zurück und wiederhole. Jede Wiederholung sollte so kraftvoll sein wie die erste — Qualität vor Quantität.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/medicine-ball-overhead-slam.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/medicine-ball-overhead-slam.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/medicine-ball-overhead-slam.thumb.webp"
+    },
+    {
+      "id": "upper-back/one-arm-towel-row",
+      "slug": "one-arm-towel-row",
+      "name": "Rudern, einarmig, Handtuch",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass den Arm gerade hängen wie ein Seil, die am Gewicht befestigt sind.",
+        "Ziehe, indem du den Ellbogen Richtung Gesäßtaschen treibst — deine Hand ist nur ein Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Arbeite eine Seite nach der anderen. Alle Wiederholungen auf einer Seite abschließen, dann wechseln. Die schwächere Seite gibt die Wiederholungszahl vor.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/one-arm-towel-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/one-arm-towel-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/one-arm-towel-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/resistance-band-seated-straight-back-row",
+      "slug": "resistance-band-seated-straight-back-row",
+      "name": "Rudern mit Widerstandsband, sitzend, gestreckt Rücken",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Befestige das Widerstandsband am richtigen Ankerpunkt und stelle sicher, dass Grundspannung vorhanden ist.",
+        "Sitze aufrecht mit geradem Rücken und den Füßen flach auf dem Boden.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/resistance-band-seated-straight-back-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/resistance-band-seated-straight-back-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/resistance-band-seated-straight-back-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/rope-climb",
+      "slug": "rope-climb",
+      "name": "Klettern mit Seil",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Greife das Seil über dem Kopf mit beiden Händen. Wickle das Seil um einen Fuß, der andere Fuß liegt oben darauf.",
+        "Stehe auf der Fußverriegelung auf, dann greife mit den Händen höher. Verriegele die Füße erneut und wiederhole.",
+        "Steige kontrolliert ab, indem du Hand über Hand langsam absenkst. Rutsche niemals herunter — das Seil verbrennt Hände und Schienbeine.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/rope-climb.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/rope-climb.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/rope-climb.thumb.webp"
+    },
+    {
+      "id": "upper-back/skin-the-cat",
+      "slug": "skin-the-cat",
+      "name": "Haut Katze",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Baue Spannung durch den gesamten Körper auf, bevor du in die Halteposition gehst. Spanne alles an — Gesäß, Core, Lats, Beine.",
+        "Gehe kontrolliert in die Position und halte den gesamten Körper steif. Denke an deinen Körper als ein einzelnes gerades Brett.",
+        "Halte für die vorgeschriebene Zeit oder führe kontrollierte Wiederholungen aus. Wenn du die perfekte Form nicht halten kannst, arbeite an einer Regression der Bewegung.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/skin-the-cat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/skin-the-cat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/skin-the-cat.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-bent-over-row",
+      "slug": "smith-bent-over-row",
+      "name": "Vorgebeugtes Rudern an der Smith-Maschine",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/smith-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-narrow-row",
+      "slug": "smith-narrow-row",
+      "name": "Rudern an der Smith-Maschine, eng",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/smith-narrow-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-narrow-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-narrow-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-one-arm-row",
+      "slug": "smith-one-arm-row",
+      "name": "Einarmiges Rudern an der Smith-Maschine",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass den Arm gerade hängen wie ein Seil, die am Gewicht befestigt sind.",
+        "Ziehe, indem du den Ellbogen Richtung Gesäßtaschen treibst — deine Hand ist nur ein Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Arbeite eine Seite nach der anderen. Alle Wiederholungen auf einer Seite abschließen, dann wechseln. Die schwächere Seite gibt die Wiederholungszahl vor.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/smith-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/smith-reverse-grip-bent-over-row",
+      "slug": "smith-reverse-grip-bent-over-row",
+      "name": "Vorgebeugtes Rudern an der Smith-Maschine, im Untergriff",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Verwende einen Untergriff (supiniert), um den Zugwinkel und die Muskelbetonung zu verändern.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/smith-reverse-grip-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-reverse-grip-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/smith-reverse-grip-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/standing-archer",
+      "slug": "standing-archer",
+      "name": "Bogenschütze, stehend",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Bereite dein Equipment vor und nimm eine stabile Ausgangsposition mit guter Haltung ein.",
+        "Aktiviere den oberen Rücken bevor du die Bewegung startest. Spüre die Geist-Muskel-Verbindung.",
+        "Führe die Bewegung mit voller Kontrolle aus und beherrsche sowohl die konzentrische als auch die exzentrische Phase.",
+        "Kehre kontrolliert in die Ausgangsposition zurück — die exzentrische Phase baut genauso viel Muskel auf wie der Aufstieg.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/standing-archer.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/standing-archer.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/standing-archer.thumb.webp"
+    },
+    {
+      "id": "upper-back/suspended-row",
+      "slug": "suspended-row",
+      "name": "Rudern, hängend",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Beuge dich in der Hüfte nach vorne, bis der Oberkörper annähernd parallel zum Boden ist. Lass die Arme gerade hängen wie Seile, die am Gewicht befestigt sind.",
+        "Ziehe, indem du die Ellbogen Richtung Gesäßtaschen treibst — deine Hände sind nur Haken. Drücke die Schulterblätter oben zusammen, als würdest du eine Walnuss knacken.",
+        "Senke kontrolliert zurück zur vollen Armstreckung für eine komplette Dehnung unten. Wenn sich dein Oberkörper mehr als 10° bewegt, ist das Gewicht zu schwer.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "upper-back/suspended-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/suspended-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/suspended-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/upper-back-stretch",
+      "slug": "upper-back-stretch",
+      "name": "Dehnung, obere Rücken",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Bewege dich langsam in die Dehnposition, bis du ein sanftes Ziehen im Zielbereich spürst — kein Schmerz.",
+        "Halte 20 bis 40 Sekunden und atme tief. Mit jeder Ausatmung versuche, etwas tiefer in die Dehnung zu sinken.",
+        "Löse langsam und wiederhole bei Bedarf. Regelmäßigkeit zählt mehr als Intensität — dehne regelmäßig für dauerhafte Flexibilität.",
+        "Atme tief und gleichmäßig während der gesamten Haltephase. Halte niemals die Luft an beim Dehnen."
+      ],
+      "file": "upper-back/upper-back-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/upper-back-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/upper-back-stretch.thumb.webp"
+    }
+  ]
+}

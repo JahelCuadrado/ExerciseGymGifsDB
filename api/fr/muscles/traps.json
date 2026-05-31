@@ -1,0 +1,353 @@
+{
+  "muscle": "traps",
+  "count": 15,
+  "exercises": [
+    {
+      "id": "traps/band-shrug",
+      "slug": "band-shrug",
+      "name": "Haussement d'épaules à l'élastique",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Tiens le poids aux côtés, bras complètement tendus. Debout droit, épaules relâchées.",
+        "Hausse les épaules droit vers les oreilles — ne les roule pas. Contracte en haut pendant 2 secondes.",
+        "Redescends lentement. Garde les bras tendus — c'est tout trapèzes, pas de biceps.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "traps/band-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/band-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/band-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/barbell-shrug",
+      "slug": "barbell-shrug",
+      "name": "Haussement d'épaules à la barre",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Tiens le poids aux côtés, bras complètement tendus. Debout droit, épaules relâchées.",
+        "Hausse les épaules droit vers les oreilles — ne les roule pas. Contracte en haut pendant 2 secondes.",
+        "Redescends lentement. Garde les bras tendus — c'est tout trapèzes, pas de biceps.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "traps/barbell-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/barbell-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/barbell-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/cable-shrug",
+      "slug": "cable-shrug",
+      "name": "Haussement d'épaules à la poulie",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Tiens le poids aux côtés, bras complètement tendus. Debout droit, épaules relâchées.",
+        "Hausse les épaules droit vers les oreilles — ne les roule pas. Contracte en haut pendant 2 secondes.",
+        "Redescends lentement. Garde les bras tendus — c'est tout trapèzes, pas de biceps.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "traps/cable-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/cable-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/cable-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/dumbbell-decline-shrug-v-2",
+      "slug": "dumbbell-decline-shrug-v-2",
+      "name": "Haussement d'épaules décliné aux haltères",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Règle le banc en décliné et bloque tes pieds sous les coussins.",
+        "Tiens le poids aux côtés, bras complètement tendus. Debout droit, épaules relâchées.",
+        "Hausse les épaules droit vers les oreilles — ne les roule pas. Contracte en haut pendant 2 secondes.",
+        "Redescends lentement. Garde les bras tendus — c'est tout trapèzes, pas de biceps.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "traps/dumbbell-decline-shrug-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-decline-shrug-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-decline-shrug-v-2.thumb.webp"
+    },
+    {
+      "id": "traps/dumbbell-decline-shrug",
+      "slug": "dumbbell-decline-shrug",
+      "name": "Haussement d'épaules décliné aux haltères",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Règle le banc en décliné et bloque tes pieds sous les coussins.",
+        "Tiens le poids aux côtés, bras complètement tendus. Debout droit, épaules relâchées.",
+        "Hausse les épaules droit vers les oreilles — ne les roule pas. Contracte en haut pendant 2 secondes.",
+        "Redescends lentement. Garde les bras tendus — c'est tout trapèzes, pas de biceps.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "traps/dumbbell-decline-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-decline-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-decline-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/dumbbell-incline-shrug",
+      "slug": "dumbbell-incline-shrug",
+      "name": "Haussement d'épaules incliné aux haltères",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Règle le banc à l'inclinaison indiquée et presse fermement ton dos contre le dossier.",
+        "Tiens le poids aux côtés, bras complètement tendus. Debout droit, épaules relâchées.",
+        "Hausse les épaules droit vers les oreilles — ne les roule pas. Contracte en haut pendant 2 secondes.",
+        "Redescends lentement. Garde les bras tendus — c'est tout trapèzes, pas de biceps.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "traps/dumbbell-incline-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-incline-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-incline-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/dumbbell-shrug",
+      "slug": "dumbbell-shrug",
+      "name": "Haussement d'épaules aux haltères",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Tiens le poids aux côtés, bras complètement tendus. Debout droit, épaules relâchées.",
+        "Hausse les épaules droit vers les oreilles — ne les roule pas. Contracte en haut pendant 2 secondes.",
+        "Redescends lentement. Garde les bras tendus — c'est tout trapèzes, pas de biceps.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "traps/dumbbell-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/kettlebell-sumo-high-pull",
+      "slug": "kettlebell-sumo-high-pull",
+      "name": "Tirage sumo au kettlebell, haut",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Choisis le bon poids de kettlebell. Saisis la poignée fermement avec le poignet neutre.",
+        "Commence en position large (sumo) ou largeur de hanches. Saisis le poids bras tendus et hanches chargées.",
+        "Pousse explosivement le sol, étends hanches et genoux, puis tire le poids à hauteur du menton en menant avec les coudes.",
+        "Redescends le poids avec contrôle à la position de départ. La puissance vient des jambes et des hanches, pas des bras.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "traps/kettlebell-sumo-high-pull.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/kettlebell-sumo-high-pull.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/kettlebell-sumo-high-pull.thumb.webp"
+    },
+    {
+      "id": "traps/lever-gripless-shrug-v-2",
+      "slug": "lever-gripless-shrug-v-2",
+      "name": "Haussement d'épaules à la machine, sans prise",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Tiens le poids aux côtés, bras complètement tendus. Debout droit, épaules relâchées.",
+        "Hausse les épaules droit vers les oreilles — ne les roule pas. Contracte en haut pendant 2 secondes.",
+        "Redescends lentement. Garde les bras tendus — c'est tout trapèzes, pas de biceps.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "traps/lever-gripless-shrug-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-gripless-shrug-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-gripless-shrug-v-2.thumb.webp"
+    },
+    {
+      "id": "traps/lever-gripless-shrug",
+      "slug": "lever-gripless-shrug",
+      "name": "Haussement d'épaules à la machine, sans prise",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Tiens le poids aux côtés, bras complètement tendus. Debout droit, épaules relâchées.",
+        "Hausse les épaules droit vers les oreilles — ne les roule pas. Contracte en haut pendant 2 secondes.",
+        "Redescends lentement. Garde les bras tendus — c'est tout trapèzes, pas de biceps.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "traps/lever-gripless-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-gripless-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-gripless-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/lever-shrug",
+      "slug": "lever-shrug",
+      "name": "Haussement d'épaules à la machine",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Tiens le poids aux côtés, bras complètement tendus. Debout droit, épaules relâchées.",
+        "Hausse les épaules droit vers les oreilles — ne les roule pas. Contracte en haut pendant 2 secondes.",
+        "Redescends lentement. Garde les bras tendus — c'est tout trapèzes, pas de biceps.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "traps/lever-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/scapula-dips",
+      "slug": "scapula-dips",
+      "name": "Dips, omoplate",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Saisis les barres et verrouille en haut. Penche-toi légèrement en avant pour cibler la poitrine, ou reste droit pour les triceps.",
+        "Descends en fléchissant les coudes jusqu'à ce que les bras soient au moins parallèles au sol. Contrôle la descente — pas de chute.",
+        "Remonte de façon explosive jusqu'au verrouillage complet, en contractant le muscle cible en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "traps/scapula-dips.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/scapula-dips.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/scapula-dips.thumb.webp"
+    },
+    {
+      "id": "traps/scapular-pull-up",
+      "slug": "scapular-pull-up",
+      "name": "Traction, scapulaire",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Suspends-toi à la barre, bras complètement tendus. Fixe tes épaules en tirant les omoplates vers le bas et l'arrière — range-les dans tes poches arrière.",
+        "Tire en poussant tes coudes vers les poches arrière, en menant avec la poitrine, pas le menton. Imagine plier la barre autour de tes clavicules.",
+        "Passe le menton au-dessus de la barre et contracte en haut. Redescends avec contrôle total jusqu'à être complètement suspendu — mérite chaque rep depuis un étirement complet.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "traps/scapular-pull-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/scapular-pull-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/scapular-pull-up.thumb.webp"
+    },
+    {
+      "id": "traps/smith-back-shrug",
+      "slug": "smith-back-shrug",
+      "name": "Haussement d'épaules au Smith, dos",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Règle la hauteur de la barre au Smith et charge le poids approprié. Place-toi sous la barre.",
+        "Tiens le poids aux côtés, bras complètement tendus. Debout droit, épaules relâchées.",
+        "Hausse les épaules droit vers les oreilles — ne les roule pas. Contracte en haut pendant 2 secondes.",
+        "Redescends lentement. Garde les bras tendus — c'est tout trapèzes, pas de biceps.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "traps/smith-back-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-back-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-back-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/smith-shrug",
+      "slug": "smith-shrug",
+      "name": "Haussement d'épaules au Smith",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Règle la hauteur de la barre au Smith et charge le poids approprié. Place-toi sous la barre.",
+        "Tiens le poids aux côtés, bras complètement tendus. Debout droit, épaules relâchées.",
+        "Hausse les épaules droit vers les oreilles — ne les roule pas. Contracte en haut pendant 2 secondes.",
+        "Redescends lentement. Garde les bras tendus — c'est tout trapèzes, pas de biceps.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "traps/smith-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-shrug.thumb.webp"
+    }
+  ]
+}

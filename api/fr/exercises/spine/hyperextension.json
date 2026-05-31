@@ -1,0 +1,23 @@
+{
+  "id": "spine/hyperextension",
+  "slug": "hyperextension",
+  "name": "Hyperextension",
+  "muscle": "spine",
+  "bodyPart": "back",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+    "Positionne-toi sur le banc d'hyperextension avec les hanches au bord du coussin. Bras croisés ou mains derrière la tête.",
+    "Descends le torse avec contrôle en maintenant la colonne neutre. Descends jusqu'à sentir un étirement des ischio-jambiers.",
+    "Remonte en contractant fessiers et bas du dos jusqu'à ce que le corps forme une ligne droite — ne dépasse pas la position neutre.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "spine/hyperextension.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/hyperextension.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/hyperextension.thumb.webp"
+}

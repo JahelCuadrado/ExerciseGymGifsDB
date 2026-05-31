@@ -1,0 +1,1035 @@
+{
+  "muscle": "quads",
+  "count": 44,
+  "exercises": [
+    {
+      "id": "quads/all-fours-squad-stretch",
+      "slug": "all-fours-squad-stretch",
+      "name": "拉伸四肢小队",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "缓慢移动到拉伸位置，直到感受到目标区域的轻柔拉力——不是疼痛。",
+        "保持20到40秒，深呼吸。每次呼气时，尝试更深地沉入拉伸。",
+        "缓慢释放，如需要可重复。坚持比强度更重要——定期拉伸获得持久柔韧性。",
+        "在整个保持阶段深呼吸，保持均匀。拉伸时绝不要憋气。"
+      ],
+      "file": "quads/all-fours-squad-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/all-fours-squad-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/all-fours-squad-stretch.thumb.webp"
+    },
+    {
+      "id": "quads/assisted-prone-lying-quads-stretch",
+      "slug": "assisted-prone-lying-quads-stretch",
+      "name": "俯卧仰卧辅助拉伸股四头肌",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "缓慢移动到拉伸位置，直到感受到目标区域的轻柔拉力——不是疼痛。",
+        "保持20到40秒，深呼吸。每次呼气时，尝试更深地沉入拉伸。",
+        "缓慢释放，如需要可重复。坚持比强度更重要——定期拉伸获得持久柔韧性。",
+        "在整个保持阶段深呼吸，保持均匀。拉伸时绝不要憋气。"
+      ],
+      "file": "quads/assisted-prone-lying-quads-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/assisted-prone-lying-quads-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/assisted-prone-lying-quads-stretch.thumb.webp"
+    },
+    {
+      "id": "quads/backward-jump",
+      "slug": "backward-jump",
+      "name": "向后跳",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "双脚与髋到肩同宽站立。快速下蹲蓄力——弯曲膝盖和髋部积蓄张力。",
+        "向上爆发，完全伸展髋部、膝盖和踝关节。如适用，摆动手臂增加高度。",
+        "弯曲膝盖柔软着地，通过双腿吸收冲击。想着像猫一样无声地着地。",
+        "呼吸：跳跃或爆发性发力时用力呼气。在蓄力阶段吸气。"
+      ],
+      "file": "quads/backward-jump.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/backward-jump.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/backward-jump.thumb.webp"
+    },
+    {
+      "id": "quads/balance-board",
+      "slug": "balance-board",
+      "name": "平衡板",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "小心踏上平衡面并找到中心。收紧核心，注视前方一个点。",
+        "在保持平衡的同时执行指定的动作。来自踝关节和核心的小幅调整是正常且有益的。",
+        "如果失去平衡，安全地下来重新就位。本体感觉随练习改善——保持耐心和坚持。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/balance-board.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/balance-board.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/balance-board.thumb.webp"
+    },
+    {
+      "id": "quads/band-one-arm-single-leg-split-squat",
+      "slug": "band-one-arm-single-leg-split-squat",
+      "name": "单臂弹力带保加利亚分腿蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "将弹力带固定在正确的锚点，确保有初始张力。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/band-one-arm-single-leg-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/band-one-arm-single-leg-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/band-one-arm-single-leg-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/band-single-leg-split-squat",
+      "slug": "band-single-leg-split-squat",
+      "name": "弹力带保加利亚分腿蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "将弹力带固定在正确的锚点，确保有初始张力。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/band-single-leg-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/band-single-leg-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/band-single-leg-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-bench-front-squat",
+      "slug": "barbell-bench-front-squat",
+      "name": "杠铃前蹲凳",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/barbell-bench-front-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-bench-front-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-bench-front-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-bench-squat",
+      "slug": "barbell-bench-squat",
+      "name": "杠铃深蹲凳",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/barbell-bench-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-bench-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-bench-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-clean-and-press",
+      "slug": "barbell-clean-and-press",
+      "name": "杠铃翻举推举",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+        "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+        "控制将重量收回，在整个运动范围内保持张力。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/barbell-clean-and-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-clean-and-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-clean-and-press.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-one-leg-squat",
+      "slug": "barbell-one-leg-squat",
+      "name": "杠铃单腿深蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/barbell-one-leg-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-one-leg-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-one-leg-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-overhead-squat",
+      "slug": "barbell-overhead-squat",
+      "name": "杠铃过头深蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/barbell-overhead-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-overhead-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-overhead-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-side-split-squat-v-2",
+      "slug": "barbell-side-split-squat-v-2",
+      "name": "杠铃侧向保加利亚分腿蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/barbell-side-split-squat-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-side-split-squat-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-side-split-squat-v-2.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-side-split-squat",
+      "slug": "barbell-side-split-squat",
+      "name": "杠铃侧向保加利亚分腿蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/barbell-side-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-side-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-side-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-single-leg-split-squat",
+      "slug": "barbell-single-leg-split-squat",
+      "name": "杠铃保加利亚分腿蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/barbell-single-leg-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-single-leg-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-single-leg-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-split-squat-v-2",
+      "slug": "barbell-split-squat-v-2",
+      "name": "杠铃保加利亚分腿蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/barbell-split-squat-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-split-squat-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-split-squat-v-2.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-squat-jump-step-rear-lunge",
+      "slug": "barbell-squat-jump-step-rear-lunge",
+      "name": "杠铃后深蹲跳台阶弓步",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：跳跃或爆发性发力时用力呼气。在蓄力阶段吸气。"
+      ],
+      "file": "quads/barbell-squat-jump-step-rear-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-squat-jump-step-rear-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-squat-jump-step-rear-lunge.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-squat-on-knees",
+      "slug": "barbell-squat-on-knees",
+      "name": "杠铃深蹲膝",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/barbell-squat-on-knees.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-squat-on-knees.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-squat-on-knees.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-wide-squat",
+      "slug": "barbell-wide-squat",
+      "name": "杠铃宽距深蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/barbell-wide-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-wide-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-wide-squat.thumb.webp"
+    },
+    {
+      "id": "quads/chair-leg-extended-stretch",
+      "slug": "chair-leg-extended-stretch",
+      "name": "拉伸椅子腿伸展",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "缓慢移动到拉伸位置，直到感受到目标区域的轻柔拉力——不是疼痛。",
+        "保持20到40秒，深呼吸。每次呼气时，尝试更深地沉入拉伸。",
+        "缓慢释放，如需要可重复。坚持比强度更重要——定期拉伸获得持久柔韧性。",
+        "在整个保持阶段深呼吸，保持均匀。拉伸时绝不要憋气。"
+      ],
+      "file": "quads/chair-leg-extended-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/chair-leg-extended-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/chair-leg-extended-stretch.thumb.webp"
+    },
+    {
+      "id": "quads/dumbbell-goblet-squat",
+      "slug": "dumbbell-goblet-squat",
+      "name": "哑铃高脚杯深蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/dumbbell-goblet-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-goblet-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-goblet-squat.thumb.webp"
+    },
+    {
+      "id": "quads/dumbbell-single-leg-split-squat",
+      "slug": "dumbbell-single-leg-split-squat",
+      "name": "哑铃保加利亚分腿蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/dumbbell-single-leg-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-single-leg-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-single-leg-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/dumbbell-step-up-lunge",
+      "slug": "dumbbell-step-up-lunge",
+      "name": "哑铃弓步上踏步",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "双脚与髋同宽站立（火车轨道，不是走钢丝）。迈步就位，躯干像旗杆一样挺直。",
+        "后膝像电梯一样直直下降——不要向前冲。两膝都瞄准90度。保持前胫骨垂直。",
+        "通过前脚跟发力站回来。想象通过前脚将地面推开。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/dumbbell-step-up-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-step-up-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-step-up-lunge.thumb.webp"
+    },
+    {
+      "id": "quads/dumbbell-step-up-split-squat",
+      "slug": "dumbbell-step-up-split-squat",
+      "name": "哑铃台阶保加利亚分腿蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/dumbbell-step-up-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-step-up-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-step-up-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/dumbbell-supported-squat",
+      "slug": "dumbbell-supported-squat",
+      "name": "哑铃深蹲辅助",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/dumbbell-supported-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-supported-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/dumbbell-supported-squat.thumb.webp"
+    },
+    {
+      "id": "quads/farmers-walk",
+      "slug": "farmers-walk",
+      "name": "农夫走",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "采取挺直的姿势，从踝关节处微微前倾。手臂呈90度自然摆动。",
+        "驱动膝盖向前，中足着地，保持节奏平稳一致。",
+        "全程收紧核心，保持呼吸节奏——鼻吸口呼，配合步伐。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/farmers-walk.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/farmers-walk.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/farmers-walk.thumb.webp"
+    },
+    {
+      "id": "quads/forward-jump",
+      "slug": "forward-jump",
+      "name": "向前跳",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "plyometrics",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "双脚与髋到肩同宽站立。快速下蹲蓄力——弯曲膝盖和髋部积蓄张力。",
+        "向上爆发，完全伸展髋部、膝盖和踝关节。如适用，摆动手臂增加高度。",
+        "弯曲膝盖柔软着地，通过双腿吸收冲击。想着像猫一样无声地着地。",
+        "呼吸：跳跃或爆发性发力时用力呼气。在蓄力阶段吸气。"
+      ],
+      "file": "quads/forward-jump.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/forward-jump.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/forward-jump.thumb.webp"
+    },
+    {
+      "id": "quads/intermediate-hip-flexor-and-quad-stretch",
+      "slug": "intermediate-hip-flexor-and-quad-stretch",
+      "name": "拉伸中级髋屈肌股四头肌",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "缓慢移动到拉伸位置，直到感受到目标区域的轻柔拉力——不是疼痛。",
+        "保持20到40秒，深呼吸。每次呼气时，尝试更深地沉入拉伸。",
+        "缓慢释放，如需要可重复。坚持比强度更重要——定期拉伸获得持久柔韧性。",
+        "在整个保持阶段深呼吸，保持均匀。拉伸时绝不要憋气。"
+      ],
+      "file": "quads/intermediate-hip-flexor-and-quad-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/intermediate-hip-flexor-and-quad-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/intermediate-hip-flexor-and-quad-stretch.thumb.webp"
+    },
+    {
+      "id": "quads/lever-alternate-leg-press",
+      "slug": "lever-alternate-leg-press",
+      "name": "固定器械交替腿举",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+        "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+        "控制将重量收回，在整个运动范围内保持张力。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/lever-alternate-leg-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lever-alternate-leg-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lever-alternate-leg-press.thumb.webp"
+    },
+    {
+      "id": "quads/lever-leg-extension",
+      "slug": "lever-leg-extension",
+      "name": "固定器械腿屈伸",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "将肘部锁定在位——它们是空间中的固定点。只有前臂像门铰链一样移动。",
+        "完全伸展，在锁定时用力收紧三头肌。在完全伸展位短暂停顿。",
+        "缓慢回到起始位置。专注于底部的拉伸和顶部的收缩。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/lever-leg-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lever-leg-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lever-leg-extension.thumb.webp"
+    },
+    {
+      "id": "quads/lying-side-quads-stretch",
+      "slug": "lying-side-quads-stretch",
+      "name": "仰卧侧面拉伸股四头肌",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "缓慢移动到拉伸位置，直到感受到目标区域的轻柔拉力——不是疼痛。",
+        "保持20到40秒，深呼吸。每次呼气时，尝试更深地沉入拉伸。",
+        "缓慢释放，如需要可重复。坚持比强度更重要——定期拉伸获得持久柔韧性。",
+        "在整个保持阶段深呼吸，保持均匀。拉伸时绝不要憋气。"
+      ],
+      "file": "quads/lying-side-quads-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lying-side-quads-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lying-side-quads-stretch.thumb.webp"
+    },
+    {
+      "id": "quads/quads",
+      "slug": "quads",
+      "name": "股四头肌",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "在开始动作前激活股四头肌。感受意念-肌肉连接。",
+        "以完全控制执行动作，掌控向心和离心两个阶段。",
+        "控制下降回到起始位置——离心阶段和向心阶段一样能增长肌肉。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/quads.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/quads.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/quads.thumb.webp"
+    },
+    {
+      "id": "quads/quick-feet-v-2",
+      "slug": "quick-feet-v-2",
+      "name": "快速脚",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "采取挺直的姿势，从踝关节处微微前倾。手臂呈90度自然摆动。",
+        "驱动膝盖向前，中足着地，保持节奏平稳一致。",
+        "全程收紧核心，保持呼吸节奏——鼻吸口呼，配合步伐。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/quick-feet-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/quick-feet-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/quick-feet-v-2.thumb.webp"
+    },
+    {
+      "id": "quads/resistance-band-leg-extension",
+      "slug": "resistance-band-leg-extension",
+      "name": "弹力带腿屈伸",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "将弹力带固定在正确的锚点，确保有初始张力。",
+        "将肘部锁定在位——它们是空间中的固定点。只有前臂像门铰链一样移动。",
+        "完全伸展，在锁定时用力收紧三头肌。在完全伸展位短暂停顿。",
+        "缓慢回到起始位置。专注于底部的拉伸和顶部的收缩。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/resistance-band-leg-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/resistance-band-leg-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/resistance-band-leg-extension.thumb.webp"
+    },
+    {
+      "id": "quads/sissy-squat",
+      "slug": "sissy-squat",
+      "name": "辅助式深蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/sissy-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/sissy-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/sissy-squat.thumb.webp"
+    },
+    {
+      "id": "quads/smith-chair-squat",
+      "slug": "smith-chair-squat",
+      "name": "史密斯机深蹲椅子",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/smith-chair-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/smith-chair-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/smith-chair-squat.thumb.webp"
+    },
+    {
+      "id": "quads/smith-single-leg-split-squat",
+      "slug": "smith-single-leg-split-squat",
+      "name": "史密斯机保加利亚分腿蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/smith-single-leg-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/smith-single-leg-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/smith-single-leg-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/snatch-pull",
+      "slug": "snatch-pull",
+      "name": "抓举拉",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "双脚与髋同宽，杠铃在脚掌中间上方。下沉髋部，抬起胸部，手臂伸直——消除杠铃的松弛。",
+        "爆发性地推地，伸展髋部和膝盖。当杠铃过膝后，以猛烈的伸髋和耸肩加速。",
+        "快速下沉到杠铃下方，在肩膀（翻举）或头顶（抓举）接住杠铃。用柔软的膝盖缓冲接杠，然后站起。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/snatch-pull.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/snatch-pull.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/snatch-pull.thumb.webp"
+    },
+    {
+      "id": "quads/split-squats",
+      "slug": "split-squats",
+      "name": "保加利亚分腿蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/split-squats.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/split-squats.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/split-squats.thumb.webp"
+    },
+    {
+      "id": "quads/squat-jerk",
+      "slug": "squat-jerk",
+      "name": "深蹲挺举",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/squat-jerk.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-jerk.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-jerk.thumb.webp"
+    },
+    {
+      "id": "quads/squat-on-bosu-ball",
+      "slug": "squat-on-bosu-ball",
+      "name": "波速球深蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/squat-on-bosu-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-on-bosu-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-on-bosu-ball.thumb.webp"
+    },
+    {
+      "id": "quads/squat-to-overhead-reach-with-twist",
+      "slug": "squat-to-overhead-reach-with-twist",
+      "name": "过头深蹲伸展转体",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/squat-to-overhead-reach-with-twist.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-to-overhead-reach-with-twist.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-to-overhead-reach-with-twist.thumb.webp"
+    },
+    {
+      "id": "quads/squat-to-overhead-reach",
+      "slug": "squat-to-overhead-reach",
+      "name": "过头深蹲伸展",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/squat-to-overhead-reach.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-to-overhead-reach.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/squat-to-overhead-reach.thumb.webp"
+    },
+    {
+      "id": "quads/suspended-split-squat",
+      "slug": "suspended-split-squat",
+      "name": "悬挂保加利亚分腿蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/suspended-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/suspended-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/suspended-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/weighted-sissy-squat",
+      "slug": "weighted-sissy-squat",
+      "name": "负重辅助式深蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/weighted-sissy-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/weighted-sissy-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/weighted-sissy-squat.thumb.webp"
+    }
+  ]
+}

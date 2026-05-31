@@ -1,0 +1,26 @@
+{
+  "id": "glutes/barbell-sumo-deadlift",
+  "slug": "barbell-sumo-deadlift",
+  "name": "バーベル・スモーデッドリフト",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "lats",
+    "traps",
+    "forearms",
+    "spine"
+  ],
+  "instructions": [
+    "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+    "足は腰幅で、バーは足の中央の上に置きます。股関節でヒンジし、胸を張り、脇を締めて広背筋を活性化します。",
+    "脚で床を押します。腰と肩が一緒にエレベーターのように上がります。バーを脚に沿って擦るように引き上げます。",
+    "トップで完全に直立し、臀筋の間にコインを挟むように締めます。股関節でヒンジしながらバーを太ももに沿って戻します。バーは体から離れません。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "glutes/barbell-sumo-deadlift.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-sumo-deadlift.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-sumo-deadlift.thumb.webp"
+}

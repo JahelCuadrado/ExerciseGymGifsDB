@@ -1,0 +1,24 @@
+{
+  "id": "triceps/one-arm-dip",
+  "slug": "one-arm-dip",
+  "name": "Dip, un bras",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts",
+    "pectorals"
+  ],
+  "instructions": [
+    "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+    "Saisis les barres et verrouille en haut. Penche-toi légèrement en avant pour cibler la poitrine, ou reste droit pour le triceps.",
+    "Descends en fléchissant le coude jusqu'à ce que le bras soient au moins parallèles au sol. Contrôle la descente — pas de chute.",
+    "Remonte de façon explosive jusqu'au verrouillage complet, en contractant le muscle cible en haut.",
+    "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "triceps/one-arm-dip.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/one-arm-dip.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/one-arm-dip.thumb.webp"
+}

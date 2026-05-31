@@ -1,0 +1,23 @@
+{
+  "id": "spine/lever-back-extension",
+  "slug": "lever-back-extension",
+  "name": "Extension lombaire à la machine",
+  "muscle": "spine",
+  "bodyPart": "back",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+    "Verrouille les coudes en position — ce sont des points fixes dans l'espace. Seuls les avant-bras bougent comme des charnières.",
+    "Étends complètement en contractant les triceps au verrouillage. Fais une pause en extension complète.",
+    "Reviens lentement à la position de départ. Concentre-toi sur l'étirement en bas et la contraction en haut.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "spine/lever-back-extension.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/lever-back-extension.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/lever-back-extension.thumb.webp"
+}

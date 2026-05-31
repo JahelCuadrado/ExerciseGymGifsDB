@@ -1,0 +1,46 @@
+{
+  "muscle": "levator-scapulae",
+  "count": 2,
+  "exercises": [
+    {
+      "id": "levator-scapulae/neck-side-stretch",
+      "slug": "neck-side-stretch",
+      "name": "侧面拉伸颈",
+      "muscle": "levator-scapulae",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "坐直或站直。轻轻将头倾向一侧肩膀，将耳朵靠近肩膀但不要抬肩。",
+        "保持拉伸20-30秒，深呼吸。可以用手施加轻柔的额外压力。",
+        "缓慢回到中间，在另一侧重复。永远不要强迫拉伸——只到轻微张力的程度。",
+        "在整个保持阶段深呼吸，保持均匀。拉伸时绝不要憋气。"
+      ],
+      "file": "levator-scapulae/neck-side-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/levator-scapulae/neck-side-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/levator-scapulae/neck-side-stretch.thumb.webp"
+    },
+    {
+      "id": "levator-scapulae/side-push-neck-stretch",
+      "slug": "side-push-neck-stretch",
+      "name": "侧面拉伸推颈",
+      "muscle": "levator-scapulae",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "坐直或站直。轻轻将头倾向一侧肩膀，将耳朵靠近肩膀但不要抬肩。",
+        "保持拉伸20-30秒，深呼吸。可以用手施加轻柔的额外压力。",
+        "缓慢回到中间，在另一侧重复。永远不要强迫拉伸——只到轻微张力的程度。",
+        "在整个保持阶段深呼吸，保持均匀。拉伸时绝不要憋气。"
+      ],
+      "file": "levator-scapulae/side-push-neck-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/levator-scapulae/side-push-neck-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/levator-scapulae/side-push-neck-stretch.thumb.webp"
+    }
+  ]
+}

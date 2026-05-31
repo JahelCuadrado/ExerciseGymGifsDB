@@ -916,7 +916,7 @@
     {
       "id": "calves/lever-rotary-calf",
       "slug": "lever-rotary-calf",
-      "name": "Lever Rotary Calf",
+      "name": "Lever Rotary Calf Raise",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -1368,7 +1368,7 @@
     {
       "id": "calves/smith-toe-raise",
       "slug": "smith-toe-raise",
-      "name": "Smith Toe Raise",
+      "name": "Smith Machine Toe Raise",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "smith",
@@ -1428,7 +1428,7 @@
     {
       "id": "calves/standing-calves",
       "slug": "standing-calves",
-      "name": "Standing Calves",
+      "name": "Standing Calf Raise",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -5486,7 +5486,7 @@
     {
       "id": "quads/band-one-arm-single-leg-split-squat",
       "slug": "band-one-arm-single-leg-split-squat",
-      "name": "Band One Arm Single Leg Split Squat",
+      "name": "One-Arm Band Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "band",
@@ -5511,7 +5511,7 @@
     {
       "id": "quads/band-single-leg-split-squat",
       "slug": "band-single-leg-split-squat",
-      "name": "Band Single Leg Split Squat",
+      "name": "Band Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "band",
@@ -5661,7 +5661,7 @@
     {
       "id": "quads/barbell-side-split-squat-v-2",
       "slug": "barbell-side-split-squat-v-2",
-      "name": "Barbell Side Split Squat v2",
+      "name": "Lateral Barbell Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -5685,7 +5685,7 @@
     {
       "id": "quads/barbell-side-split-squat",
       "slug": "barbell-side-split-squat",
-      "name": "Barbell Side Split Squat",
+      "name": "Lateral Barbell Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -5709,7 +5709,7 @@
     {
       "id": "quads/barbell-single-leg-split-squat",
       "slug": "barbell-single-leg-split-squat",
-      "name": "Barbell Single Leg Split Squat",
+      "name": "Barbell Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -5734,7 +5734,7 @@
     {
       "id": "quads/barbell-split-squat-v-2",
       "slug": "barbell-split-squat-v-2",
-      "name": "Barbell Split Squat v2",
+      "name": "Barbell Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -5874,7 +5874,7 @@
     {
       "id": "quads/dumbbell-single-leg-split-squat",
       "slug": "dumbbell-single-leg-split-squat",
-      "name": "Dumbbell Single Leg Split Squat",
+      "name": "Dumbbell Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -5923,7 +5923,7 @@
     {
       "id": "quads/dumbbell-step-up-split-squat",
       "slug": "dumbbell-step-up-split-squat",
-      "name": "Dumbbell Step Up Split Squat",
+      "name": "Dumbbell Step-Up Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -6210,7 +6210,7 @@
     {
       "id": "quads/smith-single-leg-split-squat",
       "slug": "smith-single-leg-split-squat",
-      "name": "Smith Single Leg Split Squat",
+      "name": "Smith Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "smith",
@@ -6262,7 +6262,7 @@
     {
       "id": "quads/split-squats",
       "slug": "split-squats",
-      "name": "Split Squats",
+      "name": "Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -6386,7 +6386,7 @@
     {
       "id": "quads/suspended-split-squat",
       "slug": "suspended-split-squat",
-      "name": "Suspended Split Squat",
+      "name": "Suspended Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",

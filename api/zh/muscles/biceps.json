@@ -1,0 +1,3456 @@
+{
+  "muscle": "biceps",
+  "count": 151,
+  "exercises": [
+    {
+      "id": "biceps/band-alternating-biceps-curl",
+      "slug": "band-alternating-biceps-curl",
+      "name": "弹力带交替二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "将弹力带固定在正确的锚点，确保有初始张力。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/band-alternating-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/band-alternating-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/band-alternating-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/band-concentration-curl",
+      "slug": "band-concentration-curl",
+      "name": "弹力带集中弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "将弹力带固定在正确的锚点，确保有初始张力。",
+        "双腿分开坐下，将工作臂的后侧靠在大腿内侧。这锁定了上臂。",
+        "缓慢弯举重量，完全专注于二头肌的收缩。在顶部像挤橙汁一样挤压。",
+        "用3秒下放并完全伸展。你的大腿就是护栏——不可能摆动。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/band-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/band-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/band-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/band-one-arm-overhead-biceps-curl",
+      "slug": "band-one-arm-overhead-biceps-curl",
+      "name": "弹力带单臂过头二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "将弹力带固定在正确的锚点，确保有初始张力。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/band-one-arm-overhead-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/band-one-arm-overhead-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/band-one-arm-overhead-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-alternate-biceps-curl",
+      "slug": "barbell-alternate-biceps-curl",
+      "name": "杠铃交替二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-alternate-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-alternate-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-alternate-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-biceps-curl-with-arm-blaster",
+      "slug": "barbell-biceps-curl-with-arm-blaster",
+      "name": "杠铃二头弯举臂强化",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-biceps-curl-with-arm-blaster.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-biceps-curl-with-arm-blaster.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-biceps-curl-with-arm-blaster.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-curl",
+      "slug": "barbell-curl",
+      "name": "杠铃弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-drag-curl",
+      "slug": "barbell-drag-curl",
+      "name": "杠铃拖曳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将杠铃靠在大腿上。不要做弧形弯举，而是沿身体直线向上拖拽杠铃——肘部向后移动。",
+        "在杠铃沿躯干上滑时将肘部拉到身后。这强调了二头肌的长头。",
+        "反向路径，控制地将杠铃沿身体滑回。杠铃永远不离开躯干。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-drag-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-drag-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-drag-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-lying-preacher-curl",
+      "slug": "barbell-lying-preacher-curl",
+      "name": "杠铃仰卧牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-lying-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-lying-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-lying-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-preacher-curl",
+      "slug": "barbell-preacher-curl",
+      "name": "杠铃牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-prone-incline-curl",
+      "slug": "barbell-prone-incline-curl",
+      "name": "杠铃俯卧上斜弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-prone-incline-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-prone-incline-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-prone-incline-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-reverse-curl",
+      "slug": "barbell-reverse-curl",
+      "name": "杠铃反握弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-reverse-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-reverse-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-reverse-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-reverse-preacher-curl",
+      "slug": "barbell-reverse-preacher-curl",
+      "name": "杠铃反向牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-reverse-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-reverse-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-reverse-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-seated-close-grip-concentration-curl",
+      "slug": "barbell-seated-close-grip-concentration-curl",
+      "name": "杠铃坐姿窄握集中弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "双腿分开坐下，将工作臂的后侧靠在大腿内侧。这锁定了上臂。",
+        "缓慢弯举重量，完全专注于二头肌的收缩。在顶部像挤橙汁一样挤压。",
+        "用3秒下放并完全伸展。你的大腿就是护栏——不可能摆动。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-seated-close-grip-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-seated-close-grip-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-seated-close-grip-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-standing-close-grip-curl",
+      "slug": "barbell-standing-close-grip-curl",
+      "name": "杠铃站姿窄握弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-standing-close-grip-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-close-grip-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-close-grip-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-standing-concentration-curl",
+      "slug": "barbell-standing-concentration-curl",
+      "name": "杠铃站姿集中弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "双腿分开坐下，将工作臂的后侧靠在大腿内侧。这锁定了上臂。",
+        "缓慢弯举重量，完全专注于二头肌的收缩。在顶部像挤橙汁一样挤压。",
+        "用3秒下放并完全伸展。你的大腿就是护栏——不可能摆动。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-standing-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-standing-reverse-grip-curl",
+      "slug": "barbell-standing-reverse-grip-curl",
+      "name": "杠铃站姿反握弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-standing-reverse-grip-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-reverse-grip-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-reverse-grip-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-standing-wide-grip-biceps-curl",
+      "slug": "barbell-standing-wide-grip-biceps-curl",
+      "name": "杠铃站姿宽握二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "使用宽握，双手远超肩宽，增加拉伸和外侧刺激。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-standing-wide-grip-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-wide-grip-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-wide-grip-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-standing-wide-grip-curl",
+      "slug": "barbell-standing-wide-grip-curl",
+      "name": "杠铃站姿宽握弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "使用宽握，双手远超肩宽，增加拉伸和外侧刺激。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-standing-wide-grip-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-wide-grip-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-wide-grip-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/biceps-leg-concentration-curl",
+      "slug": "biceps-leg-concentration-curl",
+      "name": "集中弯举二头肌腿",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "双腿分开坐下，将工作臂的后侧靠在大腿内侧。这锁定了上臂。",
+        "缓慢弯举重量，完全专注于二头肌的收缩。在顶部像挤橙汁一样挤压。",
+        "用3秒下放并完全伸展。你的大腿就是护栏——不可能摆动。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/biceps-leg-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/biceps-leg-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/biceps-leg-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/biceps-narrow-pull-ups",
+      "slug": "biceps-narrow-pull-ups",
+      "name": "窄距引体向上二头肌",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "手臂完全伸直悬挂在杠上。通过将肩胛骨向下向后拉来设置肩膀——把它们塞进后裤袋。",
+        "将肘部驱向后裤袋来拉，用胸部引导，而不是下巴。想象将杠铃弯过你的锁骨。",
+        "下巴过杠并在顶部收紧。完全控制下放至悬垂状态——从完全拉伸中赢得每一次重复。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/biceps-narrow-pull-ups.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/biceps-narrow-pull-ups.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/biceps-narrow-pull-ups.thumb.webp"
+    },
+    {
+      "id": "biceps/biceps-pull-up",
+      "slug": "biceps-pull-up",
+      "name": "引体向上二头肌",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "手臂完全伸直悬挂在杠上。通过将肩胛骨向下向后拉来设置肩膀——把它们塞进后裤袋。",
+        "将肘部驱向后裤袋来拉，用胸部引导，而不是下巴。想象将杠铃弯过你的锁骨。",
+        "下巴过杠并在顶部收紧。完全控制下放至悬垂状态——从完全拉伸中赢得每一次重复。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/biceps-pull-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/biceps-pull-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/biceps-pull-up.thumb.webp"
+    },
+    {
+      "id": "biceps/bodyweight-side-lying-biceps-curl",
+      "slug": "bodyweight-side-lying-biceps-curl",
+      "name": "自重侧卧二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/bodyweight-side-lying-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/bodyweight-side-lying-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/bodyweight-side-lying-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-close-grip-curl",
+      "slug": "cable-close-grip-curl",
+      "name": "绳索窄握弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-close-grip-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-close-grip-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-close-grip-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-concentration-curl",
+      "slug": "cable-concentration-curl",
+      "name": "绳索集中弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "双腿分开坐下，将工作臂的后侧靠在大腿内侧。这锁定了上臂。",
+        "缓慢弯举重量，完全专注于二头肌的收缩。在顶部像挤橙汁一样挤压。",
+        "用3秒下放并完全伸展。你的大腿就是护栏——不可能摆动。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-curl",
+      "slug": "cable-curl",
+      "name": "绳索弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-drag-curl",
+      "slug": "cable-drag-curl",
+      "name": "绳索拖曳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "将杠铃靠在大腿上。不要做弧形弯举，而是沿身体直线向上拖拽杠铃——肘部向后移动。",
+        "在杠铃沿躯干上滑时将肘部拉到身后。这强调了二头肌的长头。",
+        "反向路径，控制地将杠铃沿身体滑回。杠铃永远不离开躯干。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-drag-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-drag-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-drag-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-hammer-curl-with-rope",
+      "slug": "cable-hammer-curl-with-rope",
+      "name": "绳索绳索锤式弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "以对握姿势（掌心相对）持握重量。将肘部钉在体侧——想象它们被钉住了。",
+        "保持对握向上弯举。这除了二头肌外还针对肱肌和肱桡肌。",
+        "缓慢用3秒下放，在每一厘米对抗重力。整个动作中手腕保持像钢棒一样笔直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-hammer-curl-with-rope.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-hammer-curl-with-rope.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-hammer-curl-with-rope.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-lying-bicep-curl",
+      "slug": "cable-lying-bicep-curl",
+      "name": "绳索仰卧二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-lying-bicep-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-lying-bicep-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-lying-bicep-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-lying-close-grip-curl",
+      "slug": "cable-lying-close-grip-curl",
+      "name": "绳索仰卧窄握弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-lying-close-grip-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-lying-close-grip-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-lying-close-grip-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-one-arm-curl",
+      "slug": "cable-one-arm-curl",
+      "name": "绳索单臂弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-one-arm-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-one-arm-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-one-arm-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-one-arm-preacher-curl",
+      "slug": "cable-one-arm-preacher-curl",
+      "name": "绳索单臂牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-one-arm-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-one-arm-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-one-arm-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-one-arm-reverse-preacher-curl",
+      "slug": "cable-one-arm-reverse-preacher-curl",
+      "name": "绳索单臂反向牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-one-arm-reverse-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-one-arm-reverse-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-one-arm-reverse-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-overhead-curl-on-exercise-ball",
+      "slug": "cable-overhead-curl-on-exercise-ball",
+      "name": "绳索瑜伽球过头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-overhead-curl-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-overhead-curl-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-overhead-curl-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-overhead-curl",
+      "slug": "cable-overhead-curl",
+      "name": "绳索过头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-overhead-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-overhead-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-overhead-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-preacher-curl",
+      "slug": "cable-preacher-curl",
+      "name": "绳索牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-pulldown-bicep-curl",
+      "slug": "cable-pulldown-bicep-curl",
+      "name": "绳索下拉二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "握住横杆，大腿固定在垫板下。微微后倾，肩胛骨下沉。",
+        "通过将肘部向下向后驱动，将横杆拉向上胸。想象将杠弯过你的锁骨。",
+        "在底部收紧背阔肌一瞬间，然后让横杆缓慢回到头顶，感受背阔肌的充分拉伸。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-pulldown-bicep-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-pulldown-bicep-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-pulldown-bicep-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-reverse-curl",
+      "slug": "cable-reverse-curl",
+      "name": "绳索反握弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-reverse-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-reverse-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-reverse-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-reverse-one-arm-curl",
+      "slug": "cable-reverse-one-arm-curl",
+      "name": "绳索单臂反向弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-reverse-one-arm-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-reverse-one-arm-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-reverse-one-arm-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-reverse-preacher-curl",
+      "slug": "cable-reverse-preacher-curl",
+      "name": "绳索反向牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-reverse-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-reverse-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-reverse-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-rope-hammer-preacher-curl",
+      "slug": "cable-rope-hammer-preacher-curl",
+      "name": "绳索绳索锤式牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "以对握姿势（掌心相对）持握重量。将肘部钉在体侧——想象它们被钉住了。",
+        "保持对握向上弯举。这除了二头肌外还针对肱肌和肱桡肌。",
+        "缓慢用3秒下放，在每一厘米对抗重力。整个动作中手腕保持像钢棒一样笔直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-rope-hammer-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-rope-hammer-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-rope-hammer-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-rope-one-arm-hammer-preacher-curl",
+      "slug": "cable-rope-one-arm-hammer-preacher-curl",
+      "name": "绳索绳索单臂锤式牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "以对握姿势（掌心相对）持握重量。将肘部钉在体侧——想象它们被钉住了。",
+        "保持对握向上弯举。这除了二头肌外还针对肱肌和肱桡肌。",
+        "缓慢用3秒下放，在每一厘米对抗重力。整个动作中手腕保持像钢棒一样笔直。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-rope-one-arm-hammer-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-rope-one-arm-hammer-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-rope-one-arm-hammer-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-seated-curl",
+      "slug": "cable-seated-curl",
+      "name": "绳索坐姿弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-seated-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-seated-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-seated-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-seated-one-arm-concentration-curl",
+      "slug": "cable-seated-one-arm-concentration-curl",
+      "name": "绳索坐姿单臂集中弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "双腿分开坐下，将工作臂的后侧靠在大腿内侧。这锁定了上臂。",
+        "缓慢弯举重量，完全专注于二头肌的收缩。在顶部像挤橙汁一样挤压。",
+        "用3秒下放并完全伸展。你的大腿就是护栏——不可能摆动。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-seated-one-arm-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-seated-one-arm-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-seated-one-arm-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-seated-overhead-curl",
+      "slug": "cable-seated-overhead-curl",
+      "name": "绳索坐姿过头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-seated-overhead-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-seated-overhead-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-seated-overhead-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-squatting-curl",
+      "slug": "cable-squatting-curl",
+      "name": "绳索弯举蹲",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-squatting-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-squatting-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-squatting-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-standing-inner-curl",
+      "slug": "cable-standing-inner-curl",
+      "name": "绳索站姿弯举内侧",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-standing-inner-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-standing-inner-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-standing-inner-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-standing-pulldown-with-rope",
+      "slug": "cable-standing-pulldown-with-rope",
+      "name": "绳索站姿绳索下拉",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "握住横杆，大腿固定在垫板下。微微后倾，肩胛骨下沉。",
+        "通过将肘部向下向后驱动，将横杆拉向上胸。想象将杠弯过你的锁骨。",
+        "在底部收紧背阔肌一瞬间，然后让横杆缓慢回到头顶，感受背阔肌的充分拉伸。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-standing-pulldown-with-rope.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-standing-pulldown-with-rope.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-standing-pulldown-with-rope.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-two-arm-curl-on-incline-bench",
+      "slug": "cable-two-arm-curl-on-incline-bench",
+      "name": "绳索双臂上斜弯举凳",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "安装合适的把手，调整滑轮高度，选择工作重量。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/cable-two-arm-curl-on-incline-bench.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-two-arm-curl-on-incline-bench.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-two-arm-curl-on-incline-bench.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-alternate-biceps-curl-with-arm-blaster",
+      "slug": "dumbbell-alternate-biceps-curl-with-arm-blaster",
+      "name": "哑铃交替二头弯举臂强化",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-alternate-biceps-curl-with-arm-blaster.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternate-biceps-curl-with-arm-blaster.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternate-biceps-curl-with-arm-blaster.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-alternate-biceps-curl",
+      "slug": "dumbbell-alternate-biceps-curl",
+      "name": "哑铃交替二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-alternate-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternate-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternate-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-alternate-hammer-preacher-curl",
+      "slug": "dumbbell-alternate-hammer-preacher-curl",
+      "name": "哑铃交替锤式牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "以对握姿势（掌心相对）持握重量。将肘部钉在体侧——想象它们被钉住了。",
+        "保持对握向上弯举。这除了二头肌外还针对肱肌和肱桡肌。",
+        "缓慢用3秒下放，在每一厘米对抗重力。整个动作中手腕保持像钢棒一样笔直。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-alternate-hammer-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternate-hammer-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternate-hammer-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-alternate-preacher-curl",
+      "slug": "dumbbell-alternate-preacher-curl",
+      "name": "哑铃交替牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-alternate-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternate-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternate-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-alternate-seated-hammer-curl",
+      "slug": "dumbbell-alternate-seated-hammer-curl",
+      "name": "哑铃坐姿交替锤式弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "以对握姿势（掌心相对）持握重量。将肘部钉在体侧——想象它们被钉住了。",
+        "保持对握向上弯举。这除了二头肌外还针对肱肌和肱桡肌。",
+        "缓慢用3秒下放，在每一厘米对抗重力。整个动作中手腕保持像钢棒一样笔直。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-alternate-seated-hammer-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternate-seated-hammer-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternate-seated-hammer-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-alternating-bicep-curl-with-leg-raised-on-exercise-ball",
+      "slug": "dumbbell-alternating-bicep-curl-with-leg-raised-on-exercise-ball",
+      "name": "哑铃瑜伽球交替二头弯举腿抬起",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-alternating-bicep-curl-with-leg-raised-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternating-bicep-curl-with-leg-raised-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternating-bicep-curl-with-leg-raised-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-alternating-seated-bicep-curl-on-exercise-ball",
+      "slug": "dumbbell-alternating-seated-bicep-curl-on-exercise-ball",
+      "name": "哑铃瑜伽球坐姿交替二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-alternating-seated-bicep-curl-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternating-seated-bicep-curl-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternating-seated-bicep-curl-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-bicep-curl-lunge-with-bowling-motion",
+      "slug": "dumbbell-bicep-curl-lunge-with-bowling-motion",
+      "name": "哑铃二头弯举弓步保龄球运动",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-bicep-curl-lunge-with-bowling-motion.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-bicep-curl-lunge-with-bowling-motion.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-bicep-curl-lunge-with-bowling-motion.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-bicep-curl-on-exercise-ball-with-leg-raised",
+      "slug": "dumbbell-bicep-curl-on-exercise-ball-with-leg-raised",
+      "name": "哑铃瑜伽球二头弯举腿抬起",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-bicep-curl-on-exercise-ball-with-leg-raised.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-bicep-curl-on-exercise-ball-with-leg-raised.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-bicep-curl-on-exercise-ball-with-leg-raised.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-bicep-curl-with-stork-stance",
+      "slug": "dumbbell-bicep-curl-with-stork-stance",
+      "name": "哑铃二头弯举鹳站姿",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-bicep-curl-with-stork-stance.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-bicep-curl-with-stork-stance.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-bicep-curl-with-stork-stance.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-biceps-curl-reverse",
+      "slug": "dumbbell-biceps-curl-reverse",
+      "name": "哑铃反向二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-biceps-curl-reverse.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-biceps-curl-reverse.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-biceps-curl-reverse.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-biceps-curl-squat",
+      "slug": "dumbbell-biceps-curl-squat",
+      "name": "哑铃深蹲二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-biceps-curl-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-biceps-curl-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-biceps-curl-squat.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-biceps-curl-v-sit-on-bosu-ball",
+      "slug": "dumbbell-biceps-curl-v-sit-on-bosu-ball",
+      "name": "哑铃波速球二头弯举坐",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-biceps-curl-v-sit-on-bosu-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-biceps-curl-v-sit-on-bosu-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-biceps-curl-v-sit-on-bosu-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-biceps-curl-with-arm-blaster",
+      "slug": "dumbbell-biceps-curl-with-arm-blaster",
+      "name": "哑铃二头弯举臂强化",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-biceps-curl-with-arm-blaster.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-biceps-curl-with-arm-blaster.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-biceps-curl-with-arm-blaster.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-biceps-curl",
+      "slug": "dumbbell-biceps-curl",
+      "name": "哑铃二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-concentration-curl",
+      "slug": "dumbbell-concentration-curl",
+      "name": "哑铃集中弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "双腿分开坐下，将工作臂的后侧靠在大腿内侧。这锁定了上臂。",
+        "缓慢弯举重量，完全专注于二头肌的收缩。在顶部像挤橙汁一样挤压。",
+        "用3秒下放并完全伸展。你的大腿就是护栏——不可能摆动。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-cross-body-hammer-curl-v-2",
+      "slug": "dumbbell-cross-body-hammer-curl-v-2",
+      "name": "哑铃交叉锤式弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "以对握姿势（掌心相对）持握重量。将肘部钉在体侧——想象它们被钉住了。",
+        "保持对握向上弯举。这除了二头肌外还针对肱肌和肱桡肌。",
+        "缓慢用3秒下放，在每一厘米对抗重力。整个动作中手腕保持像钢棒一样笔直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-cross-body-hammer-curl-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-cross-body-hammer-curl-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-cross-body-hammer-curl-v-2.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-cross-body-hammer-curl",
+      "slug": "dumbbell-cross-body-hammer-curl",
+      "name": "哑铃交叉锤式弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "以对握姿势（掌心相对）持握重量。将肘部钉在体侧——想象它们被钉住了。",
+        "保持对握向上弯举。这除了二头肌外还针对肱肌和肱桡肌。",
+        "缓慢用3秒下放，在每一厘米对抗重力。整个动作中手腕保持像钢棒一样笔直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-cross-body-hammer-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-cross-body-hammer-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-cross-body-hammer-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-hammer-curl-on-exercise-ball",
+      "slug": "dumbbell-hammer-curl-on-exercise-ball",
+      "name": "哑铃瑜伽球锤式弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "以对握姿势（掌心相对）持握重量。将肘部钉在体侧——想象它们被钉住了。",
+        "保持对握向上弯举。这除了二头肌外还针对肱肌和肱桡肌。",
+        "缓慢用3秒下放，在每一厘米对抗重力。整个动作中手腕保持像钢棒一样笔直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-hammer-curl-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-hammer-curl-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-hammer-curl-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-hammer-curl-v-2",
+      "slug": "dumbbell-hammer-curl-v-2",
+      "name": "哑铃锤式弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "以对握姿势（掌心相对）持握重量。将肘部钉在体侧——想象它们被钉住了。",
+        "保持对握向上弯举。这除了二头肌外还针对肱肌和肱桡肌。",
+        "缓慢用3秒下放，在每一厘米对抗重力。整个动作中手腕保持像钢棒一样笔直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-hammer-curl-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-hammer-curl-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-hammer-curl-v-2.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-hammer-curl",
+      "slug": "dumbbell-hammer-curl",
+      "name": "哑铃锤式弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "以对握姿势（掌心相对）持握重量。将肘部钉在体侧——想象它们被钉住了。",
+        "保持对握向上弯举。这除了二头肌外还针对肱肌和肱桡肌。",
+        "缓慢用3秒下放，在每一厘米对抗重力。整个动作中手腕保持像钢棒一样笔直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-hammer-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-hammer-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-hammer-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-hammer-curls-with-arm-blaster",
+      "slug": "dumbbell-hammer-curls-with-arm-blaster",
+      "name": "哑铃锤式弯举臂强化",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-hammer-curls-with-arm-blaster.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-hammer-curls-with-arm-blaster.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-hammer-curls-with-arm-blaster.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-high-curl",
+      "slug": "dumbbell-high-curl",
+      "name": "哑铃高位弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-high-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-high-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-high-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-incline-biceps-curl",
+      "slug": "dumbbell-incline-biceps-curl",
+      "name": "哑铃上斜二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-incline-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-incline-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-incline-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-incline-curl-v-2",
+      "slug": "dumbbell-incline-curl-v-2",
+      "name": "哑铃上斜弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-incline-curl-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-incline-curl-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-incline-curl-v-2.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-incline-curl",
+      "slug": "dumbbell-incline-curl",
+      "name": "哑铃上斜弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-incline-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-incline-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-incline-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-incline-hammer-curl",
+      "slug": "dumbbell-incline-hammer-curl",
+      "name": "哑铃上斜锤式弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "以对握姿势（掌心相对）持握重量。将肘部钉在体侧——想象它们被钉住了。",
+        "保持对握向上弯举。这除了二头肌外还针对肱肌和肱桡肌。",
+        "缓慢用3秒下放，在每一厘米对抗重力。整个动作中手腕保持像钢棒一样笔直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-incline-hammer-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-incline-hammer-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-incline-hammer-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-incline-inner-biceps-curl",
+      "slug": "dumbbell-incline-inner-biceps-curl",
+      "name": "哑铃上斜二头弯举内侧",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-incline-inner-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-incline-inner-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-incline-inner-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-kneeling-bicep-curl-exercise-ball",
+      "slug": "dumbbell-kneeling-bicep-curl-exercise-ball",
+      "name": "哑铃瑜伽球跪姿二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "跪姿，髋部直接在膝盖上方，躯干挺直。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-kneeling-bicep-curl-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-kneeling-bicep-curl-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-kneeling-bicep-curl-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-lunge-with-bicep-curl",
+      "slug": "dumbbell-lunge-with-bicep-curl",
+      "name": "哑铃二头弯举弓步",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-lunge-with-bicep-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-lunge-with-bicep-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-lunge-with-bicep-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-lying-supine-biceps-curl",
+      "slug": "dumbbell-lying-supine-biceps-curl",
+      "name": "哑铃仰卧仰卧二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-lying-supine-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-lying-supine-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-lying-supine-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-lying-supine-curl",
+      "slug": "dumbbell-lying-supine-curl",
+      "name": "哑铃仰卧仰卧弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-lying-supine-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-lying-supine-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-lying-supine-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-lying-wide-curl",
+      "slug": "dumbbell-lying-wide-curl",
+      "name": "哑铃仰卧宽距弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-lying-wide-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-lying-wide-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-lying-wide-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-concentration-curl-on-stability-ball",
+      "slug": "dumbbell-one-arm-concentration-curl-on-stability-ball",
+      "name": "哑铃瑜伽球单臂集中弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "双腿分开坐下，将工作臂的后侧靠在大腿内侧。这锁定了上臂。",
+        "缓慢弯举重量，完全专注于二头肌的收缩。在顶部像挤橙汁一样挤压。",
+        "用3秒下放并完全伸展。你的大腿就是护栏——不可能摆动。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-one-arm-concentration-curl-on-stability-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-concentration-curl-on-stability-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-concentration-curl-on-stability-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-hammer-preacher-curl",
+      "slug": "dumbbell-one-arm-hammer-preacher-curl",
+      "name": "哑铃单臂锤式牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "以对握姿势（掌心相对）持握重量。将肘部钉在体侧——想象它们被钉住了。",
+        "保持对握向上弯举。这除了二头肌外还针对肱肌和肱桡肌。",
+        "缓慢用3秒下放，在每一厘米对抗重力。整个动作中手腕保持像钢棒一样笔直。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-one-arm-hammer-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-hammer-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-hammer-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-prone-curl",
+      "slug": "dumbbell-one-arm-prone-curl",
+      "name": "哑铃俯卧单臂弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-one-arm-prone-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-prone-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-prone-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-prone-hammer-curl",
+      "slug": "dumbbell-one-arm-prone-hammer-curl",
+      "name": "哑铃俯卧单臂锤式弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "以对握姿势（掌心相对）持握重量。将肘部钉在体侧——想象它们被钉住了。",
+        "保持对握向上弯举。这除了二头肌外还针对肱肌和肱桡肌。",
+        "缓慢用3秒下放，在每一厘米对抗重力。整个动作中手腕保持像钢棒一样笔直。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-one-arm-prone-hammer-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-prone-hammer-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-prone-hammer-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-reverse-preacher-curl",
+      "slug": "dumbbell-one-arm-reverse-preacher-curl",
+      "name": "哑铃单臂反向牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-one-arm-reverse-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-reverse-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-reverse-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-reverse-spider-curl",
+      "slug": "dumbbell-one-arm-reverse-spider-curl",
+      "name": "哑铃单臂反向蜘蛛弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "俯卧在斜凳上，手臂自然垂直向下。整个动作中重力都在与你对抗。",
+        "向上弯举，在顶部用力收紧二头肌。斜角保持恒定张力——底部没有休息。",
+        "控制下放至完全伸展。这个角度使作弊几乎不可能——用更轻的重量专注于动作质量。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-one-arm-reverse-spider-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-reverse-spider-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-reverse-spider-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-seated-bicep-curl-on-exercise-ball",
+      "slug": "dumbbell-one-arm-seated-bicep-curl-on-exercise-ball",
+      "name": "哑铃瑜伽球坐姿单臂二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-one-arm-seated-bicep-curl-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-seated-bicep-curl-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-seated-bicep-curl-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-seated-hammer-curl",
+      "slug": "dumbbell-one-arm-seated-hammer-curl",
+      "name": "哑铃坐姿单臂锤式弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "以对握姿势（掌心相对）持握重量。将肘部钉在体侧——想象它们被钉住了。",
+        "保持对握向上弯举。这除了二头肌外还针对肱肌和肱桡肌。",
+        "缓慢用3秒下放，在每一厘米对抗重力。整个动作中手腕保持像钢棒一样笔直。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-one-arm-seated-hammer-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-seated-hammer-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-seated-hammer-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-standing-curl",
+      "slug": "dumbbell-one-arm-standing-curl",
+      "name": "哑铃站姿单臂弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-one-arm-standing-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-standing-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-standing-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-standing-hammer-curl",
+      "slug": "dumbbell-one-arm-standing-hammer-curl",
+      "name": "哑铃站姿单臂锤式弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "以对握姿势（掌心相对）持握重量。将肘部钉在体侧——想象它们被钉住了。",
+        "保持对握向上弯举。这除了二头肌外还针对肱肌和肱桡肌。",
+        "缓慢用3秒下放，在每一厘米对抗重力。整个动作中手腕保持像钢棒一样笔直。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-one-arm-standing-hammer-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-standing-hammer-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-standing-hammer-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-zottman-preacher-curl",
+      "slug": "dumbbell-one-arm-zottman-preacher-curl",
+      "name": "哑铃单臂佐特曼牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-one-arm-zottman-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-zottman-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-zottman-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-over-bench-neutral-wrist-curl",
+      "slug": "dumbbell-over-bench-neutral-wrist-curl",
+      "name": "哑铃腕弯举过凳中立",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "使用对握（掌心相对），对关节更友好，并改变刺激重点。",
+        "将前臂放在大腿或凳子上，手腕悬出边缘。前臂紧贴支撑面。",
+        "向上弯曲手腕，在顶部收紧前臂肌肉。短暂停顿。",
+        "缓慢下放，让重量充分拉伸手腕。只有手腕在动——前臂保持不动。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-over-bench-neutral-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-over-bench-neutral-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-over-bench-neutral-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-over-bench-one-arm-neutral-wrist-curl",
+      "slug": "dumbbell-over-bench-one-arm-neutral-wrist-curl",
+      "name": "哑铃单臂腕弯举过凳中立",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "使用对握（掌心相对），对关节更友好，并改变刺激重点。",
+        "将前臂放在大腿或凳子上，手腕悬出边缘。前臂紧贴支撑面。",
+        "向上弯曲手腕，在顶部收紧前臂肌肉。短暂停顿。",
+        "缓慢下放，让重量充分拉伸手腕。只有手腕在动——前臂保持不动。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-over-bench-one-arm-neutral-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-over-bench-one-arm-neutral-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-over-bench-one-arm-neutral-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-peacher-hammer-curl",
+      "slug": "dumbbell-peacher-hammer-curl",
+      "name": "哑铃牧师凳锤式弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "以对握姿势（掌心相对）持握重量。将肘部钉在体侧——想象它们被钉住了。",
+        "保持对握向上弯举。这除了二头肌外还针对肱肌和肱桡肌。",
+        "缓慢用3秒下放，在每一厘米对抗重力。整个动作中手腕保持像钢棒一样笔直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-peacher-hammer-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-peacher-hammer-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-peacher-hammer-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-preacher-curl-over-exercise-ball",
+      "slug": "dumbbell-preacher-curl-over-exercise-ball",
+      "name": "哑铃瑜伽球牧师凳弯举过",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-preacher-curl-over-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-preacher-curl-over-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-preacher-curl-over-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-preacher-curl",
+      "slug": "dumbbell-preacher-curl",
+      "name": "哑铃牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-prone-incline-curl",
+      "slug": "dumbbell-prone-incline-curl",
+      "name": "哑铃俯卧上斜弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-prone-incline-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-prone-incline-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-prone-incline-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-prone-incline-hammer-curl",
+      "slug": "dumbbell-prone-incline-hammer-curl",
+      "name": "哑铃俯卧上斜锤式弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "以对握姿势（掌心相对）持握重量。将肘部钉在体侧——想象它们被钉住了。",
+        "保持对握向上弯举。这除了二头肌外还针对肱肌和肱桡肌。",
+        "缓慢用3秒下放，在每一厘米对抗重力。整个动作中手腕保持像钢棒一样笔直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-prone-incline-hammer-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-prone-incline-hammer-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-prone-incline-hammer-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-revers-grip-biceps-curl",
+      "slug": "dumbbell-revers-grip-biceps-curl",
+      "name": "哑铃反握肱二头肌弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-revers-grip-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-revers-grip-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-revers-grip-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-reverse-preacher-curl",
+      "slug": "dumbbell-reverse-preacher-curl",
+      "name": "哑铃反向牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-reverse-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-reverse-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-reverse-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-reverse-spider-curl",
+      "slug": "dumbbell-reverse-spider-curl",
+      "name": "哑铃反向蜘蛛弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "俯卧在斜凳上，手臂自然垂直向下。整个动作中重力都在与你对抗。",
+        "向上弯举，在顶部用力收紧二头肌。斜角保持恒定张力——底部没有休息。",
+        "控制下放至完全伸展。这个角度使作弊几乎不可能——用更轻的重量专注于动作质量。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-reverse-spider-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-reverse-spider-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-reverse-spider-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-seated-alternate-hammer-curl-on-exercise-ball",
+      "slug": "dumbbell-seated-alternate-hammer-curl-on-exercise-ball",
+      "name": "哑铃瑜伽球坐姿交替锤式弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "以对握姿势（掌心相对）持握重量。将肘部钉在体侧——想象它们被钉住了。",
+        "保持对握向上弯举。这除了二头肌外还针对肱肌和肱桡肌。",
+        "缓慢用3秒下放，在每一厘米对抗重力。整个动作中手腕保持像钢棒一样笔直。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-seated-alternate-hammer-curl-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-alternate-hammer-curl-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-alternate-hammer-curl-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-seated-bicep-curl",
+      "slug": "dumbbell-seated-bicep-curl",
+      "name": "哑铃坐姿二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-seated-bicep-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-bicep-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-bicep-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-seated-biceps-curl-on-stability-ball",
+      "slug": "dumbbell-seated-biceps-curl-on-stability-ball",
+      "name": "哑铃瑜伽球坐姿二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-seated-biceps-curl-on-stability-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-biceps-curl-on-stability-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-biceps-curl-on-stability-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-seated-biceps-curl-to-shoulder-press",
+      "slug": "dumbbell-seated-biceps-curl-to-shoulder-press",
+      "name": "哑铃坐姿肩部推举二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-seated-biceps-curl-to-shoulder-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-biceps-curl-to-shoulder-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-biceps-curl-to-shoulder-press.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-seated-curl",
+      "slug": "dumbbell-seated-curl",
+      "name": "哑铃坐姿弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-seated-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-seated-hammer-curl",
+      "slug": "dumbbell-seated-hammer-curl",
+      "name": "哑铃坐姿锤式弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "以对握姿势（掌心相对）持握重量。将肘部钉在体侧——想象它们被钉住了。",
+        "保持对握向上弯举。这除了二头肌外还针对肱肌和肱桡肌。",
+        "缓慢用3秒下放，在每一厘米对抗重力。整个动作中手腕保持像钢棒一样笔直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-seated-hammer-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-hammer-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-hammer-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-seated-inner-biceps-curl",
+      "slug": "dumbbell-seated-inner-biceps-curl",
+      "name": "哑铃坐姿二头弯举内侧",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-seated-inner-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-inner-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-inner-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-seated-neutral-wrist-curl",
+      "slug": "dumbbell-seated-neutral-wrist-curl",
+      "name": "哑铃坐姿腕弯举中立",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "使用对握（掌心相对），对关节更友好，并改变刺激重点。",
+        "将前臂放在大腿或凳子上，手腕悬出边缘。前臂紧贴支撑面。",
+        "向上弯曲手腕，在顶部收紧前臂肌肉。短暂停顿。",
+        "缓慢下放，让重量充分拉伸手腕。只有手腕在动——前臂保持不动。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-seated-neutral-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-neutral-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-neutral-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised",
+      "slug": "dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised",
+      "name": "哑铃瑜伽球坐姿单臂二头弯举腿抬起",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-seated-preacher-curl",
+      "slug": "dumbbell-seated-preacher-curl",
+      "name": "哑铃坐姿牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-seated-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-seated-revers-grip-concentration-curl",
+      "slug": "dumbbell-seated-revers-grip-concentration-curl",
+      "name": "坐姿哑铃反握集中弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "双腿分开坐下，将工作臂的后侧靠在大腿内侧。这锁定了上臂。",
+        "缓慢弯举重量，完全专注于二头肌的收缩。在顶部像挤橙汁一样挤压。",
+        "用3秒下放并完全伸展。你的大腿就是护栏——不可能摆动。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-seated-revers-grip-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-revers-grip-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-revers-grip-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-standing-alternate-hammer-curl-and-press",
+      "slug": "dumbbell-standing-alternate-hammer-curl-and-press",
+      "name": "哑铃站姿交替锤式弯举推举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+        "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+        "控制将重量收回，在整个运动范围内保持张力。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-standing-alternate-hammer-curl-and-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-alternate-hammer-curl-and-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-alternate-hammer-curl-and-press.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-standing-biceps-curl",
+      "slug": "dumbbell-standing-biceps-curl",
+      "name": "哑铃站姿二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-standing-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-standing-concentration-curl",
+      "slug": "dumbbell-standing-concentration-curl",
+      "name": "哑铃站姿集中弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "双腿分开坐下，将工作臂的后侧靠在大腿内侧。这锁定了上臂。",
+        "缓慢弯举重量，完全专注于二头肌的收缩。在顶部像挤橙汁一样挤压。",
+        "用3秒下放并完全伸展。你的大腿就是护栏——不可能摆动。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-standing-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-standing-inner-biceps-curl-v-2",
+      "slug": "dumbbell-standing-inner-biceps-curl-v-2",
+      "name": "哑铃站姿二头弯举内侧",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-standing-inner-biceps-curl-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-inner-biceps-curl-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-inner-biceps-curl-v-2.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-standing-one-arm-concentration-curl",
+      "slug": "dumbbell-standing-one-arm-concentration-curl",
+      "name": "哑铃站姿单臂集中弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "双腿分开坐下，将工作臂的后侧靠在大腿内侧。这锁定了上臂。",
+        "缓慢弯举重量，完全专注于二头肌的收缩。在顶部像挤橙汁一样挤压。",
+        "用3秒下放并完全伸展。你的大腿就是护栏——不可能摆动。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-standing-one-arm-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-one-arm-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-one-arm-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-standing-one-arm-curl-over-incline-bench-1680",
+      "slug": "dumbbell-standing-one-arm-curl-over-incline-bench-1680",
+      "name": "哑铃站姿单臂上斜弯举过凳",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-standing-one-arm-curl-over-incline-bench-1680.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-one-arm-curl-over-incline-bench-1680.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-one-arm-curl-over-incline-bench-1680.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-standing-one-arm-curl-over-incline-bench",
+      "slug": "dumbbell-standing-one-arm-curl-over-incline-bench",
+      "name": "哑铃站姿单臂上斜弯举过凳",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-standing-one-arm-curl-over-incline-bench.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-one-arm-curl-over-incline-bench.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-one-arm-curl-over-incline-bench.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-standing-one-arm-reverse-curl",
+      "slug": "dumbbell-standing-one-arm-reverse-curl",
+      "name": "哑铃站姿单臂反握弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-standing-one-arm-reverse-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-one-arm-reverse-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-one-arm-reverse-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-standing-preacher-curl",
+      "slug": "dumbbell-standing-preacher-curl",
+      "name": "哑铃站姿牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-standing-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-standing-reverse-curl",
+      "slug": "dumbbell-standing-reverse-curl",
+      "name": "哑铃站姿反握弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-standing-reverse-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-reverse-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-reverse-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-standing-zottman-preacher-curl",
+      "slug": "dumbbell-standing-zottman-preacher-curl",
+      "name": "哑铃站姿佐特曼牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-standing-zottman-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-zottman-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-zottman-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-step-up-single-leg-balance-with-bicep-curl",
+      "slug": "dumbbell-step-up-single-leg-balance-with-bicep-curl",
+      "name": "哑铃单腿二头弯举上踏步平衡",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-step-up-single-leg-balance-with-bicep-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-step-up-single-leg-balance-with-bicep-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-step-up-single-leg-balance-with-bicep-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-waiter-biceps-curl",
+      "slug": "dumbbell-waiter-biceps-curl",
+      "name": "哑铃二头弯举侍者",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-waiter-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-waiter-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-waiter-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-zottman-curl",
+      "slug": "dumbbell-zottman-curl",
+      "name": "哑铃佐特曼弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-zottman-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-zottman-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-zottman-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-zottman-preacher-curl",
+      "slug": "dumbbell-zottman-preacher-curl",
+      "name": "哑铃佐特曼牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/dumbbell-zottman-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-zottman-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-zottman-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-bar-biceps-curl-with-arm-blaster",
+      "slug": "ez-bar-biceps-curl-with-arm-blaster",
+      "name": "曲杆二头弯举臂强化",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/ez-bar-biceps-curl-with-arm-blaster.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-bar-biceps-curl-with-arm-blaster.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-bar-biceps-curl-with-arm-blaster.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-bar-seated-close-grip-concentration-curl",
+      "slug": "ez-bar-seated-close-grip-concentration-curl",
+      "name": "曲杆坐姿窄握集中弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "双腿分开坐下，将工作臂的后侧靠在大腿内侧。这锁定了上臂。",
+        "缓慢弯举重量，完全专注于二头肌的收缩。在顶部像挤橙汁一样挤压。",
+        "用3秒下放并完全伸展。你的大腿就是护栏——不可能摆动。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/ez-bar-seated-close-grip-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-bar-seated-close-grip-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-bar-seated-close-grip-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-close-grip-curl",
+      "slug": "ez-barbell-close-grip-curl",
+      "name": "曲杆窄握弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/ez-barbell-close-grip-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-close-grip-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-close-grip-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-close-grip-preacher-curl",
+      "slug": "ez-barbell-close-grip-preacher-curl",
+      "name": "曲杆窄握牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/ez-barbell-close-grip-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-close-grip-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-close-grip-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-curl",
+      "slug": "ez-barbell-curl",
+      "name": "曲杆弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/ez-barbell-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-reverse-grip-curl",
+      "slug": "ez-barbell-reverse-grip-curl",
+      "name": "曲杆反握弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/ez-barbell-reverse-grip-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-reverse-grip-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-reverse-grip-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-reverse-grip-preacher-curl",
+      "slug": "ez-barbell-reverse-grip-preacher-curl",
+      "name": "曲杆反握牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/ez-barbell-reverse-grip-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-reverse-grip-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-reverse-grip-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-seated-curls",
+      "slug": "ez-barbell-seated-curls",
+      "name": "曲杆坐姿弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/ez-barbell-seated-curls.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-seated-curls.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-seated-curls.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-spider-curl-1628",
+      "slug": "ez-barbell-spider-curl-1628",
+      "name": "曲杆蜘蛛弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "俯卧在斜凳上，手臂自然垂直向下。整个动作中重力都在与你对抗。",
+        "向上弯举，在顶部用力收紧二头肌。斜角保持恒定张力——底部没有休息。",
+        "控制下放至完全伸展。这个角度使作弊几乎不可能——用更轻的重量专注于动作质量。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/ez-barbell-spider-curl-1628.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-spider-curl-1628.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-spider-curl-1628.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-spider-curl",
+      "slug": "ez-barbell-spider-curl",
+      "name": "曲杆蜘蛛弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "俯卧在斜凳上，手臂自然垂直向下。整个动作中重力都在与你对抗。",
+        "向上弯举，在顶部用力收紧二头肌。斜角保持恒定张力——底部没有休息。",
+        "控制下放至完全伸展。这个角度使作弊几乎不可能——用更轻的重量专注于动作质量。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/ez-barbell-spider-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-spider-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-spider-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-standing-wide-grip-biceps-curl",
+      "slug": "ez-barbell-standing-wide-grip-biceps-curl",
+      "name": "曲杆站姿宽握二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "使用宽握，双手远超肩宽，增加拉伸和外侧刺激。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/ez-barbell-standing-wide-grip-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-standing-wide-grip-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-standing-wide-grip-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/kettlebell-bottoms-up-clean-from-the-hang-position",
+      "slug": "kettlebell-bottoms-up-clean-from-the-hang-position",
+      "name": "壶铃翻举底上悬挂位置",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "仰卧，膝盖弯曲，双脚固定（V字起坐时双脚自由）。手臂在指定位置。",
+        "激活核心完全坐起——用胸部引导，不是下巴。V字起坐时同时抬起双腿和躯干。",
+        "控制下放回去。不要用惯性摆起来——如果需要借力，做更容易的变式。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/kettlebell-bottoms-up-clean-from-the-hang-position.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/kettlebell-bottoms-up-clean-from-the-hang-position.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/kettlebell-bottoms-up-clean-from-the-hang-position.thumb.webp"
+    },
+    {
+      "id": "biceps/kettlebell-double-alternating-hang-clean",
+      "slug": "kettlebell-double-alternating-hang-clean",
+      "name": "壶铃交替悬垂翻举双",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "双脚与髋同宽，杠铃在脚掌中间上方。下沉髋部，抬起胸部，手臂伸直——消除杠铃的松弛。",
+        "爆发性地推地，伸展髋部和膝盖。当杠铃过膝后，以猛烈的伸髋和耸肩加速。",
+        "快速下沉到杠铃下方，在肩膀（翻举）或头顶（抓举）接住杠铃。用柔软的膝盖缓冲接杠，然后站起。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/kettlebell-double-alternating-hang-clean.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/kettlebell-double-alternating-hang-clean.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/kettlebell-double-alternating-hang-clean.thumb.webp"
+    },
+    {
+      "id": "biceps/lever-bicep-curl",
+      "slug": "lever-bicep-curl",
+      "name": "固定器械二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/lever-bicep-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-bicep-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-bicep-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/lever-hammer-grip-preacher-curl",
+      "slug": "lever-hammer-grip-preacher-curl",
+      "name": "固定器械锤式握牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/lever-hammer-grip-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-hammer-grip-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-hammer-grip-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/lever-preacher-curl-v-2",
+      "slug": "lever-preacher-curl-v-2",
+      "name": "固定器械牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/lever-preacher-curl-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-preacher-curl-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-preacher-curl-v-2.thumb.webp"
+    },
+    {
+      "id": "biceps/lever-preacher-curl",
+      "slug": "lever-preacher-curl",
+      "name": "固定器械牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/lever-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/lever-reverse-grip-preacher-curl",
+      "slug": "lever-reverse-grip-preacher-curl",
+      "name": "固定器械反握牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/lever-reverse-grip-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-reverse-grip-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-reverse-grip-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/olympic-barbell-hammer-curl",
+      "slug": "olympic-barbell-hammer-curl",
+      "name": "杠铃锤式弯举奥林匹克",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "以对握姿势（掌心相对）持握重量。将肘部钉在体侧——想象它们被钉住了。",
+        "保持对握向上弯举。这除了二头肌外还针对肱肌和肱桡肌。",
+        "缓慢用3秒下放，在每一厘米对抗重力。整个动作中手腕保持像钢棒一样笔直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/olympic-barbell-hammer-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/olympic-barbell-hammer-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/olympic-barbell-hammer-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/resistance-band-seated-biceps-curl",
+      "slug": "resistance-band-seated-biceps-curl",
+      "name": "弹力带坐姿二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "将弹力带固定在正确的锚点，确保有初始张力。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/resistance-band-seated-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/resistance-band-seated-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/resistance-band-seated-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/smith-machine-bicep-curl",
+      "slug": "smith-machine-bicep-curl",
+      "name": "史密斯机二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "在史密斯机上设置杠铃高度并装上合适的重量。将身体置于杠铃下方。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/smith-machine-bicep-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/smith-machine-bicep-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/smith-machine-bicep-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/weighted-seated-bicep-curl-on-stability-ball",
+      "slug": "weighted-seated-bicep-curl-on-stability-ball",
+      "name": "瑜伽球坐姿负重二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/weighted-seated-bicep-curl-on-stability-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/weighted-seated-bicep-curl-on-stability-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/weighted-seated-bicep-curl-on-stability-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/weighted-standing-curl",
+      "slug": "weighted-standing-curl",
+      "name": "站姿负重弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/weighted-standing-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/weighted-standing-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/weighted-standing-curl.thumb.webp"
+    }
+  ]
+}

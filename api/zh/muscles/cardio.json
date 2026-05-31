@@ -1,0 +1,620 @@
+{
+  "muscle": "cardio",
+  "count": 29,
+  "exercises": [
+    {
+      "id": "cardio/astride-jumps-male",
+      "slug": "astride-jumps-male",
+      "name": "跨跳",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "双脚与髋到肩同宽站立。快速下蹲蓄力——弯曲膝盖和髋部积蓄张力。",
+        "向上爆发，完全伸展髋部、膝盖和踝关节。如适用，摆动手臂增加高度。",
+        "弯曲膝盖柔软着地，通过双腿吸收冲击。想着像猫一样无声地着地。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/astride-jumps-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/astride-jumps-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/astride-jumps-male.thumb.webp"
+    },
+    {
+      "id": "cardio/back-and-forth-step",
+      "slug": "back-and-forth-step",
+      "name": "背前台阶",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "采取挺直的姿势，从踝关节处微微前倾。手臂呈90度自然摆动。",
+        "驱动膝盖向前，中足着地，保持节奏平稳一致。",
+        "全程收紧核心，保持呼吸节奏——鼻吸口呼，配合步伐。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/back-and-forth-step.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/back-and-forth-step.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/back-and-forth-step.thumb.webp"
+    },
+    {
+      "id": "cardio/bear-crawl",
+      "slug": "bear-crawl",
+      "name": "熊爬行",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "四肢着地开始，膝盖悬离地面约一厘米。核心收紧，背部平直。",
+        "通过同时移动对侧的手和脚来前进——右手配左脚，反之亦然。",
+        "保持髋部低而稳定，动作有目的性。步伐越小越可控，核心激活越好。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/bear-crawl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/bear-crawl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/bear-crawl.thumb.webp"
+    },
+    {
+      "id": "cardio/burpee",
+      "slug": "burpee",
+      "name": "波比跳",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "quads",
+        "glutes",
+        "abs"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "直立站好，然后下蹲将双手放在地面上。",
+        "跳或退步到俯卧撑位置。做一个俯卧撑（或跳过以提高速度）。",
+        "跳或迈步将脚收回到手边，然后爆发跳起，双手过头。轻柔落地并重复。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/burpee.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/burpee.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/burpee.thumb.webp"
+    },
+    {
+      "id": "cardio/cycle-cross-trainer",
+      "slug": "cycle-cross-trainer",
+      "name": "骑行交叉训练器",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "调整座位和把手适合你的身体。坐下时在踏板最低点膝盖微曲。",
+        "平稳踩踏，向下推、向上拉形成圆形运动。在目标阻力下保持稳定的踏频。",
+        "保持挺直的姿势，收紧核心，全程有节奏地呼吸。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/cycle-cross-trainer.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/cycle-cross-trainer.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/cycle-cross-trainer.thumb.webp"
+    },
+    {
+      "id": "cardio/dumbbell-burpee",
+      "slug": "dumbbell-burpee",
+      "name": "哑铃波比跳",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "dumbbell",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "quads",
+        "glutes",
+        "abs"
+      ],
+      "instructions": [
+        "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+        "直立站好，然后下蹲将双手放在地面上。",
+        "跳或退步到俯卧撑位置。做一个俯卧撑（或跳过以提高速度）。",
+        "跳或迈步将脚收回到手边，然后爆发跳起，双手过头。轻柔落地并重复。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/dumbbell-burpee.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/dumbbell-burpee.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/dumbbell-burpee.thumb.webp"
+    },
+    {
+      "id": "cardio/half-knee-bends-male",
+      "slug": "half-knee-bends-male",
+      "name": "半膝弯曲",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "保持适合你体能水平的稳定节奏。",
+        "收紧核心，在整个练习过程中保持挺直的姿势。",
+        "以干净的技术继续计划的时间或次数。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/half-knee-bends-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/half-knee-bends-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/half-knee-bends-male.thumb.webp"
+    },
+    {
+      "id": "cardio/high-knee-against-wall",
+      "slug": "high-knee-against-wall",
+      "name": "高抬腿对抗墙",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "采取挺直的姿势，从踝关节处微微前倾。手臂呈90度自然摆动。",
+        "驱动膝盖向前，中足着地，保持节奏平稳一致。",
+        "全程收紧核心，保持呼吸节奏——鼻吸口呼，配合步伐。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/high-knee-against-wall.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/high-knee-against-wall.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/high-knee-against-wall.thumb.webp"
+    },
+    {
+      "id": "cardio/jack-burpee",
+      "slug": "jack-burpee",
+      "name": "波比跳开合跳",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "quads",
+        "glutes",
+        "abs"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "直立站好，然后下蹲将双手放在地面上。",
+        "跳或退步到俯卧撑位置。做一个俯卧撑（或跳过以提高速度）。",
+        "跳或迈步将脚收回到手边，然后爆发跳起，双手过头。轻柔落地并重复。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/jack-burpee.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jack-burpee.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jack-burpee.thumb.webp"
+    },
+    {
+      "id": "cardio/jack-jump-male",
+      "slug": "jack-jump-male",
+      "name": "开合跳跳",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "双脚与髋到肩同宽站立。快速下蹲蓄力——弯曲膝盖和髋部积蓄张力。",
+        "向上爆发，完全伸展髋部、膝盖和踝关节。如适用，摆动手臂增加高度。",
+        "弯曲膝盖柔软着地，通过双腿吸收冲击。想着像猫一样无声地着地。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/jack-jump-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jack-jump-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jack-jump-male.thumb.webp"
+    },
+    {
+      "id": "cardio/jump-rope",
+      "slug": "jump-rope",
+      "name": "跳绳",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "双脚与髋到肩同宽站立。快速下蹲蓄力——弯曲膝盖和髋部积蓄张力。",
+        "向上爆发，完全伸展髋部、膝盖和踝关节。如适用，摆动手臂增加高度。",
+        "弯曲膝盖柔软着地，通过双腿吸收冲击。想着像猫一样无声地着地。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/jump-rope.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jump-rope.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jump-rope.thumb.webp"
+    },
+    {
+      "id": "cardio/mountain-climber",
+      "slug": "mountain-climber",
+      "name": "登山者",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "从俯卧撑位置开始，核心收紧，身体成直线。",
+        "将一侧膝盖驱向胸部，然后快速交换双腿做跑步动作，保持髋部水平。",
+        "保持快速但有控制的节奏。不要让髋部上下弹跳——保持紧绷，想象水平原地跑。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/mountain-climber.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/mountain-climber.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/mountain-climber.thumb.webp"
+    },
+    {
+      "id": "cardio/push-to-run",
+      "slug": "push-to-run",
+      "name": "推跑",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "采取挺直的姿势，从踝关节处微微前倾。手臂呈90度自然摆动。",
+        "驱动膝盖向前，中足着地，保持节奏平稳一致。",
+        "全程收紧核心，保持呼吸节奏——鼻吸口呼，配合步伐。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/push-to-run.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/push-to-run.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/push-to-run.thumb.webp"
+    },
+    {
+      "id": "cardio/run-equipment",
+      "slug": "run-equipment",
+      "name": "跑器械",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "采取挺直的姿势，从踝关节处微微前倾。手臂呈90度自然摆动。",
+        "驱动膝盖向前，中足着地，保持节奏平稳一致。",
+        "全程收紧核心，保持呼吸节奏——鼻吸口呼，配合步伐。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/run-equipment.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/run-equipment.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/run-equipment.thumb.webp"
+    },
+    {
+      "id": "cardio/run",
+      "slug": "run",
+      "name": "跑",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "采取挺直的姿势，从踝关节处微微前倾。手臂呈90度自然摆动。",
+        "驱动膝盖向前，中足着地，保持节奏平稳一致。",
+        "全程收紧核心，保持呼吸节奏——鼻吸口呼，配合步伐。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/run.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/run.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/run.thumb.webp"
+    },
+    {
+      "id": "cardio/scissor-jumps-male",
+      "slug": "scissor-jumps-male",
+      "name": "剪刀跳",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "面朝上躺下，双腿伸直，双手放在臀部下方或体侧。下背紧压地面。",
+        "将双腿抬离地面几厘米，交替快速小幅度上下踢动。",
+        "整个过程保持核心收紧和下背贴地。如果背部弓起，将腿抬高一些。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/scissor-jumps-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/scissor-jumps-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/scissor-jumps-male.thumb.webp"
+    },
+    {
+      "id": "cardio/semi-squat-jump-male",
+      "slug": "semi-squat-jump-male",
+      "name": "深蹲半跳",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/semi-squat-jump-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/semi-squat-jump-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/semi-squat-jump-male.thumb.webp"
+    },
+    {
+      "id": "cardio/short-stride-run",
+      "slug": "short-stride-run",
+      "name": "短跨步跑",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "采取挺直的姿势，从踝关节处微微前倾。手臂呈90度自然摆动。",
+        "驱动膝盖向前，中足着地，保持节奏平稳一致。",
+        "全程收紧核心，保持呼吸节奏——鼻吸口呼，配合步伐。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/short-stride-run.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/short-stride-run.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/short-stride-run.thumb.webp"
+    },
+    {
+      "id": "cardio/skater-hops",
+      "slug": "skater-hops",
+      "name": "滑冰跳跃",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "双脚与髋到肩同宽站立。快速下蹲蓄力——弯曲膝盖和髋部积蓄张力。",
+        "向上爆发，完全伸展髋部、膝盖和踝关节。如适用，摆动手臂增加高度。",
+        "弯曲膝盖柔软着地，通过双腿吸收冲击。想着像猫一样无声地着地。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/skater-hops.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/skater-hops.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/skater-hops.thumb.webp"
+    },
+    {
+      "id": "cardio/ski-step",
+      "slug": "ski-step",
+      "name": "滑雪台阶",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "采取挺直的姿势，从踝关节处微微前倾。手臂呈90度自然摆动。",
+        "驱动膝盖向前，中足着地，保持节奏平稳一致。",
+        "全程收紧核心，保持呼吸节奏——鼻吸口呼，配合步伐。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/ski-step.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/ski-step.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/ski-step.thumb.webp"
+    },
+    {
+      "id": "cardio/star-jump-male",
+      "slug": "star-jump-male",
+      "name": "星形跳",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "双脚与髋到肩同宽站立。快速下蹲蓄力——弯曲膝盖和髋部积蓄张力。",
+        "向上爆发，完全伸展髋部、膝盖和踝关节。如适用，摆动手臂增加高度。",
+        "弯曲膝盖柔软着地，通过双腿吸收冲击。想着像猫一样无声地着地。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/star-jump-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/star-jump-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/star-jump-male.thumb.webp"
+    },
+    {
+      "id": "cardio/stationary-bike-run-v-3",
+      "slug": "stationary-bike-run-v-3",
+      "name": "静止自行车跑",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "采取挺直的姿势，从踝关节处微微前倾。手臂呈90度自然摆动。",
+        "驱动膝盖向前，中足着地，保持节奏平稳一致。",
+        "全程收紧核心，保持呼吸节奏——鼻吸口呼，配合步伐。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/stationary-bike-run-v-3.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/stationary-bike-run-v-3.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/stationary-bike-run-v-3.thumb.webp"
+    },
+    {
+      "id": "cardio/stationary-bike-walk",
+      "slug": "stationary-bike-walk",
+      "name": "静止自行车走",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "采取挺直的姿势，从踝关节处微微前倾。手臂呈90度自然摆动。",
+        "驱动膝盖向前，中足着地，保持节奏平稳一致。",
+        "全程收紧核心，保持呼吸节奏——鼻吸口呼，配合步伐。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/stationary-bike-walk.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/stationary-bike-walk.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/stationary-bike-walk.thumb.webp"
+    },
+    {
+      "id": "cardio/swing-360",
+      "slug": "swing-360",
+      "name": "摆动",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "双脚与肩同宽站立，双手握住壶铃。做髋部折叠开始摆动。",
+        "爆发性地将髋部向前推——力量来自髋部，不是手臂。重量作为结果向上浮起。",
+        "让壶铃自然落下，做髋部折叠来吸收。全程保持核心收紧和背部平直。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/swing-360.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/swing-360.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/swing-360.thumb.webp"
+    },
+    {
+      "id": "cardio/walk-elliptical-cross-trainer",
+      "slug": "walk-elliptical-cross-trainer",
+      "name": "走椭圆机交叉训练器",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "采取挺直的姿势，从踝关节处微微前倾。手臂呈90度自然摆动。",
+        "驱动膝盖向前，中足着地，保持节奏平稳一致。",
+        "全程收紧核心，保持呼吸节奏——鼻吸口呼，配合步伐。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/walk-elliptical-cross-trainer.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walk-elliptical-cross-trainer.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walk-elliptical-cross-trainer.thumb.webp"
+    },
+    {
+      "id": "cardio/walking-high-knees-lunge",
+      "slug": "walking-high-knees-lunge",
+      "name": "高位弓步行走膝",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "双脚与髋同宽站立（火车轨道，不是走钢丝）。迈步就位，躯干像旗杆一样挺直。",
+        "后膝像电梯一样直直下降——不要向前冲。两膝都瞄准90度。保持前胫骨垂直。",
+        "通过前脚跟发力站回来。想象通过前脚将地面推开。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/walking-high-knees-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-high-knees-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-high-knees-lunge.thumb.webp"
+    },
+    {
+      "id": "cardio/walking-on-incline-treadmill",
+      "slug": "walking-on-incline-treadmill",
+      "name": "上斜行走跑步机",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "采取挺直的姿势，从踝关节处微微前倾。手臂呈90度自然摆动。",
+        "驱动膝盖向前，中足着地，保持节奏平稳一致。",
+        "全程收紧核心，保持呼吸节奏——鼻吸口呼，配合步伐。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/walking-on-incline-treadmill.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-incline-treadmill.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-incline-treadmill.thumb.webp"
+    },
+    {
+      "id": "cardio/walking-on-stepmill",
+      "slug": "walking-on-stepmill",
+      "name": "行走登梯机",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "machine",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+        "采取挺直的姿势，从踝关节处微微前倾。手臂呈90度自然摆动。",
+        "驱动膝盖向前，中足着地，保持节奏平稳一致。",
+        "全程收紧核心，保持呼吸节奏——鼻吸口呼，配合步伐。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/walking-on-stepmill.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-stepmill.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/walking-on-stepmill.thumb.webp"
+    },
+    {
+      "id": "cardio/wheel-run",
+      "slug": "wheel-run",
+      "name": "轮跑",
+      "muscle": "cardio",
+      "bodyPart": "cardio",
+      "equipment": "bodyweight",
+      "category": "cardio",
+      "secondaryMuscles": [],
+      "instructions": [
+        "以正确的身体排列就位——耳朵在肩膀上方，肩膀在髋部上方。",
+        "采取挺直的姿势，从踝关节处微微前倾。手臂呈90度自然摆动。",
+        "驱动膝盖向前，中足着地，保持节奏平稳一致。",
+        "全程收紧核心，保持呼吸节奏——鼻吸口呼，配合步伐。",
+        "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+      ],
+      "file": "cardio/wheel-run.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/wheel-run.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/wheel-run.thumb.webp"
+    }
+  ]
+}

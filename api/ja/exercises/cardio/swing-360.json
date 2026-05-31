@@ -1,0 +1,27 @@
+{
+  "id": "cardio/swing-360",
+  "slug": "swing-360",
+  "name": "スイング",
+  "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "bodyweight",
+  "category": "cardio",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "spine",
+    "traps",
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+    "足を肩幅に開いて立ち、両手でケトルベルを持ちます。股関節でヒンジしてスイングを開始します。",
+    "股関節を爆発的に前に押し出します。力は腕ではなく腰から来ます。重りはその結果として浮き上がります。",
+    "ケトルベルが自然に落ちるに任せ、股関節でヒンジして吸収します。体幹を活性化し背中をまっすぐに保ちます。",
+    "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+  ],
+  "file": "cardio/swing-360.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/swing-360.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/swing-360.thumb.webp"
+}

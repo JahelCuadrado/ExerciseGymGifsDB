@@ -1,0 +1,22 @@
+{
+  "id": "delts/cable-lateral-raise",
+  "slug": "cable-lateral-raise",
+  "name": "Élévation latérale à la poulie",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+    "Debout avec le poids aux côtés et une légère inclinaison vers l'avant. Légère flexion des coudes.",
+    "Monte les bras sur les côtés en menant avec les coudes comme si tu versais de l'eau de deux cruches. Arrête à hauteur d'épaules.",
+    "Redescends lentement avec contrôle, résistant à la gravité tout le long. Ne balance pas — si tu as besoin d'élan, réduis le poids.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "delts/cable-lateral-raise.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/cable-lateral-raise.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/cable-lateral-raise.thumb.webp"
+}

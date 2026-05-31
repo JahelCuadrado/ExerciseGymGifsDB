@@ -304,7 +304,7 @@
     {
       "id": "biceps/dumbbell-biceps-curl-v-sit-on-bosu-ball",
       "slug": "dumbbell-biceps-curl-v-sit-on-bosu-ball",
-      "name": "Curl de bíceps con mancuerna, en bosu, sit",
+      "name": "Curl de bíceps con mancuerna, en bosu, sentado",
       "muscle": "biceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -1082,7 +1082,7 @@
     {
       "id": "biceps/dumbbell-peacher-hammer-curl",
       "slug": "dumbbell-peacher-hammer-curl",
-      "name": "Curl martillo con mancuerna, peacher",
+      "name": "Curl martillo en banco predicador con mancuerna",
       "muscle": "biceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -1194,7 +1194,7 @@
     {
       "id": "biceps/dumbbell-revers-grip-biceps-curl",
       "slug": "dumbbell-revers-grip-biceps-curl",
-      "name": "Curl de bíceps con mancuerna, revers",
+      "name": "Curl de biceps con mancuerna en agarre inverso",
       "muscle": "biceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -1495,7 +1495,7 @@
     {
       "id": "biceps/dumbbell-seated-revers-grip-concentration-curl",
       "slug": "dumbbell-seated-revers-grip-concentration-curl",
-      "name": "Curl concentrado con mancuerna, sentado, revers",
+      "name": "Curl de concentracion sentado con mancuerna en agarre inverso",
       "muscle": "biceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -2211,7 +2211,7 @@
     {
       "id": "delts/dumbbell-full-can-lateral-raise",
       "slug": "dumbbell-full-can-lateral-raise",
-      "name": "Elevación lateral con mancuerna, estilo full can",
+      "name": "Elevación lateral con mancuerna, estilo lata llena",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2394,7 +2394,7 @@
     {
       "id": "delts/dumbbell-lying-external-shoulder-rotation",
       "slug": "dumbbell-lying-external-shoulder-rotation",
-      "name": "External hombro rotation con mancuerna, tumbado",
+      "name": "Rotación externa de hombro con mancuerna, tumbado",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -2827,7 +2827,7 @@
     {
       "id": "delts/dumbbell-rotation-reverse-fly",
       "slug": "dumbbell-rotation-reverse-fly",
-      "name": "Apertura inversa con mancuerna, rotation",
+      "name": "Apertura inversa con mancuerna, rotación",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -3327,7 +3327,7 @@
     {
       "id": "delts/dumbbell-upright-shoulder-external-rotation",
       "slug": "dumbbell-upright-shoulder-external-rotation",
-      "name": "Upright hombro external rotation con mancuerna",
+      "name": "Rotación externa de hombro con mancuerna, erguido",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
@@ -3590,7 +3590,7 @@
     {
       "id": "forearms/dumbbell-over-bench-revers-wrist-curl",
       "slug": "dumbbell-over-bench-revers-wrist-curl",
-      "name": "Curl de muñeca con mancuerna, sobre banco, revers",
+      "name": "Curl inverso de muneca con mancuerna sobre banco",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -4094,7 +4094,7 @@
     {
       "id": "glutes/dumbbell-sumo-pull-through",
       "slug": "dumbbell-sumo-pull-through",
-      "name": "Pull through sumo con mancuerna",
+      "name": "Tirón entre piernas sumo con mancuerna",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -4392,7 +4392,7 @@
     {
       "id": "pectorals/dumbbell-incline-breeding",
       "slug": "dumbbell-incline-breeding",
-      "name": "Breeding inclinado con mancuerna",
+      "name": "Apertura inclinado con mancuerna",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "dumbbell",
@@ -4982,7 +4982,7 @@
     {
       "id": "pectorals/dumbbell-pullover-hip-extension-on-exercise-ball",
       "slug": "dumbbell-pullover-hip-extension-on-exercise-ball",
-      "name": "Pullover con mancuerna, en fitball, cadera extension",
+      "name": "Pullover con mancuerna, en fitball, cadera extensión",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "dumbbell",
@@ -5085,7 +5085,7 @@
     {
       "id": "pectorals/hyght-dumbbell-fly",
       "slug": "hyght-dumbbell-fly",
-      "name": "Apertura con mancuerna, hyght",
+      "name": "Apertura alta con mancuerna",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "dumbbell",
@@ -5131,7 +5131,7 @@
     {
       "id": "quads/dumbbell-single-leg-split-squat",
       "slug": "dumbbell-single-leg-split-squat",
-      "name": "Split squat con mancuerna, a una pierna",
+      "name": "Sentadilla búlgara con mancuernas",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -5180,7 +5180,7 @@
     {
       "id": "quads/dumbbell-step-up-split-squat",
       "slug": "dumbbell-step-up-split-squat",
-      "name": "Split squat con mancuerna, step-up",
+      "name": "Sentadilla búlgara en step con mancuernas",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -5437,7 +5437,7 @@
     {
       "id": "triceps/dumbbell-forward-lunge-triceps-extension",
       "slug": "dumbbell-forward-lunge-triceps-extension",
-      "name": "Extensión de tríceps con mancuerna, hacia adelante lunge",
+      "name": "Extensión de tríceps en zancada frontal con mancuerna",
       "muscle": "triceps",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -6410,7 +6410,7 @@
     {
       "id": "upper-back/dumbbell-incline-y-raise",
       "slug": "dumbbell-incline-y-raise",
-      "name": "Y-raise inclinado con mancuerna",
+      "name": "Elevación en Y inclinado con mancuerna",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "dumbbell",

@@ -1,0 +1,25 @@
+{
+  "id": "lats/barbell-pullover-to-press",
+  "slug": "barbell-pullover-to-press",
+  "name": "Pullover mit Langhantel, Drücken",
+  "muscle": "lats",
+  "bodyPart": "back",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts",
+    "pectorals",
+    "abs"
+  ],
+  "instructions": [
+    "Lade die Langhantel mit angemessenem Gewicht. Greife die Stange fest und stelle die Füße schulterbreit auf.",
+    "Spanne den Core an und fixiere die Schulterblätter. Starte den Druck aus einer stabilen Basis.",
+    "Drücke das Gewicht in einer kontrollierten Bahn vom Körper weg, strecke vollständig, ohne die Gelenke ruckartig zu blockieren.",
+    "Bringe das Gewicht kontrolliert zurück und halte die Spannung im gesamten Bewegungsumfang aufrecht.",
+    "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+  ],
+  "file": "lats/barbell-pullover-to-press.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/barbell-pullover-to-press.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/barbell-pullover-to-press.thumb.webp"
+}

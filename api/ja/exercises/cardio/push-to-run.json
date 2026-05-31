@@ -1,0 +1,20 @@
+{
+  "id": "cardio/push-to-run",
+  "slug": "push-to-run",
+  "name": "プッシュ・ラン",
+  "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "bodyweight",
+  "category": "cardio",
+  "secondaryMuscles": [],
+  "instructions": [
+    "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+    "足首からわずかに前傾した直立姿勢をとります。腕は90°で自然に振ります。",
+    "膝を前に推進し、ミッドフットで着地します。スムーズで一定のケイデンスを維持します。",
+    "運動中ずっと体幹を活性化し、呼吸リズムを維持します。鼻から吸い、口から吐きます。",
+    "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+  ],
+  "file": "cardio/push-to-run.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/push-to-run.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/push-to-run.thumb.webp"
+}

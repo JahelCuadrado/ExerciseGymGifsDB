@@ -1,0 +1,353 @@
+{
+  "muscle": "traps",
+  "count": 15,
+  "exercises": [
+    {
+      "id": "traps/band-shrug",
+      "slug": "band-shrug",
+      "name": "Schulterheben mit Widerstandsband",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Befestige das Widerstandsband am richtigen Ankerpunkt und stelle sicher, dass Grundspannung vorhanden ist.",
+        "Halte das Gewicht an den Seiten mit voll gestreckten Armen. Steh aufrecht mit entspannten Schultern.",
+        "Ziehe die Schultern gerade nach oben zu den Ohren — nicht rollen. Spanne oben 2 Sekunden an.",
+        "Senke langsam zurück. Halte die Arme die ganze Zeit gerade — das ist alles Trapezius, kein Bizeps.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "traps/band-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/band-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/band-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/barbell-shrug",
+      "slug": "barbell-shrug",
+      "name": "Schulterheben mit Langhantel",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Lade die Langhantel mit angemessenem Gewicht. Greife die Stange fest und stelle die Füße schulterbreit auf.",
+        "Halte das Gewicht an den Seiten mit voll gestreckten Armen. Steh aufrecht mit entspannten Schultern.",
+        "Ziehe die Schultern gerade nach oben zu den Ohren — nicht rollen. Spanne oben 2 Sekunden an.",
+        "Senke langsam zurück. Halte die Arme die ganze Zeit gerade — das ist alles Trapezius, kein Bizeps.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "traps/barbell-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/barbell-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/barbell-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/cable-shrug",
+      "slug": "cable-shrug",
+      "name": "Schulterheben am Kabelzug",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Befestige den passenden Griff, stelle die Umlenkrolle auf die richtige Höhe und wähle das Arbeitsgewicht.",
+        "Halte das Gewicht an den Seiten mit voll gestreckten Armen. Steh aufrecht mit entspannten Schultern.",
+        "Ziehe die Schultern gerade nach oben zu den Ohren — nicht rollen. Spanne oben 2 Sekunden an.",
+        "Senke langsam zurück. Halte die Arme die ganze Zeit gerade — das ist alles Trapezius, kein Bizeps.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "traps/cable-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/cable-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/cable-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/dumbbell-decline-shrug-v-2",
+      "slug": "dumbbell-decline-shrug-v-2",
+      "name": "Negativ-Schulterheben mit Kurzhantel",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Wähle das passende Kurzhantel-Gewicht. Greife fest zu und positioniere dich mit stabiler Basis.",
+        "Stelle die Bank auf Negativ-Neigung ein und fixiere deine Füße unter den Polstern.",
+        "Halte das Gewicht an den Seiten mit voll gestreckten Armen. Steh aufrecht mit entspannten Schultern.",
+        "Ziehe die Schultern gerade nach oben zu den Ohren — nicht rollen. Spanne oben 2 Sekunden an.",
+        "Senke langsam zurück. Halte die Arme die ganze Zeit gerade — das ist alles Trapezius, kein Bizeps.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "traps/dumbbell-decline-shrug-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-decline-shrug-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-decline-shrug-v-2.thumb.webp"
+    },
+    {
+      "id": "traps/dumbbell-decline-shrug",
+      "slug": "dumbbell-decline-shrug",
+      "name": "Negativ-Schulterheben mit Kurzhantel",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Wähle das passende Kurzhantel-Gewicht. Greife fest zu und positioniere dich mit stabiler Basis.",
+        "Stelle die Bank auf Negativ-Neigung ein und fixiere deine Füße unter den Polstern.",
+        "Halte das Gewicht an den Seiten mit voll gestreckten Armen. Steh aufrecht mit entspannten Schultern.",
+        "Ziehe die Schultern gerade nach oben zu den Ohren — nicht rollen. Spanne oben 2 Sekunden an.",
+        "Senke langsam zurück. Halte die Arme die ganze Zeit gerade — das ist alles Trapezius, kein Bizeps.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "traps/dumbbell-decline-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-decline-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-decline-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/dumbbell-incline-shrug",
+      "slug": "dumbbell-incline-shrug",
+      "name": "Schräg-Schulterheben mit Kurzhantel",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Wähle das passende Kurzhantel-Gewicht. Greife fest zu und positioniere dich mit stabiler Basis.",
+        "Stelle die Bank auf die angegebene Neigung ein und drücke deinen Rücken fest gegen das Polster.",
+        "Halte das Gewicht an den Seiten mit voll gestreckten Armen. Steh aufrecht mit entspannten Schultern.",
+        "Ziehe die Schultern gerade nach oben zu den Ohren — nicht rollen. Spanne oben 2 Sekunden an.",
+        "Senke langsam zurück. Halte die Arme die ganze Zeit gerade — das ist alles Trapezius, kein Bizeps.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "traps/dumbbell-incline-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-incline-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-incline-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/dumbbell-shrug",
+      "slug": "dumbbell-shrug",
+      "name": "Schulterheben mit Kurzhantel",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Wähle das passende Kurzhantel-Gewicht. Greife fest zu und positioniere dich mit stabiler Basis.",
+        "Halte das Gewicht an den Seiten mit voll gestreckten Armen. Steh aufrecht mit entspannten Schultern.",
+        "Ziehe die Schultern gerade nach oben zu den Ohren — nicht rollen. Spanne oben 2 Sekunden an.",
+        "Senke langsam zurück. Halte die Arme die ganze Zeit gerade — das ist alles Trapezius, kein Bizeps.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "traps/dumbbell-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/dumbbell-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/kettlebell-sumo-high-pull",
+      "slug": "kettlebell-sumo-high-pull",
+      "name": "Sumo-Ziehen mit Kettlebell, hoch",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Wähle das passende Kettlebell-Gewicht. Greife den Griff fest mit neutralem Handgelenk.",
+        "Starte in breiter Haltung (Sumo) oder hüftbreit. Greife das Gewicht mit gestreckten Armen und geladenen Hüften.",
+        "Drücke explosiv durch den Boden, strecke Hüften und Knie, dann ziehe das Gewicht auf Kinnhöhe, geführt von den Ellbogen.",
+        "Senke das Gewicht kontrolliert zur Ausgangsposition. Die Kraft kommt aus Beinen und Hüften, nicht den Armen.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "traps/kettlebell-sumo-high-pull.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/kettlebell-sumo-high-pull.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/kettlebell-sumo-high-pull.thumb.webp"
+    },
+    {
+      "id": "traps/lever-gripless-shrug-v-2",
+      "slug": "lever-gripless-shrug-v-2",
+      "name": "Schulterheben an der Maschine, ohne Griff",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+        "Halte das Gewicht an den Seiten mit voll gestreckten Armen. Steh aufrecht mit entspannten Schultern.",
+        "Ziehe die Schultern gerade nach oben zu den Ohren — nicht rollen. Spanne oben 2 Sekunden an.",
+        "Senke langsam zurück. Halte die Arme die ganze Zeit gerade — das ist alles Trapezius, kein Bizeps.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "traps/lever-gripless-shrug-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-gripless-shrug-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-gripless-shrug-v-2.thumb.webp"
+    },
+    {
+      "id": "traps/lever-gripless-shrug",
+      "slug": "lever-gripless-shrug",
+      "name": "Schulterheben an der Maschine, ohne Griff",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+        "Halte das Gewicht an den Seiten mit voll gestreckten Armen. Steh aufrecht mit entspannten Schultern.",
+        "Ziehe die Schultern gerade nach oben zu den Ohren — nicht rollen. Spanne oben 2 Sekunden an.",
+        "Senke langsam zurück. Halte die Arme die ganze Zeit gerade — das ist alles Trapezius, kein Bizeps.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "traps/lever-gripless-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-gripless-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-gripless-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/lever-shrug",
+      "slug": "lever-shrug",
+      "name": "Schulterheben an der Maschine",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+        "Halte das Gewicht an den Seiten mit voll gestreckten Armen. Steh aufrecht mit entspannten Schultern.",
+        "Ziehe die Schultern gerade nach oben zu den Ohren — nicht rollen. Spanne oben 2 Sekunden an.",
+        "Senke langsam zurück. Halte die Arme die ganze Zeit gerade — das ist alles Trapezius, kein Bizeps.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "traps/lever-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/scapula-dips",
+      "slug": "scapula-dips",
+      "name": "Dips, Schulterblatt",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Greife die Holme und strecke die Arme oben durch. Lehne dich leicht nach vorne für Brustbetonung, oder bleib aufrecht für Trizepsbetonung.",
+        "Senke, indem du die Ellbogen beugst, bis die Oberarme mindestens parallel zum Boden sind. Kontrolliere den Abstieg — kein Fallenlassen.",
+        "Drücke explosiv zurück zum vollen Durchstrecken und spanne den Zielmuskel oben an.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "traps/scapula-dips.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/scapula-dips.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/scapula-dips.thumb.webp"
+    },
+    {
+      "id": "traps/scapular-pull-up",
+      "slug": "scapular-pull-up",
+      "name": "Klimmzug, Schulterblatt",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Positioniere deinen Körper mit korrekter Ausrichtung — Ohren über Schultern, Schultern über Hüften.",
+        "Hänge an der Stange mit voll gestreckten Armen. Setze die Schultern, indem du die Schulterblätter nach unten und hinten ziehst — stecke sie in die Gesäßtaschen.",
+        "Ziehe, indem du die Ellbogen in die Gesäßtaschen treibst, führe mit der Brust, nicht mit dem Kinn. Stelle dir vor, die Stange um dein Schlüsselbein zu biegen.",
+        "Bringe das Kinn über die Stange und spanne oben an. Senke mit voller Kontrolle bis zum Tothang — verdiene jede Wiederholung aus voller Dehnung.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "traps/scapular-pull-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/scapular-pull-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/scapular-pull-up.thumb.webp"
+    },
+    {
+      "id": "traps/smith-back-shrug",
+      "slug": "smith-back-shrug",
+      "name": "Schulterheben an der Smith-Maschine, Rücken",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Halte das Gewicht an den Seiten mit voll gestreckten Armen. Steh aufrecht mit entspannten Schultern.",
+        "Ziehe die Schultern gerade nach oben zu den Ohren — nicht rollen. Spanne oben 2 Sekunden an.",
+        "Senke langsam zurück. Halte die Arme die ganze Zeit gerade — das ist alles Trapezius, kein Bizeps.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "traps/smith-back-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-back-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-back-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/smith-shrug",
+      "slug": "smith-shrug",
+      "name": "Schulterheben an der Smith-Maschine",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Stelle die Stangenhöhe an der Smith-Maschine ein und lade das passende Gewicht. Positioniere dich unter der Stange.",
+        "Halte das Gewicht an den Seiten mit voll gestreckten Armen. Steh aufrecht mit entspannten Schultern.",
+        "Ziehe die Schultern gerade nach oben zu den Ohren — nicht rollen. Spanne oben 2 Sekunden an.",
+        "Senke langsam zurück. Halte die Arme die ganze Zeit gerade — das ist alles Trapezius, kein Bizeps.",
+        "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+      ],
+      "file": "traps/smith-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/smith-shrug.thumb.webp"
+    }
+  ]
+}

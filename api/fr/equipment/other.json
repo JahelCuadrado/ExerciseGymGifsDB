@@ -1,0 +1,70 @@
+{
+  "equipment": "other",
+  "count": 3,
+  "exercises": [
+    {
+      "id": "hamstrings/standing-single-leg-curl",
+      "slug": "standing-single-leg-curl",
+      "name": "Curl, debout, une jambe",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Prépare ton matériel et adopte une position de départ stable avec une bonne posture.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/standing-single-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/standing-single-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/standing-single-leg-curl.thumb.webp"
+    },
+    {
+      "id": "upper-back/elevator",
+      "slug": "elevator",
+      "name": "Ascenseur",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prépare ton matériel et adopte une position de départ stable avec une bonne posture.",
+        "Suspends-toi à une barre ou positionne-toi avec les bras en appui. Commence jambes pendant droites.",
+        "Monte les jambes par étapes — arrêt à 45°, 90° et hauteur maximale — comme un ascenseur s'arrêtant à chaque étage.",
+        "Redescends les jambes par les mêmes étapes avec contrôle. Chaque pause construit force isométrique et contrôle dans toute l'amplitude.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/elevator.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elevator.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elevator.thumb.webp"
+    },
+    {
+      "id": "upper-back/standing-archer",
+      "slug": "standing-archer",
+      "name": "Archer, debout",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Prépare ton matériel et adopte une position de départ stable avec une bonne posture.",
+        "Active le haut du dos avant d'initier le mouvement. Ressens la connexion esprit-muscle.",
+        "Effectue le mouvement avec un contrôle total, maîtrisant les phases concentrique et excentrique.",
+        "Reviens à la position de départ en contrôlant la descente — la phase excentrique construit autant de muscle que la montée.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/standing-archer.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/standing-archer.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/standing-archer.thumb.webp"
+    }
+  ]
+}

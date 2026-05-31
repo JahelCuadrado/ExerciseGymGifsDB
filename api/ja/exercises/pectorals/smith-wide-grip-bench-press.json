@@ -1,0 +1,24 @@
+{
+  "id": "pectorals/smith-wide-grip-bench-press",
+  "slug": "smith-wide-grip-bench-press",
+  "name": "スミスマシン・ワイドグリップ・ベンチプレス",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "smith",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "スミスマシンのバーの高さを設定し、適切な重量をセットします。バーの下にポジションを取ります。",
+    "ワイドグリップを使い、肩幅よりかなり広く握って、ストレッチと外側への刺激を高めます。",
+    "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+    "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+    "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "pectorals/smith-wide-grip-bench-press.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-wide-grip-bench-press.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/smith-wide-grip-bench-press.thumb.webp"
+}

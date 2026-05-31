@@ -1,0 +1,22 @@
+{
+  "id": "biceps/dumbbell-preacher-curl",
+  "slug": "dumbbell-preacher-curl",
+  "name": "哑铃牧师凳弯举",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+    "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+    "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+    "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+    "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+  ],
+  "file": "biceps/dumbbell-preacher-curl.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-preacher-curl.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-preacher-curl.thumb.webp"
+}

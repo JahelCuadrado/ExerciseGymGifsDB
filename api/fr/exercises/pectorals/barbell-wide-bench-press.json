@@ -1,0 +1,23 @@
+{
+  "id": "pectorals/barbell-wide-bench-press",
+  "slug": "barbell-wide-bench-press",
+  "name": "Développé couché à la barre, large",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+    "Serre tes omoplates comme si tu tenais un crayon entre elles — cela crée une base stable pour pousser.",
+    "Descends la barre vers le milieu de la poitrine avec les coudes à environ 45° — pense à une forme de flèche, pas un T — contrôle la descente pendant 2-3 secondes.",
+    "Pousse-toi toi-même dans le banc, éloignant la barre. Dirige la barre dans un léger arc vers les supports pour terminer la répétition.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "pectorals/barbell-wide-bench-press.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-wide-bench-press.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-wide-bench-press.thumb.webp"
+}

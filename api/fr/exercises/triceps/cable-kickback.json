@@ -1,0 +1,22 @@
+{
+  "id": "triceps/cable-kickback",
+  "slug": "cable-kickback",
+  "name": "Kickback à la poulie",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+    "Penche-toi en avant aux hanches. Fixe le bras parallèle au torse, coude à 90°.",
+    "Étends le bras complètement derrière en contractant le triceps au verrouillage. Tiens une seconde en extension complète.",
+    "Redescends avec contrôle à 90° sans laisser tomber le bras. Seul l'avant-bras pivote comme une porte.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "triceps/cable-kickback.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/cable-kickback.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/cable-kickback.thumb.webp"
+}

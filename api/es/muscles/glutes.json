@@ -5,7 +5,7 @@
     {
       "id": "glutes/arms-apart-circular-toe-touch-male",
       "slug": "arms-apart-circular-toe-touch-male",
-      "name": "Tocar punta del pie, brazos apart circular",
+      "name": "Tocar punta del pie con brazos separados, circular",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -110,7 +110,7 @@
     {
       "id": "glutes/band-lying-hip-internal-rotation",
       "slug": "band-lying-hip-internal-rotation",
-      "name": "Cadera internal rotation con banda, tumbado",
+      "name": "Rotación interna de cadera con banda, tumbado",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -131,7 +131,7 @@
     {
       "id": "glutes/band-pull-through",
       "slug": "band-pull-through",
-      "name": "Pull through con banda",
+      "name": "Tirón entre piernas con banda",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -154,7 +154,7 @@
     {
       "id": "glutes/band-seated-hip-internal-rotation",
       "slug": "band-seated-hip-internal-rotation",
-      "name": "Cadera internal rotation con banda, sentado",
+      "name": "Rotación interna de cadera con banda, sentado",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -533,7 +533,7 @@
     {
       "id": "glutes/barbell-hack-squat",
       "slug": "barbell-hack-squat",
-      "name": "Hack squat con barra",
+      "name": "Sentadilla hack con barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -905,7 +905,7 @@
     {
       "id": "glutes/barbell-speed-squat",
       "slug": "barbell-speed-squat",
-      "name": "Sentadilla con barra, speed",
+      "name": "Sentadilla rápida con barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1017,7 +1017,7 @@
     {
       "id": "glutes/basic-toe-touch-male",
       "slug": "basic-toe-touch-male",
-      "name": "Tocar punta del pie, basic",
+      "name": "Tocar punta del pie, básico",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -1081,7 +1081,7 @@
     {
       "id": "glutes/bodyweight-drop-jump-squat",
       "slug": "bodyweight-drop-jump-squat",
-      "name": "Sentadilla con salto con peso corporal, drop",
+      "name": "Sentadilla con salto en caída, con peso corporal",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -1130,7 +1130,7 @@
     {
       "id": "glutes/cable-pull-through-with-rope",
       "slug": "cable-pull-through-with-rope",
-      "name": "Pull through en polea, con cuerda",
+      "name": "Tirón entre piernas en polea, con cuerda",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "cable",
@@ -1592,7 +1592,7 @@
     {
       "id": "glutes/dumbbell-sumo-pull-through",
       "slug": "dumbbell-sumo-pull-through",
-      "name": "Pull through sumo con mancuerna",
+      "name": "Tirón entre piernas sumo con mancuerna",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "dumbbell",
@@ -1635,7 +1635,7 @@
     {
       "id": "glutes/exercise-ball-one-leg-prone-lower-body-rotation",
       "slug": "exercise-ball-one-leg-prone-lower-body-rotation",
-      "name": "Inferior body rotation tumbado boca abajo en fitball, a una pierna",
+      "name": "Rotación de tren inferior tumbado boca abajo en fitball, a una pierna",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -1744,7 +1744,7 @@
     {
       "id": "glutes/glute-bridge-march",
       "slug": "glute-bridge-march",
-      "name": "Puente de glúteos, march",
+      "name": "Puente de glúteos con marcha",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -1790,7 +1790,7 @@
     {
       "id": "glutes/hands-clasped-circular-toe-touch-male",
       "slug": "hands-clasped-circular-toe-touch-male",
-      "name": "Tocar punta del pie, manos clasped circular",
+      "name": "Tocar punta del pie con manos juntas, circular",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -1810,7 +1810,7 @@
     {
       "id": "glutes/hands-reversed-clasped-circular-toe-touch-male",
       "slug": "hands-reversed-clasped-circular-toe-touch-male",
-      "name": "Tocar punta del pie, manos reversed clasped circular",
+      "name": "Tocar punta del pie con manos invertidas, circular",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -2038,7 +2038,7 @@
     {
       "id": "glutes/kettlebell-turkish-get-up-squat-style",
       "slug": "kettlebell-turkish-get-up-squat-style",
-      "name": "Sentadilla con kettlebell, turkish get up style",
+      "name": "Levantamiento turco con kettlebell, estilo sentadilla",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "kettlebell",
@@ -2225,7 +2225,7 @@
     {
       "id": "glutes/lunge-with-jump",
       "slug": "lunge-with-jump",
-      "name": "Zancada, jump",
+      "name": "Zancada, salto",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -2248,7 +2248,7 @@
     {
       "id": "glutes/march-sit-wall",
       "slug": "march-sit-wall",
-      "name": "March sit pared",
+      "name": "Marcha sentado en pared",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -2268,7 +2268,7 @@
     {
       "id": "glutes/monster-walk",
       "slug": "monster-walk",
-      "name": "Monster caminata",
+      "name": "Caminata del monstruo",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -2782,7 +2782,7 @@
     {
       "id": "glutes/sled-closer-hack-squat",
       "slug": "sled-closer-hack-squat",
-      "name": "Hack squat en trineo, closer",
+      "name": "Sentadilla hack en trineo, cerrado",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -2805,7 +2805,7 @@
     {
       "id": "glutes/sled-hack-squat",
       "slug": "sled-hack-squat",
-      "name": "Hack squat en trineo",
+      "name": "Sentadilla hack en trineo",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "lever",
@@ -2898,7 +2898,7 @@
     {
       "id": "glutes/smith-front-squat-clean-grip",
       "slug": "smith-front-squat-clean-grip",
-      "name": "Cargada en máquina Smith, front-squat",
+      "name": "Sentadilla frontal en máquina Smith, con agarre de cargada",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "smith",
@@ -2948,7 +2948,7 @@
     {
       "id": "glutes/smith-hack-squat",
       "slug": "smith-hack-squat",
-      "name": "Hack squat en máquina Smith",
+      "name": "Sentadilla hack en máquina Smith",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "smith",
@@ -3241,7 +3241,7 @@
     {
       "id": "glutes/weighted-lunge-with-swing",
       "slug": "weighted-lunge-with-swing",
-      "name": "Zancada, con peso, swing",
+      "name": "Zancada con peso y balanceo",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "bodyweight",

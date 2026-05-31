@@ -1,0 +1,70 @@
+{
+  "equipment": "other",
+  "count": 3,
+  "exercises": [
+    {
+      "id": "hamstrings/standing-single-leg-curl",
+      "slug": "standing-single-leg-curl",
+      "name": "スタンディング・ワンレッグ・カール",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "器具を準備し、良い姿勢で安定したスタートポジションをとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/standing-single-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/standing-single-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/standing-single-leg-curl.thumb.webp"
+    },
+    {
+      "id": "upper-back/elevator",
+      "slug": "elevator",
+      "name": "エレベーター",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "器具を準備し、良い姿勢で安定したスタートポジションをとります。",
+        "バーにぶら下がるか腕を支えた状態でセットします。脚をまっすぐ垂らしてスタートします。",
+        "脚を段階的に上げます。45°、90°、最大高さで停止します。各階に止まるエレベーターのようにします。",
+        "同じ段階でコントロールして脚を下ろします。各一時停止が全可動域でのアイソメトリック筋力とコントロールを構築します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/elevator.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elevator.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/elevator.thumb.webp"
+    },
+    {
+      "id": "upper-back/standing-archer",
+      "slug": "standing-archer",
+      "name": "スタンディング・アーチャー",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "器具を準備し、良い姿勢で安定したスタートポジションをとります。",
+        "動作を開始する前に上背部を活性化させます。マインド-マッスルコネクションを感じてください。",
+        "コンセントリックとエキセントリックの両方のフェーズを完全にコントロールして動作を行います。",
+        "下降をコントロールしながらスタートポジションに戻ります——エキセントリックフェーズは挙上と同じだけ筋肉を成長させます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "upper-back/standing-archer.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/standing-archer.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/standing-archer.thumb.webp"
+    }
+  ]
+}

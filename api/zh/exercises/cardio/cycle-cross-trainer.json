@@ -1,0 +1,20 @@
+{
+  "id": "cardio/cycle-cross-trainer",
+  "slug": "cycle-cross-trainer",
+  "name": "骑行交叉训练器",
+  "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "machine",
+  "category": "cardio",
+  "secondaryMuscles": [],
+  "instructions": [
+    "调整座椅、垫板和运动范围以适合你的身体。选择负荷。",
+    "调整座位和把手适合你的身体。坐下时在踏板最低点膝盖微曲。",
+    "平稳踩踏，向下推、向上拉形成圆形运动。在目标阻力下保持稳定的踏频。",
+    "保持挺直的姿势，收紧核心，全程有节奏地呼吸。",
+    "有节奏地呼吸——用鼻子吸气，用嘴呼气，配合你的节奏。"
+  ],
+  "file": "cardio/cycle-cross-trainer.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/cycle-cross-trainer.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/cycle-cross-trainer.thumb.webp"
+}

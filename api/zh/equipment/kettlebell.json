@@ -1,0 +1,983 @@
+{
+  "equipment": "kettlebell",
+  "count": 41,
+  "exercises": [
+    {
+      "id": "abs/kettlebell-advanced-windmill",
+      "slug": "kettlebell-advanced-windmill",
+      "name": "壶铃风车高级",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "将重量推过头顶并锁定手臂。将双脚转向远离负重侧约45度。",
+        "做髋部折叠，自由手沿前腿下滑，同时眼睛注视头顶的重量。",
+        "通过将髋部向前推来站起。头顶的手臂在整个动作中保持锁定和垂直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "abs/kettlebell-advanced-windmill.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-advanced-windmill.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-advanced-windmill.thumb.webp"
+    },
+    {
+      "id": "abs/kettlebell-bent-press",
+      "slug": "kettlebell-bent-press",
+      "name": "壶铃推举屈",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+        "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+        "控制将重量收回，在整个运动范围内保持张力。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "abs/kettlebell-bent-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-bent-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-bent-press.thumb.webp"
+    },
+    {
+      "id": "abs/kettlebell-double-windmill",
+      "slug": "kettlebell-double-windmill",
+      "name": "壶铃风车双",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "将重量推过头顶并锁定手臂。将双脚转向远离负重侧约45度。",
+        "做髋部折叠，自由手沿前腿下滑，同时眼睛注视头顶的重量。",
+        "通过将髋部向前推来站起。头顶的手臂在整个动作中保持锁定和垂直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "abs/kettlebell-double-windmill.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-double-windmill.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-double-windmill.thumb.webp"
+    },
+    {
+      "id": "abs/kettlebell-figure-8",
+      "slug": "kettlebell-figure-8",
+      "name": "壶铃数字",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "双脚比肩宽站立，一只手持握重量。保持运动姿势，膝盖微曲。",
+        "按指定模式将重量绕过或穿过双腿，以流畅的动作在两手之间传递。",
+        "保持核心收紧，眼睛看前方——不要看重量。动作应该流畅有节奏。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "abs/kettlebell-figure-8.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-figure-8.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-figure-8.thumb.webp"
+    },
+    {
+      "id": "abs/kettlebell-windmill",
+      "slug": "kettlebell-windmill",
+      "name": "壶铃风车",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "将重量推过头顶并锁定手臂。将双脚转向远离负重侧约45度。",
+        "做髋部折叠，自由手沿前腿下滑，同时眼睛注视头顶的重量。",
+        "通过将髋部向前推来站起。头顶的手臂在整个动作中保持锁定和垂直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "abs/kettlebell-windmill.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-windmill.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/kettlebell-windmill.thumb.webp"
+    },
+    {
+      "id": "biceps/kettlebell-bottoms-up-clean-from-the-hang-position",
+      "slug": "kettlebell-bottoms-up-clean-from-the-hang-position",
+      "name": "壶铃翻举底上悬挂位置",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "仰卧，膝盖弯曲，双脚固定（V字起坐时双脚自由）。手臂在指定位置。",
+        "激活核心完全坐起——用胸部引导，不是下巴。V字起坐时同时抬起双腿和躯干。",
+        "控制下放回去。不要用惯性摆起来——如果需要借力，做更容易的变式。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/kettlebell-bottoms-up-clean-from-the-hang-position.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/kettlebell-bottoms-up-clean-from-the-hang-position.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/kettlebell-bottoms-up-clean-from-the-hang-position.thumb.webp"
+    },
+    {
+      "id": "biceps/kettlebell-double-alternating-hang-clean",
+      "slug": "kettlebell-double-alternating-hang-clean",
+      "name": "壶铃交替悬垂翻举双",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "双脚与髋同宽，杠铃在脚掌中间上方。下沉髋部，抬起胸部，手臂伸直——消除杠铃的松弛。",
+        "爆发性地推地，伸展髋部和膝盖。当杠铃过膝后，以猛烈的伸髋和耸肩加速。",
+        "快速下沉到杠铃下方，在肩膀（翻举）或头顶（抓举）接住杠铃。用柔软的膝盖缓冲接杠，然后站起。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/kettlebell-double-alternating-hang-clean.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/kettlebell-double-alternating-hang-clean.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/kettlebell-double-alternating-hang-clean.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-alternating-press",
+      "slug": "kettlebell-alternating-press",
+      "name": "壶铃交替推举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+        "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+        "控制将重量收回，在整个运动范围内保持张力。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/kettlebell-alternating-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-alternating-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-alternating-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-arnold-press",
+      "slug": "kettlebell-arnold-press",
+      "name": "壶铃阿诺德推举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/kettlebell-arnold-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-arnold-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-arnold-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-double-jerk",
+      "slug": "kettlebell-double-jerk",
+      "name": "壶铃双挺举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/kettlebell-double-jerk.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-double-jerk.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-double-jerk.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-double-push-press",
+      "slug": "kettlebell-double-push-press",
+      "name": "壶铃借力推举双",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/kettlebell-double-push-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-double-push-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-double-push-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-double-snatch",
+      "slug": "kettlebell-double-snatch",
+      "name": "壶铃抓举双",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "双脚与髋同宽，杠铃在脚掌中间上方。下沉髋部，抬起胸部，手臂伸直——消除杠铃的松弛。",
+        "爆发性地推地，伸展髋部和膝盖。当杠铃过膝后，以猛烈的伸髋和耸肩加速。",
+        "快速下沉到杠铃下方，在肩膀（翻举）或头顶（抓举）接住杠铃。用柔软的膝盖缓冲接杠，然后站起。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/kettlebell-double-snatch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-double-snatch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-double-snatch.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-clean-and-jerk",
+      "slug": "kettlebell-one-arm-clean-and-jerk",
+      "name": "壶铃单臂翻举挺举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/kettlebell-one-arm-clean-and-jerk.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-clean-and-jerk.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-clean-and-jerk.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-jerk",
+      "slug": "kettlebell-one-arm-jerk",
+      "name": "壶铃单臂挺举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/kettlebell-one-arm-jerk.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-jerk.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-jerk.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-military-press-to-the-side",
+      "slug": "kettlebell-one-arm-military-press-to-the-side",
+      "name": "壶铃侧面单臂军事推举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/kettlebell-one-arm-military-press-to-the-side.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-military-press-to-the-side.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-military-press-to-the-side.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-push-press",
+      "slug": "kettlebell-one-arm-push-press",
+      "name": "壶铃单臂借力推举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/kettlebell-one-arm-push-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-push-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-push-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-one-arm-snatch",
+      "slug": "kettlebell-one-arm-snatch",
+      "name": "壶铃单臂抓举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "双脚与髋同宽，杠铃在脚掌中间上方。下沉髋部，抬起胸部，手臂伸直——消除杠铃的松弛。",
+        "爆发性地推地，伸展髋部和膝盖。当杠铃过膝后，以猛烈的伸髋和耸肩加速。",
+        "快速下沉到杠铃下方，在肩膀（翻举）或头顶（抓举）接住杠铃。用柔软的膝盖缓冲接杠，然后站起。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/kettlebell-one-arm-snatch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-snatch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-one-arm-snatch.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-pirate-supper-legs",
+      "slug": "kettlebell-pirate-supper-legs",
+      "name": "壶铃绕腿传递",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "双脚比肩宽站立，一只手持握重量。保持运动姿势，膝盖微曲。",
+        "按指定模式将重量绕过或穿过双腿，以流畅的动作在两手之间传递。",
+        "保持核心收紧，眼睛看前方——不要看重量。动作应该流畅有节奏。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/kettlebell-pirate-supper-legs.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-pirate-supper-legs.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-pirate-supper-legs.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-seated-press",
+      "slug": "kettlebell-seated-press",
+      "name": "壶铃坐姿推举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+        "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+        "控制将重量收回，在整个运动范围内保持张力。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/kettlebell-seated-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-seated-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-seated-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-seated-two-arm-military-press",
+      "slug": "kettlebell-seated-two-arm-military-press",
+      "name": "壶铃坐姿双臂军事推举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/kettlebell-seated-two-arm-military-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-seated-two-arm-military-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-seated-two-arm-military-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-seesaw-press",
+      "slug": "kettlebell-seesaw-press",
+      "name": "壶铃推举跷跷板",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/kettlebell-seesaw-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-seesaw-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-seesaw-press.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-thruster",
+      "slug": "kettlebell-thruster",
+      "name": "壶铃推举深蹲",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "quads",
+        "triceps",
+        "abs"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/kettlebell-thruster.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-thruster.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-thruster.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-two-arm-clean",
+      "slug": "kettlebell-two-arm-clean",
+      "name": "壶铃双臂翻举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "双脚与髋同宽，杠铃在脚掌中间上方。下沉髋部，抬起胸部，手臂伸直——消除杠铃的松弛。",
+        "爆发性地推地，伸展髋部和膝盖。当杠铃过膝后，以猛烈的伸髋和耸肩加速。",
+        "快速下沉到杠铃下方，在肩膀（翻举）或头顶（抓举）接住杠铃。用柔软的膝盖缓冲接杠，然后站起。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/kettlebell-two-arm-clean.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-two-arm-clean.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-two-arm-clean.thumb.webp"
+    },
+    {
+      "id": "delts/kettlebell-two-arm-military-press",
+      "slug": "kettlebell-two-arm-military-press",
+      "name": "壶铃双臂军事推举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/kettlebell-two-arm-military-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-two-arm-military-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/kettlebell-two-arm-military-press.thumb.webp"
+    },
+    {
+      "id": "forearms/kettlebell-alternating-hang-clean",
+      "slug": "kettlebell-alternating-hang-clean",
+      "name": "壶铃交替悬垂翻举",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "双脚与髋同宽，杠铃在脚掌中间上方。下沉髋部，抬起胸部，手臂伸直——消除杠铃的松弛。",
+        "爆发性地推地，伸展髋部和膝盖。当杠铃过膝后，以猛烈的伸髋和耸肩加速。",
+        "快速下沉到杠铃下方，在肩膀（翻举）或头顶（抓举）接住杠铃。用柔软的膝盖缓冲接杠，然后站起。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "forearms/kettlebell-alternating-hang-clean.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/kettlebell-alternating-hang-clean.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/kettlebell-alternating-hang-clean.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-front-squat",
+      "slug": "kettlebell-front-squat",
+      "name": "壶铃前蹲",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/kettlebell-front-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-front-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-front-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-goblet-squat",
+      "slug": "kettlebell-goblet-squat",
+      "name": "壶铃高脚杯深蹲",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/kettlebell-goblet-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-goblet-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-goblet-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-lunge-pass-through",
+      "slug": "kettlebell-lunge-pass-through",
+      "name": "壶铃弓步传递穿过",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "双脚与髋同宽站立（火车轨道，不是走钢丝）。迈步就位，躯干像旗杆一样挺直。",
+        "后膝像电梯一样直直下降——不要向前冲。两膝都瞄准90度。保持前胫骨垂直。",
+        "通过前脚跟发力站回来。想象通过前脚将地面推开。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/kettlebell-lunge-pass-through.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-lunge-pass-through.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-lunge-pass-through.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-pistol-squat",
+      "slug": "kettlebell-pistol-squat",
+      "name": "壶铃手枪式深蹲",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/kettlebell-pistol-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-pistol-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-pistol-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-swing",
+      "slug": "kettlebell-swing",
+      "name": "壶铃摆荡",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "双脚与肩同宽站立，双手握住壶铃。做髋部折叠开始摆动。",
+        "爆发性地将髋部向前推——力量来自髋部，不是手臂。重量作为结果向上浮起。",
+        "让壶铃自然落下，做髋部折叠来吸收。全程保持核心收紧和背部平直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/kettlebell-swing.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-swing.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-swing.thumb.webp"
+    },
+    {
+      "id": "glutes/kettlebell-turkish-get-up-squat-style",
+      "slug": "kettlebell-turkish-get-up-squat-style",
+      "name": "壶铃深蹲土耳其起立式",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/kettlebell-turkish-get-up-squat-style.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-turkish-get-up-squat-style.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/kettlebell-turkish-get-up-squat-style.thumb.webp"
+    },
+    {
+      "id": "hamstrings/kettlebell-hang-clean",
+      "slug": "kettlebell-hang-clean",
+      "name": "壶铃悬垂翻举",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "双脚与髋同宽，杠铃在脚掌中间上方。下沉髋部，抬起胸部，手臂伸直——消除杠铃的松弛。",
+        "爆发性地推地，伸展髋部和膝盖。当杠铃过膝后，以猛烈的伸髋和耸肩加速。",
+        "快速下沉到杠铃下方，在肩膀（翻举）或头顶（抓举）接住杠铃。用柔软的膝盖缓冲接杠，然后站起。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "hamstrings/kettlebell-hang-clean.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/kettlebell-hang-clean.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/kettlebell-hang-clean.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-alternating-press-on-floor",
+      "slug": "kettlebell-alternating-press-on-floor",
+      "name": "壶铃交替推举地面",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+        "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+        "控制将重量收回，在整个运动范围内保持张力。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/kettlebell-alternating-press-on-floor.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-alternating-press-on-floor.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-alternating-press-on-floor.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-extended-range-one-arm-press-on-floor",
+      "slug": "kettlebell-extended-range-one-arm-press-on-floor",
+      "name": "壶铃单臂推举伸展幅度地面",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+        "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+        "控制将重量收回，在整个运动范围内保持张力。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/kettlebell-extended-range-one-arm-press-on-floor.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-extended-range-one-arm-press-on-floor.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-extended-range-one-arm-press-on-floor.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-one-arm-floor-press",
+      "slug": "kettlebell-one-arm-floor-press",
+      "name": "壶铃单臂地板卧推",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/kettlebell-one-arm-floor-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-one-arm-floor-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-one-arm-floor-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/kettlebell-plyo-push-up",
+      "slug": "kettlebell-plyo-push-up",
+      "name": "壶铃俯卧撑增强式",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "双手放在略宽于肩的位置。身体从头到脚跟成一条直线——将双手拧入地面产生张力。",
+        "肘部呈45度弯曲降低身体，直到胸部几乎触地。主动将自己拉下来。",
+        "将地面推离你回到顶部。锁定时收紧胸部，整个动作保持核心紧绷。",
+        "呼吸：跳跃或爆发性发力时用力呼气。在蓄力阶段吸气。"
+      ],
+      "file": "pectorals/kettlebell-plyo-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-plyo-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/kettlebell-plyo-push-up.thumb.webp"
+    },
+    {
+      "id": "traps/kettlebell-sumo-high-pull",
+      "slug": "kettlebell-sumo-high-pull",
+      "name": "壶铃高位相扑拉",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "以宽站距（相扑）或髋宽开始。手臂伸直、髋部蓄力握住重量。",
+        "爆发性推地，伸展髋部和膝盖，然后用肘部引导将重量拉到下巴高度。",
+        "控制将重量下放到起始位置。力量来自腿和髋部，不是手臂。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "traps/kettlebell-sumo-high-pull.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/kettlebell-sumo-high-pull.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/kettlebell-sumo-high-pull.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-alternating-renegade-row",
+      "slug": "kettlebell-alternating-renegade-row",
+      "name": "壶铃交替划船叛逆",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/kettlebell-alternating-renegade-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-renegade-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-renegade-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-alternating-row",
+      "slug": "kettlebell-alternating-row",
+      "name": "壶铃交替划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/kettlebell-alternating-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-alternating-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-one-arm-row",
+      "slug": "kettlebell-one-arm-row",
+      "name": "壶铃单臂划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/kettlebell-one-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-one-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-one-arm-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/kettlebell-two-arm-row",
+      "slug": "kettlebell-two-arm-row",
+      "name": "壶铃双臂划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "选择合适重量的壶铃。紧握壶铃把手，保持手腕中立。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/kettlebell-two-arm-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-two-arm-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/kettlebell-two-arm-row.thumb.webp"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "triceps/cable-kickback",
+  "slug": "cable-kickback",
+  "name": "ケーブル・キックバック",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+    "股関節で前傾します。上腕を胴体と平行に固定し、肘を90°にします。",
+    "腕を後ろに完全に伸ばし、ロックアウト時に三頭筋を絞ります。完全伸展で1秒キープします。",
+    "上腕を落とさずに90°までコントロールして戻します。前腕だけがドアのように振れます。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "triceps/cable-kickback.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/cable-kickback.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/cable-kickback.thumb.webp"
+}

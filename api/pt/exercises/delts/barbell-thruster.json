@@ -1,0 +1,25 @@
+{
+  "id": "delts/barbell-thruster",
+  "slug": "barbell-thruster",
+  "name": "Thruster com barra",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "quads",
+    "triceps",
+    "abs"
+  ],
+  "instructions": [
+    "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+    "Empilhe os pulsos diretamente sobre os cotovelos como uma coluna sólida. Aperte os glúteos e ative o core como se fosse receber um soco.",
+    "Empurre o peso reto para cima, tirando a cabeça do caminho. Quando a barra passar do rosto, empurre a cabeça para frente e trave completamente.",
+    "Desça com controle de volta à posição inicial sobre os deltoides frontais. Mantenha o tronco vertical — você está empurrando para cima, não fazendo um supino inclinado em pé.",
+    "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+  ],
+  "file": "delts/barbell-thruster.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-thruster.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-thruster.thumb.webp"
+}

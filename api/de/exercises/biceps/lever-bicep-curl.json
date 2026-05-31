@@ -1,0 +1,22 @@
+{
+  "id": "biceps/lever-bicep-curl",
+  "slug": "lever-bicep-curl",
+  "name": "Bizepscurl an der Maschine",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+    "Fixiere die Ellbogen an den Seiten — stell dir vor, sie sind festgenagelt. Nur die Unterarme bewegen sich.",
+    "Curle das Gewicht nach oben und spanne den Bizeps fest an. Oben drücke den Saft aus einer Orange, bevor du senkst.",
+    "Senke in langsamen 3 Sekunden und kämpfe gegen die Schwerkraft in jedem Zentimeter. Halte die Handgelenke gerade wie Stahlstäbe. Wenn der Körper schwankt, ist das Gewicht zu schwer.",
+    "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+  ],
+  "file": "biceps/lever-bicep-curl.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-bicep-curl.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-bicep-curl.thumb.webp"
+}

@@ -34,7 +34,242 @@ function detectModifiers(slug) {
 }
 
 // ─────────────────────────────────────────────────────────────
-// 2. EQUIPMENT SETUP (step 1)
+// 2. EQUIPMENT-AWARE TEXT SUBSTITUTION
+// ─────────────────────────────────────────────────────────────
+// Patterns reference "bar" because they were authored for barbell context.
+// When the exercise uses a different equipment type, we post-process the
+// core steps to replace "bar" with the correct noun.
+
+/**
+ * @param {string[]} steps - Core instruction steps.
+ * @param {string} equipment - Equipment slug (e.g. 'dumbbell').
+ * @param {string} lang - Language code.
+ * @returns {string[]} Steps with equipment-corrected wording.
+ */
+function adaptStepsToEquipment(steps, equipment, lang) {
+	if (!["dumbbell", "kettlebell", "band"].includes(equipment)) return steps;
+
+	if (lang === "en") {
+		const replacements = {
+			dumbbell: [
+				[/\bthe bar\b/gi, "the dumbbells"],
+				[/\bDrag the bar\b/g, "Drag the dumbbells"],
+				[/\bDrive the bar\b/g, "Drive the dumbbells"],
+				[/\bsliding the bar\b/gi, "sliding the dumbbells"],
+				[/\bbar over mid-foot\b/gi, "dumbbells at your sides"],
+				[/\b[Bb]ar\b(?!bell)/g, (match) => match[0] === "B" ? "Weight" : "weight"],
+			],
+			kettlebell: [
+				[/\bthe bar\b/gi, "the kettlebell"],
+				[/\bDrag the bar\b/g, "Drag the kettlebell"],
+				[/\bDrive the bar\b/g, "Drive the kettlebell"],
+				[/\bsliding the bar\b/gi, "sliding the kettlebell"],
+				[/\bbar over mid-foot\b/gi, "kettlebell between your feet"],
+				[/\b[Bb]ar\b(?!bell)/g, (match) => match[0] === "B" ? "Weight" : "weight"],
+			],
+			band: [
+				[/\bthe bar\b/gi, "the handle"],
+				[/\bDrag the bar\b/g, "Drag the handle"],
+				[/\bDrive the bar\b/g, "Drive the handle"],
+				[/\bsliding the bar\b/gi, "sliding the handle"],
+				[/\bbar over mid-foot\b/gi, "handle in front of you"],
+				[/\b[Bb]ar\b(?!bell)/g, (match) => match[0] === "B" ? "Handle" : "handle"],
+			],
+		};
+		return steps.map((step) =>
+			replacements[equipment].reduce((text, [regex, replacement]) => text.replace(regex, replacement), step),
+		);
+	}
+
+	// Spanish
+	const replacements = {
+		dumbbell: [
+			[/\bla barra\b/gi, "las mancuernas"],
+			[/\bLa barra\b/g, "Las mancuernas"],
+			[/\bde la barra\b/gi, "de las mancuernas"],
+			[/\bArrastra la barra\b/g, "Arrastra las mancuernas"],
+			[/\bDirige la barra\b/g, "Dirige las mancuernas"],
+			[/\bdeslizando la barra\b/gi, "deslizando las mancuernas"],
+			[/\bbarra sobre la mitad del pie\b/gi, "mancuernas a los lados"],
+			[/\blas mancuernas pase\b/gi, "las mancuernas pasen"],
+			[/\bnunca se separa del cuerpo\b/gi, "nunca se separan del cuerpo"],
+			[/\b[Bb]arra\b(?! EZ| de [dD]ominadas)/g, (match) => match[0] === "B" ? "Peso" : "peso"],
+		],
+		kettlebell: [
+			[/\bla barra\b/gi, "la kettlebell"],
+			[/\bLa barra\b/g, "La kettlebell"],
+			[/\bde la barra\b/gi, "de la kettlebell"],
+			[/\bArrastra la barra\b/g, "Arrastra la kettlebell"],
+			[/\bDirige la barra\b/g, "Dirige la kettlebell"],
+			[/\bdeslizando la barra\b/gi, "deslizando la kettlebell"],
+			[/\bbarra sobre la mitad del pie\b/gi, "kettlebell entre los pies"],
+			[/\b[Bb]arra\b(?! EZ| de [dD]ominadas)/g, (match) => match[0] === "B" ? "Peso" : "peso"],
+		],
+		band: [
+			[/\bla barra\b/gi, "el agarre"],
+			[/\bLa barra\b/g, "El agarre"],
+			[/\bde la barra\b/gi, "del agarre"],
+			[/\bArrastra la barra\b/g, "Arrastra el agarre"],
+			[/\bDirige la barra\b/g, "Dirige el agarre"],
+			[/\bdeslizando la barra\b/gi, "deslizando el agarre"],
+			[/\bbarra sobre la mitad del pie\b/gi, "agarre frente a ti"],
+			[/\b[Bb]arra\b(?! EZ| de [dD]ominadas)/g, (match) => match[0] === "B" ? "Agarre" : "agarre"],
+		],
+	};
+	return steps.map((step) =>
+		replacements[equipment].reduce((text, [regex, replacement]) => text.replace(regex, replacement), step),
+	);
+}
+
+// ─────────────────────────────────────────────────────────────
+// 2b. LATERALITY-AWARE TEXT SUBSTITUTION
+// ─────────────────────────────────────────────────────────────
+// When an exercise is unilateral (one-arm, one-leg, alternate), the core
+// steps are authored in bilateral/plural form. This function post-processes
+// them to use singular references so instructions match the unilateral nature.
+
+const ONE_ARM_EN = [
+	// Specific compound phrases (order matters — most specific first)
+	[/\bthey are nailed in place\b/gi, "it is nailed in place"],
+	[/\bthey are fixed points in space\b/gi, "it is a fixed point in space"],
+	[/\byour elbows are door hinges that don't move\b/gi, "your elbow is a door hinge that doesn't move"],
+	[/\byour elbows are door hinges\b/gi, "your elbow is a door hinge"],
+	[/\bOnly your forearms move\b/g, "Only your forearm moves"],
+	[/\blike steel rods\b/gi, "like a steel rod"],
+	[/\blike ropes attached\b/gi, "like a rope attached"],
+	[/\byour hands are just hooks\b/gi, "your hand is just a hook"],
+	[/\bYour upper arms stay vertical\b/g, "Your upper arm stays vertical"],
+	[/\byour upper arms stay vertical\b/g, "your upper arm stays vertical"],
+	[/\byour upper arms are\b/gi, "your upper arm is"],
+	[/\blike elevator shafts\b/gi, "like an elevator shaft"],
+	[/\bfrom two pitchers\b/gi, "from a pitcher"],
+	[/\btwo curved swords\b/gi, "a curved sword"],
+	[/\bthe dumbbells\b/gi, "the dumbbell"],
+	[/\bthe Dumbbells\b/g, "the Dumbbell"],
+	// General body-part plurals → singular
+	[/\byour elbows\b/gi, "your elbow"],
+	[/\bthe elbows\b/gi, "the elbow"],
+	[/\bElbows\b/g, "Elbow"],
+	[/\belbows\b/g, "elbow"],
+	[/\byour forearms\b/gi, "your forearm"],
+	[/\byour wrists\b/gi, "your wrist"],
+	[/\byour biceps\b/gi, "your bicep"],
+	[/\byour triceps\b/gi, "your tricep"],
+	[/\bthe triceps\b/gi, "the tricep"],
+	[/\bthe biceps\b/gi, "the bicep"],
+	[/\byour upper arms\b/gi, "your upper arm"],
+	[/\byour arms\b/gi, "your arm"],
+	[/\bwith arms\b/gi, "with your arm"],
+	[/\byour hands\b/gi, "your hand"],
+	[/\byour sides\b/gi, "your side"],
+	[/\byour ears\b/gi, "your ear"],
+];
+
+const ONE_LEG_EN = [
+	// Specific phrases
+	[/\bboth knees\b/gi, "your knee"],
+	[/\bboth legs\b/gi, "your leg"],
+	[/\byour feet hip-to-shoulder-width\b/gi, "your foot on the ground"],
+	// General body-part plurals → singular
+	[/\byour legs\b/gi, "your leg"],
+	[/\byour knees\b/gi, "your knee"],
+	[/\byour heels\b/gi, "your heel"],
+	[/\byour calves\b/gi, "your calf"],
+	[/\byour hamstrings\b/gi, "your hamstring"],
+	[/\byour quads\b/gi, "your quad"],
+	[/\byour shins\b/gi, "your shin"],
+];
+
+const ONE_ARM_ES = [
+	// Specific compound phrases
+	[/\bimagina que están clavados en su sitio\b/gi, "imagina que está clavado en su sitio"],
+	[/\bson puntos fijos en el espacio\b/gi, "es un punto fijo en el espacio"],
+	[/\bSolo se mueven los antebrazos\b/g, "Solo se mueve el antebrazo"],
+	[/\bSolo los antebrazos se mueven como bisagras de puerta\b/g, "Solo el antebrazo se mueve como una bisagra de puerta"],
+	[/\btus codos son bisagras que no se mueven\b/gi, "tu codo es una bisagra que no se mueve"],
+	[/\bLos brazos superiores permanecen verticales\b/g, "El brazo superior permanece vertical"],
+	[/\blos brazos superiores\b/gi, "el brazo superior"],
+	[/\bcomo pozos de ascensor\b/gi, "como un pozo de ascensor"],
+	[/\bcomo barras de acero\b/gi, "como una barra de acero"],
+	[/\bcomo cuerdas sujetas\b/gi, "como una cuerda sujeta"],
+	[/\bcomo dos espadas curvas\b/gi, "como una espada curva"],
+	[/\btus manos son solo ganchos\b/gi, "tu mano es solo un gancho"],
+	[/\bde dos jarras\b/gi, "de una jarra"],
+	[/\blas mancuernas\b/gi, "la mancuerna"],
+	[/\bLas mancuernas\b/g, "La mancuerna"],
+	// General body-part plurals → singular
+	[/\blos codos\b/gi, "el codo"],
+	[/\bLos codos\b/g, "El codo"],
+	[/\blos antebrazos\b/gi, "el antebrazo"],
+	[/\bLos antebrazos\b/g, "El antebrazo"],
+	[/\blas muñecas rectas\b/gi, "la muñeca recta"],
+	[/\blas muñecas\b/gi, "la muñeca"],
+	[/\bLas muñecas\b/g, "La muñeca"],
+	[/\blos bíceps\b/gi, "el bíceps"],
+	[/\bLos bíceps\b/g, "El bíceps"],
+	[/\blos tríceps\b/gi, "el tríceps"],
+	[/\bLos tríceps\b/g, "El tríceps"],
+	[/\blos brazos\b/gi, "el brazo"],
+	[/\bLos brazos\b/g, "El brazo"],
+	[/\blas manos\b/gi, "la mano"],
+	[/\bLas manos\b/g, "La mano"],
+	[/\ba los costados\b/gi, "al costado"],
+	[/\bde las orejas\b/gi, "de la oreja"],
+	[/\blas orejas\b/gi, "la oreja"],
+];
+
+const ONE_LEG_ES = [
+	// Specific
+	[/\bambas rodillas\b/gi, "la rodilla"],
+	[/\bambas piernas\b/gi, "la pierna"],
+	// General
+	[/\blas piernas\b/gi, "la pierna"],
+	[/\bLas piernas\b/g, "La pierna"],
+	[/\blas rodillas\b/gi, "la rodilla"],
+	[/\bLas rodillas\b/g, "La rodilla"],
+	[/\blos talones\b/gi, "el talón"],
+	[/\bLos talones\b/g, "El talón"],
+	[/\blos gemelos\b/gi, "el gemelo"],
+	[/\bLos gemelos\b/g, "El gemelo"],
+	[/\blos isquiotibiales\b/gi, "el isquiotibial"],
+	[/\bLos isquiotibiales\b/g, "El isquiotibial"],
+	[/\blos cuádriceps\b/gi, "el cuádriceps"],
+	[/\bLos cuádriceps\b/g, "El cuádriceps"],
+	[/\blas espinillas\b/gi, "la espinilla"],
+	[/\bLas espinillas\b/g, "La espinilla"],
+];
+
+/**
+ * Adapt core steps to unilateral context by converting plural
+ * body-part references to singular.
+ *
+ * @param {string[]} steps - Core instruction steps.
+ * @param {object} modifiers - Result of detectModifiers().
+ * @param {string} lang - Language code (en or es).
+ * @returns {string[]} Steps with laterality-corrected wording.
+ */
+function adaptStepsToLaterality(steps, modifiers, lang) {
+	if (!modifiers.isOneArm && !modifiers.isOneLeg && !modifiers.isAlternate) return steps;
+
+	let replacements = [];
+
+	if (lang === "en") {
+		if (modifiers.isOneArm || modifiers.isAlternate) replacements = replacements.concat(ONE_ARM_EN);
+		if (modifiers.isOneLeg) replacements = replacements.concat(ONE_LEG_EN);
+	} else if (lang === "es") {
+		if (modifiers.isOneArm || modifiers.isAlternate) replacements = replacements.concat(ONE_ARM_ES);
+		if (modifiers.isOneLeg) replacements = replacements.concat(ONE_LEG_ES);
+	}
+
+	if (replacements.length === 0) return steps;
+
+	return steps.map((step) =>
+		replacements.reduce((text, [regex, replacement]) => text.replace(regex, replacement), step),
+	);
+}
+
+// ─────────────────────────────────────────────────────────────
+// 3. EQUIPMENT SETUP (step 1)
 // ─────────────────────────────────────────────────────────────
 
 const EQUIP_SETUP_EN = {
@@ -88,7 +323,7 @@ const EQUIP_SETUP_ES = {
 };
 
 // ─────────────────────────────────────────────────────────────
-// 3. POSTURE INSERTS (added after step 1 when relevant)
+// 4. POSTURE INSERTS (added after step 1 when relevant)
 // ─────────────────────────────────────────────────────────────
 
 function getPostureCueEn(modifiers) {
@@ -120,7 +355,7 @@ function getPostureCueEs(modifiers) {
 }
 
 // ─────────────────────────────────────────────────────────────
-// 4. GRIP INSERTS
+// 5. GRIP INSERTS
 // ─────────────────────────────────────────────────────────────
 
 function getGripCueEn(modifiers) {
@@ -148,7 +383,7 @@ function getGripCueEs(modifiers) {
 }
 
 // ─────────────────────────────────────────────────────────────
-// 5. LATERALITY INSERT
+// 6. LATERALITY INSERT
 // ─────────────────────────────────────────────────────────────
 
 function getLateralityCueEn(modifiers) {
@@ -168,7 +403,7 @@ function getLateralityCueEs(modifiers) {
 }
 
 // ─────────────────────────────────────────────────────────────
-// 6. MOVEMENT PATTERN REGISTRY
+// 7. MOVEMENT PATTERN REGISTRY
 // ─────────────────────────────────────────────────────────────
 // Each entry: { test: RegExp, en: string[], es: string[] }
 // The arrays contain the CORE execution steps (without setup and breathing,
@@ -1514,7 +1749,7 @@ const PATTERNS = [
 ];
 
 // ─────────────────────────────────────────────────────────────
-// 7. BREATHING CUES (final step)
+// 8. BREATHING CUES (final step)
 // ─────────────────────────────────────────────────────────────
 
 const BREATHING_EN = {
@@ -1540,7 +1775,7 @@ const BREATHING_ES = {
 };
 
 // ─────────────────────────────────────────────────────────────
-// 8. ASSEMBLER — builds the final instruction array
+// 9. ASSEMBLER — builds the final instruction array
 // ─────────────────────────────────────────────────────────────
 
 /**
@@ -1583,6 +1818,12 @@ function generateInstructions(lang, { slug, name, muscle, equipment, category })
 		coreSteps = buildFallbackSteps(lang, muscle, category);
 	}
 
+	// Adapt core steps to the actual equipment (replaces "bar" references)
+	coreSteps = adaptStepsToEquipment(coreSteps, equipment, lang);
+
+	// Adapt core steps to unilateral context (plural → singular body parts)
+	coreSteps = adaptStepsToLaterality(coreSteps, modifiers, lang);
+
 	// Breathing cue (final step)
 	const breathingMap = lang === "es" ? BREATHING_ES : BREATHING_EN;
 	const breathing = breathingMap[category] || breathingMap.strength;
@@ -1599,7 +1840,7 @@ function generateInstructions(lang, { slug, name, muscle, equipment, category })
 }
 
 // ─────────────────────────────────────────────────────────────
-// 9. FALLBACK — when no pattern matches
+// 10. FALLBACK — when no pattern matches
 // ─────────────────────────────────────────────────────────────
 
 const MUSCLE_NAME_EN = {
@@ -1707,7 +1948,138 @@ function buildFallbackSteps(lang, muscle, category) {
 }
 
 // ─────────────────────────────────────────────────────────────
-// 10. PUBLIC API (drop-in replacement)
+// 11. MULTILINGUAL SUPPORT (DE, FR, ZH, PT, JA)
+// ─────────────────────────────────────────────────────────────
+
+const {
+	EQUIP_SETUP: EQUIP_SETUP_MULTI,
+	POSTURE_CUES,
+	GRIP_CUES,
+	LATERALITY_CUES,
+	BREATHING: BREATHING_MULTI,
+	MUSCLE_NAMES: MUSCLE_NAMES_MULTI,
+	EQUIP_ADAPT,
+	LATERALITY_ADAPT,
+	buildFallbackStepsMulti,
+} = require("./i18n/instructions-data");
+
+const LOCALIZED_PATTERNS = {
+	de: require("./i18n/patterns-de"),
+	fr: require("./i18n/patterns-fr"),
+	zh: require("./i18n/patterns-zh"),
+	pt: require("./i18n/patterns-pt"),
+	ja: require("./i18n/patterns-ja"),
+};
+
+/**
+ * Generate instructions for DE, FR, ZH, PT, JA.
+ * Falls back to English pattern steps with localized wrapper cues.
+ */
+function generateInstructionsMulti(lang, { slug, name, muscle, equipment, category }) {
+	const modifiers = detectModifiers(slug);
+
+	// Step 1: Equipment setup
+	const setupMap = EQUIP_SETUP_MULTI[lang];
+	const setup = (setupMap && setupMap[equipment]) || (setupMap && setupMap.other) ||
+		EQUIP_SETUP_EN[equipment] || EQUIP_SETUP_EN.other;
+
+	// Posture cue
+	let postureCue = null;
+	const postureLang = POSTURE_CUES[lang];
+	if (postureLang) {
+		if (modifiers.isSeated) postureCue = postureLang.seated;
+		else if (modifiers.isKneeling) postureCue = postureLang.kneeling;
+		else if (modifiers.isIncline) postureCue = postureLang.incline;
+		else if (modifiers.isDecline) postureCue = postureLang.decline;
+		else if (modifiers.isLying) postureCue = postureLang.lying;
+	}
+
+	// Grip cue
+	let gripCue = null;
+	const gripLang = GRIP_CUES[lang];
+	if (gripLang) {
+		if (modifiers.isCloseGrip) gripCue = gripLang.close;
+		else if (modifiers.isWideGrip) gripCue = gripLang.wide;
+		else if (modifiers.isReverseGrip) gripCue = gripLang.reverse;
+		else if (modifiers.isNeutralGrip) gripCue = gripLang.neutral;
+	}
+
+	// Laterality cue
+	let lateralityCue = null;
+	const lateralityLang = LATERALITY_CUES[lang];
+	if (lateralityLang) {
+		if (modifiers.isOneArm || modifiers.isOneLeg) lateralityCue = lateralityLang.unilateral;
+		else if (modifiers.isAlternate) lateralityCue = lateralityLang.alternating;
+	}
+
+	// Core steps - use localized pattern file when available, fall back to English
+	let coreSteps = null;
+	const langPatterns = LOCALIZED_PATTERNS[lang];
+	for (const pattern of PATTERNS) {
+		if (pattern.test.test(slug)) {
+			if (langPatterns && langPatterns[pattern.id]) {
+				coreSteps = langPatterns[pattern.id];
+			} else {
+				coreSteps = pattern.en;
+			}
+			break;
+		}
+	}
+
+	if (!coreSteps) {
+		coreSteps = buildFallbackStepsMulti(lang, muscle, category);
+		if (!coreSteps) {
+			coreSteps = buildFallbackSteps("en", muscle, category);
+		}
+	}
+
+	// Adapt equipment references for DE/FR
+	if (EQUIP_ADAPT[lang]) {
+		const adaptRules = EQUIP_ADAPT[lang][equipment];
+		if (adaptRules) {
+			coreSteps = coreSteps.map((step) =>
+				adaptRules.reduce((text, [regex, replacement]) => text.replace(regex, replacement), step),
+			);
+		}
+	}
+
+	// Adapt core steps to unilateral context (plural → singular body parts)
+	if (modifiers.isOneArm || modifiers.isOneLeg || modifiers.isAlternate) {
+		const langAdapt = LATERALITY_ADAPT[lang];
+		if (langAdapt) {
+			let replacements = [];
+			if (modifiers.isOneArm || modifiers.isAlternate) replacements = replacements.concat(langAdapt.oneArm || []);
+			if (modifiers.isOneLeg) replacements = replacements.concat(langAdapt.oneLeg || []);
+			if (replacements.length > 0) {
+				coreSteps = coreSteps.map((step) =>
+					replacements.reduce((text, [regex, replacement]) => text.replace(regex, replacement), step),
+				);
+			}
+		} else {
+			// Fallback: if steps are in English (no localized patterns found), apply EN rules
+			coreSteps = adaptStepsToLaterality(coreSteps, modifiers, "en");
+		}
+	}
+
+	// Breathing cue
+	const breathingMap = BREATHING_MULTI[lang];
+	const breathing = (breathingMap && breathingMap[category]) ||
+		(breathingMap && breathingMap.strength) ||
+		BREATHING_EN[category] || BREATHING_EN.strength;
+
+	// Assemble
+	const steps = [setup];
+	if (postureCue) steps.push(postureCue);
+	if (gripCue) steps.push(gripCue);
+	steps.push(...coreSteps);
+	if (lateralityCue) steps.push(lateralityCue);
+	steps.push(breathing);
+
+	return steps;
+}
+
+// ─────────────────────────────────────────────────────────────
+// 12. PUBLIC API
 // ─────────────────────────────────────────────────────────────
 
 /** @param {{ slug: string, name: string, muscle: string, equipment: string, category: string }} params */
@@ -1720,7 +2092,20 @@ function generateInstructionsEs(params) {
 	return generateInstructions("es", params);
 }
 
+/**
+ * Generic multilingual instruction generator.
+ * @param {string} lang - Language code (en, es, de, fr, zh, pt, ja)
+ * @param {{ slug: string, name: string, muscle: string, equipment: string, category: string }} params
+ * @returns {string[]}
+ */
+function generateInstructionsForLang(lang, params) {
+	if (lang === "en") return generateInstructions("en", params);
+	if (lang === "es") return generateInstructions("es", params);
+	return generateInstructionsMulti(lang, params);
+}
+
 module.exports = {
 	generateInstructionsEn,
 	generateInstructionsEs,
+	generateInstructionsForLang,
 };

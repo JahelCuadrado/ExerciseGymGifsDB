@@ -68,7 +68,7 @@
     {
       "id": "abs/3-4-sit-up",
       "slug": "3-4-sit-up",
-      "name": "3 4 Sit Up",
+      "name": "3/4 Sit-Up",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -108,7 +108,7 @@
     {
       "id": "abs/air-bike",
       "slug": "air-bike",
-      "name": "Air Bike",
+      "name": "Bicycle Crunch",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -458,7 +458,7 @@
     {
       "id": "abs/cocoons",
       "slug": "cocoons",
-      "name": "Cocoons",
+      "name": "Cocoon Crunch",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -700,7 +700,7 @@
     {
       "id": "abs/flag",
       "slug": "flag",
-      "name": "Flag",
+      "name": "Human Flag",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -869,7 +869,7 @@
     {
       "id": "abs/gorilla-chin",
       "slug": "gorilla-chin",
-      "name": "Gorilla Chin",
+      "name": "Gorilla Chin Crunch",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "bodyweight",
@@ -3083,7 +3083,7 @@
     {
       "id": "calves/standing-calves",
       "slug": "standing-calves",
-      "name": "Standing Calves",
+      "name": "Standing Calf Raise",
       "muscle": "calves",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -3868,7 +3868,7 @@
     {
       "id": "forearms/wrist-rollerer",
       "slug": "wrist-rollerer",
-      "name": "Wrist Rollerer",
+      "name": "Wrist Roller",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "bodyweight",
@@ -7947,7 +7947,7 @@
     {
       "id": "quads/split-squats",
       "slug": "split-squats",
-      "name": "Split Squats",
+      "name": "Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",
@@ -8071,7 +8071,7 @@
     {
       "id": "quads/suspended-split-squat",
       "slug": "suspended-split-squat",
-      "name": "Suspended Split Squat",
+      "name": "Suspended Bulgarian Split Squat",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "bodyweight",

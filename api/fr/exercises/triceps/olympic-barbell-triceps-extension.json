@@ -1,0 +1,22 @@
+{
+  "id": "triceps/olympic-barbell-triceps-extension",
+  "slug": "olympic-barbell-triceps-extension",
+  "name": "Extension triceps à la barre, olympique",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+    "Verrouille les coudes en position — ce sont des points fixes dans l'espace. Seuls les avant-bras bougent comme des charnières.",
+    "Étends complètement en contractant les triceps au verrouillage. Fais une pause en extension complète.",
+    "Reviens lentement à la position de départ. Concentre-toi sur l'étirement en bas et la contraction en haut.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "triceps/olympic-barbell-triceps-extension.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/olympic-barbell-triceps-extension.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/olympic-barbell-triceps-extension.thumb.webp"
+}

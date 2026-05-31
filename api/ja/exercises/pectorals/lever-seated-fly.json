@@ -1,0 +1,23 @@
+{
+  "id": "pectorals/lever-seated-fly",
+  "slug": "lever-seated-fly",
+  "name": "マシン・シーテッド・フライ",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+    "背筋を伸ばして座り、足を床に平らに置きます。",
+    "肘に軽い曲がりを持たせてスタートします。腕は2本の曲刀のようです。この曲がりは一定に保ちます。",
+    "アーチを描くように腕を開き、胸に深いストレッチを感じます。快適な範囲を超えないようにします。",
+    "胸を絞りながらグリップを合わせます。大きな木の幹を抱きしめるイメージです。手がトップでほぼ触れ合います。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "pectorals/lever-seated-fly.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-seated-fly.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-seated-fly.thumb.webp"
+}

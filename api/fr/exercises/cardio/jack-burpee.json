@@ -1,0 +1,26 @@
+{
+  "id": "cardio/jack-burpee",
+  "slug": "jack-burpee",
+  "name": "Burpee, jack",
+  "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "bodyweight",
+  "category": "cardio",
+  "secondaryMuscles": [
+    "pectorals",
+    "triceps",
+    "quads",
+    "glutes",
+    "abs"
+  ],
+  "instructions": [
+    "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+    "Debout, descends en squat et pose les mains au sol devant toi.",
+    "Saute ou recule les pieds en position de pompe. Fais une pompe (ou saute-la pour plus de vitesse).",
+    "Saute ou ramène les pieds vers les mains, puis explose vers le haut en sautant, mains au-dessus de la tête. Atterris en douceur et répète.",
+    "Respire de manière rythmique — inspire par le nez et expire par la bouche, en suivant ton rythme."
+  ],
+  "file": "cardio/jack-burpee.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jack-burpee.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jack-burpee.thumb.webp"
+}

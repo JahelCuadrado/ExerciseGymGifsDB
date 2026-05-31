@@ -1,0 +1,23 @@
+{
+  "id": "biceps/barbell-alternate-biceps-curl",
+  "slug": "barbell-alternate-biceps-curl",
+  "name": "Curl biceps à la barre, alterné",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+    "Colle le coude au côté — imagine qu'il est cloué en place. Seul l'avant-bras bouge.",
+    "Monte le poids en contractant fortement le biceps. En haut, presse le jus d'une orange avant de redescendre.",
+    "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde le poignet droit comme une tige d'acier. Si le corps balance, le poids est trop lourd.",
+    "Alterne les côtés à chaque rep. Termine une rep complète avant de passer à l'autre côté.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "biceps/barbell-alternate-biceps-curl.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-alternate-biceps-curl.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-alternate-biceps-curl.thumb.webp"
+}

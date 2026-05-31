@@ -583,7 +583,7 @@
     {
       "id": "delts/band-y-raise",
       "slug": "band-y-raise",
-      "name": "Y-raise con banda",
+      "name": "Elevación en Y con banda",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "band",
@@ -739,7 +739,7 @@
     {
       "id": "glutes/band-lying-hip-internal-rotation",
       "slug": "band-lying-hip-internal-rotation",
-      "name": "Cadera internal rotation con banda, tumbado",
+      "name": "Rotación interna de cadera con banda, tumbado",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -760,7 +760,7 @@
     {
       "id": "glutes/band-pull-through",
       "slug": "band-pull-through",
-      "name": "Pull through con banda",
+      "name": "Tirón entre piernas con banda",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -783,7 +783,7 @@
     {
       "id": "glutes/band-seated-hip-internal-rotation",
       "slug": "band-seated-hip-internal-rotation",
-      "name": "Cadera internal rotation con banda, sentado",
+      "name": "Rotación interna de cadera con banda, sentado",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "band",
@@ -997,7 +997,7 @@
     {
       "id": "lats/band-fixed-back-close-grip-pulldown",
       "slug": "band-fixed-back-close-grip-pulldown",
-      "name": "Jalón al pecho con banda, con agarre cerrado, fixed espalda",
+      "name": "Jalón al pecho con banda, agarre cerrado, espalda fija",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "band",
@@ -1022,7 +1022,7 @@
     {
       "id": "lats/band-fixed-back-underhand-pulldown",
       "slug": "band-fixed-back-underhand-pulldown",
-      "name": "Jalón al pecho con banda, fixed espalda underhand",
+      "name": "Jalón al pecho con banda, agarre supino, espalda fija",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "band",
@@ -1073,7 +1073,7 @@
     {
       "id": "lats/band-underhand-pulldown",
       "slug": "band-underhand-pulldown",
-      "name": "Jalón al pecho con banda, underhand",
+      "name": "Jalón al pecho con banda, agarre supino",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "band",
@@ -1169,7 +1169,7 @@
     {
       "id": "quads/band-one-arm-single-leg-split-squat",
       "slug": "band-one-arm-single-leg-split-squat",
-      "name": "Split squat con banda, a una mano a una pierna",
+      "name": "Sentadilla búlgara con banda a una mano",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "band",
@@ -1194,7 +1194,7 @@
     {
       "id": "quads/band-single-leg-split-squat",
       "slug": "band-single-leg-split-squat",
-      "name": "Split squat con banda, a una pierna",
+      "name": "Sentadilla búlgara con banda",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "band",

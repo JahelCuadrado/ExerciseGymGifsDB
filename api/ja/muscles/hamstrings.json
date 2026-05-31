@@ -1,0 +1,634 @@
+{
+  "muscle": "hamstrings",
+  "count": 28,
+  "exercises": [
+    {
+      "id": "hamstrings/assisted-prone-hamstring",
+      "slug": "assisted-prone-hamstring",
+      "name": "うつ伏せ・アシスト・ハムストリング",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "動作を開始する前にハムストリングを活性化させます。マインド-マッスルコネクションを感じてください。",
+        "コンセントリックとエキセントリックの両方のフェーズを完全にコントロールして動作を行います。",
+        "下降をコントロールしながらスタートポジションに戻ります——エキセントリックフェーズは挙上と同じだけ筋肉を成長させます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/assisted-prone-hamstring.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/assisted-prone-hamstring.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/assisted-prone-hamstring.thumb.webp"
+    },
+    {
+      "id": "hamstrings/barbell-good-morning",
+      "slug": "barbell-good-morning",
+      "name": "バーベル・グッドモーニング",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "膝を軽く曲げた状態で、お尻を後ろに押し出すように股関節でヒンジします。車のドアをお尻で閉めるイメージです。",
+        "ハムストリングスに深いストレッチを感じるまで下ろします。背中をまっすぐに保ちましょう。棒を背骨に当てると頭、背中の中央、お尻に触れるはずです。",
+        "腰を前に押し出して立ち上がり、トップで臀筋を強く締めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/barbell-good-morning.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/barbell-good-morning.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/barbell-good-morning.thumb.webp"
+    },
+    {
+      "id": "hamstrings/barbell-straight-leg-deadlift",
+      "slug": "barbell-straight-leg-deadlift",
+      "name": "バーベル・ストレートレッグ・デッドリフト",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "足は腰幅で、バーは足の中央の上に置きます。股関節でヒンジし、胸を張り、脇を締めて広背筋を活性化します。",
+        "脚で床を押します。腰と肩が一緒にエレベーターのように上がります。バーを脚に沿って擦るように引き上げます。",
+        "トップで完全に直立し、臀筋の間にコインを挟むように締めます。股関節でヒンジしながらバーを太ももに沿って戻します。バーは体から離れません。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/barbell-straight-leg-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/barbell-straight-leg-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/barbell-straight-leg-deadlift.thumb.webp"
+    },
+    {
+      "id": "hamstrings/cable-assisted-inverse-leg-curl",
+      "slug": "cable-assisted-inverse-leg-curl",
+      "name": "ケーブル・アシスト・レッグカール・インバース",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/cable-assisted-inverse-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/cable-assisted-inverse-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/cable-assisted-inverse-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/dumbbell-lying-femoral",
+      "slug": "dumbbell-lying-femoral",
+      "name": "ダンベル・ライイング・大腿",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "マシンのパッドをかかとのすぐ上に調整します。ハンドルを握り、腰をパッドに押し付けます。",
+        "かかとを臀部に向けて巻き上げ、最大収縮でハムストリングスを強く絞ります。",
+        "マシンの引きと毎センチ戦いながらゆっくり下ろします。落とさないでください。腰を押し付けたままにして代償を防ぎます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/dumbbell-lying-femoral.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/dumbbell-lying-femoral.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/dumbbell-lying-femoral.thumb.webp"
+    },
+    {
+      "id": "hamstrings/exercise-ball-seated-hamstring-stretch",
+      "slug": "exercise-ball-seated-hamstring-stretch",
+      "name": "バランスボール・シーテッド・ストレッチ・ハムストリング",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "ターゲットエリアに優しい緊張を感じるまでゆっくりストレッチ位置に移動します。痛みではありません。",
+        "深く呼吸しながら20〜40秒キープします。各呼気で、もう少しストレッチに沈んでみます。",
+        "ゆっくり解放し、必要に応じて繰り返します。強度より一貫性が重要です。持続的な柔軟性のために定期的にストレッチしましょう。",
+        "ホールド中は深く安定した呼吸を続けてください。ストレッチ中は決して息を止めないでください。"
+      ],
+      "file": "hamstrings/exercise-ball-seated-hamstring-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/exercise-ball-seated-hamstring-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/exercise-ball-seated-hamstring-stretch.thumb.webp"
+    },
+    {
+      "id": "hamstrings/glute-ham-raise",
+      "slug": "glute-ham-raise",
+      "name": "レイズ・グルート・ハムストリング",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "マシンのパッドをかかとのすぐ上に調整します。ハンドルを握り、腰をパッドに押し付けます。",
+        "かかとを臀部に向けて巻き上げ、最大収縮でハムストリングスを強く絞ります。",
+        "マシンの引きと毎センチ戦いながらゆっくり下ろします。落とさないでください。腰を押し付けたままにして代償を防ぎます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/glute-ham-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/glute-ham-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/glute-ham-raise.thumb.webp"
+    },
+    {
+      "id": "hamstrings/hamstring-stretch",
+      "slug": "hamstring-stretch",
+      "name": "ストレッチ・ハムストリング",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ターゲットエリアに優しい緊張を感じるまでゆっくりストレッチ位置に移動します。痛みではありません。",
+        "深く呼吸しながら20〜40秒キープします。各呼気で、もう少しストレッチに沈んでみます。",
+        "ゆっくり解放し、必要に応じて繰り返します。強度より一貫性が重要です。持続的な柔軟性のために定期的にストレッチしましょう。",
+        "ホールド中は深く安定した呼吸を続けてください。ストレッチ中は決して息を止めないでください。"
+      ],
+      "file": "hamstrings/hamstring-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/hamstring-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/hamstring-stretch.thumb.webp"
+    },
+    {
+      "id": "hamstrings/inverse-leg-curl-bench-support",
+      "slug": "inverse-leg-curl-bench-support",
+      "name": "レッグカール・インバース・ベンチ・サポート",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/inverse-leg-curl-bench-support.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/inverse-leg-curl-bench-support.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/inverse-leg-curl-bench-support.thumb.webp"
+    },
+    {
+      "id": "hamstrings/inverse-leg-curl-on-pull-up-cable-machine",
+      "slug": "inverse-leg-curl-on-pull-up-cable-machine",
+      "name": "ケーブル・マシン・懸垂・インバース・レッグカール",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "バーから腕を完全に伸ばしてぶら下がります。肩甲骨を下げて寄せ、後ろのポケットにしまうようにセットします。",
+        "肘を後ろのポケットに向け、胸でリードしながら引き上げます。顎ではなく胸で。バーを鎖骨に巻き付けるイメージです。",
+        "顎がバーの上に出たらトップで絞ります。完全にぶら下がった状態までコントロールして下ろします。毎レップ、完全なストレッチから始めましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/inverse-leg-curl-on-pull-up-cable-machine.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/inverse-leg-curl-on-pull-up-cable-machine.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/inverse-leg-curl-on-pull-up-cable-machine.thumb.webp"
+    },
+    {
+      "id": "hamstrings/kettlebell-hang-clean",
+      "slug": "kettlebell-hang-clean",
+      "name": "ケトルベル・ハングクリーン",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "足は腰幅、バーは足の中央上。腰を落とし、胸を張り、腕はまっすぐ。バーのたるみを取ります。",
+        "爆発的に床を押し、腰と膝を伸ばします。バーが膝を通過したら、激しい股関節伸展とシュラッグで加速します。",
+        "肩（クリーン）または頭上（スナッチ）でバーを受け、素早くバーの下に潜ります。柔らかい膝で吸収し、立ち上がります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/kettlebell-hang-clean.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/kettlebell-hang-clean.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/kettlebell-hang-clean.thumb.webp"
+    },
+    {
+      "id": "hamstrings/kick-out-sit",
+      "slug": "kick-out-sit",
+      "name": "キック・アウト・シット",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "動作を開始する前にハムストリングを活性化させます。マインド-マッスルコネクションを感じてください。",
+        "コンセントリックとエキセントリックの両方のフェーズを完全にコントロールして動作を行います。",
+        "下降をコントロールしながらスタートポジションに戻ります——エキセントリックフェーズは挙上と同じだけ筋肉を成長させます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/kick-out-sit.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/kick-out-sit.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/kick-out-sit.thumb.webp"
+    },
+    {
+      "id": "hamstrings/leg-up-hamstring-stretch",
+      "slug": "leg-up-hamstring-stretch",
+      "name": "ストレッチ・レッグ・アップ・ハムストリング",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ターゲットエリアに優しい緊張を感じるまでゆっくりストレッチ位置に移動します。痛みではありません。",
+        "深く呼吸しながら20〜40秒キープします。各呼気で、もう少しストレッチに沈んでみます。",
+        "ゆっくり解放し、必要に応じて繰り返します。強度より一貫性が重要です。持続的な柔軟性のために定期的にストレッチしましょう。",
+        "ホールド中は深く安定した呼吸を続けてください。ストレッチ中は決して息を止めないでください。"
+      ],
+      "file": "hamstrings/leg-up-hamstring-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/leg-up-hamstring-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/leg-up-hamstring-stretch.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-kneeling-leg-curl",
+      "slug": "lever-kneeling-leg-curl",
+      "name": "マシン・ニーリング・レッグカール",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "膝を立て、腰を膝の真上に位置させ、上体を直立に保ちます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/lever-kneeling-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-kneeling-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-kneeling-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-lying-leg-curl",
+      "slug": "lever-lying-leg-curl",
+      "name": "マシン・ライイング・レッグカール",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/lever-lying-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-lying-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-lying-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-lying-two-one-leg-curl",
+      "slug": "lever-lying-two-one-leg-curl",
+      "name": "マシン・ライイング・ワンレッグ・カール・ツー",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/lever-lying-two-one-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-lying-two-one-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-lying-two-one-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-seated-leg-curl",
+      "slug": "lever-seated-leg-curl",
+      "name": "マシン・シーテッド・レッグカール",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/lever-seated-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-seated-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-seated-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/power-clean",
+      "slug": "power-clean",
+      "name": "パワークリーン",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足は腰幅、バーは足の中央上。腰を落とし、胸を張り、腕はまっすぐ。バーのたるみを取ります。",
+        "爆発的に床を押し、腰と膝を伸ばします。バーが膝を通過したら、激しい股関節伸展とシュラッグで加速します。",
+        "肩（クリーン）または頭上（スナッチ）でバーを受け、素早くバーの下に潜ります。柔らかい膝で吸収し、立ち上がります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/power-clean.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/power-clean.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/power-clean.thumb.webp"
+    },
+    {
+      "id": "hamstrings/reclining-big-toe-pose-with-rope",
+      "slug": "reclining-big-toe-pose-with-rope",
+      "name": "ロープ・リクライニング・ビッグ・トゥ・ポーズ",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ゆっくりポーズに入り、快適なエッジを見つけます。体が許す以上に深く押し込まないでください。",
+        "深くゆっくり呼吸しながらポジションをキープします。各呼気で、ストレッチにもう少しリラックスしてみます。",
+        "ゆっくり意識的にポーズから出ます。前と後で体がどう感じるか観察します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/reclining-big-toe-pose-with-rope.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/reclining-big-toe-pose-with-rope.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/reclining-big-toe-pose-with-rope.thumb.webp"
+    },
+    {
+      "id": "hamstrings/runners-stretch",
+      "slug": "runners-stretch",
+      "name": "ストレッチ・ランナー",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ターゲットエリアに優しい緊張を感じるまでゆっくりストレッチ位置に移動します。痛みではありません。",
+        "深く呼吸しながら20〜40秒キープします。各呼気で、もう少しストレッチに沈んでみます。",
+        "ゆっくり解放し、必要に応じて繰り返します。強度より一貫性が重要です。持続的な柔軟性のために定期的にストレッチしましょう。",
+        "ホールド中は深く安定した呼吸を続けてください。ストレッチ中は決して息を止めないでください。"
+      ],
+      "file": "hamstrings/runners-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/runners-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/runners-stretch.thumb.webp"
+    },
+    {
+      "id": "hamstrings/seated-wide-angle-pose-sequence",
+      "slug": "seated-wide-angle-pose-sequence",
+      "name": "シーテッド・ワイド・アングル・ポーズ・シーケンス",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "ゆっくりポーズに入り、快適なエッジを見つけます。体が許す以上に深く押し込まないでください。",
+        "深くゆっくり呼吸しながらポジションをキープします。各呼気で、ストレッチにもう少しリラックスしてみます。",
+        "ゆっくり意識的にポーズから出ます。前と後で体がどう感じるか観察します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/seated-wide-angle-pose-sequence.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/seated-wide-angle-pose-sequence.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/seated-wide-angle-pose-sequence.thumb.webp"
+    },
+    {
+      "id": "hamstrings/self-assisted-inverse-leg-curl-1766",
+      "slug": "self-assisted-inverse-leg-curl-1766",
+      "name": "アシスト・レッグカール・インバース",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/self-assisted-inverse-leg-curl-1766.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/self-assisted-inverse-leg-curl-1766.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/self-assisted-inverse-leg-curl-1766.thumb.webp"
+    },
+    {
+      "id": "hamstrings/self-assisted-inverse-leg-curl-on-floor",
+      "slug": "self-assisted-inverse-leg-curl-on-floor",
+      "name": "アシスト・レッグカール・インバース・フロア",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/self-assisted-inverse-leg-curl-on-floor.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/self-assisted-inverse-leg-curl-on-floor.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/self-assisted-inverse-leg-curl-on-floor.thumb.webp"
+    },
+    {
+      "id": "hamstrings/self-assisted-inverse-leg-curl",
+      "slug": "self-assisted-inverse-leg-curl",
+      "name": "アシスト・レッグカール・インバース",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/self-assisted-inverse-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/self-assisted-inverse-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/self-assisted-inverse-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/single-leg-platform-slide",
+      "slug": "single-leg-platform-slide",
+      "name": "ワンレッグ・プラットフォーム・スライド",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "動作を開始する前にハムストリングを活性化させます。マインド-マッスルコネクションを感じてください。",
+        "コンセントリックとエキセントリックの両方のフェーズを完全にコントロールして動作を行います。",
+        "下降をコントロールしながらスタートポジションに戻ります——エキセントリックフェーズは挙上と同じだけ筋肉を成長させます。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/single-leg-platform-slide.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/single-leg-platform-slide.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/single-leg-platform-slide.thumb.webp"
+    },
+    {
+      "id": "hamstrings/standing-hamstring-and-calf-stretch-with-strap",
+      "slug": "standing-hamstring-and-calf-stretch-with-strap",
+      "name": "スタンディング・ストレッチ・ハムストリング・カーフ・ストラップ",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ターゲットエリアに優しい緊張を感じるまでゆっくりストレッチ位置に移動します。痛みではありません。",
+        "深く呼吸しながら20〜40秒キープします。各呼気で、もう少しストレッチに沈んでみます。",
+        "ゆっくり解放し、必要に応じて繰り返します。強度より一貫性が重要です。持続的な柔軟性のために定期的にストレッチしましょう。",
+        "ホールド中は深く安定した呼吸を続けてください。ストレッチ中は決して息を止めないでください。"
+      ],
+      "file": "hamstrings/standing-hamstring-and-calf-stretch-with-strap.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/standing-hamstring-and-calf-stretch-with-strap.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/standing-hamstring-and-calf-stretch-with-strap.thumb.webp"
+    },
+    {
+      "id": "hamstrings/standing-single-leg-curl",
+      "slug": "standing-single-leg-curl",
+      "name": "スタンディング・ワンレッグ・カール",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "器具を準備し、良い姿勢で安定したスタートポジションをとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "hamstrings/standing-single-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/standing-single-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/standing-single-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/world-greatest-stretch",
+      "slug": "world-greatest-stretch",
+      "name": "ストレッチ・ワールド・グレーテスト",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "ターゲットエリアに優しい緊張を感じるまでゆっくりストレッチ位置に移動します。痛みではありません。",
+        "深く呼吸しながら20〜40秒キープします。各呼気で、もう少しストレッチに沈んでみます。",
+        "ゆっくり解放し、必要に応じて繰り返します。強度より一貫性が重要です。持続的な柔軟性のために定期的にストレッチしましょう。",
+        "ホールド中は深く安定した呼吸を続けてください。ストレッチ中は決して息を止めないでください。"
+      ],
+      "file": "hamstrings/world-greatest-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/world-greatest-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/world-greatest-stretch.thumb.webp"
+    }
+  ]
+}

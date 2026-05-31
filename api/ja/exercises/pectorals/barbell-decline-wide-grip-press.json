@@ -1,0 +1,25 @@
+{
+  "id": "pectorals/barbell-decline-wide-grip-press",
+  "slug": "barbell-decline-wide-grip-press",
+  "name": "バーベル・ワイドグリップ・デクライン・プレス",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+    "ベンチをデクラインに設定し、足をパッドの下に固定します。",
+    "ワイドグリップを使い、肩幅よりかなり広く握って、ストレッチと外側への刺激を高めます。",
+    "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+    "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+    "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "pectorals/barbell-decline-wide-grip-press.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-decline-wide-grip-press.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-decline-wide-grip-press.thumb.webp"
+}

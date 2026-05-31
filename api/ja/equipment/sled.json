@@ -1,0 +1,280 @@
+{
+  "equipment": "sled",
+  "count": 12,
+  "exercises": [
+    {
+      "id": "abs/sledge-hammer",
+      "slug": "sledge-hammer",
+      "name": "ハンマー・スレッジ",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "スレッドに適切な重量をセットし、ハンドルをしっかり握ります。",
+        "タイヤに向かって足を肩幅に開いて立ちます。ハンドルに手を交互に置いてスレッジハンマーを持ちます。",
+        "スレッジハンマーを頭上に上げ、腰と体幹で力を込めてタイヤを叩きます。",
+        "自然にバウンドさせ、リセットして再び叩きます。バランスの取れた発達のため各セットで前の手を入れ替えます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "abs/sledge-hammer.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/sledge-hammer.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/sledge-hammer.thumb.webp"
+    },
+    {
+      "id": "calves/sled-45-calf-press",
+      "slug": "sled-45-calf-press",
+      "name": "スレッド・プレス・カーフ",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "スレッドに適切な重量をセットし、ハンドルをしっかり握ります。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "calves/sled-45-calf-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-45-calf-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-45-calf-press.thumb.webp"
+    },
+    {
+      "id": "calves/sled-calf-press-on-leg-press",
+      "slug": "sled-calf-press-on-leg-press",
+      "name": "スレッド・レッグプレス・カーフ・プレス",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "スレッドに適切な重量をセットし、ハンドルをしっかり握ります。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "calves/sled-calf-press-on-leg-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-calf-press-on-leg-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-calf-press-on-leg-press.thumb.webp"
+    },
+    {
+      "id": "calves/sled-forward-angled-calf-raise",
+      "slug": "sled-forward-angled-calf-raise",
+      "name": "スレッド・カーフレイズ・フォワード・アングルド",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "スレッドに適切な重量をセットし、ハンドルをしっかり握ります。",
+        "段差やプラットフォームの端にかかとが出るように立ちます。バランスが必要なら支えを掴みます。",
+        "できるだけ高くつま先立ちになり、トップでふくらはぎを2秒間強く絞ります。",
+        "プラットフォームの端を越えて、ふくらはぎに深いストレッチを感じるまでゆっくり下ろします。バウンスなし、毎センチをマスターします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "calves/sled-forward-angled-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-forward-angled-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-forward-angled-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/sled-lying-calf-press",
+      "slug": "sled-lying-calf-press",
+      "name": "スレッド・ライイング・プレス・カーフ",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "スレッドに適切な重量をセットし、ハンドルをしっかり握ります。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "calves/sled-lying-calf-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-lying-calf-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-lying-calf-press.thumb.webp"
+    },
+    {
+      "id": "calves/sled-one-leg-calf-press-on-leg-press",
+      "slug": "sled-one-leg-calf-press-on-leg-press",
+      "name": "スレッド・ワンレッグ・レッグプレス・カーフ・プレス",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "スレッドに適切な重量をセットし、ハンドルをしっかり握ります。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "calves/sled-one-leg-calf-press-on-leg-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-one-leg-calf-press-on-leg-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/sled-one-leg-calf-press-on-leg-press.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-45-degrees-one-leg-press",
+      "slug": "sled-45-degrees-one-leg-press",
+      "name": "スレッド・ワンレッグ・プレス・度",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "スレッドに適切な重量をセットし、ハンドルをしっかり握ります。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "glutes/sled-45-degrees-one-leg-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-45-degrees-one-leg-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-45-degrees-one-leg-press.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-45-leg-press-back-pov",
+      "slug": "sled-45-leg-press-back-pov",
+      "name": "スレッド・レッグプレス・バック",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "スレッドに適切な重量をセットし、ハンドルをしっかり握ります。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "glutes/sled-45-leg-press-back-pov.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-45-leg-press-back-pov.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-45-leg-press-back-pov.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-45-leg-press-side-pov",
+      "slug": "sled-45-leg-press-side-pov",
+      "name": "スレッド・サイド・レッグプレス",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "スレッドに適切な重量をセットし、ハンドルをしっかり握ります。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "glutes/sled-45-leg-press-side-pov.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-45-leg-press-side-pov.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-45-leg-press-side-pov.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-45-leg-press",
+      "slug": "sled-45-leg-press",
+      "name": "スレッド・レッグプレス",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "スレッドに適切な重量をセットし、ハンドルをしっかり握ります。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "glutes/sled-45-leg-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-45-leg-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-45-leg-press.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-45-leg-wide-press",
+      "slug": "sled-45-leg-wide-press",
+      "name": "スレッド・ワイド・プレス・レッグ",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "スレッドに適切な重量をセットし、ハンドルをしっかり握ります。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "glutes/sled-45-leg-wide-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-45-leg-wide-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-45-leg-wide-press.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-lying-squat",
+      "slug": "sled-lying-squat",
+      "name": "スレッド・ライイング・スクワット",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "sled",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "スレッドに適切な重量をセットし、ハンドルをしっかり握ります。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "glutes/sled-lying-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-lying-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-lying-squat.thumb.webp"
+    }
+  ]
+}

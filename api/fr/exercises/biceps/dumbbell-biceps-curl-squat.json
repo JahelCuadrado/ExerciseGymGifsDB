@@ -1,0 +1,25 @@
+{
+  "id": "biceps/dumbbell-biceps-curl-squat",
+  "slug": "dumbbell-biceps-curl-squat",
+  "name": "Squat aux haltères, Curl biceps",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+    "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+    "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+    "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "biceps/dumbbell-biceps-curl-squat.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-biceps-curl-squat.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-biceps-curl-squat.thumb.webp"
+}

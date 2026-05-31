@@ -1,0 +1,23 @@
+{
+  "id": "biceps/cable-one-arm-curl",
+  "slug": "cable-one-arm-curl",
+  "name": "Curl à la poulie, un bras",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+    "Colle le coude au côté — imagine qu'il est cloué en place. Seul l'avant-bras bouge.",
+    "Monte le poids en contractant fortement le biceps. En haut, presse le jus d'une orange avant de redescendre.",
+    "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde le poignet droit comme une tige d'acier. Si le corps balance, le poids est trop lourd.",
+    "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "biceps/cable-one-arm-curl.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-one-arm-curl.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-one-arm-curl.thumb.webp"
+}

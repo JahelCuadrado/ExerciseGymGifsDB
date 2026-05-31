@@ -1,0 +1,46 @@
+{
+  "muscle": "levator-scapulae",
+  "count": 2,
+  "exercises": [
+    {
+      "id": "levator-scapulae/neck-side-stretch",
+      "slug": "neck-side-stretch",
+      "name": "Étirement, latéral, cou",
+      "muscle": "levator-scapulae",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Assieds-toi ou tiens-toi droit. Incline doucement la tête vers une épaule, amenant l'oreille vers elle sans lever l'épaule.",
+        "Tiens l'étirement 20-30 secondes en respirant profondément. Tu peux utiliser la main pour une légère pression supplémentaire.",
+        "Reviens lentement au centre et répète de l'autre côté. Ne force jamais — va seulement au point de tension légère.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "levator-scapulae/neck-side-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/levator-scapulae/neck-side-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/levator-scapulae/neck-side-stretch.thumb.webp"
+    },
+    {
+      "id": "levator-scapulae/side-push-neck-stretch",
+      "slug": "side-push-neck-stretch",
+      "name": "Étirement, latéral, poussée cou",
+      "muscle": "levator-scapulae",
+      "bodyPart": "back",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Assieds-toi ou tiens-toi droit. Incline doucement la tête vers une épaule, amenant l'oreille vers elle sans lever l'épaule.",
+        "Tiens l'étirement 20-30 secondes en respirant profondément. Tu peux utiliser la main pour une légère pression supplémentaire.",
+        "Reviens lentement au centre et répète de l'autre côté. Ne force jamais — va seulement au point de tension légère.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "levator-scapulae/side-push-neck-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/levator-scapulae/side-push-neck-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/levator-scapulae/side-push-neck-stretch.thumb.webp"
+    }
+  ]
+}

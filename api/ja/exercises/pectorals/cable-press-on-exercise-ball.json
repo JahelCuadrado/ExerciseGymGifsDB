@@ -1,0 +1,23 @@
+{
+  "id": "pectorals/cable-press-on-exercise-ball",
+  "slug": "cable-press-on-exercise-ball",
+  "name": "ケーブル・バランスボール・プレス",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+    "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+    "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+    "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "pectorals/cable-press-on-exercise-ball.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-press-on-exercise-ball.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/cable-press-on-exercise-ball.thumb.webp"
+}

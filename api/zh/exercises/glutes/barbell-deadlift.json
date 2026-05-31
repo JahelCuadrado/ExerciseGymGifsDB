@@ -1,0 +1,26 @@
+{
+  "id": "glutes/barbell-deadlift",
+  "slug": "barbell-deadlift",
+  "name": "杠铃硬拉",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "lats",
+    "traps",
+    "forearms",
+    "spine"
+  ],
+  "instructions": [
+    "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+    "双脚与髋同宽站立，杠铃在脚掌中间上方。屈髋，抬胸，夹紧腋窝以激活背阔肌。",
+    "用腿将地面推开——髋部和肩膀像电梯一样同时上升。让杠铃沿腿部上移，就像在刮腿毛。",
+    "在顶部完全站直，收紧臀肌像夹住一枚硬币。通过向后屈髋反向动作，让杠铃沿大腿滑下——它永远不离开身体。",
+    "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+  ],
+  "file": "glutes/barbell-deadlift.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-deadlift.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-deadlift.thumb.webp"
+}

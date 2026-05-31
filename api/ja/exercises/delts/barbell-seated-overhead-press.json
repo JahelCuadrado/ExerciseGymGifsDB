@@ -1,0 +1,23 @@
+{
+  "id": "delts/barbell-seated-overhead-press",
+  "slug": "barbell-seated-overhead-press",
+  "name": "バーベル・シーテッド・オーバーヘッドプレス",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+    "背筋を伸ばして座り、足を床に平らに置きます。",
+    "手首を肘の真上に積み上げ、固い柱のようにします。臀筋を締め、腹筋をパンチを受けるように引き締めます。",
+    "重りを真上に押し上げ、頭を邪魔にならないように移動させます。バーが顔を通過したら、頭を前に出して完全にロックアウトします。",
+    "前部三角筋の上にコントロールしながら戻します。体幹を垂直に保ちましょう。立ったままのインクラインベンチではありません。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "delts/barbell-seated-overhead-press.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-seated-overhead-press.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-seated-overhead-press.thumb.webp"
+}

@@ -93,7 +93,7 @@
     {
       "id": "forearms/barbell-revers-wrist-curl-v-2",
       "slug": "barbell-revers-wrist-curl-v-2",
-      "name": "Curl de muñeca con barra, revers",
+      "name": "Curl de muñeca invertido con barra",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -490,7 +490,7 @@
     {
       "id": "forearms/dumbbell-over-bench-revers-wrist-curl",
       "slug": "dumbbell-over-bench-revers-wrist-curl",
-      "name": "Curl de muñeca con mancuerna, sobre banco, revers",
+      "name": "Curl inverso de muneca con mancuerna sobre banco",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "dumbbell",
@@ -802,7 +802,7 @@
     {
       "id": "forearms/wrist-rollerer",
       "slug": "wrist-rollerer",
-      "name": "Enrollador de muñeca",
+      "name": "Rodillo de muneca",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "bodyweight",

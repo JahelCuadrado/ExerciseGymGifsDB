@@ -1,0 +1,22 @@
+{
+  "id": "forearms/lever-gripper-hands",
+  "slug": "lever-gripper-hands",
+  "name": "Pince mains à la machine",
+  "muscle": "forearms",
+  "bodyPart": "arms",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": [
+    "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+    "Tiens le poids (ou la pince) avec l'avant-bras soutenu et stable.",
+    "Tourne ou serre dans toute l'amplitude de manière lente et contrôlée. Concentre-toi sur les muscles de l'avant-bras qui travaillent.",
+    "Reviens avec contrôle à la position de départ. Chaque rep devrait prendre 2-3 secondes dans chaque direction.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "forearms/lever-gripper-hands.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/lever-gripper-hands.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/lever-gripper-hands.thumb.webp"
+}

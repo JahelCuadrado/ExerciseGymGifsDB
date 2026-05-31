@@ -1,0 +1,3426 @@
+{
+  "equipment": "barbell",
+  "count": 148,
+  "exercises": [
+    {
+      "id": "abs/barbell-press-sit-up",
+      "slug": "barbell-press-sit-up",
+      "name": "杠铃仰卧起坐推举",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+        "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+        "控制将重量收回，在整个运动范围内保持张力。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "abs/barbell-press-sit-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/barbell-press-sit-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/barbell-press-sit-up.thumb.webp"
+    },
+    {
+      "id": "abs/barbell-rollerout-from-bench",
+      "slug": "barbell-rollerout-from-bench",
+      "name": "杠铃滚轮凳",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "跪姿（高级者可站姿），双手放在腹肌轮上。开始时髋部在膝盖正上方，手臂伸直。",
+        "通过肩膀伸展向前滚出，同时核心保持坚如磐石。不要让髋部下沉——用力绷紧。",
+        "用腹肌将自己拉回——想象将肚脐拉向脊柱。只滚到你能控制的距离。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "abs/barbell-rollerout-from-bench.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/barbell-rollerout-from-bench.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/barbell-rollerout-from-bench.thumb.webp"
+    },
+    {
+      "id": "abs/barbell-rollerout",
+      "slug": "barbell-rollerout",
+      "name": "杠铃滚轮",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "跪姿（高级者可站姿），双手放在腹肌轮上。开始时髋部在膝盖正上方，手臂伸直。",
+        "通过肩膀伸展向前滚出，同时核心保持坚如磐石。不要让髋部下沉——用力绷紧。",
+        "用腹肌将自己拉回——想象将肚脐拉向脊柱。只滚到你能控制的距离。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "abs/barbell-rollerout.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/barbell-rollerout.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/barbell-rollerout.thumb.webp"
+    },
+    {
+      "id": "abs/barbell-seated-twist",
+      "slug": "barbell-seated-twist",
+      "name": "杠铃坐姿转体",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "膝盖弯曲坐下，微微后倾——或站立收紧核心做缆绳变式。保持胸部挺起。",
+        "从中背部控制地左右旋转躯干——不是只动手臂。重量触碰每侧髋部。",
+        "控制移动——旋转幅度比速度更重要。在整个范围内保持核心激活。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "abs/barbell-seated-twist.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/barbell-seated-twist.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/barbell-seated-twist.thumb.webp"
+    },
+    {
+      "id": "abs/barbell-side-bent-v-2",
+      "slug": "barbell-side-bent-v-2",
+      "name": "杠铃侧面屈",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "直立站好（或坐好），一侧持握重量。保持髋部方正朝前。",
+        "向远离重量的方向倾斜，拉伸侧腹，然后收缩侧腹将自己拉回直立并过中线。",
+        "缓慢控制移动——这不是靠惯性的练习。感受一侧的拉伸和另一侧的收缩。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "abs/barbell-side-bent-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/barbell-side-bent-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/barbell-side-bent-v-2.thumb.webp"
+    },
+    {
+      "id": "abs/barbell-sitted-alternate-leg-raise-female",
+      "slug": "barbell-sitted-alternate-leg-raise-female",
+      "name": "坐姿杠铃交替举腿",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "悬挂在杠上或用手臂支撑就位。开始时腿自然下垂，核心收紧。",
+        "通过骨盆后倾抬起双腿——想着把腰带扣带向下巴，而不是只抬脚。",
+        "缓慢控制下降，不要摆动。如果摆动，弯曲膝盖以缩短力臂。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "abs/barbell-sitted-alternate-leg-raise-female.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/barbell-sitted-alternate-leg-raise-female.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/barbell-sitted-alternate-leg-raise-female.thumb.webp"
+    },
+    {
+      "id": "abs/barbell-sitted-alternate-leg-raise",
+      "slug": "barbell-sitted-alternate-leg-raise",
+      "name": "坐姿杠铃交替举腿",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "悬挂在杠上或用手臂支撑就位。开始时腿自然下垂，核心收紧。",
+        "通过骨盆后倾抬起双腿——想着把腰带扣带向下巴，而不是只抬脚。",
+        "缓慢控制下降，不要摆动。如果摆动，弯曲膝盖以缩短力臂。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "abs/barbell-sitted-alternate-leg-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/barbell-sitted-alternate-leg-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/barbell-sitted-alternate-leg-raise.thumb.webp"
+    },
+    {
+      "id": "abs/barbell-standing-ab-rollerout",
+      "slug": "barbell-standing-ab-rollerout",
+      "name": "杠铃站姿腹滚轮",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "跪姿（高级者可站姿），双手放在腹肌轮上。开始时髋部在膝盖正上方，手臂伸直。",
+        "通过肩膀伸展向前滚出，同时核心保持坚如磐石。不要让髋部下沉——用力绷紧。",
+        "用腹肌将自己拉回——想象将肚脐拉向脊柱。只滚到你能控制的距离。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "abs/barbell-standing-ab-rollerout.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/barbell-standing-ab-rollerout.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/barbell-standing-ab-rollerout.thumb.webp"
+    },
+    {
+      "id": "abs/barbell-standing-twist",
+      "slug": "barbell-standing-twist",
+      "name": "杠铃站姿转体",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "膝盖弯曲坐下，微微后倾——或站立收紧核心做缆绳变式。保持胸部挺起。",
+        "从中背部控制地左右旋转躯干——不是只动手臂。重量触碰每侧髋部。",
+        "控制移动——旋转幅度比速度更重要。在整个范围内保持核心激活。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "abs/barbell-standing-twist.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/barbell-standing-twist.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/barbell-standing-twist.thumb.webp"
+    },
+    {
+      "id": "abs/landmine-180",
+      "slug": "landmine-180",
+      "name": "地雷管",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "膝盖弯曲坐下，微微后倾——或站立收紧核心做缆绳变式。保持胸部挺起。",
+        "从中背部控制地左右旋转躯干——不是只动手臂。重量触碰每侧髋部。",
+        "控制移动——旋转幅度比速度更重要。在整个范围内保持核心激活。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "abs/landmine-180.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/landmine-180.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/landmine-180.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-alternate-biceps-curl",
+      "slug": "barbell-alternate-biceps-curl",
+      "name": "杠铃交替二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "每次交替两侧。完成一侧完整的一次后再做另一侧。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-alternate-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-alternate-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-alternate-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-biceps-curl-with-arm-blaster",
+      "slug": "barbell-biceps-curl-with-arm-blaster",
+      "name": "杠铃二头弯举臂强化",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-biceps-curl-with-arm-blaster.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-biceps-curl-with-arm-blaster.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-biceps-curl-with-arm-blaster.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-curl",
+      "slug": "barbell-curl",
+      "name": "杠铃弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-drag-curl",
+      "slug": "barbell-drag-curl",
+      "name": "杠铃拖曳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将杠铃靠在大腿上。不要做弧形弯举，而是沿身体直线向上拖拽杠铃——肘部向后移动。",
+        "在杠铃沿躯干上滑时将肘部拉到身后。这强调了二头肌的长头。",
+        "反向路径，控制地将杠铃沿身体滑回。杠铃永远不离开躯干。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-drag-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-drag-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-drag-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-lying-preacher-curl",
+      "slug": "barbell-lying-preacher-curl",
+      "name": "杠铃仰卧牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-lying-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-lying-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-lying-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-preacher-curl",
+      "slug": "barbell-preacher-curl",
+      "name": "杠铃牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-prone-incline-curl",
+      "slug": "barbell-prone-incline-curl",
+      "name": "杠铃俯卧上斜弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-prone-incline-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-prone-incline-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-prone-incline-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-reverse-curl",
+      "slug": "barbell-reverse-curl",
+      "name": "杠铃反握弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-reverse-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-reverse-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-reverse-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-reverse-preacher-curl",
+      "slug": "barbell-reverse-preacher-curl",
+      "name": "杠铃反向牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-reverse-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-reverse-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-reverse-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-seated-close-grip-concentration-curl",
+      "slug": "barbell-seated-close-grip-concentration-curl",
+      "name": "杠铃坐姿窄握集中弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "双腿分开坐下，将工作臂的后侧靠在大腿内侧。这锁定了上臂。",
+        "缓慢弯举重量，完全专注于二头肌的收缩。在顶部像挤橙汁一样挤压。",
+        "用3秒下放并完全伸展。你的大腿就是护栏——不可能摆动。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-seated-close-grip-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-seated-close-grip-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-seated-close-grip-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-standing-close-grip-curl",
+      "slug": "barbell-standing-close-grip-curl",
+      "name": "杠铃站姿窄握弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-standing-close-grip-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-close-grip-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-close-grip-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-standing-concentration-curl",
+      "slug": "barbell-standing-concentration-curl",
+      "name": "杠铃站姿集中弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "双腿分开坐下，将工作臂的后侧靠在大腿内侧。这锁定了上臂。",
+        "缓慢弯举重量，完全专注于二头肌的收缩。在顶部像挤橙汁一样挤压。",
+        "用3秒下放并完全伸展。你的大腿就是护栏——不可能摆动。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-standing-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-standing-reverse-grip-curl",
+      "slug": "barbell-standing-reverse-grip-curl",
+      "name": "杠铃站姿反握弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-standing-reverse-grip-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-reverse-grip-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-reverse-grip-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-standing-wide-grip-biceps-curl",
+      "slug": "barbell-standing-wide-grip-biceps-curl",
+      "name": "杠铃站姿宽握二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "使用宽握，双手远超肩宽，增加拉伸和外侧刺激。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-standing-wide-grip-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-wide-grip-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-wide-grip-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-standing-wide-grip-curl",
+      "slug": "barbell-standing-wide-grip-curl",
+      "name": "杠铃站姿宽握弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "使用宽握，双手远超肩宽，增加拉伸和外侧刺激。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/barbell-standing-wide-grip-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-wide-grip-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-wide-grip-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/olympic-barbell-hammer-curl",
+      "slug": "olympic-barbell-hammer-curl",
+      "name": "杠铃锤式弯举奥林匹克",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "以对握姿势（掌心相对）持握重量。将肘部钉在体侧——想象它们被钉住了。",
+        "保持对握向上弯举。这除了二头肌外还针对肱肌和肱桡肌。",
+        "缓慢用3秒下放，在每一厘米对抗重力。整个动作中手腕保持像钢棒一样笔直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/olympic-barbell-hammer-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/olympic-barbell-hammer-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/olympic-barbell-hammer-curl.thumb.webp"
+    },
+    {
+      "id": "calves/barbell-floor-calf-raise",
+      "slug": "barbell-floor-calf-raise",
+      "name": "杠铃提踵地面",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "站在台阶或平台边缘，脚跟悬空。如需平衡可抓住支撑物。",
+        "尽可能高地踮起脚尖，在顶部用力收紧小腿保持2秒。",
+        "缓慢下放超过平台边缘，直到感受到小腿的深度拉伸。不要弹跳——掌控每一厘米。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "calves/barbell-floor-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-floor-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-floor-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/barbell-seated-calf-raise-1371",
+      "slug": "barbell-seated-calf-raise-1371",
+      "name": "杠铃坐姿提踵",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "站在台阶或平台边缘，脚跟悬空。如需平衡可抓住支撑物。",
+        "尽可能高地踮起脚尖，在顶部用力收紧小腿保持2秒。",
+        "缓慢下放超过平台边缘，直到感受到小腿的深度拉伸。不要弹跳——掌控每一厘米。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "calves/barbell-seated-calf-raise-1371.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-seated-calf-raise-1371.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-seated-calf-raise-1371.thumb.webp"
+    },
+    {
+      "id": "calves/barbell-seated-calf-raise",
+      "slug": "barbell-seated-calf-raise",
+      "name": "杠铃坐姿提踵",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "站在台阶或平台边缘，脚跟悬空。如需平衡可抓住支撑物。",
+        "尽可能高地踮起脚尖，在顶部用力收紧小腿保持2秒。",
+        "缓慢下放超过平台边缘，直到感受到小腿的深度拉伸。不要弹跳——掌控每一厘米。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "calves/barbell-seated-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-seated-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-seated-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/barbell-standing-calf-raise",
+      "slug": "barbell-standing-calf-raise",
+      "name": "杠铃站姿提踵",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "站在台阶或平台边缘，脚跟悬空。如需平衡可抓住支撑物。",
+        "尽可能高地踮起脚尖，在顶部用力收紧小腿保持2秒。",
+        "缓慢下放超过平台边缘，直到感受到小腿的深度拉伸。不要弹跳——掌控每一厘米。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "calves/barbell-standing-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-standing-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-standing-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/barbell-standing-leg-calf-raise",
+      "slug": "barbell-standing-leg-calf-raise",
+      "name": "杠铃站姿提踵腿",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "站在台阶或平台边缘，脚跟悬空。如需平衡可抓住支撑物。",
+        "尽可能高地踮起脚尖，在顶部用力收紧小腿保持2秒。",
+        "缓慢下放超过平台边缘，直到感受到小腿的深度拉伸。不要弹跳——掌控每一厘米。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "calves/barbell-standing-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-standing-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-standing-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/barbell-standing-rocking-leg-calf-raise",
+      "slug": "barbell-standing-rocking-leg-calf-raise",
+      "name": "杠铃站姿提踵摇摆腿",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "站在台阶或平台边缘，脚跟悬空。如需平衡可抓住支撑物。",
+        "尽可能高地踮起脚尖，在顶部用力收紧小腿保持2秒。",
+        "缓慢下放超过平台边缘，直到感受到小腿的深度拉伸。不要弹跳——掌控每一厘米。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "calves/barbell-standing-rocking-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-standing-rocking-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/barbell-standing-rocking-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "delts/barbell-front-raise",
+      "slug": "barbell-front-raise",
+      "name": "杠铃前平举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "挺直站立，重量在大腿前，核心收紧。",
+        "将重量抬到肩膀高度，肘部微曲。保持躯干不动——如果你后仰，重量太大了。",
+        "在顶部停顿，然后控制下放。不让重量摆动——掌控每一厘米。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/barbell-front-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-front-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-front-raise.thumb.webp"
+    },
+    {
+      "id": "delts/barbell-one-arm-snatch",
+      "slug": "barbell-one-arm-snatch",
+      "name": "杠铃单臂抓举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "双脚与髋同宽，杠铃在脚掌中间上方。下沉髋部，抬起胸部，手臂伸直——消除杠铃的松弛。",
+        "爆发性地推地，伸展髋部和膝盖。当杠铃过膝后，以猛烈的伸髋和耸肩加速。",
+        "快速下沉到杠铃下方，在肩膀（翻举）或头顶（抓举）接住杠铃。用柔软的膝盖缓冲接杠，然后站起。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/barbell-one-arm-snatch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-one-arm-snatch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-one-arm-snatch.thumb.webp"
+    },
+    {
+      "id": "delts/barbell-rear-delt-raise",
+      "slug": "barbell-rear-delt-raise",
+      "name": "杠铃俯身侧平举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "从髋部前倾或调整机器针对后三角肌。手臂自然下垂，肘部微曲。",
+        "通过夹紧肩胛骨将重量向外向后抬起。用肘部引导，不是用手。",
+        "在顶部短暂保持，感受肩胛骨之间的收缩，然后控制下放。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/barbell-rear-delt-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-rear-delt-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-rear-delt-raise.thumb.webp"
+    },
+    {
+      "id": "delts/barbell-rear-delt-row",
+      "slug": "barbell-rear-delt-row",
+      "name": "杠铃后划船三角肌",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/barbell-rear-delt-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-rear-delt-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-rear-delt-row.thumb.webp"
+    },
+    {
+      "id": "delts/barbell-seated-behind-head-military-press",
+      "slug": "barbell-seated-behind-head-military-press",
+      "name": "杠铃坐姿军事推举背后头",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/barbell-seated-behind-head-military-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-seated-behind-head-military-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-seated-behind-head-military-press.thumb.webp"
+    },
+    {
+      "id": "delts/barbell-seated-bradford-rocky-press",
+      "slug": "barbell-seated-bradford-rocky-press",
+      "name": "杠铃坐姿布拉德福德推举洛基",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/barbell-seated-bradford-rocky-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-seated-bradford-rocky-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-seated-bradford-rocky-press.thumb.webp"
+    },
+    {
+      "id": "delts/barbell-seated-overhead-press",
+      "slug": "barbell-seated-overhead-press",
+      "name": "杠铃坐姿过头推举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/barbell-seated-overhead-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-seated-overhead-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-seated-overhead-press.thumb.webp"
+    },
+    {
+      "id": "delts/barbell-skier",
+      "slug": "barbell-skier",
+      "name": "杠铃滑雪者",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "abs",
+        "lats",
+        "triceps"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "双脚与肩同宽站立，膝盖微曲，核心收紧。每只手握住一端。",
+        "通过交替（或同时拍打）手臂上下运动产生持续的波浪。力量来自全身，不只是手臂。",
+        "保持一致的节奏和核心紧绷。不要让绳子松弛——每个动作都保持张力。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/barbell-skier.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-skier.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-skier.thumb.webp"
+    },
+    {
+      "id": "delts/barbell-standing-bradford-press",
+      "slug": "barbell-standing-bradford-press",
+      "name": "杠铃站姿布拉德福德推举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/barbell-standing-bradford-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-standing-bradford-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-standing-bradford-press.thumb.webp"
+    },
+    {
+      "id": "delts/barbell-standing-close-grip-military-press",
+      "slug": "barbell-standing-close-grip-military-press",
+      "name": "杠铃站姿窄握军事推举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/barbell-standing-close-grip-military-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-standing-close-grip-military-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-standing-close-grip-military-press.thumb.webp"
+    },
+    {
+      "id": "delts/barbell-standing-front-raise-over-head",
+      "slug": "barbell-standing-front-raise-over-head",
+      "name": "杠铃站姿前平举过头",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "挺直站立，重量在大腿前，核心收紧。",
+        "将重量抬到肩膀高度，肘部微曲。保持躯干不动——如果你后仰，重量太大了。",
+        "在顶部停顿，然后控制下放。不让重量摆动——掌控每一厘米。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/barbell-standing-front-raise-over-head.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-standing-front-raise-over-head.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-standing-front-raise-over-head.thumb.webp"
+    },
+    {
+      "id": "delts/barbell-standing-wide-military-press",
+      "slug": "barbell-standing-wide-military-press",
+      "name": "杠铃站姿宽距军事推举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/barbell-standing-wide-military-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-standing-wide-military-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-standing-wide-military-press.thumb.webp"
+    },
+    {
+      "id": "delts/barbell-thruster",
+      "slug": "barbell-thruster",
+      "name": "杠铃推举深蹲",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "quads",
+        "triceps",
+        "abs"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/barbell-thruster.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-thruster.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-thruster.thumb.webp"
+    },
+    {
+      "id": "delts/barbell-upright-row-v-2",
+      "slug": "barbell-upright-row-v-2",
+      "name": "杠铃直立划船",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "traps"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将重量持于大腿前方，手臂伸直。挺直站立，核心收紧。",
+        "沿身体向上拉重量，肘部引导朝向天花板。当肘部到达肩膀高度时停止。",
+        "将重量缓慢放回起始位置。如果感到肩膀夹痛，稍微加宽握距。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/barbell-upright-row-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-upright-row-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-upright-row-v-2.thumb.webp"
+    },
+    {
+      "id": "delts/barbell-upright-row-v-3",
+      "slug": "barbell-upright-row-v-3",
+      "name": "杠铃直立划船",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "traps"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将重量持于大腿前方，手臂伸直。挺直站立，核心收紧。",
+        "沿身体向上拉重量，肘部引导朝向天花板。当肘部到达肩膀高度时停止。",
+        "将重量缓慢放回起始位置。如果感到肩膀夹痛，稍微加宽握距。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/barbell-upright-row-v-3.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-upright-row-v-3.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-upright-row-v-3.thumb.webp"
+    },
+    {
+      "id": "delts/barbell-upright-row",
+      "slug": "barbell-upright-row",
+      "name": "杠铃直立划船",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "traps"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将重量持于大腿前方，手臂伸直。挺直站立，核心收紧。",
+        "沿身体向上拉重量，肘部引导朝向天花板。当肘部到达肩膀高度时停止。",
+        "将重量缓慢放回起始位置。如果感到肩膀夹痛，稍微加宽握距。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/barbell-upright-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-upright-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-upright-row.thumb.webp"
+    },
+    {
+      "id": "delts/barbell-wide-grip-upright-row",
+      "slug": "barbell-wide-grip-upright-row",
+      "name": "杠铃宽握直立划船",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "traps"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "使用宽握，双手远超肩宽，增加拉伸和外侧刺激。",
+        "将重量持于大腿前方，手臂伸直。挺直站立，核心收紧。",
+        "沿身体向上拉重量，肘部引导朝向天花板。当肘部到达肩膀高度时停止。",
+        "将重量缓慢放回起始位置。如果感到肩膀夹痛，稍微加宽握距。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/barbell-wide-grip-upright-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-wide-grip-upright-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-wide-grip-upright-row.thumb.webp"
+    },
+    {
+      "id": "delts/landmine-lateral-raise",
+      "slug": "landmine-lateral-raise",
+      "name": "地雷管侧平举",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "站立，重量在体侧，轻微前倾。肘部微曲。",
+        "将手臂向两侧抬起，用肘部引导，就像从两个水壶中倒水。在肩膀高度停止。",
+        "缓慢控制下放，在整个下降过程中对抗重力。不要摆动——如果需要借力，减轻重量。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/landmine-lateral-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/landmine-lateral-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/landmine-lateral-raise.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-palms-down-wrist-curl-over-a-bench",
+      "slug": "barbell-palms-down-wrist-curl-over-a-bench",
+      "name": "杠铃腕弯举双掌下过凳",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将前臂放在大腿或凳子上，手腕悬出边缘。前臂紧贴支撑面。",
+        "向上弯曲手腕，在顶部收紧前臂肌肉。短暂停顿。",
+        "缓慢下放，让重量充分拉伸手腕。只有手腕在动——前臂保持不动。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "forearms/barbell-palms-down-wrist-curl-over-a-bench.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-palms-down-wrist-curl-over-a-bench.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-palms-down-wrist-curl-over-a-bench.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-palms-up-wrist-curl-over-a-bench",
+      "slug": "barbell-palms-up-wrist-curl-over-a-bench",
+      "name": "杠铃腕弯举双掌上过凳",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将前臂放在大腿或凳子上，手腕悬出边缘。前臂紧贴支撑面。",
+        "向上弯曲手腕，在顶部收紧前臂肌肉。短暂停顿。",
+        "缓慢下放，让重量充分拉伸手腕。只有手腕在动——前臂保持不动。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "forearms/barbell-palms-up-wrist-curl-over-a-bench.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-palms-up-wrist-curl-over-a-bench.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-palms-up-wrist-curl-over-a-bench.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-revers-wrist-curl-v-2",
+      "slug": "barbell-revers-wrist-curl-v-2",
+      "name": "杠铃反向腕弯举",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将前臂放在大腿或凳子上，手腕悬出边缘。前臂紧贴支撑面。",
+        "向上弯曲手腕，在顶部收紧前臂肌肉。短暂停顿。",
+        "缓慢下放，让重量充分拉伸手腕。只有手腕在动——前臂保持不动。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "forearms/barbell-revers-wrist-curl-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-revers-wrist-curl-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-revers-wrist-curl-v-2.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-reverse-wrist-curl",
+      "slug": "barbell-reverse-wrist-curl",
+      "name": "杠铃反向腕弯举",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将前臂放在大腿或凳子上，手腕悬出边缘。前臂紧贴支撑面。",
+        "向上弯曲手腕，在顶部收紧前臂肌肉。短暂停顿。",
+        "缓慢下放，让重量充分拉伸手腕。只有手腕在动——前臂保持不动。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "forearms/barbell-reverse-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-reverse-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-reverse-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-standing-back-wrist-curl",
+      "slug": "barbell-standing-back-wrist-curl",
+      "name": "杠铃站姿腕弯举背",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将前臂放在大腿或凳子上，手腕悬出边缘。前臂紧贴支撑面。",
+        "向上弯曲手腕，在顶部收紧前臂肌肉。短暂停顿。",
+        "缓慢下放，让重量充分拉伸手腕。只有手腕在动——前臂保持不动。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "forearms/barbell-standing-back-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-standing-back-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-standing-back-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-wrist-curl-v-2",
+      "slug": "barbell-wrist-curl-v-2",
+      "name": "杠铃腕弯举",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将前臂放在大腿或凳子上，手腕悬出边缘。前臂紧贴支撑面。",
+        "向上弯曲手腕，在顶部收紧前臂肌肉。短暂停顿。",
+        "缓慢下放，让重量充分拉伸手腕。只有手腕在动——前臂保持不动。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "forearms/barbell-wrist-curl-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-wrist-curl-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-wrist-curl-v-2.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-wrist-curl",
+      "slug": "barbell-wrist-curl",
+      "name": "杠铃腕弯举",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将前臂放在大腿或凳子上，手腕悬出边缘。前臂紧贴支撑面。",
+        "向上弯曲手腕，在顶部收紧前臂肌肉。短暂停顿。",
+        "缓慢下放，让重量充分拉伸手腕。只有手腕在动——前臂保持不动。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "forearms/barbell-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-clean-grip-front-squat",
+      "slug": "barbell-clean-grip-front-squat",
+      "name": "杠铃前蹲翻举握",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-clean-grip-front-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-clean-grip-front-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-clean-grip-front-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-deadlift",
+      "slug": "barbell-deadlift",
+      "name": "杠铃硬拉",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "双脚与髋同宽站立，杠铃在脚掌中间上方。屈髋，抬胸，夹紧腋窝以激活背阔肌。",
+        "用腿将地面推开——髋部和肩膀像电梯一样同时上升。让杠铃沿腿部上移，就像在刮腿毛。",
+        "在顶部完全站直，收紧臀肌像夹住一枚硬币。通过向后屈髋反向动作，让杠铃沿大腿滑下——它永远不离开身体。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-front-chest-squat",
+      "slug": "barbell-front-chest-squat",
+      "name": "杠铃前深蹲胸",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-front-chest-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-front-chest-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-front-chest-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-front-squat",
+      "slug": "barbell-front-squat",
+      "name": "杠铃前蹲",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-front-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-front-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-front-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-full-squat-back-pov",
+      "slug": "barbell-full-squat-back-pov",
+      "name": "杠铃深蹲全背",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-full-squat-back-pov.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-full-squat-back-pov.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-full-squat-back-pov.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-full-squat-side-pov",
+      "slug": "barbell-full-squat-side-pov",
+      "name": "杠铃侧面深蹲全",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-full-squat-side-pov.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-full-squat-side-pov.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-full-squat-side-pov.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-full-squat",
+      "slug": "barbell-full-squat",
+      "name": "杠铃深蹲全",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-full-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-full-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-full-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-full-zercher-squat",
+      "slug": "barbell-full-zercher-squat",
+      "name": "杠铃深蹲全泽奇",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-full-zercher-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-full-zercher-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-full-zercher-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-glute-bridge-two-legs-on-bench-male",
+      "slug": "barbell-glute-bridge-two-legs-on-bench-male",
+      "name": "杠铃臀桥双腿凳",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "上背靠在凳子上（或平躺做桥式）。双脚平放，顶部时胫骨垂直。下巴微收。",
+        "通过脚跟发力，像夹碎核桃一样收紧臀肌。抬起直到身体从膝盖到肩膀形成直线——不要更高。",
+        "控制下放，然后再次推起。想着让腰带扣触碰天花板。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-glute-bridge-two-legs-on-bench-male.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-glute-bridge-two-legs-on-bench-male.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-glute-bridge-two-legs-on-bench-male.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-glute-bridge",
+      "slug": "barbell-glute-bridge",
+      "name": "杠铃臀桥",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "上背靠在凳子上（或平躺做桥式）。双脚平放，顶部时胫骨垂直。下巴微收。",
+        "通过脚跟发力，像夹碎核桃一样收紧臀肌。抬起直到身体从膝盖到肩膀形成直线——不要更高。",
+        "控制下放，然后再次推起。想着让腰带扣触碰天花板。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-glute-bridge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-glute-bridge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-glute-bridge.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-hack-squat",
+      "slug": "barbell-hack-squat",
+      "name": "杠铃深蹲哈克",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-hack-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-hack-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-hack-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-high-bar-squat",
+      "slug": "barbell-high-bar-squat",
+      "name": "杠铃高位深蹲杠",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-high-bar-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-high-bar-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-high-bar-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-jefferson-squat",
+      "slug": "barbell-jefferson-squat",
+      "name": "杠铃深蹲杰斐逊",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-jefferson-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-jefferson-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-jefferson-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-jump-squat",
+      "slug": "barbell-jump-squat",
+      "name": "杠铃深蹲跳",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：跳跃或爆发性发力时用力呼气。在蓄力阶段吸气。"
+      ],
+      "file": "glutes/barbell-jump-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-jump-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-jump-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-lateral-lunge",
+      "slug": "barbell-lateral-lunge",
+      "name": "杠铃弓步侧",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "双脚与髋同宽站立（火车轨道，不是走钢丝）。迈步就位，躯干像旗杆一样挺直。",
+        "后膝像电梯一样直直下降——不要向前冲。两膝都瞄准90度。保持前胫骨垂直。",
+        "通过前脚跟发力站回来。想象通过前脚将地面推开。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-lateral-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-lateral-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-lateral-lunge.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-low-bar-squat",
+      "slug": "barbell-low-bar-squat",
+      "name": "杠铃低位深蹲杠",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-low-bar-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-low-bar-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-low-bar-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-lunge",
+      "slug": "barbell-lunge",
+      "name": "杠铃弓步",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "双脚与髋同宽站立（火车轨道，不是走钢丝）。迈步就位，躯干像旗杆一样挺直。",
+        "后膝像电梯一样直直下降——不要向前冲。两膝都瞄准90度。保持前胫骨垂直。",
+        "通过前脚跟发力站回来。想象通过前脚将地面推开。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-lunge.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-lying-lifting-on-hip",
+      "slug": "barbell-lying-lifting-on-hip",
+      "name": "杠铃仰卧举髋",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "在开始动作前激活臀肌。感受意念-肌肉连接。",
+        "以完全控制执行动作，掌控向心和离心两个阶段。",
+        "控制下降回到起始位置——离心阶段和向心阶段一样能增长肌肉。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-lying-lifting-on-hip.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-lying-lifting-on-hip.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-lying-lifting-on-hip.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-narrow-stance-squat",
+      "slug": "barbell-narrow-stance-squat",
+      "name": "杠铃窄距深蹲站姿",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-narrow-stance-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-narrow-stance-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-narrow-stance-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-one-arm-side-deadlift",
+      "slug": "barbell-one-arm-side-deadlift",
+      "name": "杠铃侧面单臂硬拉",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "双脚与髋同宽站立，杠铃在脚掌中间上方。屈髋，抬胸，夹紧腋窝以激活背阔肌。",
+        "用腿将地面推开——髋部和肩膀像电梯一样同时上升。让杠铃沿腿部上移，就像在刮腿毛。",
+        "在顶部完全站直，收紧臀肌像夹住一枚硬币。通过向后屈髋反向动作，让杠铃沿大腿滑下——它永远不离开身体。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-one-arm-side-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-one-arm-side-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-one-arm-side-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-rack-pull",
+      "slug": "barbell-rack-pull",
+      "name": "杠铃架上拉",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "双脚与髋同宽站立，杠铃在脚掌中间上方。屈髋，抬胸，夹紧腋窝以激活背阔肌。",
+        "用腿将地面推开——髋部和肩膀像电梯一样同时上升。让杠铃沿腿部上移，就像在刮腿毛。",
+        "在顶部完全站直，收紧臀肌像夹住一枚硬币。通过向后屈髋反向动作，让杠铃沿大腿滑下——它永远不离开身体。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-rack-pull.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-rack-pull.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-rack-pull.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-rear-lunge-v-2",
+      "slug": "barbell-rear-lunge-v-2",
+      "name": "杠铃后弓步",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "双脚与髋同宽站立（火车轨道，不是走钢丝）。迈步就位，躯干像旗杆一样挺直。",
+        "后膝像电梯一样直直下降——不要向前冲。两膝都瞄准90度。保持前胫骨垂直。",
+        "通过前脚跟发力站回来。想象通过前脚将地面推开。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-rear-lunge-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-rear-lunge-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-rear-lunge-v-2.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-rear-lunge",
+      "slug": "barbell-rear-lunge",
+      "name": "杠铃后弓步",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "双脚与髋同宽站立（火车轨道，不是走钢丝）。迈步就位，躯干像旗杆一样挺直。",
+        "后膝像电梯一样直直下降——不要向前冲。两膝都瞄准90度。保持前胫骨垂直。",
+        "通过前脚跟发力站回来。想象通过前脚将地面推开。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-rear-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-rear-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-rear-lunge.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-romanian-deadlift",
+      "slug": "barbell-romanian-deadlift",
+      "name": "杠铃罗马尼亚硬拉",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "双脚与髋同宽站立，杠铃在脚掌中间上方。屈髋，抬胸，夹紧腋窝以激活背阔肌。",
+        "用腿将地面推开——髋部和肩膀像电梯一样同时上升。让杠铃沿腿部上移，就像在刮腿毛。",
+        "在顶部完全站直，收紧臀肌像夹住一枚硬币。通过向后屈髋反向动作，让杠铃沿大腿滑下——它永远不离开身体。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-romanian-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-romanian-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-romanian-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-seated-good-morning",
+      "slug": "barbell-seated-good-morning",
+      "name": "杠铃坐姿早安式体前屈",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "膝盖微曲，从髋部折叠将臀部向后推——想象用臀部关上车门。",
+        "下降直到感受到腘绳肌的深度拉伸，保持背部平直。一根扫帚放在脊柱上应该接触头部、中背和尾骨。",
+        "将髋部向前推动站起来，在顶部用力收紧臀肌。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-seated-good-morning.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-seated-good-morning.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-seated-good-morning.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-single-leg-deadlift",
+      "slug": "barbell-single-leg-deadlift",
+      "name": "杠铃单腿硬拉",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "双脚与髋同宽站立，杠铃在脚掌中间上方。屈髋，抬胸，夹紧腋窝以激活背阔肌。",
+        "用腿将地面推开——髋部和肩膀像电梯一样同时上升。让杠铃沿腿部上移，就像在刮腿毛。",
+        "在顶部完全站直，收紧臀肌像夹住一枚硬币。通过向后屈髋反向动作，让杠铃沿大腿滑下——它永远不离开身体。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-single-leg-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-single-leg-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-single-leg-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-speed-squat",
+      "slug": "barbell-speed-squat",
+      "name": "杠铃深蹲速度",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-speed-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-speed-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-speed-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-step-up",
+      "slug": "barbell-step-up",
+      "name": "杠铃上踏步",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "面对箱子或台阶站立。将整只脚放在平台上——包括脚跟。",
+        "通过上方的脚发力踏上去——不要用后脚推。前腿做所有工作。",
+        "在顶部完全站直，然后控制缓慢下来。保持躯干挺直，膝盖跟踪脚趾方向。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-step-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-step-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-step-up.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-stiff-leg-good-morning",
+      "slug": "barbell-stiff-leg-good-morning",
+      "name": "杠铃直腿早安式体前屈",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "双脚与髋同宽站立，杠铃在脚掌中间上方。屈髋，抬胸，夹紧腋窝以激活背阔肌。",
+        "用腿将地面推开——髋部和肩膀像电梯一样同时上升。让杠铃沿腿部上移，就像在刮腿毛。",
+        "在顶部完全站直，收紧臀肌像夹住一枚硬币。通过向后屈髋反向动作，让杠铃沿大腿滑下——它永远不离开身体。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-stiff-leg-good-morning.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-stiff-leg-good-morning.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-stiff-leg-good-morning.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-sumo-deadlift",
+      "slug": "barbell-sumo-deadlift",
+      "name": "杠铃相扑硬拉",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "双脚与髋同宽站立，杠铃在脚掌中间上方。屈髋，抬胸，夹紧腋窝以激活背阔肌。",
+        "用腿将地面推开——髋部和肩膀像电梯一样同时上升。让杠铃沿腿部上移，就像在刮腿毛。",
+        "在顶部完全站直，收紧臀肌像夹住一枚硬币。通过向后屈髋反向动作，让杠铃沿大腿滑下——它永远不离开身体。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-sumo-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-sumo-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-sumo-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/barbell-zercher-squat",
+      "slug": "barbell-zercher-squat",
+      "name": "杠铃深蹲泽奇",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/barbell-zercher-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-zercher-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/barbell-zercher-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/trap-bar-deadlift",
+      "slug": "trap-bar-deadlift",
+      "name": "六角杠硬拉",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "双脚与髋同宽站立，杠铃在脚掌中间上方。屈髋，抬胸，夹紧腋窝以激活背阔肌。",
+        "用腿将地面推开——髋部和肩膀像电梯一样同时上升。让杠铃沿腿部上移，就像在刮腿毛。",
+        "在顶部完全站直，收紧臀肌像夹住一枚硬币。通过向后屈髋反向动作，让杠铃沿大腿滑下——它永远不离开身体。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "glutes/trap-bar-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/trap-bar-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/trap-bar-deadlift.thumb.webp"
+    },
+    {
+      "id": "hamstrings/barbell-good-morning",
+      "slug": "barbell-good-morning",
+      "name": "杠铃早安式体前屈",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "膝盖微曲，从髋部折叠将臀部向后推——想象用臀部关上车门。",
+        "下降直到感受到腘绳肌的深度拉伸，保持背部平直。一根扫帚放在脊柱上应该接触头部、中背和尾骨。",
+        "将髋部向前推动站起来，在顶部用力收紧臀肌。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "hamstrings/barbell-good-morning.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/barbell-good-morning.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/barbell-good-morning.thumb.webp"
+    },
+    {
+      "id": "hamstrings/barbell-straight-leg-deadlift",
+      "slug": "barbell-straight-leg-deadlift",
+      "name": "杠铃直腿硬拉",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "双脚与髋同宽站立，杠铃在脚掌中间上方。屈髋，抬胸，夹紧腋窝以激活背阔肌。",
+        "用腿将地面推开——髋部和肩膀像电梯一样同时上升。让杠铃沿腿部上移，就像在刮腿毛。",
+        "在顶部完全站直，收紧臀肌像夹住一枚硬币。通过向后屈髋反向动作，让杠铃沿大腿滑下——它永远不离开身体。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "hamstrings/barbell-straight-leg-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/barbell-straight-leg-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/barbell-straight-leg-deadlift.thumb.webp"
+    },
+    {
+      "id": "lats/barbell-bent-arm-pullover",
+      "slug": "barbell-bent-arm-pullover",
+      "name": "杠铃仰卧上拉屈臂",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "躺在凳上，手臂伸直在胸部上方持握重量。保持肘部微曲。",
+        "以弧形将重量降到头后，感受背阔肌和胸部的深度拉伸。只到舒适的程度。",
+        "用背阔肌将重量拉回胸部上方——想象以宽弧形将重量舀回来。整个过程保持相同的肘部弯曲。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "lats/barbell-bent-arm-pullover.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/barbell-bent-arm-pullover.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/barbell-bent-arm-pullover.thumb.webp"
+    },
+    {
+      "id": "lats/barbell-decline-bent-arm-pullover",
+      "slug": "barbell-decline-bent-arm-pullover",
+      "name": "杠铃下斜仰卧上拉屈臂",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将凳子调整到下斜角度，双脚固定在脚垫下。",
+        "躺在凳上，手臂伸直在胸部上方持握重量。保持肘部微曲。",
+        "以弧形将重量降到头后，感受背阔肌和胸部的深度拉伸。只到舒适的程度。",
+        "用背阔肌将重量拉回胸部上方——想象以宽弧形将重量舀回来。整个过程保持相同的肘部弯曲。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "lats/barbell-decline-bent-arm-pullover.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/barbell-decline-bent-arm-pullover.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/barbell-decline-bent-arm-pullover.thumb.webp"
+    },
+    {
+      "id": "lats/barbell-decline-wide-grip-pullover",
+      "slug": "barbell-decline-wide-grip-pullover",
+      "name": "杠铃宽握下斜仰卧上拉",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将凳子调整到下斜角度，双脚固定在脚垫下。",
+        "使用宽握，双手远超肩宽，增加拉伸和外侧刺激。",
+        "躺在凳上，手臂伸直在胸部上方持握重量。保持肘部微曲。",
+        "以弧形将重量降到头后，感受背阔肌和胸部的深度拉伸。只到舒适的程度。",
+        "用背阔肌将重量拉回胸部上方——想象以宽弧形将重量舀回来。整个过程保持相同的肘部弯曲。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "lats/barbell-decline-wide-grip-pullover.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/barbell-decline-wide-grip-pullover.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/barbell-decline-wide-grip-pullover.thumb.webp"
+    },
+    {
+      "id": "lats/barbell-pullover-to-press",
+      "slug": "barbell-pullover-to-press",
+      "name": "杠铃仰卧上拉推举",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "pectorals",
+        "abs"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+        "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+        "控制将重量收回，在整个运动范围内保持张力。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "lats/barbell-pullover-to-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/barbell-pullover-to-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/barbell-pullover-to-press.thumb.webp"
+    },
+    {
+      "id": "lats/barbell-pullover",
+      "slug": "barbell-pullover",
+      "name": "杠铃仰卧上拉",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "躺在凳上，手臂伸直在胸部上方持握重量。保持肘部微曲。",
+        "以弧形将重量降到头后，感受背阔肌和胸部的深度拉伸。只到舒适的程度。",
+        "用背阔肌将重量拉回胸部上方——想象以宽弧形将重量舀回来。整个过程保持相同的肘部弯曲。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "lats/barbell-pullover.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/barbell-pullover.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/barbell-pullover.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-bench-press",
+      "slug": "barbell-bench-press",
+      "name": "杠铃卧推",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/barbell-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-decline-bench-press",
+      "slug": "barbell-decline-bench-press",
+      "name": "杠铃下斜卧推",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将凳子调整到下斜角度，双脚固定在脚垫下。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/barbell-decline-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-decline-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-decline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-decline-pullover",
+      "slug": "barbell-decline-pullover",
+      "name": "杠铃下斜仰卧上拉",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将凳子调整到下斜角度，双脚固定在脚垫下。",
+        "躺在凳上，手臂伸直在胸部上方持握重量。保持肘部微曲。",
+        "以弧形将重量降到头后，感受背阔肌和胸部的深度拉伸。只到舒适的程度。",
+        "用背阔肌将重量拉回胸部上方——想象以宽弧形将重量舀回来。整个过程保持相同的肘部弯曲。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/barbell-decline-pullover.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-decline-pullover.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-decline-pullover.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-decline-wide-grip-press",
+      "slug": "barbell-decline-wide-grip-press",
+      "name": "杠铃宽握下斜推举",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将凳子调整到下斜角度，双脚固定在脚垫下。",
+        "使用宽握，双手远超肩宽，增加拉伸和外侧刺激。",
+        "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+        "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+        "控制将重量收回，在整个运动范围内保持张力。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/barbell-decline-wide-grip-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-decline-wide-grip-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-decline-wide-grip-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-front-raise-and-pullover",
+      "slug": "barbell-front-raise-and-pullover",
+      "name": "杠铃前平举仰卧上拉",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "挺直站立，重量在大腿前，核心收紧。",
+        "将重量抬到肩膀高度，肘部微曲。保持躯干不动——如果你后仰，重量太大了。",
+        "在顶部停顿，然后控制下放。不让重量摆动——掌控每一厘米。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/barbell-front-raise-and-pullover.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-front-raise-and-pullover.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-front-raise-and-pullover.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-guillotine-bench-press",
+      "slug": "barbell-guillotine-bench-press",
+      "name": "杠铃卧推断头台",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/barbell-guillotine-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-guillotine-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-guillotine-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-incline-bench-press",
+      "slug": "barbell-incline-bench-press",
+      "name": "杠铃上斜卧推",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/barbell-incline-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-incline-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-incline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-reverse-grip-decline-bench-press",
+      "slug": "barbell-reverse-grip-decline-bench-press",
+      "name": "杠铃反握下斜卧推",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将凳子调整到下斜角度，双脚固定在脚垫下。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/barbell-reverse-grip-decline-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-reverse-grip-decline-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-reverse-grip-decline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-reverse-grip-incline-bench-press",
+      "slug": "barbell-reverse-grip-incline-bench-press",
+      "name": "杠铃反握上斜卧推",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/barbell-reverse-grip-incline-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-reverse-grip-incline-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-reverse-grip-incline-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-wide-bench-press",
+      "slug": "barbell-wide-bench-press",
+      "name": "杠铃宽距卧推",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/barbell-wide-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-wide-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-wide-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/barbell-wide-reverse-grip-bench-press",
+      "slug": "barbell-wide-reverse-grip-bench-press",
+      "name": "杠铃反握宽距卧推",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/barbell-wide-reverse-grip-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-wide-reverse-grip-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/barbell-wide-reverse-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/floor-fly-with-barbell",
+      "slug": "floor-fly-with-barbell",
+      "name": "杠铃飞鸟地面",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "开始时肘部微曲——你的手臂像两把弯刀。这个弯曲在整个动作中保持不变。",
+        "以弧形打开双臂，感受胸部的深度拉伸。不要超过舒适范围。",
+        "通过收缩胸肌将把手合拢——想象拥抱一棵大树干。双手在顶部几乎接触。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "pectorals/floor-fly-with-barbell.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/floor-fly-with-barbell.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/floor-fly-with-barbell.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-bench-front-squat",
+      "slug": "barbell-bench-front-squat",
+      "name": "杠铃前蹲凳",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/barbell-bench-front-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-bench-front-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-bench-front-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-bench-squat",
+      "slug": "barbell-bench-squat",
+      "name": "杠铃深蹲凳",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/barbell-bench-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-bench-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-bench-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-clean-and-press",
+      "slug": "barbell-clean-and-press",
+      "name": "杠铃翻举推举",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+        "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+        "控制将重量收回，在整个运动范围内保持张力。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/barbell-clean-and-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-clean-and-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-clean-and-press.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-one-leg-squat",
+      "slug": "barbell-one-leg-squat",
+      "name": "杠铃单腿深蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/barbell-one-leg-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-one-leg-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-one-leg-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-overhead-squat",
+      "slug": "barbell-overhead-squat",
+      "name": "杠铃过头深蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/barbell-overhead-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-overhead-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-overhead-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-side-split-squat-v-2",
+      "slug": "barbell-side-split-squat-v-2",
+      "name": "杠铃侧向保加利亚分腿蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/barbell-side-split-squat-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-side-split-squat-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-side-split-squat-v-2.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-side-split-squat",
+      "slug": "barbell-side-split-squat",
+      "name": "杠铃侧向保加利亚分腿蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/barbell-side-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-side-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-side-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-single-leg-split-squat",
+      "slug": "barbell-single-leg-split-squat",
+      "name": "杠铃保加利亚分腿蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/barbell-single-leg-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-single-leg-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-single-leg-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-split-squat-v-2",
+      "slug": "barbell-split-squat-v-2",
+      "name": "杠铃保加利亚分腿蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/barbell-split-squat-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-split-squat-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-split-squat-v-2.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-squat-jump-step-rear-lunge",
+      "slug": "barbell-squat-jump-step-rear-lunge",
+      "name": "杠铃后深蹲跳台阶弓步",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "plyometrics",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：跳跃或爆发性发力时用力呼气。在蓄力阶段吸气。"
+      ],
+      "file": "quads/barbell-squat-jump-step-rear-lunge.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-squat-jump-step-rear-lunge.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-squat-jump-step-rear-lunge.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-squat-on-knees",
+      "slug": "barbell-squat-on-knees",
+      "name": "杠铃深蹲膝",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/barbell-squat-on-knees.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-squat-on-knees.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-squat-on-knees.thumb.webp"
+    },
+    {
+      "id": "quads/barbell-wide-squat",
+      "slug": "barbell-wide-squat",
+      "name": "杠铃宽距深蹲",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+        "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+        "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "quads/barbell-wide-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-wide-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-wide-squat.thumb.webp"
+    },
+    {
+      "id": "serratus-anterior/barbell-incline-shoulder-raise",
+      "slug": "barbell-incline-shoulder-raise",
+      "name": "杠铃上斜举肩",
+      "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "进入俯卧撑或倾斜位置，手臂伸直锁定。",
+        "不弯曲肘部，通过前伸肩胛骨将身体推离地面——上背部向前弓起。",
+        "让肩胛骨缓慢回缩，胸部下沉，然后再次前伸。专注于前锯肌挤压肋骨的感觉。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "serratus-anterior/barbell-incline-shoulder-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/barbell-incline-shoulder-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/barbell-incline-shoulder-raise.thumb.webp"
+    },
+    {
+      "id": "traps/barbell-shrug",
+      "slug": "barbell-shrug",
+      "name": "杠铃耸肩",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "手臂完全伸直，将重量持于体侧。挺直站立，肩膀放松。",
+        "将肩膀直接向耳朵方向耸起——不要转动。在顶部收缩2秒。",
+        "缓慢下放回来。整个过程保持手臂伸直——这完全是斜方肌的工作，不是二头肌。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "traps/barbell-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/barbell-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/barbell-shrug.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-close-grip-bench-press",
+      "slug": "barbell-close-grip-bench-press",
+      "name": "杠铃窄握卧推",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/barbell-close-grip-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-close-grip-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-close-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-decline-close-grip-to-skull-press",
+      "slug": "barbell-decline-close-grip-to-skull-press",
+      "name": "杠铃下斜窄握至头顶推举",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将凳子调整到下斜角度，双脚固定在脚垫下。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "将手臂伸直在胸部正上方。肘部指向天花板，在整个动作中保持固定不动。",
+        "只弯曲肘部将重量降向前额或稍后方——你的上臂是不会移动的混凝土柱子。",
+        "用力收紧三头肌，推回至手臂完全伸直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/barbell-decline-close-grip-to-skull-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-decline-close-grip-to-skull-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-decline-close-grip-to-skull-press.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-incline-close-grip-bench-press",
+      "slug": "barbell-incline-close-grip-bench-press",
+      "name": "杠铃上斜窄握卧推",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/barbell-incline-close-grip-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-incline-close-grip-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-incline-close-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-incline-reverse-grip-press",
+      "slug": "barbell-incline-reverse-grip-press",
+      "name": "杠铃反握上斜推举",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+        "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+        "控制将重量收回，在整个运动范围内保持张力。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/barbell-incline-reverse-grip-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-incline-reverse-grip-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-incline-reverse-grip-press.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-jm-bench-press",
+      "slug": "barbell-jm-bench-press",
+      "name": "杠铃卧推JM",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/barbell-jm-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-jm-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-jm-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-lying-back-of-the-head-tricep-extension",
+      "slug": "barbell-lying-back-of-the-head-tricep-extension",
+      "name": "杠铃仰卧伸展背头三头肌",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "将手臂伸直在胸部正上方。肘部指向天花板，在整个动作中保持固定不动。",
+        "只弯曲肘部将重量降向前额或稍后方——你的上臂是不会移动的混凝土柱子。",
+        "用力收紧三头肌，推回至手臂完全伸直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/barbell-lying-back-of-the-head-tricep-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-lying-back-of-the-head-tricep-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-lying-back-of-the-head-tricep-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-lying-close-grip-press",
+      "slug": "barbell-lying-close-grip-press",
+      "name": "杠铃仰卧窄握推举",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "将手臂伸直在胸部正上方。肘部指向天花板，在整个动作中保持固定不动。",
+        "只弯曲肘部将重量降向前额或稍后方——你的上臂是不会移动的混凝土柱子。",
+        "用力收紧三头肌，推回至手臂完全伸直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/barbell-lying-close-grip-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-lying-close-grip-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-lying-close-grip-press.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-lying-close-grip-triceps-extension",
+      "slug": "barbell-lying-close-grip-triceps-extension",
+      "name": "杠铃仰卧窄握臂屈伸",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "将手臂伸直在胸部正上方。肘部指向天花板，在整个动作中保持固定不动。",
+        "只弯曲肘部将重量降向前额或稍后方——你的上臂是不会移动的混凝土柱子。",
+        "用力收紧三头肌，推回至手臂完全伸直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/barbell-lying-close-grip-triceps-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-lying-close-grip-triceps-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-lying-close-grip-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-lying-extension",
+      "slug": "barbell-lying-extension",
+      "name": "杠铃仰卧伸展",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "将手臂伸直在胸部正上方。肘部指向天花板，在整个动作中保持固定不动。",
+        "只弯曲肘部将重量降向前额或稍后方——你的上臂是不会移动的混凝土柱子。",
+        "用力收紧三头肌，推回至手臂完全伸直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/barbell-lying-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-lying-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-lying-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-lying-triceps-extension-skull-crusher",
+      "slug": "barbell-lying-triceps-extension-skull-crusher",
+      "name": "杠铃仰卧臂屈伸仰卧臂屈伸",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "将手臂伸直在胸部正上方。肘部指向天花板，在整个动作中保持固定不动。",
+        "只弯曲肘部将重量降向前额或稍后方——你的上臂是不会移动的混凝土柱子。",
+        "用力收紧三头肌，推回至手臂完全伸直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/barbell-lying-triceps-extension-skull-crusher.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-lying-triceps-extension-skull-crusher.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-lying-triceps-extension-skull-crusher.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-lying-triceps-extension",
+      "slug": "barbell-lying-triceps-extension",
+      "name": "杠铃仰卧臂屈伸",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "将手臂伸直在胸部正上方。肘部指向天花板，在整个动作中保持固定不动。",
+        "只弯曲肘部将重量降向前额或稍后方——你的上臂是不会移动的混凝土柱子。",
+        "用力收紧三头肌，推回至手臂完全伸直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/barbell-lying-triceps-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-lying-triceps-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-lying-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-one-arm-floor-press",
+      "slug": "barbell-one-arm-floor-press",
+      "name": "杠铃单臂地板卧推",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/barbell-one-arm-floor-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-one-arm-floor-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-one-arm-floor-press.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-pin-presses",
+      "slug": "barbell-pin-presses",
+      "name": "杠铃插销推举",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+        "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+        "控制将重量收回，在整个运动范围内保持张力。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/barbell-pin-presses.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-pin-presses.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-pin-presses.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-reverse-close-grip-bench-press",
+      "slug": "barbell-reverse-close-grip-bench-press",
+      "name": "杠铃反向窄握卧推",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/barbell-reverse-close-grip-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-reverse-close-grip-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-reverse-close-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-reverse-grip-skullcrusher",
+      "slug": "barbell-reverse-grip-skullcrusher",
+      "name": "杠铃反握仰卧臂屈伸",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "将手臂伸直在胸部正上方。肘部指向天花板，在整个动作中保持固定不动。",
+        "只弯曲肘部将重量降向前额或稍后方——你的上臂是不会移动的混凝土柱子。",
+        "用力收紧三头肌，推回至手臂完全伸直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/barbell-reverse-grip-skullcrusher.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-reverse-grip-skullcrusher.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-reverse-grip-skullcrusher.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-seated-close-grip-behind-neck-triceps-extension",
+      "slug": "barbell-seated-close-grip-behind-neck-triceps-extension",
+      "name": "杠铃坐姿窄握臂屈伸背后颈",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "将重量举过头顶，手臂完全伸直。整个动作中保持上臂靠近耳朵。",
+        "只弯曲肘部将重量降到头后。上臂保持垂直——像电梯井。",
+        "推回至完全伸展，在顶部收紧三头肌。避免肘部向外张开。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/barbell-seated-close-grip-behind-neck-triceps-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-seated-close-grip-behind-neck-triceps-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-seated-close-grip-behind-neck-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-seated-overhead-triceps-extension",
+      "slug": "barbell-seated-overhead-triceps-extension",
+      "name": "杠铃坐姿过头臂屈伸",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "将重量举过头顶，手臂完全伸直。整个动作中保持上臂靠近耳朵。",
+        "只弯曲肘部将重量降到头后。上臂保持垂直——像电梯井。",
+        "推回至完全伸展，在顶部收紧三头肌。避免肘部向外张开。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/barbell-seated-overhead-triceps-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-seated-overhead-triceps-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-seated-overhead-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/barbell-standing-overhead-triceps-extension",
+      "slug": "barbell-standing-overhead-triceps-extension",
+      "name": "杠铃站姿过头臂屈伸",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将重量举过头顶，手臂完全伸直。整个动作中保持上臂靠近耳朵。",
+        "只弯曲肘部将重量降到头后。上臂保持垂直——像电梯井。",
+        "推回至完全伸展，在顶部收紧三头肌。避免肘部向外张开。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/barbell-standing-overhead-triceps-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-standing-overhead-triceps-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-standing-overhead-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/olympic-barbell-triceps-extension",
+      "slug": "olympic-barbell-triceps-extension",
+      "name": "杠铃臂屈伸奥林匹克",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将肘部锁定在位——它们是空间中的固定点。只有前臂像门铰链一样移动。",
+        "完全伸展，在锁定时用力收紧三头肌。在完全伸展位短暂停顿。",
+        "缓慢回到起始位置。专注于底部的拉伸和顶部的收缩。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/olympic-barbell-triceps-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/olympic-barbell-triceps-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/olympic-barbell-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-bent-over-row",
+      "slug": "barbell-bent-over-row",
+      "name": "杠铃俯身划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/barbell-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-incline-row",
+      "slug": "barbell-incline-row",
+      "name": "杠铃上斜划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/barbell-incline-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-incline-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-incline-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-one-arm-bent-over-row",
+      "slug": "barbell-one-arm-bent-over-row",
+      "name": "杠铃单臂俯身划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "一次训练一侧。完成一侧所有次数后再换边。以较弱一侧的次数为准。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/barbell-one-arm-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-one-arm-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-one-arm-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-pendlay-row",
+      "slug": "barbell-pendlay-row",
+      "name": "杠铃彭德莱划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/barbell-pendlay-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-pendlay-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-pendlay-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-reverse-grip-bent-over-row",
+      "slug": "barbell-reverse-grip-bent-over-row",
+      "name": "杠铃反握俯身划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/barbell-reverse-grip-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-reverse-grip-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-reverse-grip-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/barbell-reverse-grip-incline-bench-row",
+      "slug": "barbell-reverse-grip-incline-bench-row",
+      "name": "杠铃反握上斜划船凳",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/barbell-reverse-grip-incline-bench-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-reverse-grip-incline-bench-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/barbell-reverse-grip-incline-bench-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/cambered-bar-lying-row",
+      "slug": "cambered-bar-lying-row",
+      "name": "仰卧划船弯曲杠",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/cambered-bar-lying-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cambered-bar-lying-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/cambered-bar-lying-row.thumb.webp"
+    }
+  ]
+}

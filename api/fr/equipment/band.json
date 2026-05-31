@@ -1,0 +1,1416 @@
+{
+  "equipment": "band",
+  "count": 62,
+  "exercises": [
+    {
+      "id": "abductors/resistance-band-seated-hip-abduction",
+      "slug": "resistance-band-seated-hip-abduction",
+      "name": "Abduction de hanche à l'élastique, assis",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Positionne-toi sur la machine ou allonge-toi sur le côté, jambes empilées et torse stable.",
+        "Écarte les jambes contre la résistance en contractant les fessiers externes. Pense à montrer le logo de tes chaussures aux murs latéraux.",
+        "Tiens la position ouverte brièvement, puis referme lentement avec contrôle. Ne laisse pas le poids claquer.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abductors/resistance-band-seated-hip-abduction.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/resistance-band-seated-hip-abduction.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/resistance-band-seated-hip-abduction.thumb.webp"
+    },
+    {
+      "id": "abs/band-alternating-v-up",
+      "slug": "band-alternating-v-up",
+      "name": "V-Up à l'élastique, alterné",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Allonge-toi sur le dos, genoux fléchis et pieds ancrés (ou libres pour les V-ups). Bras dans la position indiquée.",
+        "Assieds-toi complètement en engageant le core — mène avec la poitrine, pas le menton. Pour les V-ups, monte jambes et torse simultanément.",
+        "Redescends avec contrôle. N'utilise pas d'élan — si tu en as besoin, choisis une variante plus facile.",
+        "Alterne les côtés à chaque rep. Termine une rep complète avant de passer à l'autre côté.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abs/band-alternating-v-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-alternating-v-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-alternating-v-up.thumb.webp"
+    },
+    {
+      "id": "abs/band-assisted-wheel-rollerout",
+      "slug": "band-assisted-wheel-rollerout",
+      "name": "Roue rollout à l'élastique, assisté",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "À genoux (ou debout pour avancés) avec les mains sur la roue. Commence hanches au-dessus des genoux, bras tendus.",
+        "Roule vers l'avant en étendant par les épaules tout en gardant le core solide comme un roc. Ne laisse pas les hanches s'affaisser.",
+        "Tire-toi en arrière avec les abdos — imagine tirer le nombril vers la colonne. Va seulement aussi loin que tu peux contrôler.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abs/band-assisted-wheel-rollerout.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-assisted-wheel-rollerout.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-assisted-wheel-rollerout.thumb.webp"
+    },
+    {
+      "id": "abs/band-bicycle-crunch",
+      "slug": "band-bicycle-crunch",
+      "name": "Crunch vélo à l'élastique",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Allonge-toi sur le dos, genoux fléchis. Mains derrière la tête en support léger — ne tire pas sur le cou.",
+        "Enroule le torse en rapprochant les côtes du bassin. Imagine raccourcir la distance entre le sternum et le nombril.",
+        "Tiens brièvement en haut en contractant les abdos, puis redescends lentement. Garde le bas du dos au sol — c'est un mouvement court et contrôlé.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abs/band-bicycle-crunch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-bicycle-crunch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-bicycle-crunch.thumb.webp"
+    },
+    {
+      "id": "abs/band-horizontal-pallof-press",
+      "slug": "band-horizontal-pallof-press",
+      "name": "Développé à l'élastique, horizontal Pallof",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Gaine ton core et fixe tes omoplates. Initie la poussée depuis une base stable.",
+        "Pousse le poids en l'éloignant du corps sur une trajectoire contrôlée, en extension complète sans verrouiller les articulations brusquement.",
+        "Ramène le poids avec contrôle, maintenant la tension dans toute l'amplitude de mouvement.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abs/band-horizontal-pallof-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-horizontal-pallof-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-horizontal-pallof-press.thumb.webp"
+    },
+    {
+      "id": "abs/band-jack-knife-sit-up",
+      "slug": "band-jack-knife-sit-up",
+      "name": "Sit-up à l'élastique, jack couteau",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Allonge-toi sur le dos, genoux fléchis et pieds ancrés (ou libres pour les V-ups). Bras dans la position indiquée.",
+        "Assieds-toi complètement en engageant le core — mène avec la poitrine, pas le menton. Pour les V-ups, monte jambes et torse simultanément.",
+        "Redescends avec contrôle. N'utilise pas d'élan — si tu en as besoin, choisis une variante plus facile.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abs/band-jack-knife-sit-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-jack-knife-sit-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-jack-knife-sit-up.thumb.webp"
+    },
+    {
+      "id": "abs/band-kneeling-twisting-crunch",
+      "slug": "band-kneeling-twisting-crunch",
+      "name": "Crunch à l'élastique, à genoux, avec rotation",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "À genoux, hanches empilées au-dessus des genoux, torse droit.",
+        "Allonge-toi sur le dos, genoux fléchis. Mains derrière la tête en support léger — ne tire pas sur le cou.",
+        "Enroule le torse en rapprochant les côtes du bassin. Imagine raccourcir la distance entre le sternum et le nombril.",
+        "Tiens brièvement en haut en contractant les abdos, puis redescends lentement. Garde le bas du dos au sol — c'est un mouvement court et contrôlé.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abs/band-kneeling-twisting-crunch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-kneeling-twisting-crunch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-kneeling-twisting-crunch.thumb.webp"
+    },
+    {
+      "id": "abs/band-lying-straight-leg-raise",
+      "slug": "band-lying-straight-leg-raise",
+      "name": "Élévation à l'élastique, couché, jambe tendue",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Allonge-toi avec le dos à plat contre la surface, gainage engagé.",
+        "Suspends-toi à une poignée ou positionne-toi avec les bras en appui. Commence avec les jambes pendant droites, core gainé.",
+        "Monte les jambes en basculant le bassin — pense à amener la boucle de ceinture vers le menton, pas juste lever les pieds.",
+        "Contrôle la descente lentement sans balancer. Si tu balances, fléchis les genoux pour raccourcir le bras de levier.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abs/band-lying-straight-leg-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-lying-straight-leg-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-lying-straight-leg-raise.thumb.webp"
+    },
+    {
+      "id": "abs/band-push-sit-up",
+      "slug": "band-push-sit-up",
+      "name": "Sit-up à l'élastique, poussée",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Allonge-toi sur le dos, genoux fléchis et pieds ancrés (ou libres pour les V-ups). Bras dans la position indiquée.",
+        "Assieds-toi complètement en engageant le core — mène avec la poitrine, pas le menton. Pour les V-ups, monte jambes et torse simultanément.",
+        "Redescends avec contrôle. N'utilise pas d'élan — si tu en as besoin, choisis une variante plus facile.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abs/band-push-sit-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-push-sit-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-push-sit-up.thumb.webp"
+    },
+    {
+      "id": "abs/band-seated-twist",
+      "slug": "band-seated-twist",
+      "name": "Rotation à l'élastique, assis",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Assieds-toi genoux fléchis et penche-toi légèrement — ou debout core gainé pour les variantes au câble. Garde la poitrine haute.",
+        "Tourne le torse d'un côté à l'autre avec contrôle depuis le milieu du dos — pas juste les bras. Touche le poids à côté de chaque hanche.",
+        "Bouge avec contrôle — l'amplitude de rotation compte plus que la vitesse. Garde le core engagé dans toute l'amplitude.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abs/band-seated-twist.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-seated-twist.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-seated-twist.thumb.webp"
+    },
+    {
+      "id": "abs/band-standing-crunch",
+      "slug": "band-standing-crunch",
+      "name": "Crunch à l'élastique, debout",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Allonge-toi sur le dos, genoux fléchis. Mains derrière la tête en support léger — ne tire pas sur le cou.",
+        "Enroule le torse en rapprochant les côtes du bassin. Imagine raccourcir la distance entre le sternum et le nombril.",
+        "Tiens brièvement en haut en contractant les abdos, puis redescends lentement. Garde le bas du dos au sol — c'est un mouvement court et contrôlé.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abs/band-standing-crunch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-standing-crunch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-standing-crunch.thumb.webp"
+    },
+    {
+      "id": "abs/band-standing-twisting-crunch",
+      "slug": "band-standing-twisting-crunch",
+      "name": "Crunch à l'élastique, debout, avec rotation",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Allonge-toi sur le dos, genoux fléchis. Mains derrière la tête en support léger — ne tire pas sur le cou.",
+        "Enroule le torse en rapprochant les côtes du bassin. Imagine raccourcir la distance entre le sternum et le nombril.",
+        "Tiens brièvement en haut en contractant les abdos, puis redescends lentement. Garde le bas du dos au sol — c'est un mouvement court et contrôlé.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abs/band-standing-twisting-crunch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-standing-twisting-crunch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-standing-twisting-crunch.thumb.webp"
+    },
+    {
+      "id": "abs/band-v-up",
+      "slug": "band-v-up",
+      "name": "V-Up à l'élastique",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Allonge-toi sur le dos, genoux fléchis et pieds ancrés (ou libres pour les V-ups). Bras dans la position indiquée.",
+        "Assieds-toi complètement en engageant le core — mène avec la poitrine, pas le menton. Pour les V-ups, monte jambes et torse simultanément.",
+        "Redescends avec contrôle. N'utilise pas d'élan — si tu en as besoin, choisis une variante plus facile.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abs/band-v-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-v-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-v-up.thumb.webp"
+    },
+    {
+      "id": "abs/band-vertical-pallof-press",
+      "slug": "band-vertical-pallof-press",
+      "name": "Développé à l'élastique, vertical Pallof",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Gaine ton core et fixe tes omoplates. Initie la poussée depuis une base stable.",
+        "Pousse le poids en l'éloignant du corps sur une trajectoire contrôlée, en extension complète sans verrouiller les articulations brusquement.",
+        "Ramène le poids avec contrôle, maintenant la tension dans toute l'amplitude de mouvement.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abs/band-vertical-pallof-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-vertical-pallof-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/band-vertical-pallof-press.thumb.webp"
+    },
+    {
+      "id": "biceps/band-alternating-biceps-curl",
+      "slug": "band-alternating-biceps-curl",
+      "name": "Curl biceps à l'élastique, alterné",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Colle le coude au côté — imagine qu'il est cloué en place. Seul l'avant-bras bouge.",
+        "Monte le poids en contractant fortement le biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde le poignet droit comme une tige d'acier. Si le corps balance, le poids est trop lourd.",
+        "Alterne les côtés à chaque rep. Termine une rep complète avant de passer à l'autre côté.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "biceps/band-alternating-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/band-alternating-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/band-alternating-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/band-concentration-curl",
+      "slug": "band-concentration-curl",
+      "name": "Curl concentration à l'élastique",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Assieds-toi les jambes écartées et cale l'arrière du bras qui travaille contre l'intérieur de la cuisse. Cela bloque le bras.",
+        "Monte le poids lentement en te concentrant sur la contraction du biceps. Presse le jus d'une orange en haut.",
+        "Descends en 3 secondes et tends complètement. Ta cuisse sert de garde-fou — aucun balancement possible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "biceps/band-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/band-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/band-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/band-one-arm-overhead-biceps-curl",
+      "slug": "band-one-arm-overhead-biceps-curl",
+      "name": "Curl biceps au-dessus de la tête à l'élastique, un bras",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Colle le coude au côté — imagine qu'il est cloué en place. Seul l'avant-bras bouge.",
+        "Monte le poids en contractant fortement le biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde le poignet droit comme une tige d'acier. Si le corps balance, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "biceps/band-one-arm-overhead-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/band-one-arm-overhead-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/band-one-arm-overhead-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/resistance-band-seated-biceps-curl",
+      "slug": "resistance-band-seated-biceps-curl",
+      "name": "Curl biceps à l'élastique, assis",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "biceps/resistance-band-seated-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/resistance-band-seated-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/resistance-band-seated-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "calves/band-single-leg-calf-raise",
+      "slug": "band-single-leg-calf-raise",
+      "name": "Mollets à l'élastique, une jambe",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement le mollet pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/band-single-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/band-single-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/band-single-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/band-single-leg-reverse-calf-raise",
+      "slug": "band-single-leg-reverse-calf-raise",
+      "name": "Mollets inversé à l'élastique, une jambe",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement le mollet pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/band-single-leg-reverse-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/band-single-leg-reverse-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/band-single-leg-reverse-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/band-two-legs-calf-raise-band-under-both-legs-v-2",
+      "slug": "band-two-legs-calf-raise-band-under-both-legs-v-2",
+      "name": "Mollets à l'élastique, deux jambes sous",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/band-two-legs-calf-raise-band-under-both-legs-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/band-two-legs-calf-raise-band-under-both-legs-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/band-two-legs-calf-raise-band-under-both-legs-v-2.thumb.webp"
+    },
+    {
+      "id": "delts/band-front-lateral-raise",
+      "slug": "band-front-lateral-raise",
+      "name": "Élévation latérale à l'élastique, avant",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Debout avec le poids aux côtés et une légère inclinaison vers l'avant. Légère flexion des coudes.",
+        "Monte les bras sur les côtés en menant avec les coudes comme si tu versais de l'eau de deux cruches. Arrête à hauteur d'épaules.",
+        "Redescends lentement avec contrôle, résistant à la gravité tout le long. Ne balance pas — si tu as besoin d'élan, réduis le poids.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "delts/band-front-lateral-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/band-front-lateral-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/band-front-lateral-raise.thumb.webp"
+    },
+    {
+      "id": "delts/band-front-raise",
+      "slug": "band-front-raise",
+      "name": "Élévation frontale à l'élastique",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Debout droit avec le poids devant les cuisses et le core gainé.",
+        "Monte le poids devant toi à hauteur d'épaules avec une légère flexion. Garde le torse immobile — si tu te penches en arrière, c'est trop lourd.",
+        "Fais une pause en haut, puis redescends avec contrôle. Ne laisse pas le poids balancer — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "delts/band-front-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/band-front-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/band-front-raise.thumb.webp"
+    },
+    {
+      "id": "delts/band-reverse-fly",
+      "slug": "band-reverse-fly",
+      "name": "Écarté inversé à l'élastique",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Commence avec une légère flexion des coudes — tes bras sont comme deux épées courbes. Cette flexion reste constante.",
+        "Ouvre les bras en arc, sentant un étirement profond dans la poitrine. Ne dépasse pas l'amplitude confortable.",
+        "Rapproche les poignées en contractant la poitrine — imagine enlacer un gros tronc d'arbre. Les mains se touchent presque en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "delts/band-reverse-fly.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/band-reverse-fly.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/band-reverse-fly.thumb.webp"
+    },
+    {
+      "id": "delts/band-shoulder-press",
+      "slug": "band-shoulder-press",
+      "name": "Développé épaules à l'élastique",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Empile tes poignets directement au-dessus des coudes comme une colonne solide. Contracte les fessiers et gaine le core comme si tu attendais un coup.",
+        "Pousse le poids droit vers le haut en déplaçant la tête. Une fois la poignée passée devant ton visage, pousse la tête vers l'avant et verrouille complètement.",
+        "Descends avec contrôle à la position de départ sur les deltoïdes antérieurs. Garde le torse vertical — tu pousses vers le haut, pas un développé incliné debout.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "delts/band-shoulder-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/band-shoulder-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/band-shoulder-press.thumb.webp"
+    },
+    {
+      "id": "delts/band-standing-rear-delt-row",
+      "slug": "band-standing-rear-delt-row",
+      "name": "Rowing à l'élastique, debout, arrière, deltoïde",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "delts/band-standing-rear-delt-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/band-standing-rear-delt-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/band-standing-rear-delt-row.thumb.webp"
+    },
+    {
+      "id": "delts/band-twisting-overhead-press",
+      "slug": "band-twisting-overhead-press",
+      "name": "Développé militaire à l'élastique, avec rotation",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Empile tes poignets directement au-dessus des coudes comme une colonne solide. Contracte les fessiers et gaine le core comme si tu attendais un coup.",
+        "Pousse le poids droit vers le haut en déplaçant la tête. Une fois la poignée passée devant ton visage, pousse la tête vers l'avant et verrouille complètement.",
+        "Descends avec contrôle à la position de départ sur les deltoïdes antérieurs. Garde le torse vertical — tu pousses vers le haut, pas un développé incliné debout.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "delts/band-twisting-overhead-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/band-twisting-overhead-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/band-twisting-overhead-press.thumb.webp"
+    },
+    {
+      "id": "delts/band-y-raise",
+      "slug": "band-y-raise",
+      "name": "Élévation à l'élastique, y",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Debout avec le poids aux côtés et une légère inclinaison vers l'avant. Légère flexion des coudes.",
+        "Monte les bras sur les côtés en menant avec les coudes comme si tu versais de l'eau de deux cruches. Arrête à hauteur d'épaules.",
+        "Redescends lentement avec contrôle, résistant à la gravité tout le long. Ne balance pas — si tu as besoin d'élan, réduis le poids.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "delts/band-y-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/band-y-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/band-y-raise.thumb.webp"
+    },
+    {
+      "id": "delts/battling-ropes",
+      "slug": "battling-ropes",
+      "name": "Combat cordes",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "abs",
+        "forearms",
+        "traps"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Debout pieds largeur d'épaules, genoux légèrement fléchis, core gainé. Saisis un bout dans chaque main.",
+        "Crée des vagues continues en alternant (ou frappant) les bras de haut en bas. La puissance vient de tout le corps, pas juste des bras.",
+        "Maintiens un rythme constant et le core serré. Ne laisse pas les cordes se relâcher — garde de la tension dans chaque mouvement.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "delts/battling-ropes.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/battling-ropes.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/battling-ropes.thumb.webp"
+    },
+    {
+      "id": "delts/resistance-band-seated-shoulder-press",
+      "slug": "resistance-band-seated-shoulder-press",
+      "name": "Développé épaules à l'élastique, assis",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Empile tes poignets directement au-dessus des coudes comme une colonne solide. Contracte les fessiers et gaine le core comme si tu attendais un coup.",
+        "Pousse le poids droit vers le haut en déplaçant la tête. Une fois la poignée passée devant ton visage, pousse la tête vers l'avant et verrouille complètement.",
+        "Descends avec contrôle à la position de départ sur les deltoïdes antérieurs. Garde le torse vertical — tu pousses vers le haut, pas un développé incliné debout.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "delts/resistance-band-seated-shoulder-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/resistance-band-seated-shoulder-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/resistance-band-seated-shoulder-press.thumb.webp"
+    },
+    {
+      "id": "forearms/band-reverse-wrist-curl",
+      "slug": "band-reverse-wrist-curl",
+      "name": "Curl de poignet inversé à l'élastique",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde les avant-bras collés à la surface.",
+        "Fléchis les poignets vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls les poignets bougent — les avant-bras restent immobiles.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/band-reverse-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/band-reverse-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/band-reverse-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/band-wrist-curl",
+      "slug": "band-wrist-curl",
+      "name": "Curl de poignet à l'élastique",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde les avant-bras collés à la surface.",
+        "Fléchis les poignets vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls les poignets bougent — les avant-bras restent immobiles.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/band-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/band-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/band-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "glutes/band-bent-over-hip-extension",
+      "slug": "band-bent-over-hip-extension",
+      "name": "Extension à l'élastique, penché, hanche",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Verrouille les coudes en position — ce sont des points fixes dans l'espace. Seuls les avant-bras bougent comme des charnières.",
+        "Étends complètement en contractant les triceps au verrouillage. Fais une pause en extension complète.",
+        "Reviens lentement à la position de départ. Concentre-toi sur l'étirement en bas et la contraction en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "glutes/band-bent-over-hip-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-bent-over-hip-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-bent-over-hip-extension.thumb.webp"
+    },
+    {
+      "id": "glutes/band-hip-lift",
+      "slug": "band-hip-lift",
+      "name": "Hanche lever à l'élastique",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Haut du dos contre un banc (ou à plat au sol pour les bridges). Pieds à plat, tibias verticaux en haut. Rentre légèrement le menton.",
+        "Pousse à travers les talons et contracte les fessiers comme pour casser une noix. Monte jusqu'à ce que le corps forme une ligne droite genoux-épaules — pas plus.",
+        "Redescends avec contrôle, puis remonte. Pense à faire toucher ta boucle de ceinture au plafond en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "glutes/band-hip-lift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-hip-lift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-hip-lift.thumb.webp"
+    },
+    {
+      "id": "glutes/band-lying-hip-internal-rotation",
+      "slug": "band-lying-hip-internal-rotation",
+      "name": "Rotation interne de hanche à l'élastique, couché",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Allonge-toi avec le dos à plat contre la surface, gainage engagé.",
+        "Assieds-toi genoux fléchis et penche-toi légèrement — ou debout core gainé pour les variantes au câble. Garde la poitrine haute.",
+        "Tourne le torse d'un côté à l'autre avec contrôle depuis le milieu du dos — pas juste les bras. Touche le poids à côté de chaque hanche.",
+        "Bouge avec contrôle — l'amplitude de rotation compte plus que la vitesse. Garde le core engagé dans toute l'amplitude.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "glutes/band-lying-hip-internal-rotation.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-lying-hip-internal-rotation.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-lying-hip-internal-rotation.thumb.webp"
+    },
+    {
+      "id": "glutes/band-pull-through",
+      "slug": "band-pull-through",
+      "name": "Tirage à travers à l'élastique",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Avec une légère flexion des genoux, charnière aux hanches en poussant les fesses vers l'arrière — imagine fermer une porte de voiture avec tes fessiers.",
+        "Descends jusqu'à sentir un étirement profond des ischio-jambiers, en gardant le dos plat. Un manche à balai sur la colonne devrait toucher tête, milieu du dos et coccyx.",
+        "Pousse les hanches vers l'avant pour revenir debout, en contractant fortement les fessiers en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "glutes/band-pull-through.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-pull-through.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-pull-through.thumb.webp"
+    },
+    {
+      "id": "glutes/band-seated-hip-internal-rotation",
+      "slug": "band-seated-hip-internal-rotation",
+      "name": "Rotation interne de hanche à l'élastique, assis",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Assieds-toi genoux fléchis et penche-toi légèrement — ou debout core gainé pour les variantes au câble. Garde la poitrine haute.",
+        "Tourne le torse d'un côté à l'autre avec contrôle depuis le milieu du dos — pas juste les bras. Touche le poids à côté de chaque hanche.",
+        "Bouge avec contrôle — l'amplitude de rotation compte plus que la vitesse. Garde le core engagé dans toute l'amplitude.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "glutes/band-seated-hip-internal-rotation.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-seated-hip-internal-rotation.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-seated-hip-internal-rotation.thumb.webp"
+    },
+    {
+      "id": "glutes/band-squat-row",
+      "slug": "band-squat-row",
+      "name": "Squat à l'élastique, Rowing",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves",
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "glutes/band-squat-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-squat-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-squat-row.thumb.webp"
+    },
+    {
+      "id": "glutes/band-squat",
+      "slug": "band-squat",
+      "name": "Squat à l'élastique",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "glutes/band-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/band-step-up",
+      "slug": "band-step-up",
+      "name": "Step-up avec élastique",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Place-toi devant une boîte ou une marche. Pose tout le pied sur la plateforme — talon compris.",
+        "Pousse à travers le pied du dessus pour monter — ne te pousse pas avec le pied arrière. La jambe avant fait tout le travail.",
+        "Redresse-toi complètement en haut, puis redescends lentement avec contrôle. Garde le torse droit et le genou aligné avec les orteils.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "glutes/band-step-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-step-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-step-up.thumb.webp"
+    },
+    {
+      "id": "glutes/band-stiff-leg-deadlift",
+      "slug": "band-stiff-leg-deadlift",
+      "name": "Soulevé de terre jambes tendues à l'élastique",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Place tes pieds largeur de hanches, poignée au-dessus du milieu du pied. Charnière de hanches, poitrine haute, et serre les aisselles pour engager les dorsaux.",
+        "Repousse le sol avec les jambes — hanches et épaules montent ensemble comme un ascenseur. Fais glisser la poignée le long des jambes comme si tu les rasais.",
+        "Redresse-toi complètement en haut et contracte les fessiers. Redescends en charnière de hanches, faisant glisser la poignée le long des cuisses — elle ne quitte jamais le corps.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "glutes/band-stiff-leg-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-stiff-leg-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-stiff-leg-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/band-straight-back-stiff-leg-deadlift",
+      "slug": "band-straight-back-stiff-leg-deadlift",
+      "name": "Soulevé de terre jambes tendues à l'élastique, droit dos",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Place tes pieds largeur de hanches, poignée au-dessus du milieu du pied. Charnière de hanches, poitrine haute, et serre les aisselles pour engager les dorsaux.",
+        "Repousse le sol avec les jambes — hanches et épaules montent ensemble comme un ascenseur. Fais glisser la poignée le long des jambes comme si tu les rasais.",
+        "Redresse-toi complètement en haut et contracte les fessiers. Redescends en charnière de hanches, faisant glisser la poignée le long des cuisses — elle ne quitte jamais le corps.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "glutes/band-straight-back-stiff-leg-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-straight-back-stiff-leg-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/band-straight-back-stiff-leg-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/resistance-band-hip-thrusts-on-knees-female",
+      "slug": "resistance-band-hip-thrusts-on-knees-female",
+      "name": "Hanche poussées genoux à l'élastique",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Haut du dos contre un banc (ou à plat au sol pour les bridges). Pieds à plat, tibias verticaux en haut. Rentre légèrement le menton.",
+        "Pousse à travers les talons et contracte les fessiers comme pour casser une noix. Monte jusqu'à ce que le corps forme une ligne droite genoux-épaules — pas plus.",
+        "Redescends avec contrôle, puis remonte. Pense à faire toucher ta boucle de ceinture au plafond en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "glutes/resistance-band-hip-thrusts-on-knees-female.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/resistance-band-hip-thrusts-on-knees-female.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/resistance-band-hip-thrusts-on-knees-female.thumb.webp"
+    },
+    {
+      "id": "lats/band-assisted-pull-up",
+      "slug": "band-assisted-pull-up",
+      "name": "Traction à l'élastique, assisté",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Suspends-toi à la poignée, bras complètement tendus. Fixe tes épaules en tirant les omoplates vers le bas et l'arrière — range-les dans tes poches arrière.",
+        "Tire en poussant tes coudes vers les poches arrière, en menant avec la poitrine, pas le menton. Imagine plier la poignée autour de tes clavicules.",
+        "Passe le menton au-dessus de la poignée et contracte en haut. Redescends avec contrôle total jusqu'à être complètement suspendu — mérite chaque rep depuis un étirement complet.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "lats/band-assisted-pull-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/band-assisted-pull-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/band-assisted-pull-up.thumb.webp"
+    },
+    {
+      "id": "lats/band-close-grip-pulldown",
+      "slug": "band-close-grip-pulldown",
+      "name": "Tirage vertical à l'élastique, prise serrée",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Utilise une prise serrée, mains à environ 15 cm d'écart, pour accentuer la partie interne.",
+        "Saisis la poignée et bloque tes cuisses sous le coussin. Penche-toi légèrement en arrière et abaisse tes omoplates.",
+        "Tire la poignée vers le haut de la poitrine en poussant les coudes vers le bas et l'arrière. Imagine plier la poignée autour de tes clavicules.",
+        "Contracte les dorsaux un instant en bas, puis laisse la poignée remonter lentement au-dessus de la tête, sentant l'étirement complet des dorsaux.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "lats/band-close-grip-pulldown.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/band-close-grip-pulldown.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/band-close-grip-pulldown.thumb.webp"
+    },
+    {
+      "id": "lats/band-fixed-back-close-grip-pulldown",
+      "slug": "band-fixed-back-close-grip-pulldown",
+      "name": "Tirage vertical à l'élastique, prise serrée, fixe dos",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Utilise une prise serrée, mains à environ 15 cm d'écart, pour accentuer la partie interne.",
+        "Saisis la poignée et bloque tes cuisses sous le coussin. Penche-toi légèrement en arrière et abaisse tes omoplates.",
+        "Tire la poignée vers le haut de la poitrine en poussant les coudes vers le bas et l'arrière. Imagine plier la poignée autour de tes clavicules.",
+        "Contracte les dorsaux un instant en bas, puis laisse la poignée remonter lentement au-dessus de la tête, sentant l'étirement complet des dorsaux.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "lats/band-fixed-back-close-grip-pulldown.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/band-fixed-back-close-grip-pulldown.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/band-fixed-back-close-grip-pulldown.thumb.webp"
+    },
+    {
+      "id": "lats/band-fixed-back-underhand-pulldown",
+      "slug": "band-fixed-back-underhand-pulldown",
+      "name": "Tirage vertical à l'élastique, fixe dos supination",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Utilise une prise supination pour changer l'angle de traction et l'accent musculaire.",
+        "Saisis la poignée et bloque tes cuisses sous le coussin. Penche-toi légèrement en arrière et abaisse tes omoplates.",
+        "Tire la poignée vers le haut de la poitrine en poussant les coudes vers le bas et l'arrière. Imagine plier la poignée autour de tes clavicules.",
+        "Contracte les dorsaux un instant en bas, puis laisse la poignée remonter lentement au-dessus de la tête, sentant l'étirement complet des dorsaux.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "lats/band-fixed-back-underhand-pulldown.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/band-fixed-back-underhand-pulldown.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/band-fixed-back-underhand-pulldown.thumb.webp"
+    },
+    {
+      "id": "lats/band-kneeling-one-arm-pulldown",
+      "slug": "band-kneeling-one-arm-pulldown",
+      "name": "Tirage vertical à l'élastique, à genoux, un bras",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "À genoux, hanches empilées au-dessus des genoux, torse droit.",
+        "Saisis la poignée et bloque tes cuisses sous le coussin. Penche-toi légèrement en arrière et abaisse tes omoplates.",
+        "Tire la poignée vers le haut de la poitrine en poussant le coude vers le bas et l'arrière. Imagine plier la poignée autour de tes clavicules.",
+        "Contracte les dorsaux un instant en bas, puis laisse la poignée remonter lentement au-dessus de la tête, sentant l'étirement complet des dorsaux.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "lats/band-kneeling-one-arm-pulldown.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/band-kneeling-one-arm-pulldown.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/band-kneeling-one-arm-pulldown.thumb.webp"
+    },
+    {
+      "id": "lats/band-underhand-pulldown",
+      "slug": "band-underhand-pulldown",
+      "name": "Tirage vertical à l'élastique, supination",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Utilise une prise supination pour changer l'angle de traction et l'accent musculaire.",
+        "Saisis la poignée et bloque tes cuisses sous le coussin. Penche-toi légèrement en arrière et abaisse tes omoplates.",
+        "Tire la poignée vers le haut de la poitrine en poussant les coudes vers le bas et l'arrière. Imagine plier la poignée autour de tes clavicules.",
+        "Contracte les dorsaux un instant en bas, puis laisse la poignée remonter lentement au-dessus de la tête, sentant l'étirement complet des dorsaux.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "lats/band-underhand-pulldown.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/band-underhand-pulldown.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/band-underhand-pulldown.thumb.webp"
+    },
+    {
+      "id": "pectorals/band-bench-press",
+      "slug": "band-bench-press",
+      "name": "Développé couché à l'élastique",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Serre tes omoplates comme si tu tenais un crayon entre elles — cela crée une base stable pour pousser.",
+        "Descends la poignée vers le milieu de la poitrine avec les coudes à environ 45° — pense à une forme de flèche, pas un T — contrôle la descente pendant 2-3 secondes.",
+        "Pousse-toi toi-même dans le banc, éloignant la poignée. Dirige la poignée dans un léger arc vers les supports pour terminer la répétition.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "pectorals/band-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/band-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/band-bench-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/band-one-arm-twisting-chest-press",
+      "slug": "band-one-arm-twisting-chest-press",
+      "name": "Presse pectorale à l'élastique, un bras avec rotation",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Serre tes omoplates comme si tu tenais un crayon entre elles — cela crée une base stable pour pousser.",
+        "Descends la poignée vers le milieu de la poitrine avec le coude à environ 45° — pense à une forme de flèche, pas un T — contrôle la descente pendant 2-3 secondes.",
+        "Pousse-toi toi-même dans le banc, éloignant la poignée. Dirige la poignée dans un léger arc vers les supports pour terminer la répétition.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "pectorals/band-one-arm-twisting-chest-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/band-one-arm-twisting-chest-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/band-one-arm-twisting-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/resistance-band-seated-chest-press",
+      "slug": "resistance-band-seated-chest-press",
+      "name": "Presse pectorale à l'élastique, assis",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Serre tes omoplates comme si tu tenais un crayon entre elles — cela crée une base stable pour pousser.",
+        "Descends la poignée vers le milieu de la poitrine avec les coudes à environ 45° — pense à une forme de flèche, pas un T — contrôle la descente pendant 2-3 secondes.",
+        "Pousse-toi toi-même dans le banc, éloignant la poignée. Dirige la poignée dans un léger arc vers les supports pour terminer la répétition.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "pectorals/resistance-band-seated-chest-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/resistance-band-seated-chest-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/resistance-band-seated-chest-press.thumb.webp"
+    },
+    {
+      "id": "quads/band-one-arm-single-leg-split-squat",
+      "slug": "band-one-arm-single-leg-split-squat",
+      "name": "Fente bulgare unilatérale avec bande",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/band-one-arm-single-leg-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/band-one-arm-single-leg-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/band-one-arm-single-leg-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/band-single-leg-split-squat",
+      "slug": "band-single-leg-split-squat",
+      "name": "Fente bulgare avec bande",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/band-single-leg-split-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/band-single-leg-split-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/band-single-leg-split-squat.thumb.webp"
+    },
+    {
+      "id": "quads/resistance-band-leg-extension",
+      "slug": "resistance-band-leg-extension",
+      "name": "Extension de jambes à l'élastique",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Verrouille les coudes en position — ce sont des points fixes dans l'espace. Seuls les avant-bras bougent comme des charnières.",
+        "Étends complètement en contractant les triceps au verrouillage. Fais une pause en extension complète.",
+        "Reviens lentement à la position de départ. Concentre-toi sur l'étirement en bas et la contraction en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/resistance-band-leg-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/resistance-band-leg-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/resistance-band-leg-extension.thumb.webp"
+    },
+    {
+      "id": "spine/band-straight-leg-deadlift",
+      "slug": "band-straight-leg-deadlift",
+      "name": "Soulevé de terre à l'élastique, jambe tendue",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Place tes pieds largeur de hanches, poignée au-dessus du milieu du pied. Charnière de hanches, poitrine haute, et serre les aisselles pour engager les dorsaux.",
+        "Repousse le sol avec les jambes — hanches et épaules montent ensemble comme un ascenseur. Fais glisser la poignée le long des jambes comme si tu les rasais.",
+        "Redresse-toi complètement en haut et contracte les fessiers. Redescends en charnière de hanches, faisant glisser la poignée le long des cuisses — elle ne quitte jamais le corps.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "spine/band-straight-leg-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/band-straight-leg-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/band-straight-leg-deadlift.thumb.webp"
+    },
+    {
+      "id": "traps/band-shrug",
+      "slug": "band-shrug",
+      "name": "Haussement d'épaules à l'élastique",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Tiens le poids aux côtés, bras complètement tendus. Debout droit, épaules relâchées.",
+        "Hausse les épaules droit vers les oreilles — ne les roule pas. Contracte en haut pendant 2 secondes.",
+        "Redescends lentement. Garde les bras tendus — c'est tout trapèzes, pas de biceps.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "traps/band-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/band-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/band-shrug.thumb.webp"
+    },
+    {
+      "id": "triceps/band-close-grip-push-up",
+      "slug": "band-close-grip-push-up",
+      "name": "Pompe à l'élastique, prise serrée",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Utilise une prise serrée, mains à environ 15 cm d'écart, pour accentuer la partie interne.",
+        "Place les mains un peu plus larges que les épaules. Corps en ligne droite de la tête aux talons — visse les mains dans le sol pour créer de la tension.",
+        "Descends en fléchissant les coudes à 45° jusqu'à ce que la poitrine touche presque le sol. Tire-toi activement vers le bas.",
+        "Repousse le sol pour remonter. Contracte la poitrine au verrouillage et garde le core gainé tout au long.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "triceps/band-close-grip-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/band-close-grip-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/band-close-grip-push-up.thumb.webp"
+    },
+    {
+      "id": "triceps/band-side-triceps-extension",
+      "slug": "band-side-triceps-extension",
+      "name": "Extension triceps à l'élastique, latéral",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Verrouille les coudes en position — ce sont des points fixes dans l'espace. Seuls les avant-bras bougent comme des charnières.",
+        "Étends complètement en contractant les triceps au verrouillage. Fais une pause en extension complète.",
+        "Reviens lentement à la position de départ. Concentre-toi sur l'étirement en bas et la contraction en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "triceps/band-side-triceps-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/band-side-triceps-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/band-side-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "upper-back/band-one-arm-standing-low-row",
+      "slug": "band-one-arm-standing-low-row",
+      "name": "Rowing à l'élastique, debout, un bras bas",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/band-one-arm-standing-low-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/band-one-arm-standing-low-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/band-one-arm-standing-low-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/band-one-arm-twisting-seated-row",
+      "slug": "band-one-arm-twisting-seated-row",
+      "name": "Rowing à l'élastique, assis, un bras avec rotation",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/band-one-arm-twisting-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/band-one-arm-twisting-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/band-one-arm-twisting-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/resistance-band-seated-straight-back-row",
+      "slug": "resistance-band-seated-straight-back-row",
+      "name": "Rowing à l'élastique, assis, droit dos",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/resistance-band-seated-straight-back-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/resistance-band-seated-straight-back-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/resistance-band-seated-straight-back-row.thumb.webp"
+    }
+  ]
+}

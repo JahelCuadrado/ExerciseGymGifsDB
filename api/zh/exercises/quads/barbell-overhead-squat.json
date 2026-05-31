@@ -1,0 +1,24 @@
+{
+  "id": "quads/barbell-overhead-squat",
+  "slug": "barbell-overhead-squat",
+  "name": "杠铃过头深蹲",
+  "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+    "将脚拧入地面以产生张力。深吸一口气到腹部——像在腰带扣后面吹一个气球。",
+    "向后坐，就像身后有一把椅子，用脚将地面撑开。保持胸部朝向前方的镜子。",
+    "用整个脚掌发力，将地面推离你来站起。站直，就像有人从头顶拉一根线。",
+    "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+  ],
+  "file": "quads/barbell-overhead-squat.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-overhead-squat.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-overhead-squat.thumb.webp"
+}

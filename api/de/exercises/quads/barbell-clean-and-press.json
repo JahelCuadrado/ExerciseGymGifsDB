@@ -1,0 +1,28 @@
+{
+  "id": "quads/barbell-clean-and-press",
+  "slug": "barbell-clean-and-press",
+  "name": "Clean and Press mit Langhantel",
+  "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts",
+    "glutes",
+    "hamstrings",
+    "spine",
+    "traps",
+    "forearms"
+  ],
+  "instructions": [
+    "Lade die Langhantel mit angemessenem Gewicht. Greife die Stange fest und stelle die Füße schulterbreit auf.",
+    "Spanne den Core an und fixiere die Schulterblätter. Starte den Druck aus einer stabilen Basis.",
+    "Drücke das Gewicht in einer kontrollierten Bahn vom Körper weg, strecke vollständig, ohne die Gelenke ruckartig zu blockieren.",
+    "Bringe das Gewicht kontrolliert zurück und halte die Spannung im gesamten Bewegungsumfang aufrecht.",
+    "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+  ],
+  "file": "quads/barbell-clean-and-press.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-clean-and-press.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/barbell-clean-and-press.thumb.webp"
+}

@@ -109,7 +109,7 @@
     {
       "id": "abs/barbell-sitted-alternate-leg-raise-female",
       "slug": "barbell-sitted-alternate-leg-raise-female",
-      "name": "Elevación de piernas con barra, alternado, sitted",
+      "name": "Elevacion alterna de piernas sentado con barra",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "barbell",
@@ -130,7 +130,7 @@
     {
       "id": "abs/barbell-sitted-alternate-leg-raise",
       "slug": "barbell-sitted-alternate-leg-raise",
-      "name": "Elevación de piernas con barra, alternado, sitted",
+      "name": "Elevacion alterna de piernas sentado con barra",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "barbell",
@@ -1158,7 +1158,7 @@
     {
       "id": "forearms/barbell-revers-wrist-curl-v-2",
       "slug": "barbell-revers-wrist-curl-v-2",
-      "name": "Curl de muñeca con barra, revers",
+      "name": "Curl de muñeca invertido con barra",
       "muscle": "forearms",
       "bodyPart": "arms",
       "equipment": "barbell",
@@ -1505,7 +1505,7 @@
     {
       "id": "glutes/barbell-hack-squat",
       "slug": "barbell-hack-squat",
-      "name": "Hack squat con barra",
+      "name": "Sentadilla hack con barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -1877,7 +1877,7 @@
     {
       "id": "glutes/barbell-speed-squat",
       "slug": "barbell-speed-squat",
-      "name": "Sentadilla con barra, speed",
+      "name": "Sentadilla rápida con barra",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -2592,7 +2592,7 @@
     {
       "id": "quads/barbell-side-split-squat-v-2",
       "slug": "barbell-side-split-squat-v-2",
-      "name": "Split squat con barra, lateral",
+      "name": "Sentadilla búlgara lateral con barra",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -2616,7 +2616,7 @@
     {
       "id": "quads/barbell-side-split-squat",
       "slug": "barbell-side-split-squat",
-      "name": "Split squat con barra, lateral",
+      "name": "Sentadilla búlgara lateral con barra",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -2640,7 +2640,7 @@
     {
       "id": "quads/barbell-single-leg-split-squat",
       "slug": "barbell-single-leg-split-squat",
-      "name": "Split squat con barra, a una pierna",
+      "name": "Sentadilla búlgara con barra",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -2665,7 +2665,7 @@
     {
       "id": "quads/barbell-split-squat-v-2",
       "slug": "barbell-split-squat-v-2",
-      "name": "Split squat con barra",
+      "name": "Sentadilla búlgara con barra",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",
@@ -2689,7 +2689,7 @@
     {
       "id": "quads/barbell-squat-jump-step-rear-lunge",
       "slug": "barbell-squat-jump-step-rear-lunge",
-      "name": "Sentadilla con barra, posterior, jump paso lunge",
+      "name": "Sentadilla con barra, posterior, salto paso zancada",
       "muscle": "quads",
       "bodyPart": "legs",
       "equipment": "barbell",

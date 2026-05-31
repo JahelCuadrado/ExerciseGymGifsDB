@@ -1,0 +1,1809 @@
+{
+  "equipment": "lever",
+  "count": 78,
+  "exercises": [
+    {
+      "id": "abductors/lever-seated-hip-abduction",
+      "slug": "lever-seated-hip-abduction",
+      "name": "Abduction de hanche à la machine, assis",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Positionne-toi sur la machine ou allonge-toi sur le côté, jambes empilées et torse stable.",
+        "Écarte les jambes contre la résistance en contractant les fessiers externes. Pense à montrer le logo de tes chaussures aux murs latéraux.",
+        "Tiens la position ouverte brièvement, puis referme lentement avec contrôle. Ne laisse pas le poids claquer.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abductors/lever-seated-hip-abduction.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/lever-seated-hip-abduction.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/lever-seated-hip-abduction.thumb.webp"
+    },
+    {
+      "id": "abs/front-lever",
+      "slug": "front-lever",
+      "name": "À la machine, avant",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Construis de la tension dans tout le corps avant d'entrer dans la position. Contracte tout — fessiers, core, dorsaux, jambes.",
+        "Entre dans la position avec contrôle, maintenant une rigidité totale. Pense à ton corps comme une planche de bois droite.",
+        "Tiens le temps prescrit ou effectue des reps contrôlées. Si tu ne peux pas maintenir la forme parfaite, travaille une régression du mouvement.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abs/front-lever.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/front-lever.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/front-lever.thumb.webp"
+    },
+    {
+      "id": "abs/lever-kneeling-twist",
+      "slug": "lever-kneeling-twist",
+      "name": "Rotation à la machine, à genoux",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "À genoux, hanches empilées au-dessus des genoux, torse droit.",
+        "Assieds-toi genoux fléchis et penche-toi légèrement — ou debout core gainé pour les variantes au câble. Garde la poitrine haute.",
+        "Tourne le torse d'un côté à l'autre avec contrôle depuis le milieu du dos — pas juste les bras. Touche le poids à côté de chaque hanche.",
+        "Bouge avec contrôle — l'amplitude de rotation compte plus que la vitesse. Garde le core engagé dans toute l'amplitude.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abs/lever-kneeling-twist.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/lever-kneeling-twist.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/lever-kneeling-twist.thumb.webp"
+    },
+    {
+      "id": "abs/lever-seated-crunch-chest-pad",
+      "slug": "lever-seated-crunch-chest-pad",
+      "name": "Crunch à la machine, assis, poitrine coussin",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Allonge-toi sur le dos, genoux fléchis. Mains derrière la tête en support léger — ne tire pas sur le cou.",
+        "Enroule le torse en rapprochant les côtes du bassin. Imagine raccourcir la distance entre le sternum et le nombril.",
+        "Tiens brièvement en haut en contractant les abdos, puis redescends lentement. Garde le bas du dos au sol — c'est un mouvement court et contrôlé.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abs/lever-seated-crunch-chest-pad.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/lever-seated-crunch-chest-pad.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/lever-seated-crunch-chest-pad.thumb.webp"
+    },
+    {
+      "id": "abs/lever-seated-crunch-v-2",
+      "slug": "lever-seated-crunch-v-2",
+      "name": "Crunch à la machine, assis",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Allonge-toi sur le dos, genoux fléchis. Mains derrière la tête en support léger — ne tire pas sur le cou.",
+        "Enroule le torse en rapprochant les côtes du bassin. Imagine raccourcir la distance entre le sternum et le nombril.",
+        "Tiens brièvement en haut en contractant les abdos, puis redescends lentement. Garde le bas du dos au sol — c'est un mouvement court et contrôlé.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abs/lever-seated-crunch-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/lever-seated-crunch-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/lever-seated-crunch-v-2.thumb.webp"
+    },
+    {
+      "id": "abs/lever-seated-crunch",
+      "slug": "lever-seated-crunch",
+      "name": "Crunch à la machine, assis",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Allonge-toi sur le dos, genoux fléchis. Mains derrière la tête en support léger — ne tire pas sur le cou.",
+        "Enroule le torse en rapprochant les côtes du bassin. Imagine raccourcir la distance entre le sternum et le nombril.",
+        "Tiens brièvement en haut en contractant les abdos, puis redescends lentement. Garde le bas du dos au sol — c'est un mouvement court et contrôlé.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abs/lever-seated-crunch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/lever-seated-crunch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/lever-seated-crunch.thumb.webp"
+    },
+    {
+      "id": "abs/lever-seated-leg-raise-crunch",
+      "slug": "lever-seated-leg-raise-crunch",
+      "name": "Relevé de jambes à la machine, assis, Crunch",
+      "muscle": "abs",
+      "bodyPart": "core",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Suspends-toi à une barre ou positionne-toi avec les bras en appui. Commence avec les jambes pendant droites, core gainé.",
+        "Monte les jambes en basculant le bassin — pense à amener la boucle de ceinture vers le menton, pas juste lever les pieds.",
+        "Contrôle la descente lentement sans balancer. Si tu balances, fléchis les genoux pour raccourcir le bras de levier.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abs/lever-seated-leg-raise-crunch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/lever-seated-leg-raise-crunch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abs/lever-seated-leg-raise-crunch.thumb.webp"
+    },
+    {
+      "id": "adductors/lever-seated-hip-adduction",
+      "slug": "lever-seated-hip-adduction",
+      "name": "Adduction de hanche à la machine, assis",
+      "muscle": "adductors",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Positionne-toi les jambes écartées. Assieds-toi droit avec le dos contre le coussin.",
+        "Serre les jambes contre la résistance en engageant l'intérieur des cuisses. Imagine presser un ballon entre tes genoux.",
+        "Tiens brièvement en position fermée, puis ouvre avec contrôle. Garde le core gainé tout au long.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "adductors/lever-seated-hip-adduction.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/adductors/lever-seated-hip-adduction.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/adductors/lever-seated-hip-adduction.thumb.webp"
+    },
+    {
+      "id": "biceps/lever-bicep-curl",
+      "slug": "lever-bicep-curl",
+      "name": "Curl biceps à la machine",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "biceps/lever-bicep-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-bicep-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-bicep-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/lever-hammer-grip-preacher-curl",
+      "slug": "lever-hammer-grip-preacher-curl",
+      "name": "Curl au pupitre à la machine, prise marteau",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi au pupitre avec les aisselles contre le bord supérieur. Laisse tes bras complètement étendus sur le coussin.",
+        "Monte le poids en contractant les biceps, gardant les bras pressés contre le coussin tout le temps.",
+        "Redescends sous contrôle strict jusqu'à l'extension complète — le coussin empêche de tricher, alors maîtrise toute l'amplitude.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "biceps/lever-hammer-grip-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-hammer-grip-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-hammer-grip-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/lever-preacher-curl-v-2",
+      "slug": "lever-preacher-curl-v-2",
+      "name": "Curl au pupitre à la machine",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi au pupitre avec les aisselles contre le bord supérieur. Laisse tes bras complètement étendus sur le coussin.",
+        "Monte le poids en contractant les biceps, gardant les bras pressés contre le coussin tout le temps.",
+        "Redescends sous contrôle strict jusqu'à l'extension complète — le coussin empêche de tricher, alors maîtrise toute l'amplitude.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "biceps/lever-preacher-curl-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-preacher-curl-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-preacher-curl-v-2.thumb.webp"
+    },
+    {
+      "id": "biceps/lever-preacher-curl",
+      "slug": "lever-preacher-curl",
+      "name": "Curl au pupitre à la machine",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi au pupitre avec les aisselles contre le bord supérieur. Laisse tes bras complètement étendus sur le coussin.",
+        "Monte le poids en contractant les biceps, gardant les bras pressés contre le coussin tout le temps.",
+        "Redescends sous contrôle strict jusqu'à l'extension complète — le coussin empêche de tricher, alors maîtrise toute l'amplitude.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "biceps/lever-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/lever-reverse-grip-preacher-curl",
+      "slug": "lever-reverse-grip-preacher-curl",
+      "name": "Curl au pupitre à la machine, prise supination",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Utilise une prise supination pour changer l'angle de traction et l'accent musculaire.",
+        "Assieds-toi au pupitre avec les aisselles contre le bord supérieur. Laisse tes bras complètement étendus sur le coussin.",
+        "Monte le poids en contractant les biceps, gardant les bras pressés contre le coussin tout le temps.",
+        "Redescends sous contrôle strict jusqu'à l'extension complète — le coussin empêche de tricher, alors maîtrise toute l'amplitude.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "biceps/lever-reverse-grip-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-reverse-grip-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-reverse-grip-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "calves/hack-calf-raise",
+      "slug": "hack-calf-raise",
+      "name": "Mollets, hack",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/hack-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/hack-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/hack-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/hack-one-leg-calf-raise",
+      "slug": "hack-one-leg-calf-raise",
+      "name": "Mollets, une jambe, hack",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement le mollet pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/hack-one-leg-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/hack-one-leg-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/hack-one-leg-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/lever-calf-press",
+      "slug": "lever-calf-press",
+      "name": "Développé à la machine, mollet",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Gaine ton core et fixe tes omoplates. Initie la poussée depuis une base stable.",
+        "Pousse le poids en l'éloignant du corps sur une trajectoire contrôlée, en extension complète sans verrouiller les articulations brusquement.",
+        "Ramène le poids avec contrôle, maintenant la tension dans toute l'amplitude de mouvement.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/lever-calf-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-calf-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-calf-press.thumb.webp"
+    },
+    {
+      "id": "calves/lever-donkey-calf-raise",
+      "slug": "lever-donkey-calf-raise",
+      "name": "Mollets à la machine, âne",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/lever-donkey-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-donkey-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-donkey-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/lever-rotary-calf",
+      "slug": "lever-rotary-calf",
+      "name": "Rotatoire mollet à la machine",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Place-toi les talons sur le bord d'une plateforme (ou sol plat). Tiens-toi à un support pour l'équilibre.",
+        "Lève les orteils et l'avant des pieds le plus haut possible en contractant l'avant des tibias.",
+        "Redescends lentement avec contrôle. Cela renforce le tibial antérieur — muscle clé pour la stabilité de la cheville et la prévention des périostites.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/lever-rotary-calf.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-rotary-calf.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-rotary-calf.thumb.webp"
+    },
+    {
+      "id": "calves/lever-seated-calf-press",
+      "slug": "lever-seated-calf-press",
+      "name": "Développé à la machine, assis, mollet",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Gaine ton core et fixe tes omoplates. Initie la poussée depuis une base stable.",
+        "Pousse le poids en l'éloignant du corps sur une trajectoire contrôlée, en extension complète sans verrouiller les articulations brusquement.",
+        "Ramène le poids avec contrôle, maintenant la tension dans toute l'amplitude de mouvement.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/lever-seated-calf-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-seated-calf-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-seated-calf-press.thumb.webp"
+    },
+    {
+      "id": "calves/lever-seated-calf-raise",
+      "slug": "lever-seated-calf-raise",
+      "name": "Mollets à la machine, assis",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/lever-seated-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-seated-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-seated-calf-raise.thumb.webp"
+    },
+    {
+      "id": "calves/lever-seated-squat-calf-raise-on-leg-press-machine",
+      "slug": "lever-seated-squat-calf-raise-on-leg-press-machine",
+      "name": "Squat à la machine, assis, Mollets Presse à cuisses",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts",
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Gaine ton core et fixe tes omoplates. Initie la poussée depuis une base stable.",
+        "Pousse le poids en l'éloignant du corps sur une trajectoire contrôlée, en extension complète sans verrouiller les articulations brusquement.",
+        "Ramène le poids avec contrôle, maintenant la tension dans toute l'amplitude de mouvement.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/lever-seated-squat-calf-raise-on-leg-press-machine.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-seated-squat-calf-raise-on-leg-press-machine.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-seated-squat-calf-raise-on-leg-press-machine.thumb.webp"
+    },
+    {
+      "id": "calves/lever-standing-calf-raise",
+      "slug": "lever-standing-calf-raise",
+      "name": "Mollets à la machine, debout",
+      "muscle": "calves",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Place-toi sur le bord d'une marche ou plateforme, talons dans le vide. Tiens-toi à un support si nécessaire.",
+        "Monte sur les pointes le plus haut possible en contractant fortement les mollets pendant 2 secondes en haut.",
+        "Descends lentement au-delà du bord jusqu'à sentir un étirement profond des mollets. Pas de rebond — maîtrise chaque centimètre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "calves/lever-standing-calf-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-standing-calf-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/calves/lever-standing-calf-raise.thumb.webp"
+    },
+    {
+      "id": "delts/lever-lateral-raise",
+      "slug": "lever-lateral-raise",
+      "name": "Élévation latérale à la machine",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Debout avec le poids aux côtés et une légère inclinaison vers l'avant. Légère flexion des coudes.",
+        "Monte les bras sur les côtés en menant avec les coudes comme si tu versais de l'eau de deux cruches. Arrête à hauteur d'épaules.",
+        "Redescends lentement avec contrôle, résistant à la gravité tout le long. Ne balance pas — si tu as besoin d'élan, réduis le poids.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "delts/lever-lateral-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/lever-lateral-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/lever-lateral-raise.thumb.webp"
+    },
+    {
+      "id": "delts/lever-military-press",
+      "slug": "lever-military-press",
+      "name": "Développé militaire à la machine",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Empile tes poignets directement au-dessus des coudes comme une colonne solide. Contracte les fessiers et gaine le core comme si tu attendais un coup.",
+        "Pousse le poids droit vers le haut en déplaçant la tête. Une fois la barre passée devant ton visage, pousse la tête vers l'avant et verrouille complètement.",
+        "Descends avec contrôle à la position de départ sur les deltoïdes antérieurs. Garde le torse vertical — tu pousses vers le haut, pas un développé incliné debout.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "delts/lever-military-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/lever-military-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/lever-military-press.thumb.webp"
+    },
+    {
+      "id": "delts/lever-one-arm-shoulder-press",
+      "slug": "lever-one-arm-shoulder-press",
+      "name": "Développé épaules à la machine, un bras",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Empile tes poignets directement au-dessus des coudes comme une colonne solide. Contracte les fessiers et gaine le core comme si tu attendais un coup.",
+        "Pousse le poids droit vers le haut en déplaçant la tête. Une fois la barre passée devant ton visage, pousse la tête vers l'avant et verrouille complètement.",
+        "Descends avec contrôle à la position de départ sur les deltoïdes antérieurs. Garde le torse vertical — tu pousses vers le haut, pas un développé incliné debout.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "delts/lever-one-arm-shoulder-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/lever-one-arm-shoulder-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/lever-one-arm-shoulder-press.thumb.webp"
+    },
+    {
+      "id": "delts/lever-seated-reverse-fly-parallel-grip",
+      "slug": "lever-seated-reverse-fly-parallel-grip",
+      "name": "Écarté inversé à la machine, assis, parallèle prise",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Commence avec une légère flexion des coudes — tes bras sont comme deux épées courbes. Cette flexion reste constante.",
+        "Ouvre les bras en arc, sentant un étirement profond dans la poitrine. Ne dépasse pas l'amplitude confortable.",
+        "Rapproche les poignées en contractant la poitrine — imagine enlacer un gros tronc d'arbre. Les mains se touchent presque en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "delts/lever-seated-reverse-fly-parallel-grip.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/lever-seated-reverse-fly-parallel-grip.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/lever-seated-reverse-fly-parallel-grip.thumb.webp"
+    },
+    {
+      "id": "delts/lever-seated-reverse-fly",
+      "slug": "lever-seated-reverse-fly",
+      "name": "Écarté inversé à la machine, assis",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "traps",
+        "upper-back"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Commence avec une légère flexion des coudes — tes bras sont comme deux épées courbes. Cette flexion reste constante.",
+        "Ouvre les bras en arc, sentant un étirement profond dans la poitrine. Ne dépasse pas l'amplitude confortable.",
+        "Rapproche les poignées en contractant la poitrine — imagine enlacer un gros tronc d'arbre. Les mains se touchent presque en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "delts/lever-seated-reverse-fly.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/lever-seated-reverse-fly.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/lever-seated-reverse-fly.thumb.webp"
+    },
+    {
+      "id": "delts/lever-shoulder-press-v-2",
+      "slug": "lever-shoulder-press-v-2",
+      "name": "Développé épaules à la machine",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Empile tes poignets directement au-dessus des coudes comme une colonne solide. Contracte les fessiers et gaine le core comme si tu attendais un coup.",
+        "Pousse le poids droit vers le haut en déplaçant la tête. Une fois la barre passée devant ton visage, pousse la tête vers l'avant et verrouille complètement.",
+        "Descends avec contrôle à la position de départ sur les deltoïdes antérieurs. Garde le torse vertical — tu pousses vers le haut, pas un développé incliné debout.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "delts/lever-shoulder-press-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/lever-shoulder-press-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/lever-shoulder-press-v-2.thumb.webp"
+    },
+    {
+      "id": "delts/lever-shoulder-press-v-3",
+      "slug": "lever-shoulder-press-v-3",
+      "name": "Développé épaules à la machine",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Empile tes poignets directement au-dessus des coudes comme une colonne solide. Contracte les fessiers et gaine le core comme si tu attendais un coup.",
+        "Pousse le poids droit vers le haut en déplaçant la tête. Une fois la barre passée devant ton visage, pousse la tête vers l'avant et verrouille complètement.",
+        "Descends avec contrôle à la position de départ sur les deltoïdes antérieurs. Garde le torse vertical — tu pousses vers le haut, pas un développé incliné debout.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "delts/lever-shoulder-press-v-3.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/lever-shoulder-press-v-3.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/lever-shoulder-press-v-3.thumb.webp"
+    },
+    {
+      "id": "delts/lever-shoulder-press",
+      "slug": "lever-shoulder-press",
+      "name": "Développé épaules à la machine",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Empile tes poignets directement au-dessus des coudes comme une colonne solide. Contracte les fessiers et gaine le core comme si tu attendais un coup.",
+        "Pousse le poids droit vers le haut en déplaçant la tête. Une fois la barre passée devant ton visage, pousse la tête vers l'avant et verrouille complètement.",
+        "Descends avec contrôle à la position de départ sur les deltoïdes antérieurs. Garde le torse vertical — tu pousses vers le haut, pas un développé incliné debout.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "delts/lever-shoulder-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/lever-shoulder-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/lever-shoulder-press.thumb.webp"
+    },
+    {
+      "id": "forearms/lever-gripper-hands",
+      "slug": "lever-gripper-hands",
+      "name": "Pince mains à la machine",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Tiens le poids (ou la pince) avec l'avant-bras soutenu et stable.",
+        "Tourne ou serre dans toute l'amplitude de manière lente et contrôlée. Concentre-toi sur les muscles de l'avant-bras qui travaillent.",
+        "Reviens avec contrôle à la position de départ. Chaque rep devrait prendre 2-3 secondes dans chaque direction.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/lever-gripper-hands.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/lever-gripper-hands.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/lever-gripper-hands.thumb.webp"
+    },
+    {
+      "id": "glutes/lever-deadlift",
+      "slug": "lever-deadlift",
+      "name": "Soulevé de terre à la machine",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Place tes pieds largeur de hanches, barre au-dessus du milieu du pied. Charnière de hanches, poitrine haute, et serre les aisselles pour engager les dorsaux.",
+        "Repousse le sol avec les jambes — hanches et épaules montent ensemble comme un ascenseur. Fais glisser la barre le long des jambes comme si tu les rasais.",
+        "Redresse-toi complètement en haut et contracte les fessiers. Redescends en charnière de hanches, faisant glisser la barre le long des cuisses — elle ne quitte jamais le corps.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "glutes/lever-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-deadlift.thumb.webp"
+    },
+    {
+      "id": "glutes/lever-hip-extension-v-2",
+      "slug": "lever-hip-extension-v-2",
+      "name": "Extension à la machine, hanche",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Verrouille les coudes en position — ce sont des points fixes dans l'espace. Seuls les avant-bras bougent comme des charnières.",
+        "Étends complètement en contractant les triceps au verrouillage. Fais une pause en extension complète.",
+        "Reviens lentement à la position de départ. Concentre-toi sur l'étirement en bas et la contraction en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "glutes/lever-hip-extension-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-hip-extension-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-hip-extension-v-2.thumb.webp"
+    },
+    {
+      "id": "glutes/lever-horizontal-one-leg-press",
+      "slug": "lever-horizontal-one-leg-press",
+      "name": "Développé à la machine, une jambe, horizontal",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Gaine ton core et fixe tes omoplates. Initie la poussée depuis une base stable.",
+        "Pousse le poids en l'éloignant du corps sur une trajectoire contrôlée, en extension complète sans verrouiller les articulations brusquement.",
+        "Ramène le poids avec contrôle, maintenant la tension dans toute l'amplitude de mouvement.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "glutes/lever-horizontal-one-leg-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-horizontal-one-leg-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-horizontal-one-leg-press.thumb.webp"
+    },
+    {
+      "id": "glutes/lever-reverse-hyperextension",
+      "slug": "lever-reverse-hyperextension",
+      "name": "Hyperextension inversé à la machine",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "spine"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Positionne-toi sur le banc d'hyperextension avec les hanches au bord du coussin. Bras croisés ou mains derrière la tête.",
+        "Descends le torse avec contrôle en maintenant la colonne neutre. Descends jusqu'à sentir un étirement des ischio-jambiers.",
+        "Remonte en contractant fessiers et bas du dos jusqu'à ce que le corps forme une ligne droite — ne dépasse pas la position neutre.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "glutes/lever-reverse-hyperextension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-reverse-hyperextension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-reverse-hyperextension.thumb.webp"
+    },
+    {
+      "id": "glutes/lever-seated-good-morning",
+      "slug": "lever-seated-good-morning",
+      "name": "Good Morning à la machine, assis",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Avec une légère flexion des genoux, charnière aux hanches en poussant les fesses vers l'arrière — imagine fermer une porte de voiture avec tes fessiers.",
+        "Descends jusqu'à sentir un étirement profond des ischio-jambiers, en gardant le dos plat. Un manche à balai sur la colonne devrait toucher tête, milieu du dos et coccyx.",
+        "Pousse les hanches vers l'avant pour revenir debout, en contractant fortement les fessiers en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "glutes/lever-seated-good-morning.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-seated-good-morning.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-seated-good-morning.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-closer-hack-squat",
+      "slug": "sled-closer-hack-squat",
+      "name": "Hack squat serré au traîneau",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "glutes/sled-closer-hack-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-closer-hack-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-closer-hack-squat.thumb.webp"
+    },
+    {
+      "id": "glutes/sled-hack-squat",
+      "slug": "sled-hack-squat",
+      "name": "Hack squat au traîneau",
+      "muscle": "glutes",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Visse tes pieds dans le sol pour créer de la tension. Prends une grande inspiration dans le ventre — gonfle un ballon derrière ta boucle de ceinture.",
+        "Assieds-toi vers l'arrière comme s'il y avait une chaise derrière toi, en écartant le sol avec tes pieds. Garde la poitrine face au miroir devant toi.",
+        "Pousse à travers tout le pied et repousse le sol pour te relever. Finis grand, comme si quelqu'un tirait un fil depuis le sommet de ta tête.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "glutes/sled-hack-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-hack-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/sled-hack-squat.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-kneeling-leg-curl",
+      "slug": "lever-kneeling-leg-curl",
+      "name": "Leg Curl à la machine, à genoux",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "À genoux, hanches empilées au-dessus des genoux, torse droit.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/lever-kneeling-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-kneeling-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-kneeling-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-lying-leg-curl",
+      "slug": "lever-lying-leg-curl",
+      "name": "Leg Curl à la machine, couché",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Allonge-toi avec le dos à plat contre la surface, gainage engagé.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/lever-lying-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-lying-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-lying-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-lying-two-one-leg-curl",
+      "slug": "lever-lying-two-one-leg-curl",
+      "name": "Curl à la machine, couché, une jambe, deux",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Allonge-toi avec le dos à plat contre la surface, gainage engagé.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/lever-lying-two-one-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-lying-two-one-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-lying-two-one-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-seated-leg-curl",
+      "slug": "lever-seated-leg-curl",
+      "name": "Leg Curl à la machine, assis",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "hamstrings/lever-seated-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-seated-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-seated-leg-curl.thumb.webp"
+    },
+    {
+      "id": "lats/lever-assisted-chin-up",
+      "slug": "lever-assisted-chin-up",
+      "name": "Traction supination à la machine, assisté",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Suspends-toi à la barre, bras complètement tendus. Fixe tes épaules en tirant les omoplates vers le bas et l'arrière — range-les dans tes poches arrière.",
+        "Tire en poussant tes coudes vers les poches arrière, en menant avec la poitrine, pas le menton. Imagine plier la barre autour de tes clavicules.",
+        "Passe le menton au-dessus de la barre et contracte en haut. Redescends avec contrôle total jusqu'à être complètement suspendu — mérite chaque rep depuis un étirement complet.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "lats/lever-assisted-chin-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/lever-assisted-chin-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/lever-assisted-chin-up.thumb.webp"
+    },
+    {
+      "id": "lats/lever-front-pulldown",
+      "slug": "lever-front-pulldown",
+      "name": "Tirage vertical à la machine, avant",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Saisis la barre et bloque tes cuisses sous le coussin. Penche-toi légèrement en arrière et abaisse tes omoplates.",
+        "Tire la barre vers le haut de la poitrine en poussant les coudes vers le bas et l'arrière. Imagine plier la barre autour de tes clavicules.",
+        "Contracte les dorsaux un instant en bas, puis laisse la barre remonter lentement au-dessus de la tête, sentant l'étirement complet des dorsaux.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "lats/lever-front-pulldown.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/lever-front-pulldown.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/lever-front-pulldown.thumb.webp"
+    },
+    {
+      "id": "lats/lever-one-arm-lateral-wide-pulldown",
+      "slug": "lever-one-arm-lateral-wide-pulldown",
+      "name": "Tirage vertical à la machine, un bras large, latéral",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Saisis la barre et bloque tes cuisses sous le coussin. Penche-toi légèrement en arrière et abaisse tes omoplates.",
+        "Tire la barre vers le haut de la poitrine en poussant le coude vers le bas et l'arrière. Imagine plier la barre autour de tes clavicules.",
+        "Contracte les dorsaux un instant en bas, puis laisse la barre remonter lentement au-dessus de la tête, sentant l'étirement complet des dorsaux.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "lats/lever-one-arm-lateral-wide-pulldown.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/lever-one-arm-lateral-wide-pulldown.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/lever-one-arm-lateral-wide-pulldown.thumb.webp"
+    },
+    {
+      "id": "lats/lever-pullover",
+      "slug": "lever-pullover",
+      "name": "Pullover à la machine",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Allonge-toi sur un banc, bras tendus au-dessus de la poitrine tenant le poids. Maintiens une légère flexion des coudes.",
+        "Descends le poids en arc derrière la tête, sentant un étirement profond des dorsaux et de la poitrine. Va seulement aussi loin que c'est confortable.",
+        "Ramène le poids au-dessus de la poitrine en utilisant les dorsaux — imagine ramasser le poids dans un arc large. Garde la même flexion des coudes.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "lats/lever-pullover.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/lever-pullover.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/lever-pullover.thumb.webp"
+    },
+    {
+      "id": "lats/lever-reverse-grip-lateral-pulldown",
+      "slug": "lever-reverse-grip-lateral-pulldown",
+      "name": "Tirage vertical à la machine, prise supination, latéral",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Utilise une prise supination pour changer l'angle de traction et l'accent musculaire.",
+        "Saisis la barre et bloque tes cuisses sous le coussin. Penche-toi légèrement en arrière et abaisse tes omoplates.",
+        "Tire la barre vers le haut de la poitrine en poussant les coudes vers le bas et l'arrière. Imagine plier la barre autour de tes clavicules.",
+        "Contracte les dorsaux un instant en bas, puis laisse la barre remonter lentement au-dessus de la tête, sentant l'étirement complet des dorsaux.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "lats/lever-reverse-grip-lateral-pulldown.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/lever-reverse-grip-lateral-pulldown.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/lever-reverse-grip-lateral-pulldown.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-chest-press-0577",
+      "slug": "lever-chest-press-0577",
+      "name": "Presse pectorale à la machine",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Serre tes omoplates comme si tu tenais un crayon entre elles — cela crée une base stable pour pousser.",
+        "Descends la barre vers le milieu de la poitrine avec les coudes à environ 45° — pense à une forme de flèche, pas un T — contrôle la descente pendant 2-3 secondes.",
+        "Pousse-toi toi-même dans le banc, éloignant la barre. Dirige la barre dans un léger arc vers les supports pour terminer la répétition.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "pectorals/lever-chest-press-0577.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-chest-press-0577.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-chest-press-0577.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-chest-press",
+      "slug": "lever-chest-press",
+      "name": "Presse pectorale à la machine",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Serre tes omoplates comme si tu tenais un crayon entre elles — cela crée une base stable pour pousser.",
+        "Descends la barre vers le milieu de la poitrine avec les coudes à environ 45° — pense à une forme de flèche, pas un T — contrôle la descente pendant 2-3 secondes.",
+        "Pousse-toi toi-même dans le banc, éloignant la barre. Dirige la barre dans un léger arc vers les supports pour terminer la répétition.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "pectorals/lever-chest-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-chest-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-decline-chest-press",
+      "slug": "lever-decline-chest-press",
+      "name": "Presse pectorale décliné à la machine",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Règle le banc en décliné et bloque tes pieds sous les coussins.",
+        "Serre tes omoplates comme si tu tenais un crayon entre elles — cela crée une base stable pour pousser.",
+        "Descends la barre vers le milieu de la poitrine avec les coudes à environ 45° — pense à une forme de flèche, pas un T — contrôle la descente pendant 2-3 secondes.",
+        "Pousse-toi toi-même dans le banc, éloignant la barre. Dirige la barre dans un léger arc vers les supports pour terminer la répétition.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "pectorals/lever-decline-chest-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-decline-chest-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-decline-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-incline-chest-press-v-2",
+      "slug": "lever-incline-chest-press-v-2",
+      "name": "Presse pectorale incliné à la machine",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Règle le banc à l'inclinaison indiquée et presse fermement ton dos contre le dossier.",
+        "Serre tes omoplates comme si tu tenais un crayon entre elles — cela crée une base stable pour pousser.",
+        "Descends la barre vers le milieu de la poitrine avec les coudes à environ 45° — pense à une forme de flèche, pas un T — contrôle la descente pendant 2-3 secondes.",
+        "Pousse-toi toi-même dans le banc, éloignant la barre. Dirige la barre dans un léger arc vers les supports pour terminer la répétition.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "pectorals/lever-incline-chest-press-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-incline-chest-press-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-incline-chest-press-v-2.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-incline-chest-press",
+      "slug": "lever-incline-chest-press",
+      "name": "Presse pectorale incliné à la machine",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Règle le banc à l'inclinaison indiquée et presse fermement ton dos contre le dossier.",
+        "Serre tes omoplates comme si tu tenais un crayon entre elles — cela crée une base stable pour pousser.",
+        "Descends la barre vers le milieu de la poitrine avec les coudes à environ 45° — pense à une forme de flèche, pas un T — contrôle la descente pendant 2-3 secondes.",
+        "Pousse-toi toi-même dans le banc, éloignant la barre. Dirige la barre dans un léger arc vers les supports pour terminer la répétition.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "pectorals/lever-incline-chest-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-incline-chest-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-incline-chest-press.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-seated-fly",
+      "slug": "lever-seated-fly",
+      "name": "Écarté à la machine, assis",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Commence avec une légère flexion des coudes — tes bras sont comme deux épées courbes. Cette flexion reste constante.",
+        "Ouvre les bras en arc, sentant un étirement profond dans la poitrine. Ne dépasse pas l'amplitude confortable.",
+        "Rapproche les poignées en contractant la poitrine — imagine enlacer un gros tronc d'arbre. Les mains se touchent presque en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "pectorals/lever-seated-fly.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-seated-fly.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-seated-fly.thumb.webp"
+    },
+    {
+      "id": "pectorals/lever-standing-chest-press",
+      "slug": "lever-standing-chest-press",
+      "name": "Presse pectorale à la machine, debout",
+      "muscle": "pectorals",
+      "bodyPart": "chest",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Serre tes omoplates comme si tu tenais un crayon entre elles — cela crée une base stable pour pousser.",
+        "Descends la barre vers le milieu de la poitrine avec les coudes à environ 45° — pense à une forme de flèche, pas un T — contrôle la descente pendant 2-3 secondes.",
+        "Pousse-toi toi-même dans le banc, éloignant la barre. Dirige la barre dans un léger arc vers les supports pour terminer la répétition.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "pectorals/lever-standing-chest-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-standing-chest-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-standing-chest-press.thumb.webp"
+    },
+    {
+      "id": "quads/lever-alternate-leg-press",
+      "slug": "lever-alternate-leg-press",
+      "name": "Presse à cuisses à la machine, alterné",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Gaine ton core et fixe tes omoplates. Initie la poussée depuis une base stable.",
+        "Pousse le poids en l'éloignant du corps sur une trajectoire contrôlée, en extension complète sans verrouiller les articulations brusquement.",
+        "Ramène le poids avec contrôle, maintenant la tension dans toute l'amplitude de mouvement.",
+        "Alterne les côtés à chaque rep. Termine une rep complète avant de passer à l'autre côté.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/lever-alternate-leg-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lever-alternate-leg-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lever-alternate-leg-press.thumb.webp"
+    },
+    {
+      "id": "quads/lever-leg-extension",
+      "slug": "lever-leg-extension",
+      "name": "Extension de jambes à la machine",
+      "muscle": "quads",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Verrouille les coudes en position — ce sont des points fixes dans l'espace. Seuls les avant-bras bougent comme des charnières.",
+        "Étends complètement en contractant les triceps au verrouillage. Fais une pause en extension complète.",
+        "Reviens lentement à la position de départ. Concentre-toi sur l'étirement en bas et la contraction en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "quads/lever-leg-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lever-leg-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/lever-leg-extension.thumb.webp"
+    },
+    {
+      "id": "spine/lever-back-extension",
+      "slug": "lever-back-extension",
+      "name": "Extension lombaire à la machine",
+      "muscle": "spine",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Verrouille les coudes en position — ce sont des points fixes dans l'espace. Seuls les avant-bras bougent comme des charnières.",
+        "Étends complètement en contractant les triceps au verrouillage. Fais une pause en extension complète.",
+        "Reviens lentement à la position de départ. Concentre-toi sur l'étirement en bas et la contraction en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "spine/lever-back-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/lever-back-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/lever-back-extension.thumb.webp"
+    },
+    {
+      "id": "traps/lever-gripless-shrug-v-2",
+      "slug": "lever-gripless-shrug-v-2",
+      "name": "Haussement d'épaules à la machine, sans prise",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Tiens le poids aux côtés, bras complètement tendus. Debout droit, épaules relâchées.",
+        "Hausse les épaules droit vers les oreilles — ne les roule pas. Contracte en haut pendant 2 secondes.",
+        "Redescends lentement. Garde les bras tendus — c'est tout trapèzes, pas de biceps.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "traps/lever-gripless-shrug-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-gripless-shrug-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-gripless-shrug-v-2.thumb.webp"
+    },
+    {
+      "id": "traps/lever-gripless-shrug",
+      "slug": "lever-gripless-shrug",
+      "name": "Haussement d'épaules à la machine, sans prise",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Tiens le poids aux côtés, bras complètement tendus. Debout droit, épaules relâchées.",
+        "Hausse les épaules droit vers les oreilles — ne les roule pas. Contracte en haut pendant 2 secondes.",
+        "Redescends lentement. Garde les bras tendus — c'est tout trapèzes, pas de biceps.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "traps/lever-gripless-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-gripless-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-gripless-shrug.thumb.webp"
+    },
+    {
+      "id": "traps/lever-shrug",
+      "slug": "lever-shrug",
+      "name": "Haussement d'épaules à la machine",
+      "muscle": "traps",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Tiens le poids aux côtés, bras complètement tendus. Debout droit, épaules relâchées.",
+        "Hausse les épaules droit vers les oreilles — ne les roule pas. Contracte en haut pendant 2 secondes.",
+        "Redescends lentement. Garde les bras tendus — c'est tout trapèzes, pas de biceps.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "traps/lever-shrug.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-shrug.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/traps/lever-shrug.thumb.webp"
+    },
+    {
+      "id": "triceps/lever-overhand-triceps-dip",
+      "slug": "lever-overhand-triceps-dip",
+      "name": "Dip triceps à la machine, pronation",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Saisis les barres et verrouille en haut. Penche-toi légèrement en avant pour cibler la poitrine, ou reste droit pour les triceps.",
+        "Descends en fléchissant les coudes jusqu'à ce que les bras soient au moins parallèles au sol. Contrôle la descente — pas de chute.",
+        "Remonte de façon explosive jusqu'au verrouillage complet, en contractant le muscle cible en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "triceps/lever-overhand-triceps-dip.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/lever-overhand-triceps-dip.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/lever-overhand-triceps-dip.thumb.webp"
+    },
+    {
+      "id": "triceps/lever-seated-dip",
+      "slug": "lever-seated-dip",
+      "name": "Dip à la machine, assis",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts",
+        "pectorals"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Saisis les barres et verrouille en haut. Penche-toi légèrement en avant pour cibler la poitrine, ou reste droit pour les triceps.",
+        "Descends en fléchissant les coudes jusqu'à ce que les bras soient au moins parallèles au sol. Contrôle la descente — pas de chute.",
+        "Remonte de façon explosive jusqu'au verrouillage complet, en contractant le muscle cible en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "triceps/lever-seated-dip.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/lever-seated-dip.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/lever-seated-dip.thumb.webp"
+    },
+    {
+      "id": "triceps/lever-triceps-extension",
+      "slug": "lever-triceps-extension",
+      "name": "Extension triceps à la machine",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Verrouille les coudes en position — ce sont des points fixes dans l'espace. Seuls les avant-bras bougent comme des charnières.",
+        "Étends complètement en contractant les triceps au verrouillage. Fais une pause en extension complète.",
+        "Reviens lentement à la position de départ. Concentre-toi sur l'étirement en bas et la contraction en haut.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "triceps/lever-triceps-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/lever-triceps-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/lever-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "upper-back/back-lever",
+      "slug": "back-lever",
+      "name": "Dos à la machine",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Construis de la tension dans tout le corps avant d'entrer dans la position. Contracte tout — fessiers, core, dorsaux, jambes.",
+        "Entre dans la position avec contrôle, maintenant une rigidité totale. Pense à ton corps comme une planche de bois droite.",
+        "Tiens le temps prescrit ou effectue des reps contrôlées. Si tu ne peux pas maintenir la forme parfaite, travaille une régression du mouvement.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/back-lever.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/back-lever.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/back-lever.thumb.webp"
+    },
+    {
+      "id": "upper-back/front-lever-reps",
+      "slug": "front-lever-reps",
+      "name": "Répétitions à la machine, avant",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Construis de la tension dans tout le corps avant d'entrer dans la position. Contracte tout — fessiers, core, dorsaux, jambes.",
+        "Entre dans la position avec contrôle, maintenant une rigidité totale. Pense à ton corps comme une planche de bois droite.",
+        "Tiens le temps prescrit ou effectue des reps contrôlées. Si tu ne peux pas maintenir la forme parfaite, travaille une régression du mouvement.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/front-lever-reps.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/front-lever-reps.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/front-lever-reps.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-alternating-narrow-grip-seated-row",
+      "slug": "lever-alternating-narrow-grip-seated-row",
+      "name": "Rowing à la machine, assis, prise serrée, alterné",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Alterne les côtés à chaque rep. Termine une rep complète avant de passer à l'autre côté.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-alternating-narrow-grip-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-alternating-narrow-grip-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-alternating-narrow-grip-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-bent-over-row-with-v-bar",
+      "slug": "lever-bent-over-row-with-v-bar",
+      "name": "Rowing penché à la machine barre en V",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-bent-over-row-with-v-bar.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-bent-over-row-with-v-bar.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-bent-over-row-with-v-bar.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-bent-over-row",
+      "slug": "lever-bent-over-row",
+      "name": "Rowing penché à la machine",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-high-row",
+      "slug": "lever-high-row",
+      "name": "Rowing à la machine, haut",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-high-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-high-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-high-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-narrow-grip-seated-row",
+      "slug": "lever-narrow-grip-seated-row",
+      "name": "Rowing à la machine, assis, prise serrée",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-narrow-grip-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-narrow-grip-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-narrow-grip-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-one-arm-bent-over-row",
+      "slug": "lever-one-arm-bent-over-row",
+      "name": "Rowing penché à la machine, un bras",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-one-arm-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-one-arm-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-one-arm-bent-over-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-one-arm-lateral-high-row",
+      "slug": "lever-one-arm-lateral-high-row",
+      "name": "Rowing à la machine, un bras haut, latéral",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse ton bras pendre comme une corde attachées au poids.",
+        "Tire en poussant le coude vers les poches arrière — ta main est juste un crochet. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-one-arm-lateral-high-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-one-arm-lateral-high-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-one-arm-lateral-high-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-reverse-grip-vertical-row",
+      "slug": "lever-reverse-grip-vertical-row",
+      "name": "Rowing à la machine, prise supination, vertical",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Utilise une prise supination pour changer l'angle de traction et l'accent musculaire.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-reverse-grip-vertical-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-reverse-grip-vertical-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-reverse-grip-vertical-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-reverse-t-bar-row",
+      "slug": "lever-reverse-t-bar-row",
+      "name": "Rowing T-barre inversé à la machine",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-reverse-t-bar-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-reverse-t-bar-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-reverse-t-bar-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-seated-row",
+      "slug": "lever-seated-row",
+      "name": "Rowing à la machine, assis",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-seated-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-seated-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-seated-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-t-bar-reverse-grip-row",
+      "slug": "lever-t-bar-reverse-grip-row",
+      "name": "Rowing à la machine, prise supination, t barre",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Utilise une prise supination pour changer l'angle de traction et l'accent musculaire.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-t-bar-reverse-grip-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-t-bar-reverse-grip-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-t-bar-reverse-grip-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-t-bar-row",
+      "slug": "lever-t-bar-row",
+      "name": "Rowing T-barre à la machine",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-t-bar-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-t-bar-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-t-bar-row.thumb.webp"
+    },
+    {
+      "id": "upper-back/lever-unilateral-row",
+      "slug": "lever-unilateral-row",
+      "name": "Rowing à la machine, unilatéral",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Charnière aux hanches jusqu'à ce que le torse soit presque parallèle au sol. Laisse tes bras pendre comme des cordes attachées au poids.",
+        "Tire en poussant les coudes vers les poches arrière — tes mains sont juste des crochets. Serre les omoplates en haut comme si tu cassais une noix.",
+        "Redescends avec contrôle jusqu'à l'extension complète des bras pour un étirement complet en bas. Si ton torse bouge de plus de 10°, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "upper-back/lever-unilateral-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-unilateral-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/lever-unilateral-row.thumb.webp"
+    }
+  ]
+}

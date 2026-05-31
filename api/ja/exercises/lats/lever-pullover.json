@@ -1,0 +1,24 @@
+{
+  "id": "lats/lever-pullover",
+  "slug": "lever-pullover",
+  "name": "マシン・プルオーバー",
+  "muscle": "lats",
+  "bodyPart": "back",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "pectorals",
+    "triceps",
+    "abs"
+  ],
+  "instructions": [
+    "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+    "ベンチに仰向けになり、重りを胸の上で腕を伸ばして持ちます。肘に軽い曲がりを保ちます。",
+    "重りを頭の後ろにアーチを描いて下ろし、広背筋と胸に深いストレッチを感じます。快適な範囲だけ行きます。",
+    "広背筋を使って重りを胸の上に戻します。大きなアーチで重りをすくい上げるイメージです。肘の曲がりは同じに保ちます。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "lats/lever-pullover.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/lever-pullover.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/lever-pullover.thumb.webp"
+}

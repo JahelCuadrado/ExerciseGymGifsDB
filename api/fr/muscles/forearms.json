@@ -1,0 +1,825 @@
+{
+  "muscle": "forearms",
+  "count": 37,
+  "exercises": [
+    {
+      "id": "forearms/band-reverse-wrist-curl",
+      "slug": "band-reverse-wrist-curl",
+      "name": "Curl de poignet inversé à l'élastique",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde les avant-bras collés à la surface.",
+        "Fléchis les poignets vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls les poignets bougent — les avant-bras restent immobiles.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/band-reverse-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/band-reverse-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/band-reverse-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/band-wrist-curl",
+      "slug": "band-wrist-curl",
+      "name": "Curl de poignet à l'élastique",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde les avant-bras collés à la surface.",
+        "Fléchis les poignets vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls les poignets bougent — les avant-bras restent immobiles.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/band-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/band-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/band-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-palms-down-wrist-curl-over-a-bench",
+      "slug": "barbell-palms-down-wrist-curl-over-a-bench",
+      "name": "Curl de poignet à la barre, paumes vers le bas par-dessus banc",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde les avant-bras collés à la surface.",
+        "Fléchis les poignets vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls les poignets bougent — les avant-bras restent immobiles.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/barbell-palms-down-wrist-curl-over-a-bench.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-palms-down-wrist-curl-over-a-bench.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-palms-down-wrist-curl-over-a-bench.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-palms-up-wrist-curl-over-a-bench",
+      "slug": "barbell-palms-up-wrist-curl-over-a-bench",
+      "name": "Curl de poignet à la barre, paumes vers le haut par-dessus banc",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde les avant-bras collés à la surface.",
+        "Fléchis les poignets vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls les poignets bougent — les avant-bras restent immobiles.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/barbell-palms-up-wrist-curl-over-a-bench.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-palms-up-wrist-curl-over-a-bench.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-palms-up-wrist-curl-over-a-bench.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-revers-wrist-curl-v-2",
+      "slug": "barbell-revers-wrist-curl-v-2",
+      "name": "Curl de poignet inversé à la barre",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde les avant-bras collés à la surface.",
+        "Fléchis les poignets vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls les poignets bougent — les avant-bras restent immobiles.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/barbell-revers-wrist-curl-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-revers-wrist-curl-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-revers-wrist-curl-v-2.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-reverse-wrist-curl",
+      "slug": "barbell-reverse-wrist-curl",
+      "name": "Curl de poignet inversé à la barre",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde les avant-bras collés à la surface.",
+        "Fléchis les poignets vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls les poignets bougent — les avant-bras restent immobiles.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/barbell-reverse-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-reverse-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-reverse-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-standing-back-wrist-curl",
+      "slug": "barbell-standing-back-wrist-curl",
+      "name": "Curl de poignet à la barre, debout, dos",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde les avant-bras collés à la surface.",
+        "Fléchis les poignets vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls les poignets bougent — les avant-bras restent immobiles.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/barbell-standing-back-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-standing-back-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-standing-back-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-wrist-curl-v-2",
+      "slug": "barbell-wrist-curl-v-2",
+      "name": "Curl de poignet à la barre",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde les avant-bras collés à la surface.",
+        "Fléchis les poignets vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls les poignets bougent — les avant-bras restent immobiles.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/barbell-wrist-curl-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-wrist-curl-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-wrist-curl-v-2.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-wrist-curl",
+      "slug": "barbell-wrist-curl",
+      "name": "Curl de poignet à la barre",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde les avant-bras collés à la surface.",
+        "Fléchis les poignets vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls les poignets bougent — les avant-bras restent immobiles.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/barbell-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/cable-reverse-wrist-curl",
+      "slug": "cable-reverse-wrist-curl",
+      "name": "Curl de poignet inversé à la poulie",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde les avant-bras collés à la surface.",
+        "Fléchis les poignets vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls les poignets bougent — les avant-bras restent immobiles.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/cable-reverse-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/cable-reverse-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/cable-reverse-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/cable-standing-back-wrist-curl",
+      "slug": "cable-standing-back-wrist-curl",
+      "name": "Curl de poignet à la poulie, debout, dos",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde les avant-bras collés à la surface.",
+        "Fléchis les poignets vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls les poignets bougent — les avant-bras restent immobiles.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/cable-standing-back-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/cable-standing-back-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/cable-standing-back-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/cable-wrist-curl",
+      "slug": "cable-wrist-curl",
+      "name": "Curl de poignet à la poulie",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Fixe la poignée appropriée, règle la hauteur de la poulie et sélectionne ton poids de travail.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde les avant-bras collés à la surface.",
+        "Fléchis les poignets vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls les poignets bougent — les avant-bras restent immobiles.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/cable-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/cable-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/cable-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-finger-curls",
+      "slug": "dumbbell-finger-curls",
+      "name": "Doigt curls aux haltères",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/dumbbell-finger-curls.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-finger-curls.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-finger-curls.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-lying-pronation-on-floor",
+      "slug": "dumbbell-lying-pronation-on-floor",
+      "name": "Pronation sol aux haltères, couché",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Allonge-toi avec le dos à plat contre la surface, gainage engagé.",
+        "Tiens le poids (ou la pince) avec l'avant-bras soutenu et stable.",
+        "Tourne ou serre dans toute l'amplitude de manière lente et contrôlée. Concentre-toi sur les muscles de l'avant-bras qui travaillent.",
+        "Reviens avec contrôle à la position de départ. Chaque rep devrait prendre 2-3 secondes dans chaque direction.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/dumbbell-lying-pronation-on-floor.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-lying-pronation-on-floor.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-lying-pronation-on-floor.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-lying-pronation",
+      "slug": "dumbbell-lying-pronation",
+      "name": "Pronation aux haltères, couché",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Allonge-toi avec le dos à plat contre la surface, gainage engagé.",
+        "Tiens le poids (ou la pince) avec l'avant-bras soutenu et stable.",
+        "Tourne ou serre dans toute l'amplitude de manière lente et contrôlée. Concentre-toi sur les muscles de l'avant-bras qui travaillent.",
+        "Reviens avec contrôle à la position de départ. Chaque rep devrait prendre 2-3 secondes dans chaque direction.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/dumbbell-lying-pronation.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-lying-pronation.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-lying-pronation.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-lying-supination-on-floor",
+      "slug": "dumbbell-lying-supination-on-floor",
+      "name": "Supination sol aux haltères, couché",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Allonge-toi avec le dos à plat contre la surface, gainage engagé.",
+        "Tiens le poids (ou la pince) avec l'avant-bras soutenu et stable.",
+        "Tourne ou serre dans toute l'amplitude de manière lente et contrôlée. Concentre-toi sur les muscles de l'avant-bras qui travaillent.",
+        "Reviens avec contrôle à la position de départ. Chaque rep devrait prendre 2-3 secondes dans chaque direction.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/dumbbell-lying-supination-on-floor.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-lying-supination-on-floor.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-lying-supination-on-floor.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-lying-supination",
+      "slug": "dumbbell-lying-supination",
+      "name": "Supination aux haltères, couché",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Allonge-toi avec le dos à plat contre la surface, gainage engagé.",
+        "Tiens le poids (ou la pince) avec l'avant-bras soutenu et stable.",
+        "Tourne ou serre dans toute l'amplitude de manière lente et contrôlée. Concentre-toi sur les muscles de l'avant-bras qui travaillent.",
+        "Reviens avec contrôle à la position de départ. Chaque rep devrait prendre 2-3 secondes dans chaque direction.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/dumbbell-lying-supination.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-lying-supination.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-lying-supination.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-one-arm-reverse-wrist-curl",
+      "slug": "dumbbell-one-arm-reverse-wrist-curl",
+      "name": "Curl de poignet inversé aux haltères, un bras",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde l'avant-bras collés à la surface.",
+        "Fléchis le poignet vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls le poignet bougent — l'avant-bras restent immobiles.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/dumbbell-one-arm-reverse-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-one-arm-reverse-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-one-arm-reverse-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-one-arm-seated-neutral-wrist-curl",
+      "slug": "dumbbell-one-arm-seated-neutral-wrist-curl",
+      "name": "Curl de poignet aux haltères, assis, un bras, neutre",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Utilise une prise neutre (paumes face à face), plus douce pour les articulations et changeant l'accent.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde l'avant-bras collés à la surface.",
+        "Fléchis le poignet vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls le poignet bougent — l'avant-bras restent immobiles.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/dumbbell-one-arm-seated-neutral-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-one-arm-seated-neutral-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-one-arm-seated-neutral-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-one-arm-wrist-curl",
+      "slug": "dumbbell-one-arm-wrist-curl",
+      "name": "Curl de poignet aux haltères, un bras",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde l'avant-bras collés à la surface.",
+        "Fléchis le poignet vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls le poignet bougent — l'avant-bras restent immobiles.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/dumbbell-one-arm-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-one-arm-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-one-arm-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-over-bench-one-arm-reverse-wrist-curl",
+      "slug": "dumbbell-over-bench-one-arm-reverse-wrist-curl",
+      "name": "Curl de poignet inversé aux haltères, un bras, par-dessus banc",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde l'avant-bras collés à la surface.",
+        "Fléchis le poignet vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls le poignet bougent — l'avant-bras restent immobiles.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/dumbbell-over-bench-one-arm-reverse-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-over-bench-one-arm-reverse-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-over-bench-one-arm-reverse-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-over-bench-one-arm-wrist-curl",
+      "slug": "dumbbell-over-bench-one-arm-wrist-curl",
+      "name": "Curl de poignet aux haltères, un bras, par-dessus banc",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde l'avant-bras collés à la surface.",
+        "Fléchis le poignet vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls le poignet bougent — l'avant-bras restent immobiles.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/dumbbell-over-bench-one-arm-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-over-bench-one-arm-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-over-bench-one-arm-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-over-bench-revers-wrist-curl",
+      "slug": "dumbbell-over-bench-revers-wrist-curl",
+      "name": "Curl inverse des poignets avec haltere au-dessus du banc",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde les avant-bras collés à la surface.",
+        "Fléchis les poignets vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls les poignets bougent — les avant-bras restent immobiles.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/dumbbell-over-bench-revers-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-over-bench-revers-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-over-bench-revers-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-over-bench-wrist-curl",
+      "slug": "dumbbell-over-bench-wrist-curl",
+      "name": "Curl de poignet aux haltères, par-dessus banc",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde les avant-bras collés à la surface.",
+        "Fléchis les poignets vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls les poignets bougent — les avant-bras restent immobiles.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/dumbbell-over-bench-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-over-bench-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-over-bench-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-reverse-wrist-curl",
+      "slug": "dumbbell-reverse-wrist-curl",
+      "name": "Curl de poignet inversé aux haltères",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde les avant-bras collés à la surface.",
+        "Fléchis les poignets vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls les poignets bougent — les avant-bras restent immobiles.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/dumbbell-reverse-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-reverse-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-reverse-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-seated-one-arm-rotate",
+      "slug": "dumbbell-seated-one-arm-rotate",
+      "name": "Rotation aux haltères, assis, un bras",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Tiens le poids (ou la pince) avec l'avant-bras soutenu et stable.",
+        "Tourne ou serre dans toute l'amplitude de manière lente et contrôlée. Concentre-toi sur les muscles de l'avant-bras qui travaillent.",
+        "Reviens avec contrôle à la position de départ. Chaque rep devrait prendre 2-3 secondes dans chaque direction.",
+        "Travaille un côté à la fois. Complète toutes les reps d'un côté avant de changer. Aligne-toi sur le côté le plus faible.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/dumbbell-seated-one-arm-rotate.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-seated-one-arm-rotate.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-seated-one-arm-rotate.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-seated-palms-up-wrist-curl",
+      "slug": "dumbbell-seated-palms-up-wrist-curl",
+      "name": "Curl de poignet aux haltères, assis, paumes vers le haut",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde les avant-bras collés à la surface.",
+        "Fléchis les poignets vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls les poignets bougent — les avant-bras restent immobiles.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/dumbbell-seated-palms-up-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-seated-palms-up-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-seated-palms-up-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/finger-curls",
+      "slug": "finger-curls",
+      "name": "Doigt curls",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Colle les coudes aux côtés — imagine qu'ils sont cloués en place. Seuls les avant-bras bougent.",
+        "Monte le poids en contractant fortement les biceps. En haut, presse le jus d'une orange avant de redescendre.",
+        "Descends lentement en 3 secondes, luttant contre la gravité à chaque centimètre. Garde les poignets droits comme des tiges d'acier. Si le corps balance, le poids est trop lourd.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/finger-curls.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/finger-curls.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/finger-curls.thumb.webp"
+    },
+    {
+      "id": "forearms/kettlebell-alternating-hang-clean",
+      "slug": "kettlebell-alternating-hang-clean",
+      "name": "Hang Clean au kettlebell, alterné",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts"
+      ],
+      "instructions": [
+        "Choisis le bon poids de kettlebell. Saisis la poignée fermement avec le poignet neutre.",
+        "Pieds largeur de hanches, poids au-dessus du milieu du pied. Descends les hanches, poitrine haute, bras tendus — enlève le mou de le kettlebell.",
+        "Pousse explosivement le sol, étends hanches et genoux. Quand le kettlebell passe les genoux, accélère avec une extension violente des hanches et un haussement.",
+        "Réceptionne le kettlebell aux épaules (clean) ou au-dessus de la tête (snatch) en descendant rapidement sous le kettlebell. Absorbe avec des genoux souples, puis lève-toi.",
+        "Alterne les côtés à chaque rep. Termine une rep complète avant de passer à l'autre côté.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/kettlebell-alternating-hang-clean.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/kettlebell-alternating-hang-clean.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/kettlebell-alternating-hang-clean.thumb.webp"
+    },
+    {
+      "id": "forearms/lever-gripper-hands",
+      "slug": "lever-gripper-hands",
+      "name": "Pince mains à la machine",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Tiens le poids (ou la pince) avec l'avant-bras soutenu et stable.",
+        "Tourne ou serre dans toute l'amplitude de manière lente et contrôlée. Concentre-toi sur les muscles de l'avant-bras qui travaillent.",
+        "Reviens avec contrôle à la position de départ. Chaque rep devrait prendre 2-3 secondes dans chaque direction.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/lever-gripper-hands.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/lever-gripper-hands.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/lever-gripper-hands.thumb.webp"
+    },
+    {
+      "id": "forearms/modified-push-up-to-lower-arms",
+      "slug": "modified-push-up-to-lower-arms",
+      "name": "Pompe, modifié inférieur bras",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Place les mains un peu plus larges que les épaules. Corps en ligne droite de la tête aux talons — visse les mains dans le sol pour créer de la tension.",
+        "Descends en fléchissant les coudes à 45° jusqu'à ce que la poitrine touche presque le sol. Tire-toi activement vers le bas.",
+        "Repousse le sol pour remonter. Contracte la poitrine au verrouillage et garde le core gainé tout au long.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/modified-push-up-to-lower-arms.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/modified-push-up-to-lower-arms.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/modified-push-up-to-lower-arms.thumb.webp"
+    },
+    {
+      "id": "forearms/side-wrist-pull-stretch",
+      "slug": "side-wrist-pull-stretch",
+      "name": "Étirement, latéral, poignet tirage",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Va vers la position d'étirement lentement jusqu'à sentir une tension douce dans la zone cible — pas de douleur.",
+        "Tiens 20 à 40 secondes en respirant profondément. À chaque expiration, essaie de t'enfoncer un peu plus dans l'étirement.",
+        "Relâche lentement et répète si souhaité. La régularité compte plus que l'intensité — étire-toi régulièrement pour une souplesse durable.",
+        "Respire profondément et régulièrement tout au long du maintien. Ne retiens jamais ta respiration pendant les étirements."
+      ],
+      "file": "forearms/side-wrist-pull-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/side-wrist-pull-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/side-wrist-pull-stretch.thumb.webp"
+    },
+    {
+      "id": "forearms/smith-seated-wrist-curl",
+      "slug": "smith-seated-wrist-curl",
+      "name": "Curl de poignet au Smith, assis",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Règle la hauteur de la barre au Smith et charge le poids approprié. Place-toi sous la barre.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde les avant-bras collés à la surface.",
+        "Fléchis les poignets vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls les poignets bougent — les avant-bras restent immobiles.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/smith-seated-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/smith-seated-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/smith-seated-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/smith-standing-back-wrist-curl",
+      "slug": "smith-standing-back-wrist-curl",
+      "name": "Curl de poignet au Smith, debout, dos",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Règle la hauteur de la barre au Smith et charge le poids approprié. Place-toi sous la barre.",
+        "Pose tes avant-bras sur tes cuisses ou un banc, poignets dépassant du bord. Garde les avant-bras collés à la surface.",
+        "Fléchis les poignets vers le haut en contractant les muscles de l'avant-bras en haut. Fais une brève pause.",
+        "Redescends lentement en laissant le poids étirer complètement le poignet. Seuls les poignets bougent — les avant-bras restent immobiles.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/smith-standing-back-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/smith-standing-back-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/smith-standing-back-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/weighted-standing-hand-squeeze",
+      "slug": "weighted-standing-hand-squeeze",
+      "name": "Main serrer, debout, lesté",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Tiens le poids (ou la pince) avec l'avant-bras soutenu et stable.",
+        "Tourne ou serre dans toute l'amplitude de manière lente et contrôlée. Concentre-toi sur les muscles de l'avant-bras qui travaillent.",
+        "Reviens avec contrôle à la position de départ. Chaque rep devrait prendre 2-3 secondes dans chaque direction.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/weighted-standing-hand-squeeze.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/weighted-standing-hand-squeeze.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/weighted-standing-hand-squeeze.thumb.webp"
+    },
+    {
+      "id": "forearms/wrist-circles",
+      "slug": "wrist-circles",
+      "name": "Poignet cercles",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Tiens le poids (ou la pince) avec l'avant-bras soutenu et stable.",
+        "Tourne ou serre dans toute l'amplitude de manière lente et contrôlée. Concentre-toi sur les muscles de l'avant-bras qui travaillent.",
+        "Reviens avec contrôle à la position de départ. Chaque rep devrait prendre 2-3 secondes dans chaque direction.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/wrist-circles.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/wrist-circles.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/wrist-circles.thumb.webp"
+    },
+    {
+      "id": "forearms/wrist-rollerer",
+      "slug": "wrist-rollerer",
+      "name": "Rouleau de poignets",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Tiens le poids (ou la pince) avec l'avant-bras soutenu et stable.",
+        "Tourne ou serre dans toute l'amplitude de manière lente et contrôlée. Concentre-toi sur les muscles de l'avant-bras qui travaillent.",
+        "Reviens avec contrôle à la position de départ. Chaque rep devrait prendre 2-3 secondes dans chaque direction.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "forearms/wrist-rollerer.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/wrist-rollerer.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/wrist-rollerer.thumb.webp"
+    }
+  ]
+}

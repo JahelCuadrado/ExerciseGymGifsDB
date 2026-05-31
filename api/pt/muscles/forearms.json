@@ -1,0 +1,825 @@
+{
+  "muscle": "forearms",
+  "count": 37,
+  "exercises": [
+    {
+      "id": "forearms/band-reverse-wrist-curl",
+      "slug": "band-reverse-wrist-curl",
+      "name": "Rosca de punho inverso com faixa elástica",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Fixe a faixa elástica no ponto de ancoragem correto e certifique-se de que há tensão inicial.",
+        "Apoie os antebraços nas coxas ou em um banco com os pulsos pendendo sobre a borda. Mantenha os antebraços colados à superfície.",
+        "Flexione os pulsos para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+        "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas os pulsos se movem — os antebraços ficam parados.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/band-reverse-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/band-reverse-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/band-reverse-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/band-wrist-curl",
+      "slug": "band-wrist-curl",
+      "name": "Rosca de punho com faixa elástica",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Fixe a faixa elástica no ponto de ancoragem correto e certifique-se de que há tensão inicial.",
+        "Apoie os antebraços nas coxas ou em um banco com os pulsos pendendo sobre a borda. Mantenha os antebraços colados à superfície.",
+        "Flexione os pulsos para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+        "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas os pulsos se movem — os antebraços ficam parados.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/band-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/band-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/band-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-palms-down-wrist-curl-over-a-bench",
+      "slug": "barbell-palms-down-wrist-curl-over-a-bench",
+      "name": "Rosca de punho com barra, palmas para baixo sobre banco",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Apoie os antebraços nas coxas ou em um banco com os pulsos pendendo sobre a borda. Mantenha os antebraços colados à superfície.",
+        "Flexione os pulsos para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+        "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas os pulsos se movem — os antebraços ficam parados.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/barbell-palms-down-wrist-curl-over-a-bench.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-palms-down-wrist-curl-over-a-bench.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-palms-down-wrist-curl-over-a-bench.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-palms-up-wrist-curl-over-a-bench",
+      "slug": "barbell-palms-up-wrist-curl-over-a-bench",
+      "name": "Rosca de punho com barra, palmas para cima sobre banco",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Apoie os antebraços nas coxas ou em um banco com os pulsos pendendo sobre a borda. Mantenha os antebraços colados à superfície.",
+        "Flexione os pulsos para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+        "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas os pulsos se movem — os antebraços ficam parados.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/barbell-palms-up-wrist-curl-over-a-bench.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-palms-up-wrist-curl-over-a-bench.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-palms-up-wrist-curl-over-a-bench.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-revers-wrist-curl-v-2",
+      "slug": "barbell-revers-wrist-curl-v-2",
+      "name": "Rosca de punho inverso com barra",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Apoie os antebraços nas coxas ou em um banco com os pulsos pendendo sobre a borda. Mantenha os antebraços colados à superfície.",
+        "Flexione os pulsos para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+        "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas os pulsos se movem — os antebraços ficam parados.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/barbell-revers-wrist-curl-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-revers-wrist-curl-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-revers-wrist-curl-v-2.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-reverse-wrist-curl",
+      "slug": "barbell-reverse-wrist-curl",
+      "name": "Rosca de punho inverso com barra",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Apoie os antebraços nas coxas ou em um banco com os pulsos pendendo sobre a borda. Mantenha os antebraços colados à superfície.",
+        "Flexione os pulsos para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+        "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas os pulsos se movem — os antebraços ficam parados.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/barbell-reverse-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-reverse-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-reverse-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-standing-back-wrist-curl",
+      "slug": "barbell-standing-back-wrist-curl",
+      "name": "Rosca de punho com barra, em pé, costas",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Apoie os antebraços nas coxas ou em um banco com os pulsos pendendo sobre a borda. Mantenha os antebraços colados à superfície.",
+        "Flexione os pulsos para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+        "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas os pulsos se movem — os antebraços ficam parados.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/barbell-standing-back-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-standing-back-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-standing-back-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-wrist-curl-v-2",
+      "slug": "barbell-wrist-curl-v-2",
+      "name": "Rosca de punho com barra",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Apoie os antebraços nas coxas ou em um banco com os pulsos pendendo sobre a borda. Mantenha os antebraços colados à superfície.",
+        "Flexione os pulsos para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+        "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas os pulsos se movem — os antebraços ficam parados.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/barbell-wrist-curl-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-wrist-curl-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-wrist-curl-v-2.thumb.webp"
+    },
+    {
+      "id": "forearms/barbell-wrist-curl",
+      "slug": "barbell-wrist-curl",
+      "name": "Rosca de punho com barra",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Apoie os antebraços nas coxas ou em um banco com os pulsos pendendo sobre a borda. Mantenha os antebraços colados à superfície.",
+        "Flexione os pulsos para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+        "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas os pulsos se movem — os antebraços ficam parados.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/barbell-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/barbell-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/cable-reverse-wrist-curl",
+      "slug": "cable-reverse-wrist-curl",
+      "name": "Rosca de punho inverso na polia",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Coloque a pegada adequada, ajuste a altura da polia e selecione o peso de trabalho.",
+        "Apoie os antebraços nas coxas ou em um banco com os pulsos pendendo sobre a borda. Mantenha os antebraços colados à superfície.",
+        "Flexione os pulsos para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+        "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas os pulsos se movem — os antebraços ficam parados.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/cable-reverse-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/cable-reverse-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/cable-reverse-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/cable-standing-back-wrist-curl",
+      "slug": "cable-standing-back-wrist-curl",
+      "name": "Rosca de punho na polia, em pé, costas",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Coloque a pegada adequada, ajuste a altura da polia e selecione o peso de trabalho.",
+        "Apoie os antebraços nas coxas ou em um banco com os pulsos pendendo sobre a borda. Mantenha os antebraços colados à superfície.",
+        "Flexione os pulsos para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+        "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas os pulsos se movem — os antebraços ficam parados.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/cable-standing-back-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/cable-standing-back-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/cable-standing-back-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/cable-wrist-curl",
+      "slug": "cable-wrist-curl",
+      "name": "Rosca de punho na polia",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Coloque a pegada adequada, ajuste a altura da polia e selecione o peso de trabalho.",
+        "Apoie os antebraços nas coxas ou em um banco com os pulsos pendendo sobre a borda. Mantenha os antebraços colados à superfície.",
+        "Flexione os pulsos para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+        "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas os pulsos se movem — os antebraços ficam parados.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/cable-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/cable-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/cable-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-finger-curls",
+      "slug": "dumbbell-finger-curls",
+      "name": "Dedo curls com halteres",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Fixe os cotovelos nas laterais — imagine que estão pregados no lugar. Apenas os antebraços se movem.",
+        "Curl o peso para cima apertando os bíceps com força. No topo, esprema o suco de uma laranja antes de descer.",
+        "Desça em 3 segundos lentos, lutando contra a gravidade em cada centímetro. Mantenha os pulsos retos como barras de aço. Se o corpo balançar, o peso está muito pesado.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/dumbbell-finger-curls.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-finger-curls.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-finger-curls.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-lying-pronation-on-floor",
+      "slug": "dumbbell-lying-pronation-on-floor",
+      "name": "Pronação chão com halteres, deitado",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Deite-se com as costas retas contra a superfície, core ativado.",
+        "Segure o peso (ou dispositivo de pegada) com o antebraço apoiado e estável.",
+        "Rotacione ou aperte por toda a amplitude de movimento de forma lenta e controlada. Foque nos músculos do antebraço trabalhando.",
+        "Retorne com controle à posição inicial. Cada repetição deve levar 2-3 segundos em cada direção.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/dumbbell-lying-pronation-on-floor.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-lying-pronation-on-floor.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-lying-pronation-on-floor.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-lying-pronation",
+      "slug": "dumbbell-lying-pronation",
+      "name": "Pronação com halteres, deitado",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Deite-se com as costas retas contra a superfície, core ativado.",
+        "Segure o peso (ou dispositivo de pegada) com o antebraço apoiado e estável.",
+        "Rotacione ou aperte por toda a amplitude de movimento de forma lenta e controlada. Foque nos músculos do antebraço trabalhando.",
+        "Retorne com controle à posição inicial. Cada repetição deve levar 2-3 segundos em cada direção.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/dumbbell-lying-pronation.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-lying-pronation.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-lying-pronation.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-lying-supination-on-floor",
+      "slug": "dumbbell-lying-supination-on-floor",
+      "name": "Supinação chão com halteres, deitado",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Deite-se com as costas retas contra a superfície, core ativado.",
+        "Segure o peso (ou dispositivo de pegada) com o antebraço apoiado e estável.",
+        "Rotacione ou aperte por toda a amplitude de movimento de forma lenta e controlada. Foque nos músculos do antebraço trabalhando.",
+        "Retorne com controle à posição inicial. Cada repetição deve levar 2-3 segundos em cada direção.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/dumbbell-lying-supination-on-floor.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-lying-supination-on-floor.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-lying-supination-on-floor.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-lying-supination",
+      "slug": "dumbbell-lying-supination",
+      "name": "Supinação com halteres, deitado",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Deite-se com as costas retas contra a superfície, core ativado.",
+        "Segure o peso (ou dispositivo de pegada) com o antebraço apoiado e estável.",
+        "Rotacione ou aperte por toda a amplitude de movimento de forma lenta e controlada. Foque nos músculos do antebraço trabalhando.",
+        "Retorne com controle à posição inicial. Cada repetição deve levar 2-3 segundos em cada direção.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/dumbbell-lying-supination.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-lying-supination.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-lying-supination.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-one-arm-reverse-wrist-curl",
+      "slug": "dumbbell-one-arm-reverse-wrist-curl",
+      "name": "Rosca de punho inverso com halteres, unilateral",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Apoie o antebraço nas coxas ou em um banco com o pulso pendendo sobre a borda. Mantenha o antebraço colados à superfície.",
+        "Flexione o pulso para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+        "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas o pulso se movem — o antebraço ficam parados.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/dumbbell-one-arm-reverse-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-one-arm-reverse-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-one-arm-reverse-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-one-arm-seated-neutral-wrist-curl",
+      "slug": "dumbbell-one-arm-seated-neutral-wrist-curl",
+      "name": "Rosca de punho com halteres, sentado, unilateral, neutro",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Use pegada neutra (palmas voltadas uma para a outra), mais confortável para as articulações.",
+        "Apoie o antebraço nas coxas ou em um banco com o pulso pendendo sobre a borda. Mantenha o antebraço colados à superfície.",
+        "Flexione o pulso para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+        "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas o pulso se movem — o antebraço ficam parados.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/dumbbell-one-arm-seated-neutral-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-one-arm-seated-neutral-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-one-arm-seated-neutral-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-one-arm-wrist-curl",
+      "slug": "dumbbell-one-arm-wrist-curl",
+      "name": "Rosca de punho com halteres, unilateral",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Apoie o antebraço nas coxas ou em um banco com o pulso pendendo sobre a borda. Mantenha o antebraço colados à superfície.",
+        "Flexione o pulso para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+        "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas o pulso se movem — o antebraço ficam parados.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/dumbbell-one-arm-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-one-arm-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-one-arm-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-over-bench-one-arm-reverse-wrist-curl",
+      "slug": "dumbbell-over-bench-one-arm-reverse-wrist-curl",
+      "name": "Rosca de punho inverso com halteres, unilateral, sobre banco",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Apoie o antebraço nas coxas ou em um banco com o pulso pendendo sobre a borda. Mantenha o antebraço colados à superfície.",
+        "Flexione o pulso para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+        "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas o pulso se movem — o antebraço ficam parados.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/dumbbell-over-bench-one-arm-reverse-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-over-bench-one-arm-reverse-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-over-bench-one-arm-reverse-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-over-bench-one-arm-wrist-curl",
+      "slug": "dumbbell-over-bench-one-arm-wrist-curl",
+      "name": "Rosca de punho com halteres, unilateral, sobre banco",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Apoie o antebraço nas coxas ou em um banco com o pulso pendendo sobre a borda. Mantenha o antebraço colados à superfície.",
+        "Flexione o pulso para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+        "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas o pulso se movem — o antebraço ficam parados.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/dumbbell-over-bench-one-arm-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-over-bench-one-arm-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-over-bench-one-arm-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-over-bench-revers-wrist-curl",
+      "slug": "dumbbell-over-bench-revers-wrist-curl",
+      "name": "Rosca inversa de punho com halter sobre o banco",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Apoie os antebraços nas coxas ou em um banco com os pulsos pendendo sobre a borda. Mantenha os antebraços colados à superfície.",
+        "Flexione os pulsos para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+        "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas os pulsos se movem — os antebraços ficam parados.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/dumbbell-over-bench-revers-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-over-bench-revers-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-over-bench-revers-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-over-bench-wrist-curl",
+      "slug": "dumbbell-over-bench-wrist-curl",
+      "name": "Rosca de punho com halteres, sobre banco",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Apoie os antebraços nas coxas ou em um banco com os pulsos pendendo sobre a borda. Mantenha os antebraços colados à superfície.",
+        "Flexione os pulsos para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+        "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas os pulsos se movem — os antebraços ficam parados.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/dumbbell-over-bench-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-over-bench-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-over-bench-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-reverse-wrist-curl",
+      "slug": "dumbbell-reverse-wrist-curl",
+      "name": "Rosca de punho inverso com halteres",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Apoie os antebraços nas coxas ou em um banco com os pulsos pendendo sobre a borda. Mantenha os antebraços colados à superfície.",
+        "Flexione os pulsos para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+        "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas os pulsos se movem — os antebraços ficam parados.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/dumbbell-reverse-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-reverse-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-reverse-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-seated-one-arm-rotate",
+      "slug": "dumbbell-seated-one-arm-rotate",
+      "name": "Rotação com halteres, sentado, unilateral",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Segure o peso (ou dispositivo de pegada) com o antebraço apoiado e estável.",
+        "Rotacione ou aperte por toda a amplitude de movimento de forma lenta e controlada. Foque nos músculos do antebraço trabalhando.",
+        "Retorne com controle à posição inicial. Cada repetição deve levar 2-3 segundos em cada direção.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/dumbbell-seated-one-arm-rotate.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-seated-one-arm-rotate.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-seated-one-arm-rotate.thumb.webp"
+    },
+    {
+      "id": "forearms/dumbbell-seated-palms-up-wrist-curl",
+      "slug": "dumbbell-seated-palms-up-wrist-curl",
+      "name": "Rosca de punho com halteres, sentado, palmas para cima",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Apoie os antebraços nas coxas ou em um banco com os pulsos pendendo sobre a borda. Mantenha os antebraços colados à superfície.",
+        "Flexione os pulsos para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+        "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas os pulsos se movem — os antebraços ficam parados.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/dumbbell-seated-palms-up-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-seated-palms-up-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/dumbbell-seated-palms-up-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/finger-curls",
+      "slug": "finger-curls",
+      "name": "Dedo curls",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Fixe os cotovelos nas laterais — imagine que estão pregados no lugar. Apenas os antebraços se movem.",
+        "Curl o peso para cima apertando os bíceps com força. No topo, esprema o suco de uma laranja antes de descer.",
+        "Desça em 3 segundos lentos, lutando contra a gravidade em cada centímetro. Mantenha os pulsos retos como barras de aço. Se o corpo balançar, o peso está muito pesado.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/finger-curls.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/finger-curls.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/finger-curls.thumb.webp"
+    },
+    {
+      "id": "forearms/kettlebell-alternating-hang-clean",
+      "slug": "kettlebell-alternating-hang-clean",
+      "name": "Hang Clean com kettlebell, alternado",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Baixe os quadris, peito alto, braços retos — tire a folga da barra.",
+        "Empurre o chão explosivamente, estendendo quadris e joelhos. Quando a barra passar dos joelhos, acelere com uma extensão violenta do quadril e encolhimento.",
+        "Receba a barra nos ombros (clean) ou sobre a cabeça (snatch) caindo rapidamente sob a barra. Absorva com joelhos macios, depois fique em pé.",
+        "Alterne os lados a cada repetição. Complete uma rep inteira antes de passar para o outro lado.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/kettlebell-alternating-hang-clean.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/kettlebell-alternating-hang-clean.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/kettlebell-alternating-hang-clean.thumb.webp"
+    },
+    {
+      "id": "forearms/lever-gripper-hands",
+      "slug": "lever-gripper-hands",
+      "name": "Hand grip mãos na máquina",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Segure o peso (ou dispositivo de pegada) com o antebraço apoiado e estável.",
+        "Rotacione ou aperte por toda a amplitude de movimento de forma lenta e controlada. Foque nos músculos do antebraço trabalhando.",
+        "Retorne com controle à posição inicial. Cada repetição deve levar 2-3 segundos em cada direção.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/lever-gripper-hands.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/lever-gripper-hands.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/lever-gripper-hands.thumb.webp"
+    },
+    {
+      "id": "forearms/modified-push-up-to-lower-arms",
+      "slug": "modified-push-up-to-lower-arms",
+      "name": "Flexão, modificado inferior braços",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Coloque as mãos um pouco mais largas que os ombros. Corpo em linha reta da cabeça aos calcanhares — parafuse as mãos no chão para criar tensão.",
+        "Desça o corpo flexionando os cotovelos a 45° até o peito quase tocar o chão. Puxe-se ativamente para baixo.",
+        "Empurre o chão para longe de você para retornar ao topo. Aperte o peito ao travar e mantenha o core tenso o tempo todo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/modified-push-up-to-lower-arms.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/modified-push-up-to-lower-arms.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/modified-push-up-to-lower-arms.thumb.webp"
+    },
+    {
+      "id": "forearms/side-wrist-pull-stretch",
+      "slug": "side-wrist-pull-stretch",
+      "name": "Alongamento, lateral, punho puxar",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Vá para a posição de alongamento lentamente até sentir uma tensão suave na área alvo — não dor.",
+        "Segure de 20 a 40 segundos respirando profundamente. A cada expiração, tente afundar um pouco mais no alongamento.",
+        "Solte lentamente e repita se desejar. Consistência importa mais que intensidade — alongue regularmente para flexibilidade duradoura.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "forearms/side-wrist-pull-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/side-wrist-pull-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/side-wrist-pull-stretch.thumb.webp"
+    },
+    {
+      "id": "forearms/smith-seated-wrist-curl",
+      "slug": "smith-seated-wrist-curl",
+      "name": "Rosca de punho no Smith, sentado",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Ajuste a altura da barra no Smith e carregue o peso adequado. Posicione-se sob a barra.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Apoie os antebraços nas coxas ou em um banco com os pulsos pendendo sobre a borda. Mantenha os antebraços colados à superfície.",
+        "Flexione os pulsos para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+        "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas os pulsos se movem — os antebraços ficam parados.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/smith-seated-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/smith-seated-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/smith-seated-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/smith-standing-back-wrist-curl",
+      "slug": "smith-standing-back-wrist-curl",
+      "name": "Rosca de punho no Smith, em pé, costas",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Ajuste a altura da barra no Smith e carregue o peso adequado. Posicione-se sob a barra.",
+        "Apoie os antebraços nas coxas ou em um banco com os pulsos pendendo sobre a borda. Mantenha os antebraços colados à superfície.",
+        "Flexione os pulsos para cima, apertando os músculos do antebraço no topo. Faça uma breve pausa.",
+        "Desça lentamente, deixando o peso alongar completamente o pulso. Apenas os pulsos se movem — os antebraços ficam parados.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/smith-standing-back-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/smith-standing-back-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/smith-standing-back-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "forearms/weighted-standing-hand-squeeze",
+      "slug": "weighted-standing-hand-squeeze",
+      "name": "Mão apertar, em pé, com carga",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Segure o peso (ou dispositivo de pegada) com o antebraço apoiado e estável.",
+        "Rotacione ou aperte por toda a amplitude de movimento de forma lenta e controlada. Foque nos músculos do antebraço trabalhando.",
+        "Retorne com controle à posição inicial. Cada repetição deve levar 2-3 segundos em cada direção.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/weighted-standing-hand-squeeze.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/weighted-standing-hand-squeeze.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/weighted-standing-hand-squeeze.thumb.webp"
+    },
+    {
+      "id": "forearms/wrist-circles",
+      "slug": "wrist-circles",
+      "name": "Punho círculos",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Segure o peso (ou dispositivo de pegada) com o antebraço apoiado e estável.",
+        "Rotacione ou aperte por toda a amplitude de movimento de forma lenta e controlada. Foque nos músculos do antebraço trabalhando.",
+        "Retorne com controle à posição inicial. Cada repetição deve levar 2-3 segundos em cada direção.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/wrist-circles.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/wrist-circles.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/wrist-circles.thumb.webp"
+    },
+    {
+      "id": "forearms/wrist-rollerer",
+      "slug": "wrist-rollerer",
+      "name": "Rolo de punho",
+      "muscle": "forearms",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Segure o peso (ou dispositivo de pegada) com o antebraço apoiado e estável.",
+        "Rotacione ou aperte por toda a amplitude de movimento de forma lenta e controlada. Foque nos músculos do antebraço trabalhando.",
+        "Retorne com controle à posição inicial. Cada repetição deve levar 2-3 segundos em cada direção.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "forearms/wrist-rollerer.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/wrist-rollerer.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/forearms/wrist-rollerer.thumb.webp"
+    }
+  ]
+}

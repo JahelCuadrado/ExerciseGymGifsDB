@@ -1,0 +1,23 @@
+{
+  "id": "pectorals/lever-seated-fly",
+  "slug": "lever-seated-fly",
+  "name": "Fliegende an der Maschine, sitzend",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+    "Sitze aufrecht mit geradem Rücken und den Füßen flach auf dem Boden.",
+    "Beginne mit leichter Ellbogenbeugung — deine Arme sind wie zwei gebogene Schwerter. Diese Beugung bleibt während der gesamten Bewegung konstant.",
+    "Öffne die Arme weit in einem Bogen und spüre eine tiefe Dehnung in der Brust. Gehe nicht über den bequemen Bereich hinaus.",
+    "Bringe die Griffe zusammen, indem du die Brust anspannst — stelle dir vor, einen großen Baumstamm zu umarmen. Die Hände berühren sich fast oben.",
+    "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+  ],
+  "file": "pectorals/lever-seated-fly.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-seated-fly.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/lever-seated-fly.thumb.webp"
+}

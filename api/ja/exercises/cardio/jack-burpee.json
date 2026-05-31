@@ -1,0 +1,26 @@
+{
+  "id": "cardio/jack-burpee",
+  "slug": "jack-burpee",
+  "name": "バーピー・ジャック",
+  "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "bodyweight",
+  "category": "cardio",
+  "secondaryMuscles": [
+    "pectorals",
+    "triceps",
+    "quads",
+    "glutes",
+    "abs"
+  ],
+  "instructions": [
+    "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+    "立った状態からしゃがんで手を前の床に置きます。",
+    "足を後ろにジャンプ（またはステップ）して腕立て伏せ姿勢にします。腕立て伏せをします（速度重視ならスキップ）。",
+    "足を手元にジャンプ（またはステップ）して戻し、手を頭上に上げてジャンプで爆発します。ソフトに着地して繰り返します。",
+    "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+  ],
+  "file": "cardio/jack-burpee.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jack-burpee.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jack-burpee.thumb.webp"
+}

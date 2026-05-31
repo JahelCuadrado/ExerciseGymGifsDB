@@ -1,0 +1,24 @@
+{
+  "id": "lats/lever-pullover",
+  "slug": "lever-pullover",
+  "name": "Pullover à la machine",
+  "muscle": "lats",
+  "bodyPart": "back",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "pectorals",
+    "triceps",
+    "abs"
+  ],
+  "instructions": [
+    "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+    "Allonge-toi sur un banc, bras tendus au-dessus de la poitrine tenant le poids. Maintiens une légère flexion des coudes.",
+    "Descends le poids en arc derrière la tête, sentant un étirement profond des dorsaux et de la poitrine. Va seulement aussi loin que c'est confortable.",
+    "Ramène le poids au-dessus de la poitrine en utilisant les dorsaux — imagine ramasser le poids dans un arc large. Garde la même flexion des coudes.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "lats/lever-pullover.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/lever-pullover.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/lever-pullover.thumb.webp"
+}

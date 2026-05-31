@@ -1,0 +1,24 @@
+{
+  "id": "delts/cable-upright-row",
+  "slug": "cable-upright-row",
+  "name": "ケーブル・アップライトロウ",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "traps"
+  ],
+  "instructions": [
+    "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+    "腕を伸ばし、太ももの前で重りを持ちます。まっすぐ立ち、体幹を引き締めます。",
+    "肘を天井に向けてリードしながら、体に沿って重りを引き上げます。肘が肩の高さに達したら止めます。",
+    "ゆっくりスタート位置に戻します。肩に違和感があれば、グリップを少し広げてみてください。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "delts/cable-upright-row.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/cable-upright-row.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/cable-upright-row.thumb.webp"
+}

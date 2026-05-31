@@ -1,0 +1,24 @@
+{
+  "id": "lats/cable-pulldown",
+  "slug": "cable-pulldown",
+  "name": "Latzug am Kabelzug",
+  "muscle": "lats",
+  "bodyPart": "back",
+  "equipment": "cable",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "delts"
+  ],
+  "instructions": [
+    "Befestige den passenden Griff, stelle die Umlenkrolle auf die richtige Höhe und wähle das Arbeitsgewicht.",
+    "Greife die Stange und fixiere die Oberschenkel unter dem Polster. Lehne dich leicht zurück und setze die Schulterblätter nach unten.",
+    "Ziehe die Stange zur oberen Brust, indem du die Ellbogen nach unten und hinten treibst. Stelle dir vor, die Stange um dein Schlüsselbein zu biegen.",
+    "Spanne die Lats einen Moment unten an, dann lass die Stange langsam über den Kopf zurückkehren und spüre die volle Dehnung in den Lats.",
+    "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+  ],
+  "file": "lats/cable-pulldown.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/cable-pulldown.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/cable-pulldown.thumb.webp"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cardio/dumbbell-burpee",
+  "slug": "dumbbell-burpee",
+  "name": "Burpee aux haltères",
+  "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "dumbbell",
+  "category": "cardio",
+  "secondaryMuscles": [
+    "pectorals",
+    "triceps",
+    "quads",
+    "glutes",
+    "abs"
+  ],
+  "instructions": [
+    "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+    "Debout, descends en squat et pose les mains au sol devant toi.",
+    "Saute ou recule les pieds en position de pompe. Fais une pompe (ou saute-la pour plus de vitesse).",
+    "Saute ou ramène les pieds vers les mains, puis explose vers le haut en sautant, mains au-dessus de la tête. Atterris en douceur et répète.",
+    "Respire de manière rythmique — inspire par le nez et expire par la bouche, en suivant ton rythme."
+  ],
+  "file": "cardio/dumbbell-burpee.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/dumbbell-burpee.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/dumbbell-burpee.thumb.webp"
+}

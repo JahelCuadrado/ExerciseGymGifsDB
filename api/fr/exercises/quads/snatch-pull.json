@@ -1,0 +1,27 @@
+{
+  "id": "quads/snatch-pull",
+  "slug": "snatch-pull",
+  "name": "Arraché, tirage",
+  "muscle": "quads",
+  "bodyPart": "legs",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "spine",
+    "traps",
+    "delts",
+    "forearms"
+  ],
+  "instructions": [
+    "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+    "Pieds largeur de hanches, barre au-dessus du milieu du pied. Descends les hanches, poitrine haute, bras tendus — enlève le mou de la barre.",
+    "Pousse explosivement le sol, étends hanches et genoux. Quand la barre passe les genoux, accélère avec une extension violente des hanches et un haussement.",
+    "Réceptionne la barre aux épaules (clean) ou au-dessus de la tête (snatch) en descendant rapidement sous la barre. Absorbe avec des genoux souples, puis lève-toi.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "quads/snatch-pull.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/snatch-pull.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/quads/snatch-pull.thumb.webp"
+}

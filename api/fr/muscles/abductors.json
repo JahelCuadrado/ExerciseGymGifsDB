@@ -1,0 +1,111 @@
+{
+  "muscle": "abductors",
+  "count": 5,
+  "exercises": [
+    {
+      "id": "abductors/lever-seated-hip-abduction",
+      "slug": "lever-seated-hip-abduction",
+      "name": "Abduction de hanche à la machine, assis",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Positionne-toi sur la machine ou allonge-toi sur le côté, jambes empilées et torse stable.",
+        "Écarte les jambes contre la résistance en contractant les fessiers externes. Pense à montrer le logo de tes chaussures aux murs latéraux.",
+        "Tiens la position ouverte brièvement, puis referme lentement avec contrôle. Ne laisse pas le poids claquer.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abductors/lever-seated-hip-abduction.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/lever-seated-hip-abduction.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/lever-seated-hip-abduction.thumb.webp"
+    },
+    {
+      "id": "abductors/resistance-band-seated-hip-abduction",
+      "slug": "resistance-band-seated-hip-abduction",
+      "name": "Abduction de hanche à l'élastique, assis",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe l'élastique au bon point d'ancrage et assure-toi qu'il y a une tension initiale.",
+        "Assieds-toi droit, dos plat et pieds à plat au sol.",
+        "Positionne-toi sur la machine ou allonge-toi sur le côté, jambes empilées et torse stable.",
+        "Écarte les jambes contre la résistance en contractant les fessiers externes. Pense à montrer le logo de tes chaussures aux murs latéraux.",
+        "Tiens la position ouverte brièvement, puis referme lentement avec contrôle. Ne laisse pas le poids claquer.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abductors/resistance-band-seated-hip-abduction.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/resistance-band-seated-hip-abduction.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/resistance-band-seated-hip-abduction.thumb.webp"
+    },
+    {
+      "id": "abductors/side-bridge-hip-abduction",
+      "slug": "side-bridge-hip-abduction",
+      "name": "Abduction de hanche, latéral, pont",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Positionne-toi sur la machine ou allonge-toi sur le côté, jambes empilées et torse stable.",
+        "Écarte les jambes contre la résistance en contractant les fessiers externes. Pense à montrer le logo de tes chaussures aux murs latéraux.",
+        "Tiens la position ouverte brièvement, puis referme lentement avec contrôle. Ne laisse pas le poids claquer.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abductors/side-bridge-hip-abduction.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/side-bridge-hip-abduction.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/side-bridge-hip-abduction.thumb.webp"
+    },
+    {
+      "id": "abductors/side-hip-abduction",
+      "slug": "side-hip-abduction",
+      "name": "Abduction de hanche, latéral",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Positionne-toi sur la machine ou allonge-toi sur le côté, jambes empilées et torse stable.",
+        "Écarte les jambes contre la résistance en contractant les fessiers externes. Pense à montrer le logo de tes chaussures aux murs latéraux.",
+        "Tiens la position ouverte brièvement, puis referme lentement avec contrôle. Ne laisse pas le poids claquer.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abductors/side-hip-abduction.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/side-hip-abduction.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/side-hip-abduction.thumb.webp"
+    },
+    {
+      "id": "abductors/straight-leg-outer-hip-abductor",
+      "slug": "straight-leg-outer-hip-abductor",
+      "name": "Extérieur hanche abducteur, jambe tendue",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Positionne-toi sur la machine ou allonge-toi sur le côté, jambes empilées et torse stable.",
+        "Écarte les jambes contre la résistance en contractant les fessiers externes. Pense à montrer le logo de tes chaussures aux murs latéraux.",
+        "Tiens la position ouverte brièvement, puis referme lentement avec contrôle. Ne laisse pas le poids claquer.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "abductors/straight-leg-outer-hip-abductor.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/straight-leg-outer-hip-abductor.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/straight-leg-outer-hip-abductor.thumb.webp"
+    }
+  ]
+}

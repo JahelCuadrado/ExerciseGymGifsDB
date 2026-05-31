@@ -1,0 +1,535 @@
+{
+  "equipment": "ez-bar",
+  "count": 23,
+  "exercises": [
+    {
+      "id": "biceps/ez-bar-biceps-curl-with-arm-blaster",
+      "slug": "ez-bar-biceps-curl-with-arm-blaster",
+      "name": "曲杆二头弯举臂强化",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/ez-bar-biceps-curl-with-arm-blaster.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-bar-biceps-curl-with-arm-blaster.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-bar-biceps-curl-with-arm-blaster.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-bar-seated-close-grip-concentration-curl",
+      "slug": "ez-bar-seated-close-grip-concentration-curl",
+      "name": "曲杆坐姿窄握集中弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "双腿分开坐下，将工作臂的后侧靠在大腿内侧。这锁定了上臂。",
+        "缓慢弯举重量，完全专注于二头肌的收缩。在顶部像挤橙汁一样挤压。",
+        "用3秒下放并完全伸展。你的大腿就是护栏——不可能摆动。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/ez-bar-seated-close-grip-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-bar-seated-close-grip-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-bar-seated-close-grip-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-close-grip-curl",
+      "slug": "ez-barbell-close-grip-curl",
+      "name": "曲杆窄握弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/ez-barbell-close-grip-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-close-grip-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-close-grip-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-close-grip-preacher-curl",
+      "slug": "ez-barbell-close-grip-preacher-curl",
+      "name": "曲杆窄握牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/ez-barbell-close-grip-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-close-grip-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-close-grip-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-curl",
+      "slug": "ez-barbell-curl",
+      "name": "曲杆弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/ez-barbell-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-reverse-grip-curl",
+      "slug": "ez-barbell-reverse-grip-curl",
+      "name": "曲杆反握弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/ez-barbell-reverse-grip-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-reverse-grip-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-reverse-grip-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-reverse-grip-preacher-curl",
+      "slug": "ez-barbell-reverse-grip-preacher-curl",
+      "name": "曲杆反握牧师凳弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "坐在牧师凳上，腋窝紧贴上沿。让手臂完全沿垫板伸展下垂。",
+        "收紧二头肌将重量弯举上来，上臂始终紧贴垫板。",
+        "严格控制下放至完全伸展——垫板防止作弊，所以要掌控整个运动范围。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/ez-barbell-reverse-grip-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-reverse-grip-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-reverse-grip-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-seated-curls",
+      "slug": "ez-barbell-seated-curls",
+      "name": "曲杆坐姿弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/ez-barbell-seated-curls.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-seated-curls.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-seated-curls.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-spider-curl-1628",
+      "slug": "ez-barbell-spider-curl-1628",
+      "name": "曲杆蜘蛛弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "俯卧在斜凳上，手臂自然垂直向下。整个动作中重力都在与你对抗。",
+        "向上弯举，在顶部用力收紧二头肌。斜角保持恒定张力——底部没有休息。",
+        "控制下放至完全伸展。这个角度使作弊几乎不可能——用更轻的重量专注于动作质量。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/ez-barbell-spider-curl-1628.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-spider-curl-1628.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-spider-curl-1628.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-spider-curl",
+      "slug": "ez-barbell-spider-curl",
+      "name": "曲杆蜘蛛弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "俯卧在斜凳上，手臂自然垂直向下。整个动作中重力都在与你对抗。",
+        "向上弯举，在顶部用力收紧二头肌。斜角保持恒定张力——底部没有休息。",
+        "控制下放至完全伸展。这个角度使作弊几乎不可能——用更轻的重量专注于动作质量。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/ez-barbell-spider-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-spider-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-spider-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-standing-wide-grip-biceps-curl",
+      "slug": "ez-barbell-standing-wide-grip-biceps-curl",
+      "name": "曲杆站姿宽握二头弯举",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "使用宽握，双手远超肩宽，增加拉伸和外侧刺激。",
+        "将肘部钉在体侧——想象它们被钉住了。只有前臂在动。",
+        "用力收紧二头肌将重量弯举上来。在顶部，像挤橙汁一样挤压后再下放。",
+        "缓慢用3秒下放，在每一厘米对抗重力。手腕保持像钢棒一样笔直。如果身体摇晃，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "biceps/ez-barbell-standing-wide-grip-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-standing-wide-grip-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-standing-wide-grip-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "delts/ez-barbell-anti-gravity-press",
+      "slug": "ez-barbell-anti-gravity-press",
+      "name": "曲杆推举抗重力",
+      "muscle": "delts",
+      "bodyPart": "shoulders",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "将手腕直接堆叠在肘部上方，像一根坚固的柱子。收紧臀肌并绷紧核心，像准备挨一拳一样。",
+        "将重量直接向上推，头部让开。当杠铃过了面部后，将头部向前推穿过窗口，手臂完全锁定。",
+        "控制下放回到前三角肌上的起始位置。保持躯干垂直——你是在做过头推举，不是站姿上斜推举。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "delts/ez-barbell-anti-gravity-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/ez-barbell-anti-gravity-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/ez-barbell-anti-gravity-press.thumb.webp"
+    },
+    {
+      "id": "lats/ez-bar-lying-bent-arms-pullover",
+      "slug": "ez-bar-lying-bent-arms-pullover",
+      "name": "曲杆仰卧仰卧上拉屈臂",
+      "muscle": "lats",
+      "bodyPart": "back",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "pectorals",
+        "triceps",
+        "abs"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "躺在凳上，手臂伸直在胸部上方持握重量。保持肘部微曲。",
+        "以弧形将重量降到头后，感受背阔肌和胸部的深度拉伸。只到舒适的程度。",
+        "用背阔肌将重量拉回胸部上方——想象以宽弧形将重量舀回来。整个过程保持相同的肘部弯曲。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "lats/ez-bar-lying-bent-arms-pullover.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/ez-bar-lying-bent-arms-pullover.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/ez-bar-lying-bent-arms-pullover.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-bar-close-grip-bench-press",
+      "slug": "ez-bar-close-grip-bench-press",
+      "name": "曲杆窄握卧推",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/ez-bar-close-grip-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-close-grip-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-close-grip-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-bar-french-press-on-exercise-ball",
+      "slug": "ez-bar-french-press-on-exercise-ball",
+      "name": "曲杆瑜伽球法式推举",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+        "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+        "控制将重量收回，在整个运动范围内保持张力。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/ez-bar-french-press-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-french-press-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-french-press-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-bar-lying-close-grip-triceps-extension-behind-head",
+      "slug": "ez-bar-lying-close-grip-triceps-extension-behind-head",
+      "name": "曲杆仰卧窄握臂屈伸背后头",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "仰卧，背部平贴在表面上，核心收紧。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "将手臂伸直在胸部正上方。肘部指向天花板，在整个动作中保持固定不动。",
+        "只弯曲肘部将重量降向前额或稍后方——你的上臂是不会移动的混凝土柱子。",
+        "用力收紧三头肌，推回至手臂完全伸直。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/ez-bar-lying-close-grip-triceps-extension-behind-head.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-lying-close-grip-triceps-extension-behind-head.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-lying-close-grip-triceps-extension-behind-head.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-bar-standing-french-press",
+      "slug": "ez-bar-standing-french-press",
+      "name": "曲杆站姿法式推举",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+        "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+        "控制将重量收回，在整个运动范围内保持张力。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/ez-bar-standing-french-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-standing-french-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-bar-standing-french-press.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-barbell-decline-close-grip-face-press",
+      "slug": "ez-barbell-decline-close-grip-face-press",
+      "name": "曲杆窄握下斜推举面部",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "将凳子调整到下斜角度，双脚固定在脚垫下。",
+        "使用窄握，双手间距约15厘米，将重点转向内侧。",
+        "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+        "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+        "控制将重量收回，在整个运动范围内保持张力。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/ez-barbell-decline-close-grip-face-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-decline-close-grip-face-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-decline-close-grip-face-press.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-barbell-decline-triceps-extension",
+      "slug": "ez-barbell-decline-triceps-extension",
+      "name": "曲杆下斜臂屈伸",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "将凳子调整到下斜角度，双脚固定在脚垫下。",
+        "将肘部锁定在位——它们是空间中的固定点。只有前臂像门铰链一样移动。",
+        "完全伸展，在锁定时用力收紧三头肌。在完全伸展位短暂停顿。",
+        "缓慢回到起始位置。专注于底部的拉伸和顶部的收缩。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/ez-barbell-decline-triceps-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-decline-triceps-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-decline-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-barbell-incline-triceps-extension",
+      "slug": "ez-barbell-incline-triceps-extension",
+      "name": "曲杆上斜臂屈伸",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "将凳子调整到指定的倾斜角度，背部紧贴靠垫。",
+        "将肘部锁定在位——它们是空间中的固定点。只有前臂像门铰链一样移动。",
+        "完全伸展，在锁定时用力收紧三头肌。在完全伸展位短暂停顿。",
+        "缓慢回到起始位置。专注于底部的拉伸和顶部的收缩。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/ez-barbell-incline-triceps-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-incline-triceps-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-incline-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-barbell-jm-bench-press",
+      "slug": "ez-barbell-jm-bench-press",
+      "name": "曲杆卧推JM",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "将肩胛骨夹紧，像是用它们夹住一支铅笔——这为推举创造了稳定的基础。",
+        "将杠铃下放到胸部中间，肘部保持约45度角——想象箭头形状，而不是T形——控制下落2-3秒。",
+        "将自己推向长凳远离杠铃。将杠铃以轻微弧线推回架子方向完成动作。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/ez-barbell-jm-bench-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-jm-bench-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-jm-bench-press.thumb.webp"
+    },
+    {
+      "id": "triceps/ez-barbell-seated-triceps-extension",
+      "slug": "ez-barbell-seated-triceps-extension",
+      "name": "曲杆坐姿臂屈伸",
+      "muscle": "triceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "delts"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "挺直坐好，背部挺直，双脚平放在地面。",
+        "将肘部锁定在位——它们是空间中的固定点。只有前臂像门铰链一样移动。",
+        "完全伸展，在锁定时用力收紧三头肌。在完全伸展位短暂停顿。",
+        "缓慢回到起始位置。专注于底部的拉伸和顶部的收缩。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "triceps/ez-barbell-seated-triceps-extension.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-seated-triceps-extension.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/ez-barbell-seated-triceps-extension.thumb.webp"
+    },
+    {
+      "id": "upper-back/ez-bar-reverse-grip-bent-over-row",
+      "slug": "ez-bar-reverse-grip-bent-over-row",
+      "name": "曲杆反握俯身划船",
+      "muscle": "upper-back",
+      "bodyPart": "back",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "lats"
+      ],
+      "instructions": [
+        "给曲杆装上合适的重量，握住让手腕舒适的弯曲部分。",
+        "使用反握（旋后握），改变拉力角度和肌肉刺激重点。",
+        "从髋部折叠直到躯干接近与地面平行。让手臂像系在重量上的绳子一样自然垂下。",
+        "通过将肘部驱向后裤袋来拉——你的手只是钩子。在顶部将肩胛骨夹紧，像夹碎一个核桃。",
+        "控制下放至手臂完全伸展，在底部获得充分拉伸。如果你的躯干移动超过10度，重量太大了。",
+        "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+      ],
+      "file": "upper-back/ez-bar-reverse-grip-bent-over-row.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/ez-bar-reverse-grip-bent-over-row.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/upper-back/ez-bar-reverse-grip-bent-over-row.thumb.webp"
+    }
+  ]
+}

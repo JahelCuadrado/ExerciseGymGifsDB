@@ -1,0 +1,23 @@
+{
+  "id": "delts/dumbbell-incline-t-raise",
+  "slug": "dumbbell-incline-t-raise",
+  "name": "ダンベル・インクライン・レイズ・T",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+    "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+    "立つか座って重りを準備し、体幹を活性化したスタート位置をとります。",
+    "軽い肘の曲がりで指示された軌道に沿って重りを上げます。別途指示がない限り肩の高さで止めます。",
+    "重力に抵抗しながらゆっくりコントロールして下ろします。勢いを使わず、毎センチをマスターします。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "delts/dumbbell-incline-t-raise.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/dumbbell-incline-t-raise.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/dumbbell-incline-t-raise.thumb.webp"
+}

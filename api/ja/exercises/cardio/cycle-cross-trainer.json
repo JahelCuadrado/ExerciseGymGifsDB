@@ -1,0 +1,20 @@
+{
+  "id": "cardio/cycle-cross-trainer",
+  "slug": "cycle-cross-trainer",
+  "name": "サイクル・クロス・トレーナー",
+  "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "machine",
+  "category": "cardio",
+  "secondaryMuscles": [],
+  "instructions": [
+    "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+    "サドルとハンドルを体に合わせて調整します。ペダル最下点で膝が軽く曲がるように座ります。",
+    "スムーズにペダリングし、円運動で押し下げ引き上げます。目標抵抗で一定のケイデンスを維持します。",
+    "まっすぐな姿勢を保ち、体幹を活性化し、運動中ずっとリズミカルに呼吸します。",
+    "リズミカルに呼吸します——鼻から吸い、口から吐き、ペースに合わせます。"
+  ],
+  "file": "cardio/cycle-cross-trainer.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/cycle-cross-trainer.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/cycle-cross-trainer.thumb.webp"
+}

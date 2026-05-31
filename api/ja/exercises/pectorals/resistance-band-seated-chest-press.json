@@ -1,0 +1,24 @@
+{
+  "id": "pectorals/resistance-band-seated-chest-press",
+  "slug": "resistance-band-seated-chest-press",
+  "name": "レジスタンスバンド・シーテッド・チェストプレス",
+  "muscle": "pectorals",
+  "bodyPart": "chest",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "triceps",
+    "delts"
+  ],
+  "instructions": [
+    "レジスタンスバンドを正しいアンカーポイントに固定し、初期テンションがあることを確認します。",
+    "背筋を伸ばして座り、足を床に平らに置きます。",
+    "肩甲骨を寄せて、鉛筆を挟むようにしっかり固定します。これが安定した押し出しの土台になります。",
+    "バーを胸の中央に向けて下ろします。肘は約45°に保ち、T字ではなく矢印の形を意識してください。2〜3秒かけてコントロールしながら下ろします。",
+    "ベンチに体を押し付けるようにして、バーを軽いアーチを描きながらラックに戻して1レップ完了です。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "pectorals/resistance-band-seated-chest-press.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/resistance-band-seated-chest-press.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/pectorals/resistance-band-seated-chest-press.thumb.webp"
+}

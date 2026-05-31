@@ -1,0 +1,116 @@
+{
+  "muscle": "serratus-anterior",
+  "count": 5,
+  "exercises": [
+    {
+      "id": "serratus-anterior/barbell-incline-shoulder-raise",
+      "slug": "barbell-incline-shoulder-raise",
+      "name": "Élévation incliné à la barre, épaule",
+      "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Charge la barre avec un poids approprié. Saisis-la fermement et place tes pieds à largeur d'épaules.",
+        "Règle le banc à l'inclinaison indiquée et presse fermement ton dos contre le dossier.",
+        "Mets-toi en position de pompe ou inclinée, bras verrouillés tendus.",
+        "Sans plier les coudes, repousse ton corps du sol en protractant les omoplates — arrondis le haut du dos vers l'avant.",
+        "Laisse les omoplates se rétracter lentement et la poitrine descendre, puis protracte à nouveau. Concentre-toi sur le dentelé qui serre les côtes.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "serratus-anterior/barbell-incline-shoulder-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/barbell-incline-shoulder-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/barbell-incline-shoulder-raise.thumb.webp"
+    },
+    {
+      "id": "serratus-anterior/dumbbell-incline-shoulder-raise",
+      "slug": "dumbbell-incline-shoulder-raise",
+      "name": "Élévation incliné aux haltères, épaule",
+      "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Choisis le bon poids d'haltères. Saisis fermement et place-toi avec une base stable.",
+        "Règle le banc à l'inclinaison indiquée et presse fermement ton dos contre le dossier.",
+        "Mets-toi en position de pompe ou inclinée, bras verrouillés tendus.",
+        "Sans plier les coudes, repousse ton corps du sol en protractant les omoplates — arrondis le haut du dos vers l'avant.",
+        "Laisse les omoplates se rétracter lentement et la poitrine descendre, puis protracte à nouveau. Concentre-toi sur le dentelé qui serre les côtes.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "serratus-anterior/dumbbell-incline-shoulder-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/dumbbell-incline-shoulder-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/dumbbell-incline-shoulder-raise.thumb.webp"
+    },
+    {
+      "id": "serratus-anterior/incline-scapula-push-up",
+      "slug": "incline-scapula-push-up",
+      "name": "Pompe incliné, omoplate",
+      "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Règle le banc à l'inclinaison indiquée et presse fermement ton dos contre le dossier.",
+        "Mets-toi en position de pompe ou inclinée, bras verrouillés tendus.",
+        "Sans plier les coudes, repousse ton corps du sol en protractant les omoplates — arrondis le haut du dos vers l'avant.",
+        "Laisse les omoplates se rétracter lentement et la poitrine descendre, puis protracte à nouveau. Concentre-toi sur le dentelé qui serre les côtes.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "serratus-anterior/incline-scapula-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/incline-scapula-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/incline-scapula-push-up.thumb.webp"
+    },
+    {
+      "id": "serratus-anterior/scapula-push-up",
+      "slug": "scapula-push-up",
+      "name": "Pompe, omoplate",
+      "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Place ton corps avec un bon alignement — oreilles au-dessus des épaules, épaules au-dessus des hanches.",
+        "Mets-toi en position de pompe ou inclinée, bras verrouillés tendus.",
+        "Sans plier les coudes, repousse ton corps du sol en protractant les omoplates — arrondis le haut du dos vers l'avant.",
+        "Laisse les omoplates se rétracter lentement et la poitrine descendre, puis protracte à nouveau. Concentre-toi sur le dentelé qui serre les côtes.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "serratus-anterior/scapula-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/scapula-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/scapula-push-up.thumb.webp"
+    },
+    {
+      "id": "serratus-anterior/smith-incline-shoulder-raises",
+      "slug": "smith-incline-shoulder-raises",
+      "name": "Élévations incliné au Smith, épaule",
+      "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Règle la hauteur de la barre au Smith et charge le poids approprié. Place-toi sous la barre.",
+        "Règle le banc à l'inclinaison indiquée et presse fermement ton dos contre le dossier.",
+        "Mets-toi en position de pompe ou inclinée, bras verrouillés tendus.",
+        "Sans plier les coudes, repousse ton corps du sol en protractant les omoplates — arrondis le haut du dos vers l'avant.",
+        "Laisse les omoplates se rétracter lentement et la poitrine descendre, puis protracte à nouveau. Concentre-toi sur le dentelé qui serre les côtes.",
+        "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+      ],
+      "file": "serratus-anterior/smith-incline-shoulder-raises.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/smith-incline-shoulder-raises.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/smith-incline-shoulder-raises.thumb.webp"
+    }
+  ]
+}

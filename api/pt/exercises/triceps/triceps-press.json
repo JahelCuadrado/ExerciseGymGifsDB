@@ -1,0 +1,22 @@
+{
+  "id": "triceps/triceps-press",
+  "slug": "triceps-press",
+  "name": "Press, tríceps",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "bodyweight",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+    "Ative o core e fixe as escápulas. Inicie o empurrão de uma base estável.",
+    "Empurre o peso afastando-o do corpo em uma trajetória controlada, estendendo completamente sem travar as articulações bruscamente.",
+    "Retorne o peso com controle, mantendo tensão em toda a amplitude de movimento.",
+    "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+  ],
+  "file": "triceps/triceps-press.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/triceps-press.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/triceps-press.thumb.webp"
+}

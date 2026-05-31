@@ -268,7 +268,7 @@
     {
       "id": "abs/cable-twist-up-down",
       "slug": "cable-twist-up-down",
-      "name": "Giro en polea, up down",
+      "name": "Giro en polea arriba y abajo",
       "muscle": "abs",
       "bodyPart": "core",
       "equipment": "cable",
@@ -983,7 +983,7 @@
     {
       "id": "delts/cable-cross-over-revers-fly",
       "slug": "cable-cross-over-revers-fly",
-      "name": "En polea, cruzado apertura inversa",
+      "name": "Apertura inversa cruzada en polea",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "cable",
@@ -1210,7 +1210,7 @@
     {
       "id": "delts/cable-seated-shoulder-internal-rotation",
       "slug": "cable-seated-shoulder-internal-rotation",
-      "name": "Hombro internal rotation en polea, sentado",
+      "name": "Rotación interna de hombro en polea, sentado",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "cable",
@@ -1299,7 +1299,7 @@
     {
       "id": "delts/cable-standing-shoulder-external-rotation",
       "slug": "cable-standing-shoulder-external-rotation",
-      "name": "Hombro external rotation en polea, de pie",
+      "name": "Rotación externa de hombro en polea, de pie",
       "muscle": "delts",
       "bodyPart": "shoulders",
       "equipment": "cable",
@@ -1459,7 +1459,7 @@
     {
       "id": "glutes/cable-pull-through-with-rope",
       "slug": "cable-pull-through-with-rope",
-      "name": "Pull through en polea, con cuerda",
+      "name": "Tirón entre piernas en polea, con cuerda",
       "muscle": "glutes",
       "bodyPart": "legs",
       "equipment": "cable",
@@ -1695,7 +1695,7 @@
     {
       "id": "lats/cable-lying-extension-pullover-with-rope-attachment",
       "slug": "cable-lying-extension-pullover-with-rope-attachment",
-      "name": "Pullover en polea, tumbado, con cuerda, extension",
+      "name": "Pullover en polea, tumbado, con cuerda, extensión",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -1862,7 +1862,7 @@
     {
       "id": "lats/cable-squat-row-with-rope-attachment",
       "slug": "cable-squat-row-with-rope-attachment",
-      "name": "Sentadilla en polea, con cuerda, row",
+      "name": "Sentadilla en polea, con cuerda, remo",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -1981,7 +1981,7 @@
     {
       "id": "lats/cable-underhand-pulldown",
       "slug": "cable-underhand-pulldown",
-      "name": "Jalón al pecho en polea, underhand",
+      "name": "Jalón al pecho en polea, agarre supino",
       "muscle": "lats",
       "bodyPart": "back",
       "equipment": "cable",
@@ -2520,7 +2520,7 @@
     {
       "id": "pectorals/cable-standing-up-straight-crossovers",
       "slug": "cable-standing-up-straight-crossovers",
-      "name": "Up recto crossovers en polea, de pie",
+      "name": "Arriba recto crossovers en polea, de pie",
       "muscle": "pectorals",
       "bodyPart": "chest",
       "equipment": "cable",
@@ -3370,7 +3370,7 @@
     {
       "id": "upper-back/cable-rope-extension-incline-bench-row",
       "slug": "cable-rope-extension-incline-bench-row",
-      "name": "Remo en polea con cuerda, en banco inclinado, extension",
+      "name": "Remo en polea con cuerda, en banco inclinado, extensión",
       "muscle": "upper-back",
       "bodyPart": "back",
       "equipment": "cable",

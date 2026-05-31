@@ -1,0 +1,22 @@
+{
+  "id": "biceps/barbell-drag-curl",
+  "slug": "barbell-drag-curl",
+  "name": "バーベル・ドラッグカール",
+  "muscle": "biceps",
+  "bodyPart": "arms",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+    "太ももの前でバーを持ちます。通常のアーチを描く代わりに、バーを体に沿ってまっすぐ上に引きずります。肘は後ろに移動します。",
+    "バーが胴体に沿って上がるにつれ、肘を後ろに引きます。これは上腕二頭筋の長頭を強調します。",
+    "軌道を逆にし、バーをコントロールしながら体に沿って戻します。バーは常に胴体に触れています。",
+    "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+  ],
+  "file": "biceps/barbell-drag-curl.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-drag-curl.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-drag-curl.thumb.webp"
+}

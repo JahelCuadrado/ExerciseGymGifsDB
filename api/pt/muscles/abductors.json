@@ -1,0 +1,111 @@
+{
+  "muscle": "abductors",
+  "count": 5,
+  "exercises": [
+    {
+      "id": "abductors/lever-seated-hip-abduction",
+      "slug": "lever-seated-hip-abduction",
+      "name": "Abdução de quadril na máquina, sentado",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Posicione-se na máquina ou deite-se de lado com as pernas empilhadas e tronco estável.",
+        "Empurre as pernas para fora contra a resistência, apertando os glúteos externos. Pense em mostrar o logo dos tênis para as paredes laterais.",
+        "Segure a posição aberta brevemente, depois feche lentamente com controle. Não deixe o peso bater de volta.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "abductors/lever-seated-hip-abduction.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/lever-seated-hip-abduction.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/lever-seated-hip-abduction.thumb.webp"
+    },
+    {
+      "id": "abductors/resistance-band-seated-hip-abduction",
+      "slug": "resistance-band-seated-hip-abduction",
+      "name": "Abdução de quadril com faixa elástica, sentado",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Fixe a faixa elástica no ponto de ancoragem correto e certifique-se de que há tensão inicial.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Posicione-se na máquina ou deite-se de lado com as pernas empilhadas e tronco estável.",
+        "Empurre as pernas para fora contra a resistência, apertando os glúteos externos. Pense em mostrar o logo dos tênis para as paredes laterais.",
+        "Segure a posição aberta brevemente, depois feche lentamente com controle. Não deixe o peso bater de volta.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "abductors/resistance-band-seated-hip-abduction.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/resistance-band-seated-hip-abduction.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/resistance-band-seated-hip-abduction.thumb.webp"
+    },
+    {
+      "id": "abductors/side-bridge-hip-abduction",
+      "slug": "side-bridge-hip-abduction",
+      "name": "Abdução de quadril, lateral, ponte",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "hamstrings",
+        "abs"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Posicione-se na máquina ou deite-se de lado com as pernas empilhadas e tronco estável.",
+        "Empurre as pernas para fora contra a resistência, apertando os glúteos externos. Pense em mostrar o logo dos tênis para as paredes laterais.",
+        "Segure a posição aberta brevemente, depois feche lentamente com controle. Não deixe o peso bater de volta.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "abductors/side-bridge-hip-abduction.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/side-bridge-hip-abduction.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/side-bridge-hip-abduction.thumb.webp"
+    },
+    {
+      "id": "abductors/side-hip-abduction",
+      "slug": "side-hip-abduction",
+      "name": "Abdução de quadril, lateral",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Posicione-se na máquina ou deite-se de lado com as pernas empilhadas e tronco estável.",
+        "Empurre as pernas para fora contra a resistência, apertando os glúteos externos. Pense em mostrar o logo dos tênis para as paredes laterais.",
+        "Segure a posição aberta brevemente, depois feche lentamente com controle. Não deixe o peso bater de volta.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "abductors/side-hip-abduction.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/side-hip-abduction.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/side-hip-abduction.thumb.webp"
+    },
+    {
+      "id": "abductors/straight-leg-outer-hip-abductor",
+      "slug": "straight-leg-outer-hip-abductor",
+      "name": "Externo quadril abdutor, com perna reta",
+      "muscle": "abductors",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Posicione-se na máquina ou deite-se de lado com as pernas empilhadas e tronco estável.",
+        "Empurre as pernas para fora contra a resistência, apertando os glúteos externos. Pense em mostrar o logo dos tênis para as paredes laterais.",
+        "Segure a posição aberta brevemente, depois feche lentamente com controle. Não deixe o peso bater de volta.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "abductors/straight-leg-outer-hip-abductor.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/straight-leg-outer-hip-abductor.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/abductors/straight-leg-outer-hip-abductor.thumb.webp"
+    }
+  ]
+}

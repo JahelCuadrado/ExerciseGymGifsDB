@@ -1,0 +1,634 @@
+{
+  "muscle": "hamstrings",
+  "count": 28,
+  "exercises": [
+    {
+      "id": "hamstrings/assisted-prone-hamstring",
+      "slug": "assisted-prone-hamstring",
+      "name": "Posterior de coxa, de bruços, assistido",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Deite-se com as costas retas contra a superfície, core ativado.",
+        "Ative os posteriores de coxa antes de iniciar o movimento. Sinta a conexão mente-músculo.",
+        "Realize o movimento com controle total, dominando as fases concêntrica e excêntrica.",
+        "Volte à posição inicial controlando a descida — a fase excêntrica constrói tanto músculo quanto a subida.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/assisted-prone-hamstring.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/assisted-prone-hamstring.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/assisted-prone-hamstring.thumb.webp"
+    },
+    {
+      "id": "hamstrings/barbell-good-morning",
+      "slug": "barbell-good-morning",
+      "name": "Good Morning com barra",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Com leve flexão dos joelhos, faça dobradiça no quadril empurrando o bumbum para trás — imagine fechar a porta de um carro com os glúteos.",
+        "Desça até sentir um alongamento profundo nos isquiotibiais, mantendo as costas retas. Uma vassoura na coluna deveria tocar cabeça, meio das costas e cóccix.",
+        "Empurre os quadris para frente para voltar a ficar em pé, apertando os glúteos com força no topo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/barbell-good-morning.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/barbell-good-morning.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/barbell-good-morning.thumb.webp"
+    },
+    {
+      "id": "hamstrings/barbell-straight-leg-deadlift",
+      "slug": "barbell-straight-leg-deadlift",
+      "name": "Levantamento terra com barra, com perna reta",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "lats",
+        "traps",
+        "forearms",
+        "spine"
+      ],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Dobradiça no quadril, peito alto, e aperte as axilas para ativar os dorsais.",
+        "Empurre o chão com as pernas — quadris e ombros sobem juntos como um elevador. Arraste a barra pelas pernas como se as estivesse raspando.",
+        "Fique totalmente ereto no topo e aperte uma moeda entre os glúteos. Retorne fazendo dobradiça no quadril, deslizando a barra pelas coxas — ela nunca sai do corpo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/barbell-straight-leg-deadlift.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/barbell-straight-leg-deadlift.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/barbell-straight-leg-deadlift.thumb.webp"
+    },
+    {
+      "id": "hamstrings/cable-assisted-inverse-leg-curl",
+      "slug": "cable-assisted-inverse-leg-curl",
+      "name": "Mesa flexora na polia, assistido, inverso",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Coloque a pegada adequada, ajuste a altura da polia e selecione o peso de trabalho.",
+        "Fixe os cotovelos nas laterais — imagine que estão pregados no lugar. Apenas os antebraços se movem.",
+        "Curl o peso para cima apertando os bíceps com força. No topo, esprema o suco de uma laranja antes de descer.",
+        "Desça em 3 segundos lentos, lutando contra a gravidade em cada centímetro. Mantenha os pulsos retos como barras de aço. Se o corpo balançar, o peso está muito pesado.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/cable-assisted-inverse-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/cable-assisted-inverse-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/cable-assisted-inverse-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/dumbbell-lying-femoral",
+      "slug": "dumbbell-lying-femoral",
+      "name": "Femoral com halteres, deitado",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Deite-se com as costas retas contra a superfície, core ativado.",
+        "Ajuste o apoio da máquina logo acima dos calcanhares. Segure as alças e pressione os quadris contra o apoio.",
+        "Flexione os calcanhares em direção aos glúteos, apertando os isquiotibiais com força na contração máxima.",
+        "Desça o peso lentamente — lute contra a tração da máquina em cada centímetro. Não deixe cair. Mantenha os quadris pressionados para evitar compensação lombar.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/dumbbell-lying-femoral.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/dumbbell-lying-femoral.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/dumbbell-lying-femoral.thumb.webp"
+    },
+    {
+      "id": "hamstrings/exercise-ball-seated-hamstring-stretch",
+      "slug": "exercise-ball-seated-hamstring-stretch",
+      "name": "Alongamento na bola suíça, sentado, posterior de coxa",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Vá para a posição de alongamento lentamente até sentir uma tensão suave na área alvo — não dor.",
+        "Segure de 20 a 40 segundos respirando profundamente. A cada expiração, tente afundar um pouco mais no alongamento.",
+        "Solte lentamente e repita se desejar. Consistência importa mais que intensidade — alongue regularmente para flexibilidade duradoura.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "hamstrings/exercise-ball-seated-hamstring-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/exercise-ball-seated-hamstring-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/exercise-ball-seated-hamstring-stretch.thumb.webp"
+    },
+    {
+      "id": "hamstrings/glute-ham-raise",
+      "slug": "glute-ham-raise",
+      "name": "Elevação, glúteo posterior",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Ajuste o apoio da máquina logo acima dos calcanhares. Segure as alças e pressione os quadris contra o apoio.",
+        "Flexione os calcanhares em direção aos glúteos, apertando os isquiotibiais com força na contração máxima.",
+        "Desça o peso lentamente — lute contra a tração da máquina em cada centímetro. Não deixe cair. Mantenha os quadris pressionados para evitar compensação lombar.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/glute-ham-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/glute-ham-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/glute-ham-raise.thumb.webp"
+    },
+    {
+      "id": "hamstrings/hamstring-stretch",
+      "slug": "hamstring-stretch",
+      "name": "Alongamento, posterior de coxa",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Vá para a posição de alongamento lentamente até sentir uma tensão suave na área alvo — não dor.",
+        "Segure de 20 a 40 segundos respirando profundamente. A cada expiração, tente afundar um pouco mais no alongamento.",
+        "Solte lentamente e repita se desejar. Consistência importa mais que intensidade — alongue regularmente para flexibilidade duradoura.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "hamstrings/hamstring-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/hamstring-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/hamstring-stretch.thumb.webp"
+    },
+    {
+      "id": "hamstrings/inverse-leg-curl-bench-support",
+      "slug": "inverse-leg-curl-bench-support",
+      "name": "Mesa flexora, inverso banco apoio",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Fixe os cotovelos nas laterais — imagine que estão pregados no lugar. Apenas os antebraços se movem.",
+        "Curl o peso para cima apertando os bíceps com força. No topo, esprema o suco de uma laranja antes de descer.",
+        "Desça em 3 segundos lentos, lutando contra a gravidade em cada centímetro. Mantenha os pulsos retos como barras de aço. Se o corpo balançar, o peso está muito pesado.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/inverse-leg-curl-bench-support.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/inverse-leg-curl-bench-support.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/inverse-leg-curl-bench-support.thumb.webp"
+    },
+    {
+      "id": "hamstrings/inverse-leg-curl-on-pull-up-cable-machine",
+      "slug": "inverse-leg-curl-on-pull-up-cable-machine",
+      "name": "Barra fixa na polia na máquina, inverso Mesa flexora",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "delts",
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Coloque a pegada adequada, ajuste a altura da polia e selecione o peso de trabalho.",
+        "Pendure-se na barra com os braços totalmente estendidos. Fixe os ombros puxando as escápulas para baixo e para trás — guarde-as nos bolsos traseiros.",
+        "Puxe direcionando os cotovelos para os bolsos traseiros, liderando com o peito, não com o queixo. Imagine dobrar a barra ao redor das clavículas.",
+        "Passe o queixo acima da barra e aperte no topo. Desça com controle total até ficar completamente pendurado — conquiste cada rep partindo de um alongamento completo.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/inverse-leg-curl-on-pull-up-cable-machine.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/inverse-leg-curl-on-pull-up-cable-machine.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/inverse-leg-curl-on-pull-up-cable-machine.thumb.webp"
+    },
+    {
+      "id": "hamstrings/kettlebell-hang-clean",
+      "slug": "kettlebell-hang-clean",
+      "name": "Hang Clean com kettlebell",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Escolha o peso adequado do kettlebell. Segure a alça com firmeza e punho neutro.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Baixe os quadris, peito alto, braços retos — tire a folga da barra.",
+        "Empurre o chão explosivamente, estendendo quadris e joelhos. Quando a barra passar dos joelhos, acelere com uma extensão violenta do quadril e encolhimento.",
+        "Receba a barra nos ombros (clean) ou sobre a cabeça (snatch) caindo rapidamente sob a barra. Absorva com joelhos macios, depois fique em pé.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/kettlebell-hang-clean.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/kettlebell-hang-clean.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/kettlebell-hang-clean.thumb.webp"
+    },
+    {
+      "id": "hamstrings/kick-out-sit",
+      "slug": "kick-out-sit",
+      "name": "Chute fora sentado",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Ative os posteriores de coxa antes de iniciar o movimento. Sinta a conexão mente-músculo.",
+        "Realize o movimento com controle total, dominando as fases concêntrica e excêntrica.",
+        "Volte à posição inicial controlando a descida — a fase excêntrica constrói tanto músculo quanto a subida.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/kick-out-sit.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/kick-out-sit.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/kick-out-sit.thumb.webp"
+    },
+    {
+      "id": "hamstrings/leg-up-hamstring-stretch",
+      "slug": "leg-up-hamstring-stretch",
+      "name": "Alongamento, perna para cima posterior de coxa",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Vá para a posição de alongamento lentamente até sentir uma tensão suave na área alvo — não dor.",
+        "Segure de 20 a 40 segundos respirando profundamente. A cada expiração, tente afundar um pouco mais no alongamento.",
+        "Solte lentamente e repita se desejar. Consistência importa mais que intensidade — alongue regularmente para flexibilidade duradoura.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "hamstrings/leg-up-hamstring-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/leg-up-hamstring-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/leg-up-hamstring-stretch.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-kneeling-leg-curl",
+      "slug": "lever-kneeling-leg-curl",
+      "name": "Mesa flexora na máquina, ajoelhado",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Ajoelhe-se com os quadris diretamente sobre os joelhos, tronco ereto.",
+        "Fixe os cotovelos nas laterais — imagine que estão pregados no lugar. Apenas os antebraços se movem.",
+        "Curl o peso para cima apertando os bíceps com força. No topo, esprema o suco de uma laranja antes de descer.",
+        "Desça em 3 segundos lentos, lutando contra a gravidade em cada centímetro. Mantenha os pulsos retos como barras de aço. Se o corpo balançar, o peso está muito pesado.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/lever-kneeling-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-kneeling-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-kneeling-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-lying-leg-curl",
+      "slug": "lever-lying-leg-curl",
+      "name": "Mesa flexora na máquina, deitado",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Deite-se com as costas retas contra a superfície, core ativado.",
+        "Fixe os cotovelos nas laterais — imagine que estão pregados no lugar. Apenas os antebraços se movem.",
+        "Curl o peso para cima apertando os bíceps com força. No topo, esprema o suco de uma laranja antes de descer.",
+        "Desça em 3 segundos lentos, lutando contra a gravidade em cada centímetro. Mantenha os pulsos retos como barras de aço. Se o corpo balançar, o peso está muito pesado.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/lever-lying-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-lying-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-lying-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-lying-two-one-leg-curl",
+      "slug": "lever-lying-two-one-leg-curl",
+      "name": "Rosca na máquina, deitado, unilateral, dois",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Deite-se com as costas retas contra a superfície, core ativado.",
+        "Fixe os cotovelos nas laterais — imagine que estão pregados no lugar. Apenas os antebraços se movem.",
+        "Curl o peso para cima apertando os bíceps com força. No topo, esprema o suco de uma laranja antes de descer.",
+        "Desça em 3 segundos lentos, lutando contra a gravidade em cada centímetro. Mantenha os pulsos retos como barras de aço. Se o corpo balançar, o peso está muito pesado.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/lever-lying-two-one-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-lying-two-one-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-lying-two-one-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/lever-seated-leg-curl",
+      "slug": "lever-seated-leg-curl",
+      "name": "Mesa flexora na máquina, sentado",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Fixe os cotovelos nas laterais — imagine que estão pregados no lugar. Apenas os antebraços se movem.",
+        "Curl o peso para cima apertando os bíceps com força. No topo, esprema o suco de uma laranja antes de descer.",
+        "Desça em 3 segundos lentos, lutando contra a gravidade em cada centímetro. Mantenha os pulsos retos como barras de aço. Se o corpo balançar, o peso está muito pesado.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/lever-seated-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-seated-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/lever-seated-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/power-clean",
+      "slug": "power-clean",
+      "name": "Power Clean",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Pés na largura dos quadris, barra sobre o meio do pé. Baixe os quadris, peito alto, braços retos — tire a folga da barra.",
+        "Empurre o chão explosivamente, estendendo quadris e joelhos. Quando a barra passar dos joelhos, acelere com uma extensão violenta do quadril e encolhimento.",
+        "Receba a barra nos ombros (clean) ou sobre a cabeça (snatch) caindo rapidamente sob a barra. Absorva com joelhos macios, depois fique em pé.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/power-clean.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/power-clean.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/power-clean.thumb.webp"
+    },
+    {
+      "id": "hamstrings/reclining-big-toe-pose-with-rope",
+      "slug": "reclining-big-toe-pose-with-rope",
+      "name": "Reclinado grande dedos do pé pose, com corda",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Entre na postura gradualmente, encontrando sua borda confortável. Não se force em uma posição mais profunda do que seu corpo permite.",
+        "Segure a posição respirando profunda e constantemente. A cada expiração, tente relaxar um pouco mais no alongamento.",
+        "Saia da postura lenta e conscientemente. Note a diferença em como seu corpo se sente antes e depois.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/reclining-big-toe-pose-with-rope.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/reclining-big-toe-pose-with-rope.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/reclining-big-toe-pose-with-rope.thumb.webp"
+    },
+    {
+      "id": "hamstrings/runners-stretch",
+      "slug": "runners-stretch",
+      "name": "Alongamento, corredor",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Vá para a posição de alongamento lentamente até sentir uma tensão suave na área alvo — não dor.",
+        "Segure de 20 a 40 segundos respirando profundamente. A cada expiração, tente afundar um pouco mais no alongamento.",
+        "Solte lentamente e repita se desejar. Consistência importa mais que intensidade — alongue regularmente para flexibilidade duradoura.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "hamstrings/runners-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/runners-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/runners-stretch.thumb.webp"
+    },
+    {
+      "id": "hamstrings/seated-wide-angle-pose-sequence",
+      "slug": "seated-wide-angle-pose-sequence",
+      "name": "Ângulo pose sequência, sentado, aberto",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Sente-se ereto com as costas retas e os pés apoiados no chão.",
+        "Entre na postura gradualmente, encontrando sua borda confortável. Não se force em uma posição mais profunda do que seu corpo permite.",
+        "Segure a posição respirando profunda e constantemente. A cada expiração, tente relaxar um pouco mais no alongamento.",
+        "Saia da postura lenta e conscientemente. Note a diferença em como seu corpo se sente antes e depois.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/seated-wide-angle-pose-sequence.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/seated-wide-angle-pose-sequence.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/seated-wide-angle-pose-sequence.thumb.webp"
+    },
+    {
+      "id": "hamstrings/self-assisted-inverse-leg-curl-1766",
+      "slug": "self-assisted-inverse-leg-curl-1766",
+      "name": "Mesa flexora, assistido, inverso",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Fixe os cotovelos nas laterais — imagine que estão pregados no lugar. Apenas os antebraços se movem.",
+        "Curl o peso para cima apertando os bíceps com força. No topo, esprema o suco de uma laranja antes de descer.",
+        "Desça em 3 segundos lentos, lutando contra a gravidade em cada centímetro. Mantenha os pulsos retos como barras de aço. Se o corpo balançar, o peso está muito pesado.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/self-assisted-inverse-leg-curl-1766.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/self-assisted-inverse-leg-curl-1766.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/self-assisted-inverse-leg-curl-1766.thumb.webp"
+    },
+    {
+      "id": "hamstrings/self-assisted-inverse-leg-curl-on-floor",
+      "slug": "self-assisted-inverse-leg-curl-on-floor",
+      "name": "Mesa flexora, assistido, inverso chão",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Fixe os cotovelos nas laterais — imagine que estão pregados no lugar. Apenas os antebraços se movem.",
+        "Curl o peso para cima apertando os bíceps com força. No topo, esprema o suco de uma laranja antes de descer.",
+        "Desça em 3 segundos lentos, lutando contra a gravidade em cada centímetro. Mantenha os pulsos retos como barras de aço. Se o corpo balançar, o peso está muito pesado.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/self-assisted-inverse-leg-curl-on-floor.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/self-assisted-inverse-leg-curl-on-floor.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/self-assisted-inverse-leg-curl-on-floor.thumb.webp"
+    },
+    {
+      "id": "hamstrings/self-assisted-inverse-leg-curl",
+      "slug": "self-assisted-inverse-leg-curl",
+      "name": "Mesa flexora, assistido, inverso",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Fixe os cotovelos nas laterais — imagine que estão pregados no lugar. Apenas os antebraços se movem.",
+        "Curl o peso para cima apertando os bíceps com força. No topo, esprema o suco de uma laranja antes de descer.",
+        "Desça em 3 segundos lentos, lutando contra a gravidade em cada centímetro. Mantenha os pulsos retos como barras de aço. Se o corpo balançar, o peso está muito pesado.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/self-assisted-inverse-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/self-assisted-inverse-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/self-assisted-inverse-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/single-leg-platform-slide",
+      "slug": "single-leg-platform-slide",
+      "name": "Plataforma deslizamento, unilateral",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "machine",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+        "Ative o posterior de coxa antes de iniciar o movimento. Sinta a conexão mente-músculo.",
+        "Realize o movimento com controle total, dominando as fases concêntrica e excêntrica.",
+        "Volte à posição inicial controlando a descida — a fase excêntrica constrói tanto músculo quanto a subida.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/single-leg-platform-slide.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/single-leg-platform-slide.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/single-leg-platform-slide.thumb.webp"
+    },
+    {
+      "id": "hamstrings/standing-hamstring-and-calf-stretch-with-strap",
+      "slug": "standing-hamstring-and-calf-stretch-with-strap",
+      "name": "Alongamento, em pé, posterior de coxa panturrilha faixa",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Vá para a posição de alongamento lentamente até sentir uma tensão suave na área alvo — não dor.",
+        "Segure de 20 a 40 segundos respirando profundamente. A cada expiração, tente afundar um pouco mais no alongamento.",
+        "Solte lentamente e repita se desejar. Consistência importa mais que intensidade — alongue regularmente para flexibilidade duradoura.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "hamstrings/standing-hamstring-and-calf-stretch-with-strap.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/standing-hamstring-and-calf-stretch-with-strap.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/standing-hamstring-and-calf-stretch-with-strap.thumb.webp"
+    },
+    {
+      "id": "hamstrings/standing-single-leg-curl",
+      "slug": "standing-single-leg-curl",
+      "name": "Rosca, em pé, unilateral",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "other",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "calves"
+      ],
+      "instructions": [
+        "Prepare seu equipamento e adote uma posição inicial estável com boa postura.",
+        "Fixe os cotovelos nas laterais — imagine que estão pregados no lugar. Apenas os antebraços se movem.",
+        "Curl o peso para cima apertando os bíceps com força. No topo, esprema o suco de uma laranja antes de descer.",
+        "Desça em 3 segundos lentos, lutando contra a gravidade em cada centímetro. Mantenha os pulsos retos como barras de aço. Se o corpo balançar, o peso está muito pesado.",
+        "Trabalhe um lado de cada vez. Complete todas as repetições de um lado antes de trocar. Iguale as repetições ao lado mais fraco.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "hamstrings/standing-single-leg-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/standing-single-leg-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/standing-single-leg-curl.thumb.webp"
+    },
+    {
+      "id": "hamstrings/world-greatest-stretch",
+      "slug": "world-greatest-stretch",
+      "name": "Alongamento, mundo maior",
+      "muscle": "hamstrings",
+      "bodyPart": "legs",
+      "equipment": "bodyweight",
+      "category": "stretching",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Vá para a posição de alongamento lentamente até sentir uma tensão suave na área alvo — não dor.",
+        "Segure de 20 a 40 segundos respirando profundamente. A cada expiração, tente afundar um pouco mais no alongamento.",
+        "Solte lentamente e repita se desejar. Consistência importa mais que intensidade — alongue regularmente para flexibilidade duradoura.",
+        "Respire profunda e constantemente durante toda a manutenção. Nunca prenda a respiração durante alongamentos."
+      ],
+      "file": "hamstrings/world-greatest-stretch.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/world-greatest-stretch.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/hamstrings/world-greatest-stretch.thumb.webp"
+    }
+  ]
+}

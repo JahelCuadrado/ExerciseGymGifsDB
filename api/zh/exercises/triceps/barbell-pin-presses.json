@@ -1,0 +1,22 @@
+{
+  "id": "triceps/barbell-pin-presses",
+  "slug": "barbell-pin-presses",
+  "name": "杠铃插销推举",
+  "muscle": "triceps",
+  "bodyPart": "arms",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "delts"
+  ],
+  "instructions": [
+    "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+    "绷紧核心并固定肩胛骨。从稳定的基础开始推举。",
+    "沿控制轨迹将重量推离身体，完全伸展但不要猛烈锁定关节。",
+    "控制将重量收回，在整个运动范围内保持张力。",
+    "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+  ],
+  "file": "triceps/barbell-pin-presses.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-pin-presses.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/triceps/barbell-pin-presses.thumb.webp"
+}

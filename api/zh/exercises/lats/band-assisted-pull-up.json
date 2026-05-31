@@ -1,0 +1,24 @@
+{
+  "id": "lats/band-assisted-pull-up",
+  "slug": "band-assisted-pull-up",
+  "name": "弹力带辅助引体向上",
+  "muscle": "lats",
+  "bodyPart": "back",
+  "equipment": "band",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "delts"
+  ],
+  "instructions": [
+    "将弹力带固定在正确的锚点，确保有初始张力。",
+    "手臂完全伸直悬挂在杠上。通过将肩胛骨向下向后拉来设置肩膀——把它们塞进后裤袋。",
+    "将肘部驱向后裤袋来拉，用胸部引导，而不是下巴。想象将杠铃弯过你的锁骨。",
+    "下巴过杠并在顶部收紧。完全控制下放至悬垂状态——从完全拉伸中赢得每一次重复。",
+    "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+  ],
+  "file": "lats/band-assisted-pull-up.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/band-assisted-pull-up.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/band-assisted-pull-up.thumb.webp"
+}

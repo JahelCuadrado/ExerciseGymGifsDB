@@ -1,0 +1,25 @@
+{
+  "id": "lats/reverse-grip-machine-lat-pulldown",
+  "slug": "reverse-grip-machine-lat-pulldown",
+  "name": "Tirage vertical à la machine, prise supination",
+  "muscle": "lats",
+  "bodyPart": "back",
+  "equipment": "machine",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "delts"
+  ],
+  "instructions": [
+    "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+    "Utilise une prise supination pour changer l'angle de traction et l'accent musculaire.",
+    "Saisis la barre et bloque tes cuisses sous le coussin. Penche-toi légèrement en arrière et abaisse tes omoplates.",
+    "Tire la barre vers le haut de la poitrine en poussant les coudes vers le bas et l'arrière. Imagine plier la barre autour de tes clavicules.",
+    "Contracte les dorsaux un instant en bas, puis laisse la barre remonter lentement au-dessus de la tête, sentant l'étirement complet des dorsaux.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "lats/reverse-grip-machine-lat-pulldown.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/reverse-grip-machine-lat-pulldown.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/reverse-grip-machine-lat-pulldown.thumb.webp"
+}

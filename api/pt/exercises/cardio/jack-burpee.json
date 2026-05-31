@@ -1,0 +1,26 @@
+{
+  "id": "cardio/jack-burpee",
+  "slug": "jack-burpee",
+  "name": "Burpee, polichinelo",
+  "muscle": "cardio",
+  "bodyPart": "cardio",
+  "equipment": "bodyweight",
+  "category": "cardio",
+  "secondaryMuscles": [
+    "pectorals",
+    "triceps",
+    "quads",
+    "glutes",
+    "abs"
+  ],
+  "instructions": [
+    "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+    "Em pé, agache e coloque as mãos no chão à sua frente.",
+    "Salte ou leve os pés para trás em posição de flexão. Faça uma flexão (ou pule para mais velocidade).",
+    "Salte ou leve os pés de volta às mãos, depois exploda em um salto com as mãos sobre a cabeça. Aterrisse suave e repita.",
+    "Respire ritmicamente — inspire pelo nariz e expire pela boca, seguindo seu ritmo."
+  ],
+  "file": "cardio/jack-burpee.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jack-burpee.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/cardio/jack-burpee.thumb.webp"
+}

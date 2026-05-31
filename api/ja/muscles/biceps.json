@@ -1,0 +1,3456 @@
+{
+  "muscle": "biceps",
+  "count": 151,
+  "exercises": [
+    {
+      "id": "biceps/band-alternating-biceps-curl",
+      "slug": "band-alternating-biceps-curl",
+      "name": "バンド・オルタネイト・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "レジスタンスバンドを正しいアンカーポイントに固定し、初期テンションがあることを確認します。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/band-alternating-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/band-alternating-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/band-alternating-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/band-concentration-curl",
+      "slug": "band-concentration-curl",
+      "name": "バンド・コンセントレーションカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "レジスタンスバンドを正しいアンカーポイントに固定し、初期テンションがあることを確認します。",
+        "足を広げて座り、ワーキングアームの裏側を内ももに当てます。これで上腕が固定されます。",
+        "ゆっくりカールし、上腕二頭筋の収縮に完全に集中します。トップでオレンジの汁を絞り出すようにします。",
+        "3秒かけて下ろし、完全に伸ばします。太ももがガードレールの役割を果たし、振りが不可能になります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/band-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/band-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/band-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/band-one-arm-overhead-biceps-curl",
+      "slug": "band-one-arm-overhead-biceps-curl",
+      "name": "バンド・ワンアーム・オーバーヘッド・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "レジスタンスバンドを正しいアンカーポイントに固定し、初期テンションがあることを確認します。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/band-one-arm-overhead-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/band-one-arm-overhead-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/band-one-arm-overhead-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-alternate-biceps-curl",
+      "slug": "barbell-alternate-biceps-curl",
+      "name": "バーベル・オルタネイト・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/barbell-alternate-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-alternate-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-alternate-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-biceps-curl-with-arm-blaster",
+      "slug": "barbell-biceps-curl-with-arm-blaster",
+      "name": "バーベル・バイセプスカール・アーム・ブラスター",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/barbell-biceps-curl-with-arm-blaster.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-biceps-curl-with-arm-blaster.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-biceps-curl-with-arm-blaster.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-curl",
+      "slug": "barbell-curl",
+      "name": "バーベル・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/barbell-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-drag-curl",
+      "slug": "barbell-drag-curl",
+      "name": "バーベル・ドラッグカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "太ももの前でバーを持ちます。通常のアーチを描く代わりに、バーを体に沿ってまっすぐ上に引きずります。肘は後ろに移動します。",
+        "バーが胴体に沿って上がるにつれ、肘を後ろに引きます。これは上腕二頭筋の長頭を強調します。",
+        "軌道を逆にし、バーをコントロールしながら体に沿って戻します。バーは常に胴体に触れています。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/barbell-drag-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-drag-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-drag-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-lying-preacher-curl",
+      "slug": "barbell-lying-preacher-curl",
+      "name": "バーベル・ライイング・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/barbell-lying-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-lying-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-lying-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-preacher-curl",
+      "slug": "barbell-preacher-curl",
+      "name": "バーベル・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/barbell-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-prone-incline-curl",
+      "slug": "barbell-prone-incline-curl",
+      "name": "バーベル・うつ伏せ・インクライン・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/barbell-prone-incline-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-prone-incline-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-prone-incline-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-reverse-curl",
+      "slug": "barbell-reverse-curl",
+      "name": "バーベル・リバースカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/barbell-reverse-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-reverse-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-reverse-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-reverse-preacher-curl",
+      "slug": "barbell-reverse-preacher-curl",
+      "name": "バーベル・リバース・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/barbell-reverse-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-reverse-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-reverse-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-seated-close-grip-concentration-curl",
+      "slug": "barbell-seated-close-grip-concentration-curl",
+      "name": "バーベル・シーテッド・ナローグリップ・コンセントレーションカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "ナローグリップを使い、手の間隔を約15cmにして内側への刺激を高めます。",
+        "足を広げて座り、ワーキングアームの裏側を内ももに当てます。これで上腕が固定されます。",
+        "ゆっくりカールし、上腕二頭筋の収縮に完全に集中します。トップでオレンジの汁を絞り出すようにします。",
+        "3秒かけて下ろし、完全に伸ばします。太ももがガードレールの役割を果たし、振りが不可能になります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/barbell-seated-close-grip-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-seated-close-grip-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-seated-close-grip-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-standing-close-grip-curl",
+      "slug": "barbell-standing-close-grip-curl",
+      "name": "バーベル・スタンディング・ナローグリップ・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "ナローグリップを使い、手の間隔を約15cmにして内側への刺激を高めます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/barbell-standing-close-grip-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-close-grip-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-close-grip-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-standing-concentration-curl",
+      "slug": "barbell-standing-concentration-curl",
+      "name": "バーベル・スタンディング・コンセントレーションカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "足を広げて座り、ワーキングアームの裏側を内ももに当てます。これで上腕が固定されます。",
+        "ゆっくりカールし、上腕二頭筋の収縮に完全に集中します。トップでオレンジの汁を絞り出すようにします。",
+        "3秒かけて下ろし、完全に伸ばします。太ももがガードレールの役割を果たし、振りが不可能になります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/barbell-standing-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-standing-reverse-grip-curl",
+      "slug": "barbell-standing-reverse-grip-curl",
+      "name": "バーベル・スタンディング・リバースグリップ・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/barbell-standing-reverse-grip-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-reverse-grip-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-reverse-grip-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-standing-wide-grip-biceps-curl",
+      "slug": "barbell-standing-wide-grip-biceps-curl",
+      "name": "バーベル・スタンディング・ワイドグリップ・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "ワイドグリップを使い、肩幅よりかなり広く握って、ストレッチと外側への刺激を高めます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/barbell-standing-wide-grip-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-wide-grip-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-wide-grip-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/barbell-standing-wide-grip-curl",
+      "slug": "barbell-standing-wide-grip-curl",
+      "name": "バーベル・スタンディング・ワイドグリップ・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "ワイドグリップを使い、肩幅よりかなり広く握って、ストレッチと外側への刺激を高めます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/barbell-standing-wide-grip-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-wide-grip-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/barbell-standing-wide-grip-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/biceps-leg-concentration-curl",
+      "slug": "biceps-leg-concentration-curl",
+      "name": "コンセントレーションカール・バイセプス・レッグ",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "足を広げて座り、ワーキングアームの裏側を内ももに当てます。これで上腕が固定されます。",
+        "ゆっくりカールし、上腕二頭筋の収縮に完全に集中します。トップでオレンジの汁を絞り出すようにします。",
+        "3秒かけて下ろし、完全に伸ばします。太ももがガードレールの役割を果たし、振りが不可能になります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/biceps-leg-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/biceps-leg-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/biceps-leg-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/biceps-narrow-pull-ups",
+      "slug": "biceps-narrow-pull-ups",
+      "name": "ナロー・懸垂・バイセプス",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "バーから腕を完全に伸ばしてぶら下がります。肩甲骨を下げて寄せ、後ろのポケットにしまうようにセットします。",
+        "肘を後ろのポケットに向け、胸でリードしながら引き上げます。顎ではなく胸で。バーを鎖骨に巻き付けるイメージです。",
+        "顎がバーの上に出たらトップで絞ります。完全にぶら下がった状態までコントロールして下ろします。毎レップ、完全なストレッチから始めましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/biceps-narrow-pull-ups.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/biceps-narrow-pull-ups.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/biceps-narrow-pull-ups.thumb.webp"
+    },
+    {
+      "id": "biceps/biceps-pull-up",
+      "slug": "biceps-pull-up",
+      "name": "懸垂・バイセプス",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "バーから腕を完全に伸ばしてぶら下がります。肩甲骨を下げて寄せ、後ろのポケットにしまうようにセットします。",
+        "肘を後ろのポケットに向け、胸でリードしながら引き上げます。顎ではなく胸で。バーを鎖骨に巻き付けるイメージです。",
+        "顎がバーの上に出たらトップで絞ります。完全にぶら下がった状態までコントロールして下ろします。毎レップ、完全なストレッチから始めましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/biceps-pull-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/biceps-pull-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/biceps-pull-up.thumb.webp"
+    },
+    {
+      "id": "biceps/bodyweight-side-lying-biceps-curl",
+      "slug": "bodyweight-side-lying-biceps-curl",
+      "name": "自重・サイドライイング・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/bodyweight-side-lying-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/bodyweight-side-lying-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/bodyweight-side-lying-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-close-grip-curl",
+      "slug": "cable-close-grip-curl",
+      "name": "ケーブル・ナローグリップ・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "ナローグリップを使い、手の間隔を約15cmにして内側への刺激を高めます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-close-grip-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-close-grip-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-close-grip-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-concentration-curl",
+      "slug": "cable-concentration-curl",
+      "name": "ケーブル・コンセントレーションカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "足を広げて座り、ワーキングアームの裏側を内ももに当てます。これで上腕が固定されます。",
+        "ゆっくりカールし、上腕二頭筋の収縮に完全に集中します。トップでオレンジの汁を絞り出すようにします。",
+        "3秒かけて下ろし、完全に伸ばします。太ももがガードレールの役割を果たし、振りが不可能になります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-curl",
+      "slug": "cable-curl",
+      "name": "ケーブル・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-drag-curl",
+      "slug": "cable-drag-curl",
+      "name": "ケーブル・ドラッグカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "太ももの前でバーを持ちます。通常のアーチを描く代わりに、バーを体に沿ってまっすぐ上に引きずります。肘は後ろに移動します。",
+        "バーが胴体に沿って上がるにつれ、肘を後ろに引きます。これは上腕二頭筋の長頭を強調します。",
+        "軌道を逆にし、バーをコントロールしながら体に沿って戻します。バーは常に胴体に触れています。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-drag-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-drag-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-drag-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-hammer-curl-with-rope",
+      "slug": "cable-hammer-curl-with-rope",
+      "name": "ケーブル・ロープ・ハンマーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "ニュートラルグリップ（手のひらが向かい合う）で重りを持ちます。肘を体側に固定します。釘で留めてあるイメージです。",
+        "ニュートラルグリップのままカールします。これは上腕筋と腕橈骨筋を上腕二頭筋に加えて鍛えます。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに保ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-hammer-curl-with-rope.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-hammer-curl-with-rope.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-hammer-curl-with-rope.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-lying-bicep-curl",
+      "slug": "cable-lying-bicep-curl",
+      "name": "ケーブル・ライイング・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-lying-bicep-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-lying-bicep-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-lying-bicep-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-lying-close-grip-curl",
+      "slug": "cable-lying-close-grip-curl",
+      "name": "ケーブル・ライイング・ナローグリップ・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "ナローグリップを使い、手の間隔を約15cmにして内側への刺激を高めます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-lying-close-grip-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-lying-close-grip-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-lying-close-grip-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-one-arm-curl",
+      "slug": "cable-one-arm-curl",
+      "name": "ケーブル・ワンアーム・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-one-arm-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-one-arm-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-one-arm-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-one-arm-preacher-curl",
+      "slug": "cable-one-arm-preacher-curl",
+      "name": "ケーブル・ワンアーム・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-one-arm-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-one-arm-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-one-arm-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-one-arm-reverse-preacher-curl",
+      "slug": "cable-one-arm-reverse-preacher-curl",
+      "name": "ケーブル・ワンアーム・リバース・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-one-arm-reverse-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-one-arm-reverse-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-one-arm-reverse-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-overhead-curl-on-exercise-ball",
+      "slug": "cable-overhead-curl-on-exercise-ball",
+      "name": "ケーブル・バランスボール・オーバーヘッド・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-overhead-curl-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-overhead-curl-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-overhead-curl-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-overhead-curl",
+      "slug": "cable-overhead-curl",
+      "name": "ケーブル・オーバーヘッド・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-overhead-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-overhead-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-overhead-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-preacher-curl",
+      "slug": "cable-preacher-curl",
+      "name": "ケーブル・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-pulldown-bicep-curl",
+      "slug": "cable-pulldown-bicep-curl",
+      "name": "ケーブル・プルダウン・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "バーを握り、太ももをパッドの下に固定します。少し後ろに傾き、肩甲骨を下げます。",
+        "肘を下後方に引きながら、バーを上胸に向けて引きます。バーを鎖骨に巻き付けるイメージです。",
+        "ボトムで広背筋を一瞬絞り、バーをゆっくり頭上に戻して広背筋の完全なストレッチを感じます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-pulldown-bicep-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-pulldown-bicep-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-pulldown-bicep-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-reverse-curl",
+      "slug": "cable-reverse-curl",
+      "name": "ケーブル・リバースカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-reverse-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-reverse-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-reverse-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-reverse-one-arm-curl",
+      "slug": "cable-reverse-one-arm-curl",
+      "name": "ケーブル・ワンアーム・リバース・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-reverse-one-arm-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-reverse-one-arm-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-reverse-one-arm-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-reverse-preacher-curl",
+      "slug": "cable-reverse-preacher-curl",
+      "name": "ケーブル・リバース・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-reverse-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-reverse-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-reverse-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-rope-hammer-preacher-curl",
+      "slug": "cable-rope-hammer-preacher-curl",
+      "name": "ケーブル・ロープ・ハンマー・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "ニュートラルグリップ（手のひらが向かい合う）で重りを持ちます。肘を体側に固定します。釘で留めてあるイメージです。",
+        "ニュートラルグリップのままカールします。これは上腕筋と腕橈骨筋を上腕二頭筋に加えて鍛えます。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに保ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-rope-hammer-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-rope-hammer-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-rope-hammer-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-rope-one-arm-hammer-preacher-curl",
+      "slug": "cable-rope-one-arm-hammer-preacher-curl",
+      "name": "ケーブル・ロープ・ワンアーム・ハンマー・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "ニュートラルグリップ（手のひらが向かい合う）で重りを持ちます。肘を体側に固定します。釘で留めてあるイメージです。",
+        "ニュートラルグリップのままカールします。これは上腕筋と腕橈骨筋を上腕二頭筋に加えて鍛えます。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに保ちます。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-rope-one-arm-hammer-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-rope-one-arm-hammer-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-rope-one-arm-hammer-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-seated-curl",
+      "slug": "cable-seated-curl",
+      "name": "ケーブル・シーテッド・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-seated-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-seated-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-seated-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-seated-one-arm-concentration-curl",
+      "slug": "cable-seated-one-arm-concentration-curl",
+      "name": "ケーブル・シーテッド・ワンアーム・コンセントレーションカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "足を広げて座り、ワーキングアームの裏側を内ももに当てます。これで上腕が固定されます。",
+        "ゆっくりカールし、上腕二頭筋の収縮に完全に集中します。トップでオレンジの汁を絞り出すようにします。",
+        "3秒かけて下ろし、完全に伸ばします。太ももがガードレールの役割を果たし、振りが不可能になります。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-seated-one-arm-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-seated-one-arm-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-seated-one-arm-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-seated-overhead-curl",
+      "slug": "cable-seated-overhead-curl",
+      "name": "ケーブル・シーテッド・オーバーヘッド・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-seated-overhead-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-seated-overhead-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-seated-overhead-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-squatting-curl",
+      "slug": "cable-squatting-curl",
+      "name": "ケーブル・カール・スクワッティング",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-squatting-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-squatting-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-squatting-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-standing-inner-curl",
+      "slug": "cable-standing-inner-curl",
+      "name": "ケーブル・スタンディング・カール・インナー",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-standing-inner-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-standing-inner-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-standing-inner-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-standing-pulldown-with-rope",
+      "slug": "cable-standing-pulldown-with-rope",
+      "name": "ケーブル・スタンディング・ロープ・プルダウン",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "delts"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "バーを握り、太ももをパッドの下に固定します。少し後ろに傾き、肩甲骨を下げます。",
+        "肘を下後方に引きながら、バーを上胸に向けて引きます。バーを鎖骨に巻き付けるイメージです。",
+        "ボトムで広背筋を一瞬絞り、バーをゆっくり頭上に戻して広背筋の完全なストレッチを感じます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-standing-pulldown-with-rope.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-standing-pulldown-with-rope.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-standing-pulldown-with-rope.thumb.webp"
+    },
+    {
+      "id": "biceps/cable-two-arm-curl-on-incline-bench",
+      "slug": "cable-two-arm-curl-on-incline-bench",
+      "name": "ケーブル・ツーアーム・インクライン・カール・ベンチ",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "cable",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切なアタッチメントを取り付け、プーリーの高さを設定し、重量を選択します。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/cable-two-arm-curl-on-incline-bench.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-two-arm-curl-on-incline-bench.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/cable-two-arm-curl-on-incline-bench.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-alternate-biceps-curl-with-arm-blaster",
+      "slug": "dumbbell-alternate-biceps-curl-with-arm-blaster",
+      "name": "ダンベル・オルタネイト・バイセプスカール・アーム・ブラスター",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-alternate-biceps-curl-with-arm-blaster.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternate-biceps-curl-with-arm-blaster.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternate-biceps-curl-with-arm-blaster.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-alternate-biceps-curl",
+      "slug": "dumbbell-alternate-biceps-curl",
+      "name": "ダンベル・オルタネイト・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-alternate-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternate-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternate-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-alternate-hammer-preacher-curl",
+      "slug": "dumbbell-alternate-hammer-preacher-curl",
+      "name": "ダンベル・オルタネイト・ハンマー・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ニュートラルグリップ（手のひらが向かい合う）で重りを持ちます。肘を体側に固定します。釘で留めてあるイメージです。",
+        "ニュートラルグリップのままカールします。これは上腕筋と腕橈骨筋を上腕二頭筋に加えて鍛えます。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに保ちます。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-alternate-hammer-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternate-hammer-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternate-hammer-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-alternate-preacher-curl",
+      "slug": "dumbbell-alternate-preacher-curl",
+      "name": "ダンベル・オルタネイト・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-alternate-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternate-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternate-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-alternate-seated-hammer-curl",
+      "slug": "dumbbell-alternate-seated-hammer-curl",
+      "name": "ダンベル・シーテッド・オルタネイト・ハンマーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "ニュートラルグリップ（手のひらが向かい合う）で重りを持ちます。肘を体側に固定します。釘で留めてあるイメージです。",
+        "ニュートラルグリップのままカールします。これは上腕筋と腕橈骨筋を上腕二頭筋に加えて鍛えます。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに保ちます。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-alternate-seated-hammer-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternate-seated-hammer-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternate-seated-hammer-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-alternating-bicep-curl-with-leg-raised-on-exercise-ball",
+      "slug": "dumbbell-alternating-bicep-curl-with-leg-raised-on-exercise-ball",
+      "name": "ダンベル・バランスボール・オルタネイト・バイセプスカール・レッグ・レイズド",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-alternating-bicep-curl-with-leg-raised-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternating-bicep-curl-with-leg-raised-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternating-bicep-curl-with-leg-raised-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-alternating-seated-bicep-curl-on-exercise-ball",
+      "slug": "dumbbell-alternating-seated-bicep-curl-on-exercise-ball",
+      "name": "ダンベル・バランスボール・シーテッド・オルタネイト・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-alternating-seated-bicep-curl-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternating-seated-bicep-curl-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-alternating-seated-bicep-curl-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-bicep-curl-lunge-with-bowling-motion",
+      "slug": "dumbbell-bicep-curl-lunge-with-bowling-motion",
+      "name": "ダンベル・バイセプスカール・ランジ・ボウリング・モーション",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-bicep-curl-lunge-with-bowling-motion.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-bicep-curl-lunge-with-bowling-motion.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-bicep-curl-lunge-with-bowling-motion.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-bicep-curl-on-exercise-ball-with-leg-raised",
+      "slug": "dumbbell-bicep-curl-on-exercise-ball-with-leg-raised",
+      "name": "ダンベル・バランスボール・バイセプスカール・レッグ・レイズド",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-bicep-curl-on-exercise-ball-with-leg-raised.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-bicep-curl-on-exercise-ball-with-leg-raised.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-bicep-curl-on-exercise-ball-with-leg-raised.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-bicep-curl-with-stork-stance",
+      "slug": "dumbbell-bicep-curl-with-stork-stance",
+      "name": "ダンベル・バイセプスカール・コウノトリ・スタンス",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-bicep-curl-with-stork-stance.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-bicep-curl-with-stork-stance.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-bicep-curl-with-stork-stance.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-biceps-curl-reverse",
+      "slug": "dumbbell-biceps-curl-reverse",
+      "name": "ダンベル・リバース・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-biceps-curl-reverse.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-biceps-curl-reverse.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-biceps-curl-reverse.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-biceps-curl-squat",
+      "slug": "dumbbell-biceps-curl-squat",
+      "name": "ダンベル・スクワット・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "足を地面にねじ込むようにテンションを作ります。腹部に深く息を吸い込みます。ベルトのバックルの裏に風船を膨らませるイメージです。",
+        "後ろに椅子があるように座り込み、足で床を横に押し広げます。胸は前の鏡に向けたままにしてください。",
+        "足全体で踏み込み、床を自分から押し離して立ち上がります。頭頂部から糸で引っ張られるようにまっすぐ立ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-biceps-curl-squat.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-biceps-curl-squat.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-biceps-curl-squat.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-biceps-curl-v-sit-on-bosu-ball",
+      "slug": "dumbbell-biceps-curl-v-sit-on-bosu-ball",
+      "name": "ダンベル・BOSUボール・バイセプスカール・シット",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-biceps-curl-v-sit-on-bosu-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-biceps-curl-v-sit-on-bosu-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-biceps-curl-v-sit-on-bosu-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-biceps-curl-with-arm-blaster",
+      "slug": "dumbbell-biceps-curl-with-arm-blaster",
+      "name": "ダンベル・バイセプスカール・アーム・ブラスター",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-biceps-curl-with-arm-blaster.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-biceps-curl-with-arm-blaster.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-biceps-curl-with-arm-blaster.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-biceps-curl",
+      "slug": "dumbbell-biceps-curl",
+      "name": "ダンベル・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-concentration-curl",
+      "slug": "dumbbell-concentration-curl",
+      "name": "ダンベル・コンセントレーションカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "足を広げて座り、ワーキングアームの裏側を内ももに当てます。これで上腕が固定されます。",
+        "ゆっくりカールし、上腕二頭筋の収縮に完全に集中します。トップでオレンジの汁を絞り出すようにします。",
+        "3秒かけて下ろし、完全に伸ばします。太ももがガードレールの役割を果たし、振りが不可能になります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-cross-body-hammer-curl-v-2",
+      "slug": "dumbbell-cross-body-hammer-curl-v-2",
+      "name": "ダンベル・クロスボディ・ハンマーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ニュートラルグリップ（手のひらが向かい合う）で重りを持ちます。肘を体側に固定します。釘で留めてあるイメージです。",
+        "ニュートラルグリップのままカールします。これは上腕筋と腕橈骨筋を上腕二頭筋に加えて鍛えます。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに保ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-cross-body-hammer-curl-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-cross-body-hammer-curl-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-cross-body-hammer-curl-v-2.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-cross-body-hammer-curl",
+      "slug": "dumbbell-cross-body-hammer-curl",
+      "name": "ダンベル・クロスボディ・ハンマーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ニュートラルグリップ（手のひらが向かい合う）で重りを持ちます。肘を体側に固定します。釘で留めてあるイメージです。",
+        "ニュートラルグリップのままカールします。これは上腕筋と腕橈骨筋を上腕二頭筋に加えて鍛えます。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに保ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-cross-body-hammer-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-cross-body-hammer-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-cross-body-hammer-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-hammer-curl-on-exercise-ball",
+      "slug": "dumbbell-hammer-curl-on-exercise-ball",
+      "name": "ダンベル・バランスボール・ハンマーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ニュートラルグリップ（手のひらが向かい合う）で重りを持ちます。肘を体側に固定します。釘で留めてあるイメージです。",
+        "ニュートラルグリップのままカールします。これは上腕筋と腕橈骨筋を上腕二頭筋に加えて鍛えます。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに保ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-hammer-curl-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-hammer-curl-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-hammer-curl-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-hammer-curl-v-2",
+      "slug": "dumbbell-hammer-curl-v-2",
+      "name": "ダンベル・ハンマーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ニュートラルグリップ（手のひらが向かい合う）で重りを持ちます。肘を体側に固定します。釘で留めてあるイメージです。",
+        "ニュートラルグリップのままカールします。これは上腕筋と腕橈骨筋を上腕二頭筋に加えて鍛えます。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに保ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-hammer-curl-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-hammer-curl-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-hammer-curl-v-2.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-hammer-curl",
+      "slug": "dumbbell-hammer-curl",
+      "name": "ダンベル・ハンマーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ニュートラルグリップ（手のひらが向かい合う）で重りを持ちます。肘を体側に固定します。釘で留めてあるイメージです。",
+        "ニュートラルグリップのままカールします。これは上腕筋と腕橈骨筋を上腕二頭筋に加えて鍛えます。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに保ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-hammer-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-hammer-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-hammer-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-hammer-curls-with-arm-blaster",
+      "slug": "dumbbell-hammer-curls-with-arm-blaster",
+      "name": "ダンベル・ハンマーカール・アーム・ブラスター",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-hammer-curls-with-arm-blaster.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-hammer-curls-with-arm-blaster.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-hammer-curls-with-arm-blaster.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-high-curl",
+      "slug": "dumbbell-high-curl",
+      "name": "ダンベル・ハイ・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-high-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-high-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-high-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-incline-biceps-curl",
+      "slug": "dumbbell-incline-biceps-curl",
+      "name": "ダンベル・インクライン・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-incline-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-incline-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-incline-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-incline-curl-v-2",
+      "slug": "dumbbell-incline-curl-v-2",
+      "name": "ダンベル・インクライン・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-incline-curl-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-incline-curl-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-incline-curl-v-2.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-incline-curl",
+      "slug": "dumbbell-incline-curl",
+      "name": "ダンベル・インクライン・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-incline-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-incline-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-incline-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-incline-hammer-curl",
+      "slug": "dumbbell-incline-hammer-curl",
+      "name": "ダンベル・インクライン・ハンマーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "ニュートラルグリップ（手のひらが向かい合う）で重りを持ちます。肘を体側に固定します。釘で留めてあるイメージです。",
+        "ニュートラルグリップのままカールします。これは上腕筋と腕橈骨筋を上腕二頭筋に加えて鍛えます。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに保ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-incline-hammer-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-incline-hammer-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-incline-hammer-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-incline-inner-biceps-curl",
+      "slug": "dumbbell-incline-inner-biceps-curl",
+      "name": "ダンベル・インクライン・バイセプスカール・インナー",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-incline-inner-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-incline-inner-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-incline-inner-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-kneeling-bicep-curl-exercise-ball",
+      "slug": "dumbbell-kneeling-bicep-curl-exercise-ball",
+      "name": "ダンベル・バランスボール・ニーリング・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "膝を立て、腰を膝の真上に位置させ、上体を直立に保ちます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-kneeling-bicep-curl-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-kneeling-bicep-curl-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-kneeling-bicep-curl-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-lunge-with-bicep-curl",
+      "slug": "dumbbell-lunge-with-bicep-curl",
+      "name": "ダンベル・バイセプスカール・ランジ",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-lunge-with-bicep-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-lunge-with-bicep-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-lunge-with-bicep-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-lying-supine-biceps-curl",
+      "slug": "dumbbell-lying-supine-biceps-curl",
+      "name": "ダンベル・ライイング・仰向け・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-lying-supine-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-lying-supine-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-lying-supine-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-lying-supine-curl",
+      "slug": "dumbbell-lying-supine-curl",
+      "name": "ダンベル・ライイング・仰向け・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-lying-supine-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-lying-supine-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-lying-supine-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-lying-wide-curl",
+      "slug": "dumbbell-lying-wide-curl",
+      "name": "ダンベル・ライイング・ワイド・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-lying-wide-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-lying-wide-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-lying-wide-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-concentration-curl-on-stability-ball",
+      "slug": "dumbbell-one-arm-concentration-curl-on-stability-ball",
+      "name": "ダンベル・バランスボール・ワンアーム・コンセントレーションカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "足を広げて座り、ワーキングアームの裏側を内ももに当てます。これで上腕が固定されます。",
+        "ゆっくりカールし、上腕二頭筋の収縮に完全に集中します。トップでオレンジの汁を絞り出すようにします。",
+        "3秒かけて下ろし、完全に伸ばします。太ももがガードレールの役割を果たし、振りが不可能になります。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-one-arm-concentration-curl-on-stability-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-concentration-curl-on-stability-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-concentration-curl-on-stability-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-hammer-preacher-curl",
+      "slug": "dumbbell-one-arm-hammer-preacher-curl",
+      "name": "ダンベル・ワンアーム・ハンマー・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ニュートラルグリップ（手のひらが向かい合う）で重りを持ちます。肘を体側に固定します。釘で留めてあるイメージです。",
+        "ニュートラルグリップのままカールします。これは上腕筋と腕橈骨筋を上腕二頭筋に加えて鍛えます。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに保ちます。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-one-arm-hammer-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-hammer-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-hammer-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-prone-curl",
+      "slug": "dumbbell-one-arm-prone-curl",
+      "name": "ダンベル・うつ伏せ・ワンアーム・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-one-arm-prone-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-prone-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-prone-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-prone-hammer-curl",
+      "slug": "dumbbell-one-arm-prone-hammer-curl",
+      "name": "ダンベル・うつ伏せ・ワンアーム・ハンマーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背中を平らに表面に付けて横になり、コアを引き締めます。",
+        "ニュートラルグリップ（手のひらが向かい合う）で重りを持ちます。肘を体側に固定します。釘で留めてあるイメージです。",
+        "ニュートラルグリップのままカールします。これは上腕筋と腕橈骨筋を上腕二頭筋に加えて鍛えます。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに保ちます。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-one-arm-prone-hammer-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-prone-hammer-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-prone-hammer-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-reverse-preacher-curl",
+      "slug": "dumbbell-one-arm-reverse-preacher-curl",
+      "name": "ダンベル・ワンアーム・リバース・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-one-arm-reverse-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-reverse-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-reverse-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-reverse-spider-curl",
+      "slug": "dumbbell-one-arm-reverse-spider-curl",
+      "name": "ダンベル・ワンアーム・リバース・スパイダーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "インクラインベンチにうつ伏せになり、腕をまっすぐ下に垂らします。重力が全レップを通じて負荷をかけます。",
+        "カールしてトップで上腕二頭筋を強く絞ります。ベンチの角度が一定のテンションを保ち、ボトムでも休めません。",
+        "完全伸展までコントロールして下ろします。この角度ではチートがほぼ不可能なので、軽い重量でフォームに集中します。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-one-arm-reverse-spider-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-reverse-spider-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-reverse-spider-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-seated-bicep-curl-on-exercise-ball",
+      "slug": "dumbbell-one-arm-seated-bicep-curl-on-exercise-ball",
+      "name": "ダンベル・バランスボール・シーテッド・ワンアーム・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-one-arm-seated-bicep-curl-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-seated-bicep-curl-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-seated-bicep-curl-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-seated-hammer-curl",
+      "slug": "dumbbell-one-arm-seated-hammer-curl",
+      "name": "ダンベル・シーテッド・ワンアーム・ハンマーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "ニュートラルグリップ（手のひらが向かい合う）で重りを持ちます。肘を体側に固定します。釘で留めてあるイメージです。",
+        "ニュートラルグリップのままカールします。これは上腕筋と腕橈骨筋を上腕二頭筋に加えて鍛えます。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに保ちます。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-one-arm-seated-hammer-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-seated-hammer-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-seated-hammer-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-standing-curl",
+      "slug": "dumbbell-one-arm-standing-curl",
+      "name": "ダンベル・スタンディング・ワンアーム・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-one-arm-standing-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-standing-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-standing-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-standing-hammer-curl",
+      "slug": "dumbbell-one-arm-standing-hammer-curl",
+      "name": "ダンベル・スタンディング・ワンアーム・ハンマーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ニュートラルグリップ（手のひらが向かい合う）で重りを持ちます。肘を体側に固定します。釘で留めてあるイメージです。",
+        "ニュートラルグリップのままカールします。これは上腕筋と腕橈骨筋を上腕二頭筋に加えて鍛えます。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに保ちます。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-one-arm-standing-hammer-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-standing-hammer-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-standing-hammer-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-one-arm-zottman-preacher-curl",
+      "slug": "dumbbell-one-arm-zottman-preacher-curl",
+      "name": "ダンベル・ワンアーム・ゾットマン・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-one-arm-zottman-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-zottman-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-one-arm-zottman-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-over-bench-neutral-wrist-curl",
+      "slug": "dumbbell-over-bench-neutral-wrist-curl",
+      "name": "ダンベル・リストカール・オーバー・ベンチ・ニュートラル",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ニュートラルグリップ（手のひらを向かい合わせ）を使い、関節に優しく刺激を変えます。",
+        "前腕を太ももまたはベンチに乗せ、手首が端から出るようにします。前腕を表面にしっかり押し付けます。",
+        "手首を上に巻き上げ、前腕の筋肉をトップで絞ります。短く一時停止します。",
+        "ゆっくり下ろし、手首を完全にストレッチさせます。手首だけが動きます。前腕は固定です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-over-bench-neutral-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-over-bench-neutral-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-over-bench-neutral-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-over-bench-one-arm-neutral-wrist-curl",
+      "slug": "dumbbell-over-bench-one-arm-neutral-wrist-curl",
+      "name": "ダンベル・ワンアーム・リストカール・オーバー・ベンチ・ニュートラル",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ニュートラルグリップ（手のひらを向かい合わせ）を使い、関節に優しく刺激を変えます。",
+        "前腕を太ももまたはベンチに乗せ、手首が端から出るようにします。前腕を表面にしっかり押し付けます。",
+        "手首を上に巻き上げ、前腕の筋肉をトップで絞ります。短く一時停止します。",
+        "ゆっくり下ろし、手首を完全にストレッチさせます。手首だけが動きます。前腕は固定です。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-over-bench-one-arm-neutral-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-over-bench-one-arm-neutral-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-over-bench-one-arm-neutral-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-peacher-hammer-curl",
+      "slug": "dumbbell-peacher-hammer-curl",
+      "name": "ダンベル・プリーチャーハンマーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ニュートラルグリップ（手のひらが向かい合う）で重りを持ちます。肘を体側に固定します。釘で留めてあるイメージです。",
+        "ニュートラルグリップのままカールします。これは上腕筋と腕橈骨筋を上腕二頭筋に加えて鍛えます。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに保ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-peacher-hammer-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-peacher-hammer-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-peacher-hammer-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-preacher-curl-over-exercise-ball",
+      "slug": "dumbbell-preacher-curl-over-exercise-ball",
+      "name": "ダンベル・バランスボール・プリーチャーカール・オーバー",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-preacher-curl-over-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-preacher-curl-over-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-preacher-curl-over-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-preacher-curl",
+      "slug": "dumbbell-preacher-curl",
+      "name": "ダンベル・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-prone-incline-curl",
+      "slug": "dumbbell-prone-incline-curl",
+      "name": "ダンベル・うつ伏せ・インクライン・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-prone-incline-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-prone-incline-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-prone-incline-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-prone-incline-hammer-curl",
+      "slug": "dumbbell-prone-incline-hammer-curl",
+      "name": "ダンベル・うつ伏せ・インクライン・ハンマーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "ニュートラルグリップ（手のひらが向かい合う）で重りを持ちます。肘を体側に固定します。釘で留めてあるイメージです。",
+        "ニュートラルグリップのままカールします。これは上腕筋と腕橈骨筋を上腕二頭筋に加えて鍛えます。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに保ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-prone-incline-hammer-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-prone-incline-hammer-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-prone-incline-hammer-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-revers-grip-biceps-curl",
+      "slug": "dumbbell-revers-grip-biceps-curl",
+      "name": "ダンベル・リバースグリップ・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-revers-grip-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-revers-grip-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-revers-grip-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-reverse-preacher-curl",
+      "slug": "dumbbell-reverse-preacher-curl",
+      "name": "ダンベル・リバース・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-reverse-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-reverse-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-reverse-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-reverse-spider-curl",
+      "slug": "dumbbell-reverse-spider-curl",
+      "name": "ダンベル・リバース・スパイダーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "インクラインベンチにうつ伏せになり、腕をまっすぐ下に垂らします。重力が全レップを通じて負荷をかけます。",
+        "カールしてトップで上腕二頭筋を強く絞ります。ベンチの角度が一定のテンションを保ち、ボトムでも休めません。",
+        "完全伸展までコントロールして下ろします。この角度ではチートがほぼ不可能なので、軽い重量でフォームに集中します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-reverse-spider-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-reverse-spider-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-reverse-spider-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-seated-alternate-hammer-curl-on-exercise-ball",
+      "slug": "dumbbell-seated-alternate-hammer-curl-on-exercise-ball",
+      "name": "ダンベル・バランスボール・シーテッド・オルタネイト・ハンマーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "ニュートラルグリップ（手のひらが向かい合う）で重りを持ちます。肘を体側に固定します。釘で留めてあるイメージです。",
+        "ニュートラルグリップのままカールします。これは上腕筋と腕橈骨筋を上腕二頭筋に加えて鍛えます。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに保ちます。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-seated-alternate-hammer-curl-on-exercise-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-alternate-hammer-curl-on-exercise-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-alternate-hammer-curl-on-exercise-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-seated-bicep-curl",
+      "slug": "dumbbell-seated-bicep-curl",
+      "name": "ダンベル・シーテッド・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-seated-bicep-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-bicep-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-bicep-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-seated-biceps-curl-on-stability-ball",
+      "slug": "dumbbell-seated-biceps-curl-on-stability-ball",
+      "name": "ダンベル・バランスボール・シーテッド・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-seated-biceps-curl-on-stability-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-biceps-curl-on-stability-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-biceps-curl-on-stability-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-seated-biceps-curl-to-shoulder-press",
+      "slug": "dumbbell-seated-biceps-curl-to-shoulder-press",
+      "name": "ダンベル・シーテッド・ショルダープレス・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "手首を肘の真上に積み上げ、固い柱のようにします。臀筋を締め、腹筋をパンチを受けるように引き締めます。",
+        "重りを真上に押し上げ、頭を邪魔にならないように移動させます。バーが顔を通過したら、頭を前に出して完全にロックアウトします。",
+        "前部三角筋の上にコントロールしながら戻します。体幹を垂直に保ちましょう。立ったままのインクラインベンチではありません。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-seated-biceps-curl-to-shoulder-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-biceps-curl-to-shoulder-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-biceps-curl-to-shoulder-press.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-seated-curl",
+      "slug": "dumbbell-seated-curl",
+      "name": "ダンベル・シーテッド・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-seated-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-seated-hammer-curl",
+      "slug": "dumbbell-seated-hammer-curl",
+      "name": "ダンベル・シーテッド・ハンマーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "ニュートラルグリップ（手のひらが向かい合う）で重りを持ちます。肘を体側に固定します。釘で留めてあるイメージです。",
+        "ニュートラルグリップのままカールします。これは上腕筋と腕橈骨筋を上腕二頭筋に加えて鍛えます。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに保ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-seated-hammer-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-hammer-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-hammer-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-seated-inner-biceps-curl",
+      "slug": "dumbbell-seated-inner-biceps-curl",
+      "name": "ダンベル・シーテッド・バイセプスカール・インナー",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-seated-inner-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-inner-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-inner-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-seated-neutral-wrist-curl",
+      "slug": "dumbbell-seated-neutral-wrist-curl",
+      "name": "ダンベル・シーテッド・リストカール・ニュートラル",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "ニュートラルグリップ（手のひらを向かい合わせ）を使い、関節に優しく刺激を変えます。",
+        "前腕を太ももまたはベンチに乗せ、手首が端から出るようにします。前腕を表面にしっかり押し付けます。",
+        "手首を上に巻き上げ、前腕の筋肉をトップで絞ります。短く一時停止します。",
+        "ゆっくり下ろし、手首を完全にストレッチさせます。手首だけが動きます。前腕は固定です。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-seated-neutral-wrist-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-neutral-wrist-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-neutral-wrist-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised",
+      "slug": "dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised",
+      "name": "ダンベル・バランスボール・シーテッド・ワンアーム・バイセプスカール・レッグ・レイズド",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-seated-preacher-curl",
+      "slug": "dumbbell-seated-preacher-curl",
+      "name": "ダンベル・シーテッド・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-seated-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-seated-revers-grip-concentration-curl",
+      "slug": "dumbbell-seated-revers-grip-concentration-curl",
+      "name": "ダンベル・シーテッド・リバースグリップ・コンセントレーションカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "足を広げて座り、ワーキングアームの裏側を内ももに当てます。これで上腕が固定されます。",
+        "ゆっくりカールし、上腕二頭筋の収縮に完全に集中します。トップでオレンジの汁を絞り出すようにします。",
+        "3秒かけて下ろし、完全に伸ばします。太ももがガードレールの役割を果たし、振りが不可能になります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-seated-revers-grip-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-revers-grip-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-seated-revers-grip-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-standing-alternate-hammer-curl-and-press",
+      "slug": "dumbbell-standing-alternate-hammer-curl-and-press",
+      "name": "ダンベル・スタンディング・オルタネイト・ハンマーカール・プレス",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms",
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "体幹を引き締め、肩甲骨を固定します。安定した土台から押し出しを開始します。",
+        "コントロールされた軌道で体から重りを押し出し、関節を急にロックせずに完全に伸ばします。",
+        "可動域全体でテンションを維持しながら、コントロールして重りを戻します。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-standing-alternate-hammer-curl-and-press.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-alternate-hammer-curl-and-press.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-alternate-hammer-curl-and-press.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-standing-biceps-curl",
+      "slug": "dumbbell-standing-biceps-curl",
+      "name": "ダンベル・スタンディング・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-standing-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-standing-concentration-curl",
+      "slug": "dumbbell-standing-concentration-curl",
+      "name": "ダンベル・スタンディング・コンセントレーションカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "足を広げて座り、ワーキングアームの裏側を内ももに当てます。これで上腕が固定されます。",
+        "ゆっくりカールし、上腕二頭筋の収縮に完全に集中します。トップでオレンジの汁を絞り出すようにします。",
+        "3秒かけて下ろし、完全に伸ばします。太ももがガードレールの役割を果たし、振りが不可能になります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-standing-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-standing-inner-biceps-curl-v-2",
+      "slug": "dumbbell-standing-inner-biceps-curl-v-2",
+      "name": "ダンベル・スタンディング・バイセプスカール・インナー",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-standing-inner-biceps-curl-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-inner-biceps-curl-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-inner-biceps-curl-v-2.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-standing-one-arm-concentration-curl",
+      "slug": "dumbbell-standing-one-arm-concentration-curl",
+      "name": "ダンベル・スタンディング・ワンアーム・コンセントレーションカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "足を広げて座り、ワーキングアームの裏側を内ももに当てます。これで上腕が固定されます。",
+        "ゆっくりカールし、上腕二頭筋の収縮に完全に集中します。トップでオレンジの汁を絞り出すようにします。",
+        "3秒かけて下ろし、完全に伸ばします。太ももがガードレールの役割を果たし、振りが不可能になります。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-standing-one-arm-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-one-arm-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-one-arm-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-standing-one-arm-curl-over-incline-bench-1680",
+      "slug": "dumbbell-standing-one-arm-curl-over-incline-bench-1680",
+      "name": "ダンベル・スタンディング・ワンアーム・インクライン・カール・オーバー・ベンチ",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-standing-one-arm-curl-over-incline-bench-1680.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-one-arm-curl-over-incline-bench-1680.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-one-arm-curl-over-incline-bench-1680.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-standing-one-arm-curl-over-incline-bench",
+      "slug": "dumbbell-standing-one-arm-curl-over-incline-bench",
+      "name": "ダンベル・スタンディング・ワンアーム・インクライン・カール・オーバー・ベンチ",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "ベンチを指定の角度に設定し、背中をパッドにしっかり押し付けます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-standing-one-arm-curl-over-incline-bench.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-one-arm-curl-over-incline-bench.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-one-arm-curl-over-incline-bench.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-standing-one-arm-reverse-curl",
+      "slug": "dumbbell-standing-one-arm-reverse-curl",
+      "name": "ダンベル・スタンディング・ワンアーム・リバースカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-standing-one-arm-reverse-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-one-arm-reverse-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-one-arm-reverse-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-standing-preacher-curl",
+      "slug": "dumbbell-standing-preacher-curl",
+      "name": "ダンベル・スタンディング・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-standing-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-standing-reverse-curl",
+      "slug": "dumbbell-standing-reverse-curl",
+      "name": "ダンベル・スタンディング・リバースカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-standing-reverse-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-reverse-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-reverse-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-standing-zottman-preacher-curl",
+      "slug": "dumbbell-standing-zottman-preacher-curl",
+      "name": "ダンベル・スタンディング・ゾットマン・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-standing-zottman-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-zottman-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-standing-zottman-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-step-up-single-leg-balance-with-bicep-curl",
+      "slug": "dumbbell-step-up-single-leg-balance-with-bicep-curl",
+      "name": "ダンベル・ワンレッグ・バイセプスカール・ステップアップ・バランス",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "片側ずつトレーニングします。片側のレップを全て完了してから反対側に移ります。弱い側のレップ数に合わせます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-step-up-single-leg-balance-with-bicep-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-step-up-single-leg-balance-with-bicep-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-step-up-single-leg-balance-with-bicep-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-waiter-biceps-curl",
+      "slug": "dumbbell-waiter-biceps-curl",
+      "name": "ダンベル・バイセプスカール・ウェイター",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-waiter-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-waiter-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-waiter-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-zottman-curl",
+      "slug": "dumbbell-zottman-curl",
+      "name": "ダンベル・ゾットマンカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-zottman-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-zottman-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-zottman-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/dumbbell-zottman-preacher-curl",
+      "slug": "dumbbell-zottman-preacher-curl",
+      "name": "ダンベル・ゾットマン・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のダンベルを選びます。しっかり握り、安定した姿勢をとります。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/dumbbell-zottman-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-zottman-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/dumbbell-zottman-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-bar-biceps-curl-with-arm-blaster",
+      "slug": "ez-bar-biceps-curl-with-arm-blaster",
+      "name": "EZバー・バイセプスカール・アーム・ブラスター",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/ez-bar-biceps-curl-with-arm-blaster.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-bar-biceps-curl-with-arm-blaster.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-bar-biceps-curl-with-arm-blaster.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-bar-seated-close-grip-concentration-curl",
+      "slug": "ez-bar-seated-close-grip-concentration-curl",
+      "name": "EZバー・シーテッド・ナローグリップ・コンセントレーションカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "ナローグリップを使い、手の間隔を約15cmにして内側への刺激を高めます。",
+        "足を広げて座り、ワーキングアームの裏側を内ももに当てます。これで上腕が固定されます。",
+        "ゆっくりカールし、上腕二頭筋の収縮に完全に集中します。トップでオレンジの汁を絞り出すようにします。",
+        "3秒かけて下ろし、完全に伸ばします。太ももがガードレールの役割を果たし、振りが不可能になります。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/ez-bar-seated-close-grip-concentration-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-bar-seated-close-grip-concentration-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-bar-seated-close-grip-concentration-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-close-grip-curl",
+      "slug": "ez-barbell-close-grip-curl",
+      "name": "EZバー・ナローグリップ・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "ナローグリップを使い、手の間隔を約15cmにして内側への刺激を高めます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/ez-barbell-close-grip-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-close-grip-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-close-grip-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-close-grip-preacher-curl",
+      "slug": "ez-barbell-close-grip-preacher-curl",
+      "name": "EZバー・ナローグリップ・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "ナローグリップを使い、手の間隔を約15cmにして内側への刺激を高めます。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/ez-barbell-close-grip-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-close-grip-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-close-grip-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-curl",
+      "slug": "ez-barbell-curl",
+      "name": "EZバー・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/ez-barbell-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-reverse-grip-curl",
+      "slug": "ez-barbell-reverse-grip-curl",
+      "name": "EZバー・リバースグリップ・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/ez-barbell-reverse-grip-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-reverse-grip-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-reverse-grip-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-reverse-grip-preacher-curl",
+      "slug": "ez-barbell-reverse-grip-preacher-curl",
+      "name": "EZバー・リバースグリップ・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/ez-barbell-reverse-grip-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-reverse-grip-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-reverse-grip-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-seated-curls",
+      "slug": "ez-barbell-seated-curls",
+      "name": "EZバー・シーテッド・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/ez-barbell-seated-curls.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-seated-curls.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-seated-curls.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-spider-curl-1628",
+      "slug": "ez-barbell-spider-curl-1628",
+      "name": "EZバー・スパイダーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "インクラインベンチにうつ伏せになり、腕をまっすぐ下に垂らします。重力が全レップを通じて負荷をかけます。",
+        "カールしてトップで上腕二頭筋を強く絞ります。ベンチの角度が一定のテンションを保ち、ボトムでも休めません。",
+        "完全伸展までコントロールして下ろします。この角度ではチートがほぼ不可能なので、軽い重量でフォームに集中します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/ez-barbell-spider-curl-1628.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-spider-curl-1628.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-spider-curl-1628.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-spider-curl",
+      "slug": "ez-barbell-spider-curl",
+      "name": "EZバー・スパイダーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "インクラインベンチにうつ伏せになり、腕をまっすぐ下に垂らします。重力が全レップを通じて負荷をかけます。",
+        "カールしてトップで上腕二頭筋を強く絞ります。ベンチの角度が一定のテンションを保ち、ボトムでも休めません。",
+        "完全伸展までコントロールして下ろします。この角度ではチートがほぼ不可能なので、軽い重量でフォームに集中します。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/ez-barbell-spider-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-spider-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-spider-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/ez-barbell-standing-wide-grip-biceps-curl",
+      "slug": "ez-barbell-standing-wide-grip-biceps-curl",
+      "name": "EZバー・スタンディング・ワイドグリップ・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "ez-bar",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "EZバーに重量をセットし、手首が楽な角度の部分を握ります。",
+        "ワイドグリップを使い、肩幅よりかなり広く握って、ストレッチと外側への刺激を高めます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/ez-barbell-standing-wide-grip-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-standing-wide-grip-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/ez-barbell-standing-wide-grip-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/kettlebell-bottoms-up-clean-from-the-hang-position",
+      "slug": "kettlebell-bottoms-up-clean-from-the-hang-position",
+      "name": "ケトルベル・クリーン・ボトム・アップ・ハング・ポジション",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "仰向けに寝て膝を曲げ、足は固定（またはV-upなら自由）。腕は指示された位置に。",
+        "体幹を使って完全に起き上がります。顎ではなく胸でリードします。V-upでは脚と上体を同時に上げます。",
+        "コントロールして下ろします。勢いで上がらないでください。必要なら動作を簡単にします。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/kettlebell-bottoms-up-clean-from-the-hang-position.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/kettlebell-bottoms-up-clean-from-the-hang-position.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/kettlebell-bottoms-up-clean-from-the-hang-position.thumb.webp"
+    },
+    {
+      "id": "biceps/kettlebell-double-alternating-hang-clean",
+      "slug": "kettlebell-double-alternating-hang-clean",
+      "name": "ケトルベル・オルタネイト・ハングクリーン・ダブル",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "kettlebell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "spine",
+        "traps",
+        "delts",
+        "forearms"
+      ],
+      "instructions": [
+        "適切な重量のケトルベルを選びます。ハンドルをしっかり握り、手首をニュートラルに保ちます。",
+        "足は腰幅、バーは足の中央上。腰を落とし、胸を張り、腕はまっすぐ。バーのたるみを取ります。",
+        "爆発的に床を押し、腰と膝を伸ばします。バーが膝を通過したら、激しい股関節伸展とシュラッグで加速します。",
+        "肩（クリーン）または頭上（スナッチ）でバーを受け、素早くバーの下に潜ります。柔らかい膝で吸収し、立ち上がります。",
+        "各レップで左右を交互に行います。片側の完全なレップを終えてから反対側を始めます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/kettlebell-double-alternating-hang-clean.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/kettlebell-double-alternating-hang-clean.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/kettlebell-double-alternating-hang-clean.thumb.webp"
+    },
+    {
+      "id": "biceps/lever-bicep-curl",
+      "slug": "lever-bicep-curl",
+      "name": "マシン・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/lever-bicep-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-bicep-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-bicep-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/lever-hammer-grip-preacher-curl",
+      "slug": "lever-hammer-grip-preacher-curl",
+      "name": "マシン・ハンマーグリップ・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/lever-hammer-grip-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-hammer-grip-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-hammer-grip-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/lever-preacher-curl-v-2",
+      "slug": "lever-preacher-curl-v-2",
+      "name": "マシン・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/lever-preacher-curl-v-2.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-preacher-curl-v-2.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-preacher-curl-v-2.thumb.webp"
+    },
+    {
+      "id": "biceps/lever-preacher-curl",
+      "slug": "lever-preacher-curl",
+      "name": "マシン・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/lever-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/lever-reverse-grip-preacher-curl",
+      "slug": "lever-reverse-grip-preacher-curl",
+      "name": "マシン・リバースグリップ・プリーチャーカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "lever",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "シート、パッド、可動域を自分の体に合わせて調整します。負荷を選択します。",
+        "アンダーハンド（スピネイテッド）グリップを使い、引く角度と筋肉への刺激を変えます。",
+        "プリーチャーベンチに座り、脇がパッドの上端に触れるようにします。腕をパッドの上で完全に伸ばします。",
+        "上腕をパッドに押し付けたまま、上腕二頭筋を絞りながらカールします。",
+        "完全伸展までコントロールして下ろします。パッドがチートを防ぐので、全可動域をマスターしましょう。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/lever-reverse-grip-preacher-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-reverse-grip-preacher-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/lever-reverse-grip-preacher-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/olympic-barbell-hammer-curl",
+      "slug": "olympic-barbell-hammer-curl",
+      "name": "バーベル・ハンマーカール・オリンピック",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "バーベルに適切な重量をセットします。バーをしっかり握り、足を肩幅に開いて立ちます。",
+        "ニュートラルグリップ（手のひらが向かい合う）で重りを持ちます。肘を体側に固定します。釘で留めてあるイメージです。",
+        "ニュートラルグリップのままカールします。これは上腕筋と腕橈骨筋を上腕二頭筋に加えて鍛えます。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに保ちます。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/olympic-barbell-hammer-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/olympic-barbell-hammer-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/olympic-barbell-hammer-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/resistance-band-seated-biceps-curl",
+      "slug": "resistance-band-seated-biceps-curl",
+      "name": "レジスタンスバンド・シーテッド・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "band",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "レジスタンスバンドを正しいアンカーポイントに固定し、初期テンションがあることを確認します。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/resistance-band-seated-biceps-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/resistance-band-seated-biceps-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/resistance-band-seated-biceps-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/smith-machine-bicep-curl",
+      "slug": "smith-machine-bicep-curl",
+      "name": "スミスマシン・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "スミスマシンのバーの高さを設定し、適切な重量をセットします。バーの下にポジションを取ります。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/smith-machine-bicep-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/smith-machine-bicep-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/smith-machine-bicep-curl.thumb.webp"
+    },
+    {
+      "id": "biceps/weighted-seated-bicep-curl-on-stability-ball",
+      "slug": "weighted-seated-bicep-curl-on-stability-ball",
+      "name": "バランスボール・シーテッド・加重・バイセプスカール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "背筋を伸ばして座り、足を床に平らに置きます。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/weighted-seated-bicep-curl-on-stability-ball.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/weighted-seated-bicep-curl-on-stability-ball.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/weighted-seated-bicep-curl-on-stability-ball.thumb.webp"
+    },
+    {
+      "id": "biceps/weighted-standing-curl",
+      "slug": "weighted-standing-curl",
+      "name": "スタンディング・加重・カール",
+      "muscle": "biceps",
+      "bodyPart": "arms",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "instructions": [
+        "正しいアライメントで体を配置します——耳は肩の上、肩は腰の上。",
+        "肘を体側に固定します。釘で留めてあるイメージです。前腕だけが動きます。",
+        "上腕二頭筋を絞りながらカールします。トップで下ろす前にオレンジの汁を絞るようにします。",
+        "3秒かけてゆっくり下ろし、重力と毎センチ戦います。手首は鉄の棒のようにまっすぐに。体が揺れるなら重すぎです。",
+        "呼吸：力を入れる局面で息を吐き、戻す局面で吸います。高重量のコンパウンド種目では、腹式で大きく息を吸い込み、最もきつい部分で保持します。"
+      ],
+      "file": "biceps/weighted-standing-curl.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/weighted-standing-curl.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/biceps/weighted-standing-curl.thumb.webp"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "lats/lever-pullover",
+  "slug": "lever-pullover",
+  "name": "Pullover an der Maschine",
+  "muscle": "lats",
+  "bodyPart": "back",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "pectorals",
+    "triceps",
+    "abs"
+  ],
+  "instructions": [
+    "Stelle Sitz, Polster und Bewegungsumfang passend für deinen Körper ein. Wähle das Gewicht.",
+    "Lege dich auf eine Bank mit über der Brust ausgestreckten Armen und dem Gewicht in den Händen. Halte eine leichte Ellbogenbeugung.",
+    "Senke das Gewicht in einem Bogen hinter den Kopf und spüre eine tiefe Dehnung in Lats und Brust. Gehe nur so weit, wie es bequem ist.",
+    "Ziehe das Gewicht mit den Lats zurück über die Brust — stelle dir vor, das Gewicht in einem weiten Bogen zu schöpfen. Halte die gleiche Ellbogenbeugung die ganze Zeit.",
+    "Atmung: Ausatmen in der Anstrengungsphase, Einatmen beim Zurückführen. Bei schweren Grundübungen einen tiefen Bauchatem nehmen und durch den schwersten Teil halten."
+  ],
+  "file": "lats/lever-pullover.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/lever-pullover.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/lats/lever-pullover.thumb.webp"
+}

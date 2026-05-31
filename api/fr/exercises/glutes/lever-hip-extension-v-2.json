@@ -1,0 +1,23 @@
+{
+  "id": "glutes/lever-hip-extension-v-2",
+  "slug": "lever-hip-extension-v-2",
+  "name": "Extension à la machine, hanche",
+  "muscle": "glutes",
+  "bodyPart": "legs",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "hamstrings",
+    "spine"
+  ],
+  "instructions": [
+    "Ajuste le siège, les coussins et l'amplitude de mouvement à ton corps. Sélectionne la charge.",
+    "Verrouille les coudes en position — ce sont des points fixes dans l'espace. Seuls les avant-bras bougent comme des charnières.",
+    "Étends complètement en contractant les triceps au verrouillage. Fais une pause en extension complète.",
+    "Reviens lentement à la position de départ. Concentre-toi sur l'étirement en bas et la contraction en haut.",
+    "Respiration : expire pendant l'effort, inspire au retour. Pour les mouvements lourds composés, prends une grande inspiration abdominale et maintiens pendant la phase la plus dure."
+  ],
+  "file": "glutes/lever-hip-extension-v-2.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-hip-extension-v-2.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/glutes/lever-hip-extension-v-2.thumb.webp"
+}

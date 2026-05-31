@@ -1,0 +1,24 @@
+{
+  "id": "delts/barbell-skier",
+  "slug": "barbell-skier",
+  "name": "Esquiador com barra",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "abs",
+    "lats",
+    "triceps"
+  ],
+  "instructions": [
+    "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+    "Em pé com os pés na largura dos ombros, joelhos levemente flexionados, core ativo. Segure uma ponta em cada mão.",
+    "Crie ondas contínuas alternando (ou batendo) os braços para cima e para baixo. A força vem de todo o corpo, não apenas dos braços.",
+    "Mantenha um ritmo consistente e o core firme. Não deixe as cordas afrouxarem — mantenha tensão em cada movimento.",
+    "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+  ],
+  "file": "delts/barbell-skier.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-skier.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-skier.thumb.webp"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "delts/dumbbell-iron-cross",
+  "slug": "dumbbell-iron-cross",
+  "name": "哑铃铁交叉",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "dumbbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "pectorals",
+    "lats",
+    "abs"
+  ],
+  "instructions": [
+    "选择合适重量的哑铃。紧握哑铃，以稳定的姿势站好。",
+    "开始时肘部微曲——你的手臂像两把弯刀。这个弯曲在整个动作中保持不变。",
+    "以弧形打开双臂，感受胸部的深度拉伸。不要超过舒适范围。",
+    "通过收缩胸肌将把手合拢——想象拥抱一棵大树干。双手在顶部几乎接触。",
+    "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+  ],
+  "file": "delts/dumbbell-iron-cross.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/dumbbell-iron-cross.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/dumbbell-iron-cross.thumb.webp"
+}

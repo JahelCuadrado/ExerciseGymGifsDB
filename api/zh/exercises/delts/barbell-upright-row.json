@@ -1,0 +1,24 @@
+{
+  "id": "delts/barbell-upright-row",
+  "slug": "barbell-upright-row",
+  "name": "杠铃直立划船",
+  "muscle": "delts",
+  "bodyPart": "shoulders",
+  "equipment": "barbell",
+  "category": "strength",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "traps"
+  ],
+  "instructions": [
+    "给杠铃装上合适的重量。双手紧握杠铃，双脚与肩同宽站立。",
+    "将重量持于大腿前方，手臂伸直。挺直站立，核心收紧。",
+    "沿身体向上拉重量，肘部引导朝向天花板。当肘部到达肩膀高度时停止。",
+    "将重量缓慢放回起始位置。如果感到肩膀夹痛，稍微加宽握距。",
+    "呼吸：发力时呼气，回程时吸气。进行大重量复合动作时，深吸一口气到腹部，在最难的部分保持住。"
+  ],
+  "file": "delts/barbell-upright-row.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-upright-row.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/delts/barbell-upright-row.thumb.webp"
+}

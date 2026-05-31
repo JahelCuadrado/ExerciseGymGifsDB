@@ -1,0 +1,116 @@
+{
+  "muscle": "serratus-anterior",
+  "count": 5,
+  "exercises": [
+    {
+      "id": "serratus-anterior/barbell-incline-shoulder-raise",
+      "slug": "barbell-incline-shoulder-raise",
+      "name": "Elevação inclinado com barra, ombro",
+      "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Carregue a barra com o peso adequado. Segure com firmeza e posicione os pés na largura dos ombros.",
+        "Ajuste o banco na inclinação indicada e pressione as costas firmemente contra o encosto.",
+        "Entre em posição de flexão ou inclinada com os braços travados estendidos.",
+        "Sem flexionar os cotovelos, empurre o corpo para longe do chão protraindo as escápulas — arredonde a parte superior das costas para frente.",
+        "Deixe as escápulas retraírem lentamente e o peito descer, depois protraia novamente. Foque no serrátil apertando as costelas.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "serratus-anterior/barbell-incline-shoulder-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/barbell-incline-shoulder-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/barbell-incline-shoulder-raise.thumb.webp"
+    },
+    {
+      "id": "serratus-anterior/dumbbell-incline-shoulder-raise",
+      "slug": "dumbbell-incline-shoulder-raise",
+      "name": "Elevação inclinado com halteres, ombro",
+      "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Escolha o peso adequado do halter. Segure com firmeza e posicione-se com uma base estável.",
+        "Ajuste o banco na inclinação indicada e pressione as costas firmemente contra o encosto.",
+        "Entre em posição de flexão ou inclinada com os braços travados estendidos.",
+        "Sem flexionar os cotovelos, empurre o corpo para longe do chão protraindo as escápulas — arredonde a parte superior das costas para frente.",
+        "Deixe as escápulas retraírem lentamente e o peito descer, depois protraia novamente. Foque no serrátil apertando as costelas.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "serratus-anterior/dumbbell-incline-shoulder-raise.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/dumbbell-incline-shoulder-raise.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/dumbbell-incline-shoulder-raise.thumb.webp"
+    },
+    {
+      "id": "serratus-anterior/incline-scapula-push-up",
+      "slug": "incline-scapula-push-up",
+      "name": "Flexão inclinado, escápula",
+      "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Ajuste o banco na inclinação indicada e pressione as costas firmemente contra o encosto.",
+        "Entre em posição de flexão ou inclinada com os braços travados estendidos.",
+        "Sem flexionar os cotovelos, empurre o corpo para longe do chão protraindo as escápulas — arredonde a parte superior das costas para frente.",
+        "Deixe as escápulas retraírem lentamente e o peito descer, depois protraia novamente. Foque no serrátil apertando as costelas.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "serratus-anterior/incline-scapula-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/incline-scapula-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/incline-scapula-push-up.thumb.webp"
+    },
+    {
+      "id": "serratus-anterior/scapula-push-up",
+      "slug": "scapula-push-up",
+      "name": "Flexão, escápula",
+      "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "bodyweight",
+      "category": "strength",
+      "secondaryMuscles": [
+        "triceps",
+        "delts"
+      ],
+      "instructions": [
+        "Posicione seu corpo com alinhamento correto — orelhas sobre ombros, ombros sobre quadris.",
+        "Entre em posição de flexão ou inclinada com os braços travados estendidos.",
+        "Sem flexionar os cotovelos, empurre o corpo para longe do chão protraindo as escápulas — arredonde a parte superior das costas para frente.",
+        "Deixe as escápulas retraírem lentamente e o peito descer, depois protraia novamente. Foque no serrátil apertando as costelas.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "serratus-anterior/scapula-push-up.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/scapula-push-up.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/scapula-push-up.thumb.webp"
+    },
+    {
+      "id": "serratus-anterior/smith-incline-shoulder-raises",
+      "slug": "smith-incline-shoulder-raises",
+      "name": "Elevações inclinado no Smith, ombro",
+      "muscle": "serratus-anterior",
+      "bodyPart": "chest",
+      "equipment": "smith",
+      "category": "strength",
+      "secondaryMuscles": [],
+      "instructions": [
+        "Ajuste a altura da barra no Smith e carregue o peso adequado. Posicione-se sob a barra.",
+        "Ajuste o banco na inclinação indicada e pressione as costas firmemente contra o encosto.",
+        "Entre em posição de flexão ou inclinada com os braços travados estendidos.",
+        "Sem flexionar os cotovelos, empurre o corpo para longe do chão protraindo as escápulas — arredonde a parte superior das costas para frente.",
+        "Deixe as escápulas retraírem lentamente e o peito descer, depois protraia novamente. Foque no serrátil apertando as costelas.",
+        "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+      ],
+      "file": "serratus-anterior/smith-incline-shoulder-raises.gif",
+      "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/smith-incline-shoulder-raises.gif",
+      "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/serratus-anterior/smith-incline-shoulder-raises.thumb.webp"
+    }
+  ]
+}

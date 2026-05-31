@@ -1,0 +1,23 @@
+{
+  "id": "spine/lever-back-extension",
+  "slug": "lever-back-extension",
+  "name": "Extensão lombar na máquina",
+  "muscle": "spine",
+  "bodyPart": "back",
+  "equipment": "lever",
+  "category": "strength",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Ajuste o assento, almofadas e amplitude de movimento ao seu corpo. Selecione a carga.",
+    "Trave os cotovelos na posição — são pontos fixos no espaço. Apenas os antebraços se movem como dobradiças.",
+    "Estenda completamente, apertando os tríceps com força ao travar. Faça uma pausa em extensão completa.",
+    "Retorne lentamente à posição inicial. Foque no alongamento embaixo e na contração no topo.",
+    "Respiração: expire durante o esforço, inspire no retorno. Em movimentos compostos pesados, faça uma grande inspiração abdominal e mantenha durante a parte mais difícil."
+  ],
+  "file": "spine/lever-back-extension.gif",
+  "gifUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/lever-back-extension.gif",
+  "thumbUrl": "https://jahelcuadrado.github.io/ExerciseGymGigsDB/spine/lever-back-extension.thumb.webp"
+}
