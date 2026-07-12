@@ -179,6 +179,10 @@ https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.2.0/api/index.jso
 | Raw GitHub | `https://raw.githubusercontent.com/JahelCuadrado/ExerciseGymGifsDB/main` | Sin CDN, solo para pruebas |
 | GitHub Pages | `https://jahelcuadrado.github.io/ExerciseGymGifsDB` | Requiere activar Pages |
 
+## Descargo de responsabilidad
+
+Esta API ha sido creada recopilando imágenes y GIFs extraídos de Internet. No poseo los derechos de autor sobre esas imágenes y no puedo conceder derechos sobre las mismas a terceros. Tampoco me responsabilizo del uso que terceros hagan de las imágenes o del contenido distribuidos a través de esta API. Si considera que algún contenido infringe sus derechos, por favor contacte al propietario original del contenido o solicite la retirada mediante los canales apropiados (por ejemplo, reportando al servicio donde se aloje el contenido o contactando al autor).
+
 ## Licencia
 
 Los GIFs pertenecen a sus respectivos autores. Este repositorio solo
